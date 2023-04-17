@@ -1,0 +1,179 @@
+RecordCount: 431
+
+console load StrawberryJam2021/1-Beginner/cellularAutomaton
+   1
+
+#Start
+Read, ../StrawberryJamTAS/1_Beginner/azure_caverns, Start, lvl_02
+
+#lvl_02(0)
+  11,J
+  10,L,Z
+   4,R,J
+   5,R
+   2,R,K
+   7,R
+   1,R,J
+  17,R,K
+  14,R,U,X
+   9
+   4,R
+   1,L
+  15,U,Z
+   1,J,G
+   5,R,J
+  16,R
+   8,R,X
+   4,R,J
+   6,R
+   8,R,D,X
+   1,R,J
+  40
+
+#lvl_02b
+   7,R
+   8,R,J
+  15,R,D,X
+   7,R
+  14,R,Z
+   1,R,J
+   3,R,K,G
+  12,R
+   1,R,J
+   5,D,X
+   1,R,J
+   5,R
+   1,R,J
+   6,R
+  15,D,X
+   3,D
+   1,L,D
+   1,L
+  13,U,X
+   5,L,J
+   3,L
+   5,L,Z
+   1,L,J
+   6,L
+   1,L,J
+  18,L
+  15,L,J
+  14,L,X
+   3,L,J,G
+   5,L
+   3,L,J
+   7,L,U,Z
+  40
+
+#lvl_02(1)
+   6,R,U,Z
+   2,J,G
+   1
+   1,L,K,G
+   3,K
+   6,L,K
+  11,L
+  14,U,X
+  43
+
+#lvl_03
+   1,L
+   1
+   1,L
+   1
+   1,L
+   5
+   2,L
+  15,R,U,X
+   1,R
+   8
+  15,L,U,Z
+  11,L
+  14,L,Z
+   1,R,J
+  14,R,Z
+   3,R,J
+  16,U,X
+   8
+   5,L
+  15,U,Z
+   2,R
+  40
+
+#lvl_04(0)
+   6,R,J
+   4,L,J
+   6,R,J
+   1,R,K,G
+   2,R,J,G
+   1,R
+   6,R,X
+  27,L,J
+  15,L,X
+  30,L
+   4,L,D
+   6,L,Z
+   1,L,J
+   7,L
+   1,L,J
+   6,L,D,X
+  40
+
+#lvl_04b
+   1,L,J
+   7,L
+   5,L,J
+  14,L,X
+   9,L,J,G
+   8,L
+   7,U,G
+   1,L
+   1,L,J,G
+   1,L,K,G
+  12,L,D,X
+   1,L,J,G
+   5,L,D
+   7,D
+   1,R,J
+  12,R
+   7,L,Z
+   1,R,J
+   1
+   2,R
+   1,R,J
+   3,R
+  13,R,D,J
+  15,R,D,X
+   1,R
+   3,R,D
+  14,R,Z
+   1,R,J
+   6,R
+   3,R,J
+  40
+
+#lvl_04(1)
+  11,R,J
+  15,R,U,X
+   2,R
+  15,R,U,C
+  39,R,D
+   3,R
+   1,R,D
+  10,R,X
+   5,R,J
+  14,R,U,X
+   3,R,J,G
+   1,R
+   8,R,Z
+   1,R,J
+   6,R
+  20,R,J
+  15,U,X
+   4,R
+  14,U,X
+  40
+
+Read, ../StrawberryJamTAS/1_Beginner/azure_caverns, lvl_05
+
+ChapterTime: 0:33.473(1969)

@@ -1,1 +1,5 @@
-../StrawberryJamTAS/5_Grandmaster/belly_of_the_beast.tas
+console load StrawberryJam2021/5-Grandmaster/CaptainCarpensir
+   1
+
+#Start
+Read, ../StrawberryJamTAS/5_Grandmaster/belly_of_the_beast, Start

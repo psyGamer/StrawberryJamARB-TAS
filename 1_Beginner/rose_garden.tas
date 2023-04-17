@@ -1,1 +1,5 @@
-../StrawberryJamTAS/1_Beginner/rose_garden.tas
+console load StrawberryJam2021/1-Beginner/Quinnigan
+   1
+
+#Start
+Read, ../StrawberryJamTAS/1_Beginner/rose_garden, Start

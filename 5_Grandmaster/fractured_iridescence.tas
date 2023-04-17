@@ -1,1 +1,5 @@
-../StrawberryJamTAS/5_Grandmaster/fractured_iridescence.tas
+console load StrawberryJam2021/5-Grandmaster/xplosives
+   1
+
+#Start
+Read, ../StrawberryJamTAS/5_Grandmaster/fractured_iridescence, Start

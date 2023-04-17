@@ -1,1 +1,5 @@
-../StrawberryJamTAS/5_Grandmaster/kevintechspam.tas
+console load StrawberryJam2021/5-Grandmaster/Todd
+   1
+
+#Start
+Read, ../StrawberryJamTAS/5_Grandmaster/kevintechspam, Start

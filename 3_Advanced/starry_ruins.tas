@@ -1,1 +1,5 @@
-../StrawberryJamTAS/3_Advanced/starry_ruins.tas
+console load StrawberryJam2021/3-Advanced/Indecx
+   1
+
+#Start
+Read, ../StrawberryJamTAS/3_Advanced/starry_ruins, Start

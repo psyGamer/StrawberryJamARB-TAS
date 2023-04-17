@@ -1,1 +1,5 @@
-../StrawberryJamTAS/4_Expert/expert_heartside.tas
+console load StrawberryJam2021/4-Expert/ZZ-HeartSide
+   1
+
+#Start
+Read, ../StrawberryJamTAS/4_Expert/expert_heartside, Start

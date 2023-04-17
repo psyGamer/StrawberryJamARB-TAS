@@ -1,1 +1,5 @@
-../StrawberryJamTAS/3_Advanced/the_tower_xvi.tas
+console load StrawberryJam2021/3-Advanced/JANisEXIST
+   1
+
+#Start
+Read, ../StrawberryJamTAS/3_Advanced/the_tower_xvi, Start

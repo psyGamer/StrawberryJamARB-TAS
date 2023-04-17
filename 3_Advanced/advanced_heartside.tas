@@ -1,1 +1,5 @@
-../StrawberryJamTAS/3_Advanced/advanced_heartside.tas
+console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
+   1
+
+#Start
+Read, ../StrawberryJamTAS/3_Advanced/advanced_heartside, Start

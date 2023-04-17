@@ -1,1 +1,5 @@
-../StrawberryJamTAS/1_Beginner/beginner_heartside.tas
+console load StrawberryJam2021/1-Beginner/ZZ-HeartSide
+   1
+
+#Start
+Read, ../StrawberryJamTAS/1_Beginner/beginner_heartside, Start

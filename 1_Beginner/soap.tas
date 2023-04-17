@@ -1,4 +1,4 @@
-RecordCount: 711
+RecordCount: 745
 
 console load StrawberryJam2021/1-Beginner/Circumplex
    1
@@ -6,7 +6,7 @@ console load StrawberryJam2021/1-Beginner/Circumplex
 #Start
 Read, ../StrawberryJamTAS/1_Beginner/soap, Start, lvl_04
 
-#lvl_04(0)
+#lvl_04 (0)
    6,R
    1,R,J
   15,R,D,X
@@ -89,7 +89,7 @@ Read, ../StrawberryJamTAS/1_Beginner/soap, Start, lvl_04
    1,L,J
   40
 
-#lvl_04(1)
+#lvl_04 (1)
    4,L,J
   15,U,X
    5,R
@@ -106,7 +106,7 @@ Read, ../StrawberryJamTAS/1_Beginner/soap, Start, lvl_04
    7,L,J,G
   40
 
-#lvl_05(0)
+#lvl_05 (0)
    4,J,G
    5
    2,R
@@ -158,45 +158,28 @@ Read, ../StrawberryJamTAS/1_Beginner/soap, Start, lvl_04
   33,L
    3
    8,D
-   2,R,G
-   6
-  83,R,G
-   9
-  33,R,G
-   4,D,G
-  53,R,G
-   5,K,G
-   2,L,K
-   7,L,J
-   5,L,K
-  10,U,X
-   6
-  14,R,C
-  33,R
-  15,R,X
-   2,R
-  67
-  10,R
-   2
-   2,R,G
-  20
-  50,R,G
-   1,L,J
-   1,L,K
-  33,R,K
-  85,R,G
-   8,R,D,G
-  44,R,G
-   1,L,J
-  42,L,K
-   6,L,J,G
-  77
+   1,R
+   1,G
+   1
+   1,J
+  25,R,J
+  24,L,D
+  67,L,G
+   1,U,G
+   1
+   1,L,J,G
+   1,L,K,G
+   1,L,J,G
+   1,L,K,G
+  15,L,D,X
+  15,L
+ 107,J
    7,R,Z
    1,R,J
    3,R
   40
 
-#lvl_05(1)
+#lvl_05 (1)
    4,R
   11,R,J
    9,R
@@ -289,7 +272,7 @@ Read, ../StrawberryJamTAS/1_Beginner/soap, lvl_06, lvl_07
    8,R,D,X
   40
 
-#lvl_07(1)
+#lvl_07 (1)
    6,R,D,X
    4,R,J
   15,D,X
@@ -358,7 +341,7 @@ Read, ../StrawberryJamTAS/1_Beginner/soap, lvl_06, lvl_07
    6,L,J,G
   14,U,X
 ### spinner cycle
-   2
+   0
 ###
   18,U,C
   22,R
@@ -377,7 +360,7 @@ EndStunPause
    2,R
   40
 
-#lvl_10(0)
+#lvl_10 (0)
    5,R
    1,R,J
   14,R,D,X
@@ -446,7 +429,7 @@ EndStunPause
    1,K
   40
 
-#lvl_10(1)
+#lvl_10 (1)
    1,R,J,G
    1,R,K,G
    9,R
@@ -604,7 +587,7 @@ EndStunPause
    5,D
   40
 
-#lvl_11(1)
+#lvl_11 (1)
   49,L,D
   39,D
   14,R,D,X
@@ -627,4 +610,4 @@ EndStunPause
   10
   83,R
 
-ChapterTime: 2:20.301(8253)
+ChapterTime: 2:12.294(7782)

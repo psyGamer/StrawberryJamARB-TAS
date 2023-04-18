@@ -1,4 +1,4 @@
-RecordCount: 745
+RecordCount: 770
 
 console load StrawberryJam2021/1-Beginner/Circumplex
    1
@@ -164,16 +164,16 @@ Read, ../StrawberryJamTAS/1_Beginner/soap, Start, lvl_04
    1,J
   25,R,J
   24,L,D
-  67,L,G
+  16,L,G
    1,U,G
    1
    1,L,J,G
    1,L,K,G
    1,L,J,G
    1,L,K,G
-  15,L,D,X
-  15,L
- 107,J
+  40,L
+  43,L,U,X
+  83,J
    7,R,Z
    1,R,J
    3,R
@@ -198,7 +198,7 @@ Read, ../StrawberryJamTAS/1_Beginner/soap, Start, lvl_04
    5,R,D,X
   40
 
-#lvl_06  
+#lvl_06
 Read, ../StrawberryJamTAS/1_Beginner/soap, lvl_06, lvl_07
 
 #lvl_07
@@ -341,15 +341,15 @@ Read, ../StrawberryJamTAS/1_Beginner/soap, lvl_06, lvl_07
    6,L,J,G
   14,U,X
 ### spinner cycle
-   0
+   1
 ###
   18,U,C
   22,R
   14,R,U,Z
   30,R,D
-StunPause
+stunPause
   10,R,D
-EndStunPause
+endStunPause
   10,R,J
   15,R,U,X
    3,R
@@ -610,4 +610,4 @@ EndStunPause
   10
   83,R
 
-ChapterTime: 2:12.294(7782)
+ChapterTime: 2:11.937(7761)

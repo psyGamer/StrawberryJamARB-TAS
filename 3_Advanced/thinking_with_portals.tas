@@ -1,12 +1,14 @@
-RecordCount: 680
+RecordCount: 685
 
 console load StrawberryJam2021/3-Advanced/sp1029
    1
+
+#Start
 #PowerBox Cycle
   31
 
-#Start
-Read,thinking_with_portals, lvl_a-01, lvl_a-06
+#lvl_a-01
+Read, ../StrawberryJamTAS/3_Advanced/thinking_with_portals, lvl_a-01, lvl_a-06
 
 #lvl_a-06
    8,R,D,X
@@ -57,9 +59,11 @@ Read,thinking_with_portals, lvl_a-01, lvl_a-06
   14,U,X
    8,R,K
   40
-Read,thinking_with_portals,lvl_a-07,lvl_a-09
 
-#lvl_a-09
+#lvl_a-07
+Read, ../StrawberryJamTAS/3_Advanced/thinking_with_portals, lvl_a-07, lvl_a-09
+
+#lvl_a-09 (0)
    5,R,D,X
   11,R,J
   18,R,D
@@ -120,7 +124,7 @@ Read,thinking_with_portals,lvl_a-07,lvl_a-09
    1,R
   40
 
-#lvl_a-09
+#lvl_a-09 (1)
    1,R
   14,R,D,X
   11,R,J
@@ -164,7 +168,7 @@ Read,thinking_with_portals,lvl_a-07,lvl_a-09
   13,R,D
   43
 
-#lvl_a-11
+#lvl_a-11 (0)
    1,R,D
   19,R,J
   11,U,X
@@ -225,7 +229,7 @@ Read,thinking_with_portals,lvl_a-07,lvl_a-09
   10,D,X
   40
 
-#lvl_a-11
+#lvl_a-11 (1)
    9,R
   20,R,D
   15,R,X
@@ -282,6 +286,7 @@ Read,thinking_with_portals,lvl_a-07,lvl_a-09
    3,R
   40
 
-Read,thinking_with_portals,lvl_a-13
+#lvl_a-13
+Read, ../StrawberryJamTAS/3_Advanced/thinking_with_portals, lvl_a-13
 
 ChapterTime: 1:20.019(4707)

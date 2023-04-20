@@ -1,11 +1,11 @@
-RecordCount: 685
+RecordCount: 1481
 
 console load StrawberryJam2021/3-Advanced/sp1029
    1
 
 #Start
 #PowerBox Cycle
-  31
+   9
 
 #lvl_a-01
 Read, ../StrawberryJamTAS/3_Advanced/thinking_with_portals, lvl_a-01, lvl_a-06
@@ -17,20 +17,20 @@ Read, ../StrawberryJamTAS/3_Advanced/thinking_with_portals, lvl_a-01, lvl_a-06
    3,R,J
    2,R
    7,D,X
-   1,J
-   5,L
-   1,D
+   4,J
+   2,L
+   1
    3,L
-   7,D
-   1,R,D
-   1,R
+   7
+   2,R
   15,D,X
-  16,D
-   9,L,D
+   5,R,D
+  20,L,D
    1,L,J
-  13,L,D
-  36,D,X
-   3,L,D
+   8,L
+  15,D,X
+  21,D
+   4,L,D
    4,R,Z
    7,R,J
    1
@@ -41,23 +41,23 @@ Read, ../StrawberryJamTAS/3_Advanced/thinking_with_portals, lvl_a-01, lvl_a-06
    7,L
    5,R
    5,R,Z
+  20,R,J
+   7,R
+  14,D
+   9,D,X
+  15,R
+   1,R
+   8,R
   28,R,J
-  15,L,D
-   8,D,X
+  15,R,X
   16,R
-  24,R,J
-  16,R,D
-  15,R,U,Z
-  25,R,D
-   1,R,K
-  12,J,G
-   1,K,G
-   2,L
+  12,R,J
+   2,K
   14,U,X
   13,L
-   1,L,K
+   1,L,J
   14,U,X
-   8,R,K
+   8,R,J
   40
 
 #lvl_a-07
@@ -66,86 +66,93 @@ Read, ../StrawberryJamTAS/3_Advanced/thinking_with_portals, lvl_a-07, lvl_a-09
 #lvl_a-09 (0)
    5,R,D,X
   11,R,J
-  18,R,D
+   2,R
+   1,R,J
+   9,R,D
   18,D
-  10,R,Z
-   8,L,J
-  10,L,D
-  15,L,U,X
-  21,L,D
-  15,L,C
-  24,L,D
-   6,L,Z
+   2,R,D
+  10,R,D,X
    1,L,J
    1,L
+   2,L,J
+   6,L
+  10,L,J,G
+   1,J
+   5,L,J
+  15,L,X
+   8,L,C
+  27,L,D
+   6,L,Z
+   1,L,J
   40
 
 #lvl_a-10
-   6,L
+   7,L
    1,L,J
   12,L,D,X
-  46,L,K,G
+  44,L,J,G
+   2,L,D,G
    4,L
-  10,L,U,X
-  34,L,K,G
-  22,L,D,G
-  19,R,D,G
-   5,D,G
-   1,R
+  11,L,U,X
+  46,L,D,G
+  13,D,G
+  11,R,D,G
+   4,R
   18,R,X
   15,R,U,C
-  32,R,D,G
-   5,R
+  29,R,D,G
+   9,R
   15,R,X
-  14,R,D
-  17,R,D,C
-   5,R,Z
-   1,J
-   2
-   2,J
-   1
-   1,J
-   3
-   9,L,Z
+  10,R
+  15,R,D,C
+   5,R
+   5,R,D,X
    1,R,J
-   6,R
-  10,R,J
-  10,U,X
    7,R
-   7
-  16,U,X
+   8,R,J
+   6,R,K,G
+   2,R
+   7,U,X
+  19,R,J
   40
 
 #lvl_a-08
-   2,J
-   2,R,K,G
-  10,R
-   1,R,K
+   4,R
+   1,J,G
+   7,R
+   4,R,Z
+   1,R,J
    1,R
   40
 
 #lvl_a-09 (1)
+   6,R
+   6,R,J
+   4,R
+  15,R,J,G
+   6,R,G
+   7,D,G
    1,R
-  14,R,D,X
-  11,R,J
-  18,R,D,G
-  10,D,G
-   1,R
-  10,L
+   6,L,D
+   3,L
+   1,L,D
+   1,L
   15,L,Z
-  12,L,J
+  10,L
   15,L,D,X
    7,D
   11,R,D
-  39,R,D,G
+  45,R,D,G
    1,R
-  17,D
+   6,L
+   2
   10,R,Z
    4,R,J
    4,R
-  11,R,U,Z
+  11,R,U,X
   23,R,D,G
-  15,R,K,G
+   4,R,J,G
+  11,R,K,G
    1,R
   14,R,Z
    8,R,J
@@ -158,27 +165,25 @@ Read, ../StrawberryJamTAS/3_Advanced/thinking_with_portals, lvl_a-07, lvl_a-09
   18,L,D
   22,L,D,G
   12,R,D,G
-  20,R
+  18,R
+   1,R,J
   10,L,Z
    1,R,J
    7,R
    1,R,J
    5,R,D,X
    1,R,J,G
-  13,R,D
+  14,R,D
   43
 
 #lvl_a-11 (0)
-   1,R,D
   19,R,J
-  11,U,X
-   7,R,J
+  15,U,X
+   2,J
   40
 
 #lvl_a-12
-   1,J
-   6,L,J
-   4,L
+  11
    6,L,Z
    1,L,J
    7,L
@@ -206,74 +211,83 @@ Read, ../StrawberryJamTAS/3_Advanced/thinking_with_portals, lvl_a-07, lvl_a-09
    9,L,D,X
   19,L,D,G
   18,R,D,G
-  12,R
-   1,J
-   4
-   4,R
+   1,R
+   9,L,D
+  11,L,Z
+   1,R,J
+   2,R
    2,R,J
-   5,R
-   7,R,Z
+   1,R
+   1,R,J
+   3,R
+   8,R,Z
    1,R,J
    6,R
    1,R,J
-  14,R,D,X
-   1,R,J
-   4,L,K
-   7,L,D,X
+   1,R,K,G
+   8
+   8,L,D,X
    1,L,J
    7,L
    1,L,J
-  14,L,D,X
+  10,L,D,X
    1,L,J
-   8,L
-  10,D,X
+  11,L
+  11,R,D,X
   40
 
 #lvl_a-11 (1)
-   9,R
-  20,R,D
-  15,R,X
-  11,R,D
-  19,L,D
-  11,R,D
-   2,L,D
-   1,R,D
-   1,L,D
-   1,R,D
+  10,D
+  15,R,Z
+  19,R,D
+  20,L,D
+  13,D
   10,R,D,X
-   7,L,J
-  32,L,D
+   6,L,J
+   3,L
+  27,L,D
+   2,D
   15,R,D,X
-  11,D
+   7,D
+   4,R,D
    1,R,J
   21,R,D
-  13,L,D
-   1,J,G
-   2,L
-  18,R
-  40,D
-  13,L,D
+  10,L,D
+   1,L
+   1,L,D
+   1,L
+   1,L,J,G
+   1,L
+  20,R
+  35,D
+  16,L,D
   12,L,D,X
    8,L,J
-  15,L
-  21,R,D
+   5,L
+   1,L,J
+  10,L,D
+  20,R,D
   18,D
   13,L,D,X
   33,R,D
   36,L,D
    2,L
-   3
+   1,D
+   1
+   1
   15,L,X
   15,L,C
   25,R,D
-  18,L,D
+  14,L,D
+   2,L
+   2,L,D
   13,L,Z
   24,R,J
    7,R
   22,R,X
    1,R,J,G
-   6,R
-   4
+   5,R
+   5
    1,J
    2
   15,R,U,X
@@ -289,4 +303,4 @@ Read, ../StrawberryJamTAS/3_Advanced/thinking_with_portals, lvl_a-07, lvl_a-09
 #lvl_a-13
 Read, ../StrawberryJamTAS/3_Advanced/thinking_with_portals, lvl_a-13
 
-ChapterTime: 1:20.019(4707)
+ChapterTime: 1:17.979(4587)

@@ -1,4 +1,4 @@
-RecordCount: 1029
+RecordCount: 1034
 
 console load StrawberryJam2021/1-Beginner/coffe
    1
@@ -131,7 +131,8 @@ Read, ../StrawberryJamTAS/1_Beginner/loopy_lagoon, lvl_c-09, lvl_c-11
   42,D
   15,U,X
   14,L,C
-  37,R
+  36,R
+   1
   15,U,X
   10,R
    9,J

@@ -1,21 +1,10 @@
-RecordCount: 788
+RecordCount: 1811
+
 console load StrawberryJam2021/1-Beginner/Bing_Over_Google
    1
 
 #Start
-#lvl_00- intro
-   5,L,Z
-   3,L,J
-   5,L,K,G
-   9,L
-   1,L,J
-  14,L,D,X
-   1,L,J
-   7,L
-   1,L,J
-  14,L,D,X
-   1,L,J
-  40
+Read, ../StrawberryJamTAS/1_Beginner/if_my_driveway, Start, lvl_01- Crusher
 
 #lvl_01- Crusher
   13,L,D,X
@@ -46,55 +35,57 @@ console load StrawberryJam2021/1-Beginner/Bing_Over_Google
 #lvl_02- Bait N' Switch (0)
    1,L
    1,L,J
-  17,L,D,X
-   8,L,J
+   7,L,D,X
+   1,L,J
+  10,L
+   6,L,J
+   4,J
   15,L,U,X
-   1,R,J,G
-   9,J
-   5,L,J
+   6,R,J,G
+   4,L,J
+   1,J
+   1,L,J
   15,U,X
-   5,J
-   8,L,K
+   8,L,J
   40
+
 #lvl_02B- a stwawbewwy??
-   8,L
+   7,L
    3
+   1,L
    7,L,Z
    1,L,J
-   6,L
-   1
+   7,L
    1,L,J
    1,L,K,G
    9,L
-  32,L,J
+  24,L,J
+  18,L,U,Z
   15,U,X
-   6,L
-  15,U,C
-  10,L
+   4,L
   15,L,D,X
-  19,L,D
-  15,L
-  10,R,X
-  12,R,J
-  15,R,D,X
-  18,R,D
-   5,D
-   5,R,J
-   2,J
-   2
-   3,R,J,G
-  14,R,Z
+  15,L,D
+   3,D
+  12,L,Z
    1,R,J
+   4,R,K,G
+   7,R
+   1,L,J,G
+   6,R,J
+  15,R,D,X
+   8,R,D
+   5,R
+   1,R,D
   15,D,X
-   3,R,D
+   2,R,D
   40
+
 #lvl_02- Bait N' Switch (1)
   10,R,D,X
    1,R,J
    5,R
   15,D,X
-   8,R,D
-  10,R,D
+  18,R,D
    2,D
    1,N
    1,L,J
@@ -106,9 +97,7 @@ console load StrawberryJam2021/1-Beginner/Bing_Over_Google
    1,J
    4
    1,J
-   1
-   3
-
+   4
   14,R,Z
    1,L,J
    6,L,D,X
@@ -117,8 +106,7 @@ console load StrawberryJam2021/1-Beginner/Bing_Over_Google
    1,L,J,G
    1,L
    4,L,K,G
-   3
-   3
+   6
    1,L,J
    2,L
    2,L,D
@@ -149,75 +137,64 @@ EndStunPause
   20,D
   15,R,X
   17,R,D
+#Spinner cycle
+   1,D
   15,R,Z
    1,L,J
    2
-   5,L
+   3,L
+   1,L,K
+   1,L
    3,L,J
    2,L
   15,L,U,X
-  14,L,U,C
-   5,L,J,G
-   7,L
-
-  14,L
+  15,L,U,C
+   4,L,J,G
+  21,L
   14,R,D,X
    1,L,J
-   7,L,D,X
-   1,L,J,G
-   1,L,K,G
-   1,L,J,G
-   1
-   1,L,K,G
-   7,L
-  11,L,J
-stunPause
-   1,L,J
-   6,L
-skipInput,3,1
-   9,L,D,X
-endStunPause
    6,L,D,X
-   9,L,D
-  40
-#lvl_05- Boing
-   1,L,D
-   9,L,J
-  14,L
-  18,R,U,X
-  15,U,C
+   1,L,J,G
+   1,L,K,G
+   1,L,J,G
    6,L
-  15,L,X
-  18,L
-   7,L,D
-   7,R,D
-   3,R,G
-  19
-  14,G
-   1,J,G
-   1,K,G
-   1,R,J,G
-  10,L,J
-  18,L
-  10,L,X
-  12,L,J
-   6,L,Z
    1,L,J
    2,L
+  28,L,J
   40
-#lvl_06- Bubbles
-   6,L
-  15,L,D,C
-  16,R
-  14,R,D,X
+
+#lvl_05- Boing
+  12,L
+   2,L,D
+StunPause
+   1,L,D
+SkipInput 3 1
+   8,L,U,Z
+SkipInput 3
+   6,L,U,Z
+EndStunPause
+   4,L,U,Z
+  15,L,D,X
+  13,L,D
+  14,L,Z
    1,L,J
-   6,L,D,X
+   4,L
+  11,L,U,X
    1,L,J,G
-   1,L
-   2,L,K,G
-   9,L
-  15,U,X
-  15,L,C
+   5,L
+  40
+
+#lvl_06- Bubbles
+   3,L
+   4
+   1,L,J
+  11,L,D,X
+   1,L,J
+   7,L
+  18,L,J
+  13,L,D,X
+  15,U,C
+  15,L,X
   26,L,D
    2,L
    1
@@ -252,10 +229,11 @@ endStunPause
   10,L,U,X
   15,L,C
    2,L
-  12,U,X
-  22,L
+   9,U,X
+   2,L,J
+  18,L
   12,D
-  21,L,D
+  25,L,D
   11,L,Z
   15,U,X
   15,L,C
@@ -280,6 +258,7 @@ endStunPause
    7,R,K
    1,L,J
   40
+
 #lvl_07B- OwO whats this??
   12,L,K
    1,R,J
@@ -296,21 +275,22 @@ endStunPause
    9,L,J
   10,U,Z
   15,R,U,C
-  12,L,U,X
-   1,L,J,G
-  10,L
-  30,L,G
-   4,L,U,G
+  10,L,U,X
    1,J,G
-   1,K,G
-   1,L,J,G
-  32,R,J
-  15,R,X
-  15,R,C
-  14
+   7
+   1,G
+  15,J,G
+  12,K,G
+   3,J,G
+   2,R,K
+   2,R
+   5,L,Z
+  36,R,J
+  15,L,D,X
+   2,D
+   3,L,D
+   2,L
   77
-#could restart at 0:29.002(1706)
-#but it would be slower
    5,L
    1,L,J
    1,L
@@ -321,6 +301,7 @@ endStunPause
    1,L,J
    7,D,X
   40
+
 #lvl_07- Falling Cannon (1)
    8,L,D,X
   21,L,D
@@ -328,67 +309,105 @@ endStunPause
    1,L,J
    4,L
   40
+
 #lvl_08- U Turn
+## Both strats get a lot of speed,
+## but didn't find a way to use it
+## 790 Speed in 49f:
+#   3,L
+#   1,L,J
+#  15,L,D,C
+#   4
+#  14,R,Z
+#   1,L,J
+#   7,L,D,X
+#   1,L,J,G
+#   1,L,K,G
+#   1,L
+#   1,L,J,G
+#   1,L
+#   1,L,J,G
+#   7,L
+## 805 Speed in 50f:
+#   1,L
+#   1,L,J
+#   2,L
+#  15,L,D,C
+#   3,L
+#   6,L
+#  14,R,Z
+#   1,L,J
+#   6,L,D,X
+#   1,J,G
+#   1,L
+#   1,L,J,G
+#   6,L
+#   1
+##
    3,L
    1,L,J
-   6,L
-  10,R
-  15,D,X
+  15,L,D,C
+   4
   14,R,Z
    1,L,J
-   6,L,D,X
-   3,L,J,G
+   7,L,D,X
+   1,L,J,G
+   2,L,K,G
+   2,L,J,G
    7,L
    3,L,J
-  15,L,U,Z
-   2,L
-   7
-   5,R,K,G
-   7,R
-   3,L
-  15,L,X
-   9,L
+   7,J
+  10,U,X
+  10,L,J
+  21,L
   15,L,C
    7,L
   15,L,D,X
-  24,L
+  12,L
+   2,L,D
+   5,D
+   1
+   1,D
+   1,L,D
+   9,R,Z
    1,L,J
-   2,L
-   9,D,X
-  15,L
-  15,L,X
-   5,L
-   1,L,J
-  13,L
-  15,L,X
-  15,L,D,C
-  15,D,X
-   3
+   6,L
+  19,L,J
   14,L,D,X
-  10,L,J
-  15,L,D,X
-   3,L,D
+  15,L,C
+  10,L,D,X
    1,L,J
+   4,L
    5,L,D,X
-  13,L
-  15,L,X
-  10
-   8,L
-   7
-  14,R,D,X
-  12,R,J
-  15,R,C
-  15,R,X
-   9,R,C
-   1,L,J,G
-  15,R
-  15,R,U,X
-  12,R
-   8,R,J,G
+   1,L,J
    5,L
-   2
-   9,U,X
+  12,L,J
+   5,L
+  15,L,D,X
+   7,L,D
+   5,L,J
+   4,L
+  14,L,U,X
+   1,L,J,G
+  12,L
+  14,L,Z
+   1,R,J
+   4,R
+   2,R,J
+   5,R,D,X
+   1,L,J,G
+  14,R,J
+  15,R,Z
+   8,R,C
+   1,L,C
+  11,J,G
+  15,R,U,Z
+  11,R
+   5,R,J
+   7,U,X
   40
+
 #lvl_09- Fin
-Read,../StrawberryJamTAS/1_Beginner/if_my_driveway,lvl_09- Fin
-ChapterTime: 0:56.253(3309)
+Read, ../StrawberryJamTAS/1_Beginner/if_my_driveway, lvl_09- Fin
+
+ChapterTime: 0:50.898(2994)

@@ -1,11 +1,10 @@
-RecordCount: 4373
+RecordCount: 4408
 
 console load StrawberryJam2021/5-Grandmaster/Linj
    1
 
 #Start
  110
-
 #lvl_A Limitless Horizon
    1,S
    1,D,O
@@ -145,26 +144,23 @@ console load StrawberryJam2021/5-Grandmaster/Linj
   26,R
    2,R,J
   40
-
 #lvl_Hawthorne
    4,R,J
   18,R,D,X
    3,R,D
    1,L,D
   19,L,D,X
-   2,L
+   1,R
   15,R,D,X
   21,R,D
   40
-
 #lvl_Ascent
-   1,R,D
-  10,R,D,X
-  19,R,D
-  16,R,D,X
+  15,R,D
+  19,R,Z
 #lvl_Chordless
    2,L
-   9,L,D,X
+   1
+   8,L,D,X
    1,R,J
    1,R,K
    1,R,J
@@ -176,10 +172,14 @@ console load StrawberryJam2021/5-Grandmaster/Linj
    1,R,J,G
    1,R,U,K,G
   19,R,D,X,G
-  93,R,U,G
-  10,L,K
- 114,L,U,X
-   2,J
+  80,R,U,G
+   1,L
+   1,J
+   1,L,K
+  12,L,K
+  14,L,U,X
+  96
+   3,J
   11,L,Z
 #lvl_Ascent
    3,L,Z
@@ -288,6 +288,6 @@ console load StrawberryJam2021/5-Grandmaster/Linj
   21,R,J
   13,R,Z
    4,R,J
-  25,R,U,X
- 122
-ChapterTime: 0:46.869(2757)
+  12,R,U,X
+ 135
+ChapterTime: 0:46.512(2736)

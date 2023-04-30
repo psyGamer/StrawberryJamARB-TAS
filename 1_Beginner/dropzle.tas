@@ -1,35 +1,33 @@
-RecordCount: 650
+RecordCount: 1017
 
 console load StrawberryJam2021/1-Beginner/Owen-Shirrell
    1
 
 #Start
- 110
+Read, ../StrawberryJamTAS/1_Beginner/dropzle, Start, lvl_03 - Labyrinth
 
-#lvl_00 - Overpass
-   1,S,N
-   1,D,O
-  34
-Read, ../StrawberryJamTAS/1_Beginner/dropzle,lvl_00 - Overpass,lvl_03 - Labyrinth
-
-#lvl_03 - Labyrinth
+#lvl_03 - Labyrinth (0)
    9,R,D
    7,R
-   6,L,D,X
-   1,L,K,G
-  14,L
-Repeat 22
+   5,L,X
+  20,L
+   7
+Repeat 15
    1,D
    1
-endRepeat
-   7,D
-   8,R
+EndRepeat
+   6,D
+   1
+Repeat 5
+   1,D
+   1
+EndRepeat
    5,D,X
    1,R
 Repeat 10
    2,L
    2,R
-endRepeat
+EndRepeat
    4,R
    5,L,X
   15,L,D
@@ -39,13 +37,18 @@ endRepeat
    4,R
    4,R,J
   18,R,X
-  30,R,D
-  15,U,G
-   1,K,G
+   1,J,G
+  17,R,D
+   5,D
+   1
+   5,G
+   1
+  10,D,J
    2
-   1,K,G
+   4,K,G
    7,R
-   1,R,K
+# This feels really slow
+   1,R,J
   12,R
   40
 
@@ -59,76 +62,82 @@ endRepeat
   13,D
    6,R,D
    1,D
-   2,R,K
-   9,R,Z
+   2,R,J
+   4,R,Z
    1,R,J
    7,R
    1,R,J
   14,R
-   1,R,K
-   7,R
+   2,R,J
+  13,R
    5
-   2,R
-  10,D,X
+   8,D,X
   77
-   5,L,D
-Repeat 2
-   1,L,K
-  14,L
-endRepeat
-   1,L,K
    6,L
+Repeat 2
+   1,L,J
+  14,L
+EndRepeat
+   1,L,J
+   4,L
   43
 
-#lvl_03 - Labyrinth
+#lvl_03 - Labyrinth (1)
    7,L,D,X
-   1,L,J
-   7,L
-   8,L,D,X
-   1,L,K,G
-   6,L,D
-  38,L,D,X
-  15,L,D,C
-   2,R,D
+  10,L,J
+  15,L,D,X
+  30,L,D
+  15,L,D,X
    4,L,D
-  11,D,X
+   9,D,X
   40
 
-#lvl_04 - Widdershins
+#lvl_04 - Widdershins (0)
   13,L,D
-   6,L,D,K
+   6,L,D,J
    5,U,X
   12,L
-   1,L,K
-  10,L
-   1,K
-  14,R,D
-   5,R,X
-  35,L,D
-  10,L
-  14,R,D
-   6
-   1,K
+   4,L,J
+   6,L
    1,J
-   2,L,K
-  14,L,C
-  37,L,D
-   8,L
-   7,L,K
-   7,L,Z
-   1,L,J
+  15,R
+   5,R,X
+   1,J
+   6,L,J
+   3
+  19,L
+   1,L,J,G
+   1,L,K,G
+   6,L
+  23
+   6,R,D,J
+  15,L,X
    1,L
+   1,J
+  14
+   1,K
+  12,L,K
+   5,L,D,K
+   7,L,D,J
+   1,K
+   5,L,Z
+   2,L,J
   40
 
-#lvl_04a - Correlation
-  12,L
-   6,R,D,X
-  35,R,D
-  29,L
-  14,L,J
-   5,J
-   4,L,J
-  13,U,X
+#lvl_04a - Correlation (0)
+   2,L,J
+   5,L
+   5
+   5,R,D,X
+  35,D
+  16,G
+   2,U,G
+   1
+   1,K
+   1,R,J,G
+  10,L,J
+   7,J
+  14,U,X
   40
 
 #lvl_04b - Alcove
@@ -207,7 +216,7 @@ endRepeat
    7,D
   40
 
-#lvl_04a - Correlation
+#lvl_04a - Correlation (1)
   42,D
   77
    8,R,D,X
@@ -215,7 +224,7 @@ endRepeat
    3,R
   43
 
-#lvl_04 - Widdershins
+#lvl_04 - Widdershins (1)
    4,R
   14,R,Z
    1,R,J
@@ -264,15 +273,18 @@ endRepeat
    9,R
   15,D,X
    1,L,J
-  19,L
-  23
+  14,L
+   1,L,J
+  14
+   1,J
+  11
    5,R,X
    1,L,J
-  15,L
+  17,L
    1,L,J
-   8,L
-  19,R
-  22,G
+  11,L
+  10,R
+  26,G
    5,U,X
    1,R,J,G
   12,D
@@ -292,28 +304,32 @@ endRepeat
    8,R
   15,D,X
    1,L,D
-  22,L
+  20,L
+   2,J
   22,R
    1,R,D,J
    2,R
   11,D,X
    8
    2,L,J,G
-  14,L
-  19
-   1,R
-   1
+   9,L
+   1,J
+   2
+   3,L
+   9
+   1,J
+  10
    6,R
    1,R,D,J
   12,R
-   4,R,D
-  14,D
+   5,R,D
+  13,D
   40
 
 #lvl_07 - Ferry
 Read, ../StrawberryJamTAS/1_Beginner/dropzle,lvl_07 - Ferry,lvl_08 - Daedalus
 
-#lvl_08 - Daedalus
+#lvl_08 - Daedalus (0)
   11,L,D
    1,L,K
   27,R
@@ -324,7 +340,9 @@ Read, ../StrawberryJamTAS/1_Beginner/dropzle,lvl_07 - Ferry,lvl_08 - Daedalus
   17,D
    2,G
    5,U,X
-  20
+  17
+   1,J
+   2
   18,L
    1,R,K
    6,R
@@ -334,24 +352,23 @@ Read, ../StrawberryJamTAS/1_Beginner/dropzle,lvl_07 - Ferry,lvl_08 - Daedalus
    7
   26,U,G
   15,R
-  16,D
-   6,R
+  18,D
+   4,R
    2,L
    5,L,X
-  32,R,D
-   4,R,D
+  36,R,D
   10,L,G
   25,L,U,G
    4,R
-   4,R,K
-  16,R,D
-  13,G
-   5,D
+   4,R,J
+  14,R
+   6,G
+  11,D
    5,R,Z
   21,R,D
    2,K,G
   30,R,D
-   1,R,K
+   1,R,J
   12,R
   40
 
@@ -366,26 +383,27 @@ Read, ../StrawberryJamTAS/1_Beginner/dropzle,lvl_07 - Ferry,lvl_08 - Daedalus
   19,D,X
   77
    6,L,D,X
-   1,L,J
-   3,L
+   3,L,J
+   1,L
   43
 
-#lvl_08 - Daedalus
-  18,L
+#lvl_08 - Daedalus (1)
+   3,L,J
+  10,L
+   5
   15,D,X
-   9,D
+   6,D
   40
 
 #lvl_09 - Perpendicular
-   2,D
-   3,R,D
+   1,D
+   2,R,D
   15,R,Z
   14,R
    6,R,D
-   8,D
+   7,D
    1,R,D
-   4,D
- 
+   5,D
   17,L,D
    4,L,Z
    1,L,J
@@ -416,9 +434,7 @@ Read, ../StrawberryJamTAS/1_Beginner/dropzle,lvl_07 - Ferry,lvl_08 - Daedalus
    1,J,G
    4,J
    1
-   2,R
-   1,R
-   1,R
+   4,R
    1,L,K,G
    1,R,K
    1,K
@@ -467,6 +483,4 @@ Read, ../StrawberryJamTAS/1_Beginner/dropzle,lvl_07 - Ferry,lvl_08 - Daedalus
 #lvl_10 - Downfall
 Read, ../StrawberryJamTAS/1_Beginner/dropzle,lvl_10 - Downfall
 
-
-
-ChapterTime: 1:19.305(4665)
+ChapterTime: 1:18.421(4613)

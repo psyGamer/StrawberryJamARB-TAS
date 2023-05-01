@@ -201,24 +201,30 @@ Repeat,3
    1,L,J
   14,L,K,G
 Endrepeat
-Repeat,3
+  20,R,J
+  14,L,U,X
+Repeat,2
   11,J,G
    1,R,J
-   1,K
-  24,L,K
-EndRepeat
-  12,J,G
-   7,L
-   1,R,J
+   1,L,J
+  14,L,K,G
+Endrepeat
+   3,L,J,G
+   3,L
+   3,L,J,G
+   1,R
+   4,L
+   2,L
   15,U,X
   10,R
-  13,R,J
+  10,R,J
+   4,L,J
   13,L,D,X
    1,L,J
    8,L
   15,D,X
-  22,L,D
- 100,D
+  21,L,D
+ 101,D
    1,R,D
   40
 
@@ -521,4 +527,4 @@ endrepeat
    1,L,J,G
   25,L,U,X
 
-ChapterTime: 1:01.795(3635)
+ChapterTime: 1:01.251(3603)

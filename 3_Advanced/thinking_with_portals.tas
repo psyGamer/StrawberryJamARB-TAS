@@ -1,11 +1,12 @@
-RecordCount: 1881
+RecordCount: 1891
 
 console load StrawberryJam2021/3-Advanced/sp1029
    1
 
 #Start
-#PowerBox Cycle (Next one should be at 63-65)
-  18
+
+#PowerBox Cycle
+  24
 
 #lvl_a-01
 Read, ../StrawberryJamTAS/3_Advanced/thinking_with_portals, lvl_a-01, lvl_a-06

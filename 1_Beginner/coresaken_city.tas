@@ -1,76 +1,10 @@
+RecordCount: 1
+
 console load StrawberryJam2021/1-Beginner/voliver9
    1
+
 #Start
-  99
-
-#lvl_a-01
-   5,L,Z
-   1,R,J
-   4
-   9,R
-  15,D,X
-   4,R,D
-   1,R
-   1,R,D
-   4,R,Z
-   1,R,J
-   6,R
-   5,R,J
-   7
-   1,G
-  12,K
-   7,J,G
-   1,K
-   1,L,K
-   5,R,Z
-   5,R,K,G
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   6,R,D
-   4,R,J
-   4,R
-   1,L
-   1,J,G
-  15,R,D,X
-   9,R,J
-   6,R,U,Z
-  40
-
-#lvl_a-02
-   7,R,U,X
-   1,L
-   7,J,G
-   2,J
-   2,R,J
-  12,K,G
-   2,J,G
-   3,R,J
-   5,J
-   1,R,J
-   1,L,J
-   1,R,J
-  13,R,K,G
-   1,R,J,G
-   1,R,K,G
-   1,K
-   5,R
-   2,R,J
-   7,R
-  19,R,J
-  20,R,Z
-   5
-  14,R,D,X
-   3,L,J
-   1,L
-   1,L,J,G
-   7,L
-   1,R,J,G
-   8,L,J
-  13,L,U,X
-   8,L,J,G
-  40
+Read, ../StrawberryJamTAS/1_Beginner/coresaken_city, Start, lvl_a-03
 
 #lvl_a-03
    7,L
@@ -213,8 +147,7 @@ Endrepeat
    3,L
    3,L,J,G
    1,R
-   4,L
-   2,L
+   6,L
   15,U,X
   10,R
   10,R,J
@@ -366,18 +299,14 @@ Endrepeat
    1,R,G
    1,D
    1,R,D
-   1,D
-   1,D
-   5,D
+   7,D
    3,R,D
    4,R
   13,R,D
    1,L
    1,R
-   5
-   2
-   2,L
-   1,L
+   7
+   3,L
 Repeat,5
    1,D
    1,L,D
@@ -400,9 +329,7 @@ EndRepeat
    1,K,G
    5,L,K
    4,K
-   1,R,K
-   3,R,K
-   2,R,K
+   6,R,K
    5,R,Z
    1,R,J
    7

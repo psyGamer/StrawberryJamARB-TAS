@@ -1,13 +1,10 @@
-RecordCount: 798
+RecordCount: 813
 
 console load StrawberryJam2021/2-Intermediate/Ice
    1
 
 #Start
- 190
-
-
-Read,../StrawberryJamTAS/2_Intermediate/temple_of_a_thousand_skies,lvl_a-01,lvl_b-04
+Read, ../StrawberryJamTAS/2_Intermediate/temple_of_a_thousand_skies, Start, lvl_b-04
 
 #lvl_b-04
    9,R,K
@@ -47,7 +44,7 @@ Read,../StrawberryJamTAS/2_Intermediate/temple_of_a_thousand_skies,lvl_a-01,lvl_
    6,L
   40
 
-#lvl_b-02
+#lvl_b-02 (0)
   12,L,D
   44,D,X
    3
@@ -178,7 +175,8 @@ Read,../StrawberryJamTAS/2_Intermediate/temple_of_a_thousand_skies,lvl_a-01,lvl_
    5,L,U,Z
   40
 
-Read,../StrawberryJamTAS/2_Intermediate/temple_of_a_thousand_skies,lvl_b-02,lvl_b-06
+#lvl_b-02 (1)
+Read, ../StrawberryJamTAS/2_Intermediate/temple_of_a_thousand_skies, lvl_b-02 (2), lvl_b-06
 
 #lvl_b-06
    9,D
@@ -196,10 +194,10 @@ Read,../StrawberryJamTAS/2_Intermediate/temple_of_a_thousand_skies,lvl_b-02,lvl_
    4,L
    1
    7,L,D,X
-stunpause
+StunPause
    9,L,D
   17,R,D
-endstunpause
+EndStunPause
    4,D
   14,L,D
   18,D
@@ -270,7 +268,7 @@ endstunpause
   23,U,X
   40
 
-#lvl_b-05
+#lvl_b-05 (0)
   24,U
    3
    2,R
@@ -299,7 +297,72 @@ endstunpause
   36,U,X
   40
 
-Read,../StrawberryJamTAS/2_Intermediate/temple_of_a_thousand_skies,lvl_b-07,lvl_c-01
+#lvl_b-07
+   4,U
+StunPause
+   4,U
+SkipInput
+   3
+   3,R
+SkipInput,3,1
+  12,R,X
+  12,R,J
+   5,J
+SkipInput,3,1
+  15,U,X
+  13,R,J
+EndStunPause
+  14,R,J
+  11,L,K
+   5,L
+   2,L,K
+   7,L
+   5
+   1,L,D
+  10,L,X
+   5,R,J
+  16,R,G
+  33,U,G
+   1,J
+   1,L,J
+   1,L
+   1,K
+   6,U,X
+  14,L,J
+StunPause
+  14,L,J
+   2,J
+   1,K
+   2,R,K
+   3,L,K
+EndStunPause
+   6,L,K
+   8,L,G
+  13,L,J,G
+  13,L,K,G
+  13,L,J,G
+  12,L,K,G
+   1,J
+   1,K
+  11,R,K
+   5,J
+   7,K
+   2,R,K
+   7,R
+  11,R,X
+   7,R,J
+   8,U,X
+   1,S
+   1,D,J
+  69,O
+   4,R,Z
+   1,R,J
+  15,D
+  19,D,X
+  40
+
+#lvl_b-05 (1)
+Read, ../StrawberryJamTAS/2_Intermediate/temple_of_a_thousand_skies, lvl_b-05 (2), lvl_c-01
 
 #lvl_c-01
   21
@@ -327,6 +390,7 @@ Read,../StrawberryJamTAS/2_Intermediate/temple_of_a_thousand_skies,lvl_b-07,lvl_
  271
   40
 
-Read, ../StrawberryJamTAS/2_Intermediate/temple_of_a_thousand_skies,lvl_c-02
+#lvl_c-02
+Read, ../StrawberryJamTAS/2_Intermediate/temple_of_a_thousand_skies, lvl_c-02
 
-ChapterTime: 2:22.477(8381)
+ChapterTime: 2:22.494(8382)

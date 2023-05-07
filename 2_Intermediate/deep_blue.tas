@@ -1,11 +1,10 @@
-RecordCount: 1714
+RecordCount: 288
 #draft had 0
 
 console load StrawberryJam2021/2-Intermediate/Emik
    1
 #Start
 read,../StrawberryJamTas/2_Intermediate/deep_blue,Start,lvl_a_03
-
 #lvl_a_03
    2,L,D,X
    1,L,J
@@ -209,5 +208,4 @@ EndStunpause
   40
 #lvl_a_06
 read,../StrawberryJamTas/2_Intermediate/deep_blue,lvl_a_06
-
 ChapterTime: 1:10.482(4146)

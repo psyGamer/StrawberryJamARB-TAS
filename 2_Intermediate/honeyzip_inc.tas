@@ -1,4 +1,4 @@
-RecordCount:
+RecordCount: 995
 
 console load StrawberryJam2021/2-Intermediate/GlowWoomii
    1
@@ -6,13 +6,335 @@ console load StrawberryJam2021/2-Intermediate/GlowWoomii
 #Start
  190
 
-#lvl_startroom
+#lvl_r8
+Read, ../StrawberryJamTAS/2_Intermediate/honeyzip_inc, lvl_startroom, lvl_rhub(0)
+
+#lvl_rhub(0)
+   3,J
+   9,R,D,X
+   4,R,J,G
+  10,R
+   1,R,J
+  47,R,G
+   1
+  16,U,X
+   5,R,K,G
+   7,R
+   1,G
+   5,R,K,G
+  32,R
+   8,J
+  12,R,J
+   4,R,K,G
+   5,R,Z
+   1,R,K
+   7,R
+  21,R,J
+  12,R,D,X
+   5,R,K,G
+   4,R,J,G
+   9,R
+  40
+
+#lvl_r6
+   1,R
+   2,R,J
+  27,R,K,G
+  10,R,G
+  18,R,J,G
+  13,R,U,X
+   7,R,G
+  19,R,D
+  16,R,X
+  12,R,G
+  17,R,J,G
+   2,R
+   1,G
+  12,J,G
+   5,K
+   3,L,K
+   2
+  13,R,Z
+   1,L,J
+   1
+   2,L
+   1
+   4,L,J
+  15,L
+  15,L,X
+   1,S
+   1,D,J
+  69,O
+   8,R,Z
+   1,L,J
+   7,L
+   1,L,J
+   1,L
+   6,L,D,X
+  40
+
+#lvl_rhub (1)
+Read, ../StrawberryJamTAS/2_Intermediate/honeyzip_inc, lvl_rhub(2), lvl_rhub (3)
+
+#lvl_rhub (3)
+   2,R
+   6,R,D,X
+   1,R,J
+   3,R
+   1,R,J
+   3,R
+  11,R,J
+  15,R,X
+   6,R
+  14,L,Z
+   1,R,J
+   6,R,D,X
+   1,R,J
+   7,R
+   7,R,J
+  12,R,D,X
+#74f / 04 -> 78
+   3,R,D,X
+  11,R,J
+  15,D,X
+   3
+   5,L
+   2
+  14,L,Z
+   1,R,J
+   6,R,D,X
+   1,R,K,G
+   7,R,J,G
+  10,R
+   3,R,K,G
+   1,R,K
+   9
+   1,R,J
+   1,R,K,G
+   3,R
+   6
+   2,R,J
+   9,R,D,X
+   1,R,K,G
+  60,R
+  40
+
+#lvl_r8
+   1,R
+   1,R,J
+  15,R
+  17,R,K
+   8
+  15,R,U,Z
+#you need approx. 500-600 speed in order to do this. The normal one uses ~900
+
+#Key doesn't enter with this strat
+#   2,R
+#   6,R,D,X
+#   1,R,J
+#   3,R
+#   1,R,J
+#   3,R
+#  11,R,J
+#  15,R,X
+#   6,R
+#  14,L,Z
+#   1,R,J
+#   6,R,D,X
+#   1,R,J
+#   5,R
+#   2
+#   7,R,J
+#  15,R,D,X
+#  16,R,J
+#   6,R,K,G
+#   5,R,J,G
+#   5,R
+#   5,R,D,X
+#   3,R,K,G
+#  40
+#
+#  17,R,J
+#   8,R,U,Z
+#   7,R,G
+
+#lvl_r8
+  12,R,J,G
+   9,R,G
+  10,R,J,G
+   5,R
+   6,R,J
+   1,R,G
+   1,R,K,G
+   5
+   1,R,J
+   3
+   1,L,J
+   3,J
+   1,L,J
    1,J
+   1
+  15,R,U,X
+  18,R
+   1,R,K,G
+   1,R,J,G
+  46,R,D
+  15,R,D,X
+  15,D,C
+   8,D,X
+  40
 
+#lvl_r6
+   7,L,D
+  15,D,C
+  15,L,D,X
+  15,D,C
+   1,R,D
+  15,R,Z
+  15,R,D,X
+   9,R,C
+  40
 
+#lvl_r6sb
+  16,F,0.1
+Repeat 3
+   1,R,K
+   1,R,J
+endRepeat
+   4,R,K
+   4,R,J,G
+   1,R
+  50,L,D
+   6,L
+   1,G
+  12,K,G
+   7
+  10,G
+   1
+   1,J
+   1,K,G
+   2
+  10,R,G
+  20,R,J,G
+  13,R,C
+  14,R,G
+  15,R,J,G
+  11,R,G
+  16,R,J,G
+  38,R,C
+   1,G
+  34,D
+   8,L
+  13,L,G
+   4,L,J,G
+   8,L,G
+   3
+   9,R
+  27,G
+   1
+   1,J
+   1,K,G
+   7
+  10,L,G
+  14,L,J,G
+   7,L,G
+   3,L,J,G
+   9,L
+  37,L,U,X
+   1,G
+  23,L,D
+   8,L,U,Z
+   1,R,K,G
+   5,R,J,G
+   3,L,J
+   7,L,K
+   2,L,J
+  23,L,D
+   8,L,Z
+   1,L,J
+   7,L
+   1,L,J
+  15,L,D,X
+   4,L
+  43
 
+#lvl_r6
+  15,L,U
+  15,L,C
+  15,L,D,X
+  15,L,D,C
+  15,L,D,X
+   1,L,D
+   9,D,C
+  40
 
+#lvl_r4
+   6,L,D
+  15,D,C
+  14,D,X
+  48,D,C
+ 129,L,X
+   9,L,K
+  10,L,Z
+   5,L,K
+   4,L
+  36,U,G
+   1
+   1,K,G
+   1,L,J,G
+  22,R,J,G
+   9,R,G
+  25,R,K,G
+   6,J,G
+   2,R,J,G
+   6,R
+  15,R,U,X
+  10,R
+   6,L
+   1,R
+   3,D
+   1,L,G
+   1,L,J,G
+   1,R
+   1
+   1,R
+   5
+   1,J
+  12,R
+   1,R,D
+   1,R
+   2,R,D
+   1
+  15,R,Z
+  10,R,D
+   1,S
+   1,D,J
+  69,O
+   2,L
+  12,R,Z
+   1,L,J
+   1
+   6,L
+   1,L,J
+  11,L,D,X
+   1,L,J,G
+   2
+   1,L
+  40
 
+#lvl_rhub (4)
+   2,L
+   5,L,J
+   4,L,K,G
+  12,L,U,X
+   7,L,J,G
+  11,L,K,G
+   5,L,J,G
+   6,L
+   1,R
+  14,U,C
+  10,L,J
+  19,L
 
 
 ChapterTime: 

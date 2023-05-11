@@ -1,4 +1,4 @@
-RecordCount: 4566
+RecordCount: 4591
 
 console load StrawberryJam2021/5-Grandmaster/tobyaaa
    1
@@ -287,17 +287,16 @@ EndStunPause
    1,D,J
   72,O
    4,D,X
-  10,R,X
-   1,R
-   4,D,X
-   5,R,X
+   8,R,X
+   1,J
+   5,L
   43
 
 #lvl_Phil(1)
-   5,R,X
-   9,L
-   1
-   4,R
+   1,L
+   1,L,J
+  16,L
+   1,R
   14,R,C
    2,R,J
    8,R
@@ -467,4 +466,4 @@ EndRepeat
   47,R,D,X
  135
 
-ChapterTime: 1:03.427(3731)
+ChapterTime: 1:03.376(3728)

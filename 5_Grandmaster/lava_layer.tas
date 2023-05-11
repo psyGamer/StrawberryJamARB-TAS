@@ -1,4 +1,4 @@
-RecordCount: 4534
+RecordCount: 4566
 
 console load StrawberryJam2021/5-Grandmaster/tobyaaa
    1
@@ -270,33 +270,19 @@ EndStunPause
 
 #lvl_Russel
    4,L
-   7,L,D,J
-   5,R,D,J
-  60,R,D
-   9,L,J
-   3,R,J
-  11,D
-   1,L,J
-   3,R,J
-   9,R,K,G
-  45,R,D
-  30,L,J
-  90,D
-  37,R,J
-   2,L,D
-   1,L,J
-  14,L
-   1,L,J
-   1,L
-  13,R,D
+  11,L,J
    4,R
-   3,L
-   2,L,J
-  15,R,Z
-   5,L
-  15,U,X
-   5,L,D
-  17,D
+   4,L
+   6,R,D,J
+   2,L,K,G
+   3,R,K
+   1,L,J,G
+  11,J
+   6,L,J
+   1,K
+   7,L,K
+  15,L,Z
+  30,R
    1,S,N
    1,D,J
   72,O
@@ -481,4 +467,4 @@ EndRepeat
   47,R,D,X
  135
 
-ChapterTime: 1:08.595(4035)
+ChapterTime: 1:03.427(3731)

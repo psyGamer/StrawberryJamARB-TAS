@@ -1,4 +1,4 @@
-RecordCount: 1819
+RecordCount: 2114
 
 console load StrawberryJam2021/5-Grandmaster/Soloiini
    1
@@ -101,7 +101,7 @@ EndRepeat
    5,L
    4
    1,D
-Repeat 287
+Repeat 285
    1,R
    1,L
 Endrepeat
@@ -110,41 +110,43 @@ Endrepeat
    6,L
   25,L,J
   15,U,X
-  25,R,J
-   3,R,K,G
-   2
+   2,R
+  24,R,J
+   5,R,K,G
    4,J,G
-   5,R
-   1
+   1,R
+   4
+   1,R
    1,L
-  17,L,J
+  17,L,K
   15,U,X
-   1,L
    1,L,J,G
+   2,L
    1,L,K,G
    7,L
   10,L,X
-   7,L,J
-  14,U,X
-  22,R,J
-  11,K,G
-   1,L,K
    6,L,J
-   5,L
-   1,L,J
+  15,U,X
    2,L
+  19,R,J
+   3,R,K,G
+   1,R
+   3,R,K,G
+   1,R
+   2,J,G
+   1,L,J
+   7,L,K
+   7,L
    4,Z
    1,L,J
-   6,L
-   7,L,J
+   7,L
+   6,L,J
   14,L,D,X
    1,L,J
    2,L
    1,S
    1,D,O
   69,J
-#Spinner Cycle
-   1
 #ext.hyper frameties
   14,R,Z
    1,L,J
@@ -190,61 +192,44 @@ Endrepeat
   12,L,J,G
    7,L,G
   15,L,J,G
-   3,L,K,G
-   5,L,G
-  12,L,G
-   6,G
-   1,L,G
-   1,G
-   1,L,G
-   1,G
-   1,L,G
-   1,G
-   1,L,G
-   1,G
-   1,L,G
-   1,L,J,G
-  21,L,G
+  10,L,K,G
+  40,L,G
    1,L
-  15,L,Z
+  15,L,X
    5,U,C
-  32,L,G
-  35,D,G
-   1,R,G
-   1,D
-   3,R,J
-   2,R
-  14,L,Z
-   1,L,J
-  14,L,Z
-   1,R,J
-   6,R,D,X
-   1,R,J,G
-  12,R
-   1,R,J
-   6,R,D,X
-  21,R,G
-  40,R,J,G
-   2,R,D,G
-   2,R,D
-  11,L,Z
-   4,R,J
-   5,R,U,X
-  30,R,G
-  16,R,J,G
-   1,R,J
+  13,G
+   5,L,G
+   2,G
+   4,L,G
+   1,L,J,G
+  41,D,G
    1,R
-   9,U,X
-  29,R,G
-   1,D
-   7,L,Z
+   7,R,Z
    1,R,J
+   7,R
+   5,R,J
+  11,R,D,X
+   2,R,J,G
+   1,R,K,G
+   1,R,J,G
+  10,R,K,G
+  20,R
+   9,R,U,Z
+   1,L,J,G
+   4,R,J
+  10,R
+   4,R,J
+  15,U,X
    3,R
-  21,R,G
-   1,D
-   1
-   6,R,X
-  14,R,G
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+   6,R,K,G
+   1,S
+   1,D,O
+  69,J
+   7,R,X
+  13,G
   40
 
 #lvl_Drill (0)
@@ -452,36 +437,34 @@ Endrepeat
    5,R,X
   25,L,G
   57,R,J,G
-  40
+  35
+   5,J
 
 #lvl_Speedway
-   8,R,G
+   1,R,J,G
+   7,R,J,G
    1,D
-   5,R
-  16,R,D,X
-  24,R,J
-  14,R,U,C
-  12,L,J
-#See line 146
-StunPause
-   6,L,J
-SkipInput 3 1
-   7,L,X
-   4,L,J,G
-EndStunPause
-  15,L,J
-  19,L,G
-  42,R,J,G
+  19
+  18,R,J
+   6,L,D,X
+  21,R,J
+  14,R,U,X
+  30,L
+  14,L,X
+  17,L,G
+  31,R,G
+   6,U,X,G
+   5,G
    1,D
    1,R,G
    1,J,G
-   5,J
-   8,U,X
-  37,G
+  11,J
+   5,U,X
+  38,G
    1,L
   14,L,U,X
   15,L,G
-  47,R,J,G
+  47,R,G
    1,R
    8,R,U,X
   37,G
@@ -494,14 +477,14 @@ EndStunPause
   20,R,G
    4,L,G
    7,R,Z,G
-   6,R,J,G
-  14,R,G
-  24,L,G
+   5,R,J,G
+  15,R,G
+  27,L,G
   34,R,G
    1,L
   19,R,D,X
    1,R,J
-   4,R
+   3,R
   17,L
   10,L,U,X
   19,L,G
@@ -510,57 +493,22 @@ EndStunPause
   34,R,G
    2,D,G
   17,R,D,G
-
-# mb keep speed
-#   8,J,G
-#  40
-
-#lvl_Away
-#   3,J,G
-#   5,G
-#   1,R
-#   5,R,U,X
-#   2,J,G
-#  25,K,G
-#  40,K
-   
-#lvl_Pilgrim's Way
-#   3,K,G
-#   1
-#   5,R,U,X
-#  21,J,G
-#   1,G
-#  20,R
-#  12,L,J
-# 200,L
-#  15,R,D,X
-#   5,R,J
-#  12,R,K,G
-#  15,R,U,C
-#   2,R,J,G
-#  15,R,U,X
-
-# 200,R,G
-
-# 200,R,G
-
-#1f faster
    7,R,J,G
   40
 
 #lvl_Away
    4,R,J,G
-   4,R,G
+   3,R,G
    1,R
    5,R,U,X
    2,R,J,G
-  25,R,K,G
+  26,R,K,G
   40
    
 #lvl_Pilgrim's Way
    3,R,G
-   2,R
-  14,L,D,X
+   1,R
+  14,L,D,C
    8,R,J
    4,R
    1,R,J
@@ -677,5 +625,5 @@ EndStunPause
 
 #lvl_Staging Grounds
 Read, ../StrawberryJamTAS/5_Grandmaster/the_solar_express, lvl_Staging Grounds
+ChapterTime: 4:05.701(14453)
 
-ChapterTime: 4:08.064(14592)

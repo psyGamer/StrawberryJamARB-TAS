@@ -1,4 +1,4 @@
-RecordCount:
+RecordCount: 1578
 
 console load StrawberryJam2021/2-Intermediate/Rocketguy2
    1
@@ -6,13 +6,535 @@ console load StrawberryJam2021/2-Intermediate/Rocketguy2
 #Start
   76
 
+#Spinner Cycle RG2-1
+   2
+
 #lvl_RG2-0
+Read, ../StrawberryJamTAS/2_Intermediate/pufferfish_transportation, lvl_RG2-0, lvl_RG2-4
+
+#lvl_RG2-4 (0)
+  15,R,J
+  10,R,X
+ 108
+   8,L
+  14,U,X
+   5,L,J
+  43
+
+#lvl_RG2-4-S1
+   6,L
+   5,R
+  14,R,Z
+   1,R,J
+  14,R,D,X
+   1,R,J
+   2,R
+   1,S,N
+   1,D,O
+  34
+   5,R
+  12,L,J
+  15,R,U,X
+  18,R
+  14,R,J
+  15,R,U,Z
+  44,R,D
+  27,L,D
+  44,R,J
+  15,R,U,X
+  18,R
+  15,R,J
+  15,R,X
+  14,R
+   8,R,J
+   7,R
+  55,G
+  71,F,257
+  33,F,288
+  29,F,245
+   2,F,255
+  12,F,270
+  17,F,282
+  10,L,Z
+   8,L,J
+  10,R,D,X
    1,J
+  14,L,D
+  24,L,D,X
+   6,L,Z
+   1,L,J
+   7,L
+   1,L,J
+  14,L,D,X
+   1,L,J
+  12,D,X
+  40
+
+#lvl_RG2-4 (1)
+   7,R,D
+   8,D
+   4,R,Z
+   1,R,J
+  17,R,D
+  17,D,X
+ 101
+   5,R,J
+  42,R,K
+  15,R,U,X
+  21,R
+   8,R,X
+   8,R,J
+   5,R
+  12,R,J
+  18,R,X
+   4,R
+  15,R,X
+  12,R
+  15,R,J
+  15,R,X
+  22,R,D
+   1,R
+   9,R,D
+  40,R,J
+  15,U,X
+   7,R
+  19
+   5,D
+   4,R,D
+  15,U,X
+   6,R
+  28,R
+  15,R,D,X
+ 176,R,D
+   5,R,Z
+   1,R,J
+  60,R,D
+   1,R,K
+   6,R,D,X
+  40
+
+#lvl_RG2-4-S2
+   1
+  13,R,J
+  31,R,D
+  92,R,D
+  19,D
+  52,R,D
+   1,R,K
+  21,R
+   8,L
+   1,L,G
+   1,K,G
+   3,L
+   7
+   6,R
+  37,R,J
+   1,R,K,G
+   1,R,J,G
+  13,R
+  10,R,J
+  14,U,X
+ 115,J
+  10,L,Z
+   3,L,J
+  40
+
+#lvl_RG2-4 (2)
+   1,L,J
+   1,L
+  60,L,X
+   4,R,Z
+   1,R,J
+   8,R
+  43
+
+#lvl_RG2-5(0)
+   2,R
+   3,R,J
+  12,R
+   1,R,G
+   2,R,J,G
+   8,R,G
+   1,R
+Repeat,5
+   1,R,J,G
+   1,R,K,G
+EndRepeat
+   5,R
+  15,U,Z
+   6,L
+   1,K,G
+   1,R,K
+   1,L,K
+  10,L,J,G
+   3,L
+   1,L,K,G
+  12,L,J,G
+   2,K,G
+   1,R,K
+   1,L,K
+   2,J,G
+  24,R,J
+  15,L,U,X
+   9,L
+  18,L,U,G
+  12,L,J,G
+   1,K
+   1,L,J,G
+   7,R,J
+   5
+   1,R,J
+   3,R
+  14,R,D,X
+   1,L,J
+  15,U,X
+  10,L
+  11,L,K
+  14,U,X
+  13,J
+  40
+
+#lvl_RG2-5-S
+  11,K,G
+   1,J,G
+   2
+   1,K,G
+   7,L
+   1,K
+   2,L,K
+  15,U,X
+  16,L,G
+  74,U,G
+  15,K,G
+  23,L,K
+   7,L
+  20,L,D,X
+   3,R
+  15,R,C
+  23,L,D
+   9,D
+  17,R,D
+  15,U,X
+  25,D
+  29,R
+  21,L
+  11,L,U,X
+  16,R
+  16,R,U,X
+  28,L,D
+  10,D
+   7
+  11,D,X
+  10,D
+  15,D,Z
+  10,D
+  15,R,U,X
+  17,D
+  41,R,D
+  62,G
+  77
+  14,L,D,X
+   1,R,K
+  15,D,X
+   4,D
+   6,L,D
+   2,D
+  40
+
+#lvl_RG2-5(1)
+  14,R,D
+   7,R
+   1,N
+   1,R,J
+   2,R
+  10,R,D,X
+   1,R,J
+   4,L
+  22,L,D,X
+   2,L
+   7,L,Z
+   1,L,J
+   6,L
+   1,L,J
+   9,L,D,X
+  49,L,J
+  18,L,U,G
+  12,L,J,G
+   1,K
+   1,L,J,G
+   8,R,J
+   2,R
+   6,L
+   1,R,J
+  14,R,D,X
+   2,R,J
+  14,R,U,X
+   1,R,J,G
+   8,L
+  44,R,D
+   1,R,J
+  13,R,D,X
+  40
+
+#lvl_RG2-6
+Read, ../StrawberryJamTAS/2_Intermediate/pufferfish_transportation, lvl_RG2-6, lvl_RG2-7
+
+#Without Simulated SnQ
+#OPTIMIZABLE
+
+#lvl_RG2-7
+  10,D
+   4
+   3,D
+   4,Z
+   1,R,J
+   6,R
+   9,R,J
+  17,R
+  49,R,X
+   1,R,J
+   1,R,K
+  14,R
+  15,D,X
+ 100
+  15,L,U,X
+  23,R
+   4,R,D
+   1,R
+   1,D
+   4,R,Z
+   1,R,J
+   6,R
+  13,R,J
+  15,R,D,X
+  40
+   1,R,J
+   1,R,K
+   3,R
+  17,D,X
+   7,L,J
+   5,J
+  14,L,U,X
+  39
+  15,R,X
+  31
+   5,R,K
+  20,R,J
+  31,R,D,X
+  13,R
+  15,R,X
+   3,R,J
+   5,J
+  14,R,D,C
+   1,L,J
+  14,L,D,X
+   1,R,J
+   6,R,D,X
+   1,R,J,G
+  12,R
+   5,R,J
+  12,R,D,X
+   1,R,K,G
+   9,R
+  40
+
+#lvl_RG2-8
+Read, ../StrawberryJamTAS/2_Intermediate/pufferfish_transportation,lvl_RG2-8, lvl_RG2-9
+
+#lvl_RG2-9 (0)
+   5,R
+   1,R,J
+  10,R,D,X
+StunPause
+   3,R,D,X
+   4,R
+SkipInput,3,1
+  12,R,D,X
+EndStunPause
+   3,R,D,X
+   5,R,D
+   7,R,D,J
+StunPause
+   3,R,J
+EndStunPause
+   2
+   7,R,J
+   3,R
+   9
+   2,D
+   9,R,U,X
+   1,J,G
+   1,R
+StunPause
+   5,R
+   3
+   3,R,J
+SkipAutoInput,3,1
+  15,R,U,Z
+endSkipAutoInput
+  16,R,D
+EndStunPause
+   1,R,D
+  18,D
+   9,R,J
+  18,R,D
+  15,U,G
+   1
+   1,R,K,G
+   2,R,J,G
+  11,R,K,G
+  15,R,X
+  89
+   1,R,J
+   4,R,Z
+   4,R,J
+   7,R
+  18
+   1,R,J
+   1,J
+   6
+   8,R,X
+  25,R,J
+  14,R,X
+   8,R
+  15,D,X
+  11,R,D
+  10,D
+  22,R
+  13,R,U,X
+   1,R,J,G
+   7,R
+  40
+
+#lvl_RG2-End (0)
+   7,R,D,X
+   1,R,J
+   7,R
+   1,R,J
+Repeat 4
+  14,R,D,X
+   1,R,J
+EndRepeat
+  13,R,D,X
+   1,L,J
+  21,L,G
+   1,L,K,G
+  14,L,G
+   1,L,K,G
+   8,L,G
+   1,D
+  14,R,D,X
+   1,L,J
+   9,L,D,X
+  13,L,G
+   1,L,K,G
+  14,L,G
+   1,L,K,G
+  14,L,G
+   5,L,K,G
+  40
+
+#lvl_RG2-9 (1)
+   2,L,G
+   1,L
+  10,R,D,X
+  40
+
+#lvl_RG2-End (1)
+   4,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+   4,R,D,X
+   1,R,J
+  15,L
+  14,L,D,X
+   1,R,J
+   4,R,D,X
+   1,R,J
+  13,R
+  15,R,J
+   7,R,D,X
+   1,R,K,G
+  11,R
+   1,R,J
+   9,R,D,X
+  22,R,G
+   2,R
+   8,R,G
+ 135
 
 
 
+ChapterTime: 1:59.136(7008)
 
+#Simulate Save&Quit
+#ChapterTime: 1:56.739(6867)
+#Set,Player.Speed,0,0
+#Set,Player.Position,5648, -560
+#Set,Level.TimeActive, 0
+#  36
+## 123
+#
 
+#-lvl_RG2-7
+#Spinner Cycle
+#   1
+#
+#  11,L,Z
+#   1,R,J
+#   1,R
+#   6
+#   9,R,J
+#  22,R
+#  50,R,X
+#   1,R,J
+#   1,R,K
+#  14,R
+#  15,D,X
+# 100
+#  15,L,U,X
+#  23,R
+#   4,R,D
+#   1,R
+#   1,D
+#   4,R,Z
+#   1,R,J
+#   6,R
+#  13,R,J
+#  15,R,D,X
+#  40
+#   1,R,J
+#   1,R,K
+#   3,R
+#  17,D,X
+#   7,L,J
+#   5,J
+#  14,L,U,X
+#  39
+#  15,R,X
+#  31
+#   5,R,K
+#  20,R,J
+#  31,R,D,X
+#  13,R
+#  15,R,X
+#   3,R,J
+#   5,J
+#  14,R,D,X
+#   1,L,J
+#  14,L,D,X
+#   1,R,J
+#   6,R,D,X
+#   1,R,J,G
+#  12,R
+#   5,R,J
+#  12,R,D,X
+#   1,R,K,G
+#   9,R
+#  40
 
-
-ChapterTime: 
+#-lvl_RG2-8
+#Read, ../StrawberryJamTAS/2_Intermediate/pufferfish_transportation, lvl_RG2-8, lvl_RG2-End

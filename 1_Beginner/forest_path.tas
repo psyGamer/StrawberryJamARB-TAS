@@ -60,6 +60,7 @@ Read, ../StrawberryJamTAS/1_Beginner/forest_path, Start, lvl_a-03
    8,R,D,X
   40
 
+#lvl_a-05
 Read, ../StrawberryJamTAS/1_Beginner/forest_path, lvl_a-05, lvl_a-11
 
 #lvl_a-11
@@ -181,6 +182,7 @@ Read, ../StrawberryJamTAS/1_Beginner/forest_path, lvl_a-12, lvl_a-17
    5,R,X
   40
 
+#lvl_a-20
 Read, ../StrawberryJamTAS/1_Beginner/forest_path, lvl_a-20
 
 ChapterTime: 0:53.023(3119)

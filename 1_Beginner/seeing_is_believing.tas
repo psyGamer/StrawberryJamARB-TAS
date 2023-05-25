@@ -6,7 +6,7 @@ console load StrawberryJam2021/1-Beginner/NotYourBadeline
 #Start
 Read, ../StrawberryJamTAS/1_Beginner/seeing_is_believing, Start, lvl_a_09
 
-#lvl_a_09(0)
+#lvl_a_09 (0)
    3,R,J
   14,R,D,X
    1,S
@@ -43,7 +43,7 @@ Read, ../StrawberryJamTAS/1_Beginner/seeing_is_believing, Start, lvl_a_09
   10,L
   40
 
-#lvl_a_09(1)
+#lvl_a_09 (1)
    2,L
    2,L,J
   15,L,D,X

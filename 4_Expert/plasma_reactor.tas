@@ -141,7 +141,6 @@ Read, ../StrawberryJamTAS/4_Expert/plasma_reactor, Start, lvl_a8
   12,R,D
   15,R,D,X
   26,R,J
-## why gatekeep :(
   15,G
   10,L,D,X
    3,R,J
@@ -172,4 +171,4 @@ Read, ../StrawberryJamTAS/4_Expert/plasma_reactor, Start, lvl_a8
   78,R
  139,L,U,X
 
-ChapterTime: 0:56.848(3344)
+ChapterTime: 0:56.831(3343)

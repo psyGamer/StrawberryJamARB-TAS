@@ -1,4 +1,4 @@
-RecordCount: 4369
+RecordCount: 4840
 
 console load StrawberryJam2021/5-Grandmaster/Hydro
    1
@@ -914,164 +914,124 @@ EndStunPause
    6,R
    2,R,J
    3,R,K,G
-   8,R,D,X
+  10,R,D,X
    1,R,J
-   7
-   5,R,Z
-   1,R,J
-   2
-   2,J
-   1
-   1,J
-   3
-   7,L,D,X
-   1,R,J
-   6,R
-   1,R,J
-  14,R
-  20,R,D,J
-   6,J
-   1,R,K,G
-   2,L,K
-  28,R,K
-   6,G
-   3,U,G
-   1
-  12,J
-  37,D
-   3,D
+   4,R
+  10,L,Z
+   1,L,J
+   4,L
   10,R,Z
-# NOTE: Never tested intended route
-## Spinner cycle 0
-#   5,R,J
-#   7,R
-#   1,R,J
-#   7,R
-#  18,U,X
-#   1,L,D
-#   1,D
-#   1,L,D
-#   4,D
-#   8,R,D
-#   7,D
-#   1,R,D
-#   1,D
-#   1,R,D
-#   1,L,D
-#   1,J
-#   1,L,K,G
-#  13,R,U,Z
-## Spinner cycle 1
-# TODO
-## Spinner cycle 2
-   5,R,J
-   2
-   3,R
-   5,R,J
-   6,R
-  18,U,X
-   1,R,D
-   7
-   8,R
-   7
-   1,R
-   1,L
-   1,R
-   1,L
-   1,J
-   1,L,K,G
-##
-StunPause
-SkipInput 3 1
-  13,R,U,Z
-   5,R,J,G
-EndStunPause
-   3,R,J
+   1,R,J
    2,R
-SkipInput 3 1
-   8,R,D,X
+   2,R,J
+   1,R
+   1,R,J
+   3,R
+   4,R,Z
+   1,R,J
+   6,R
+   1,R,J
+  15,R,D
+  20,R,D,J
+   1,J
+   4,R,J
+  31,R,K,G
+  19,G
+  10,L,D
+  16,D
+  15,D,X
+  15,D,C
+  11,D
+#Spinner cycle
+   2,D
+#
+  14,R,Z
+   2,R,J
+   3,R
+   1,R,J
+   1,R
+   2,R,J
+   5,R
+   1
+   1,R
+  15,U,Z
+   4
+   4,R
+   4
+   1,R
+   4,J
+   5
+   1,J
+  14
+   2,R,D
+   1,L,D
+   1,J
+   2,K,G
+   1
+   6,R,U,Z
+   6,R,J,G
 StunPause
-   7,R,D,X
-   5,R,D
+   6,R,J
+SkipInput 3 1
+   6,R,D,X
 EndStunPause
+   5,R,D,X
+StunPause
+   4,R,D,X
+   2,R
+EndStunPause
+   3,R
    2,R,D
 StunPause
-   2,R
-SkipInput 3 1
-  12,R,D,X
-EndStunPause
-   3,R,D,X
-   2,R
-  14,R,D
+   5,R,D
    1,D
-StunPause
-  12,R,D
 EndStunPause
-  10,R,D
+   1,D
+  20,R,D
+StunPause
+   8,R,D
+EndStunPause
+   7,R,D
    9,R,J
-   1,R
+   1
   15,R,D,X
-  43,R,J
+  12,R,J
+   5,R
+   3,R,J
+  14,R
   14,R,U,X
-   2,R,J,G
-   1,R,K,G
-   3,L,K
-   8,R,K
-   7,R
-  14,R,Z
-   1,L,J
-  14,L,Z
-   1,R,J
-  11,R,D,X
-   2,R,J,G
-   1,R,K,G
-   2,R,J,G
-   1,R,K,G
-  11,R
-  58,R,J
-  14,R,U,X
-  12,J,G
-   7,R
-## More speed, but not useful
-#  11,R,D,X
-#   1,R,J
-#   2,R,K,G
-#   1,R,J,G
-#   5,R,D,X
-#   1,R,J,G
-#   1,R,K,G
-#   5,R
-#   1,S,N
-#  10,J
-#   1,R,J
-#   3,R
-#   1,R,J
-#  15,R,U,X
-#   2,R,J,G
-#   4
-#   3,R
-##
-  10,R,Z
-   1,R,J
-   2,R,K,G
    1,R,J,G
    2,R,K,G
-   2,R,K,G
-   4,R
-  13,R,U,X
    1,R,J,G
-   7,R
-   6,R,J
+   1,R,K,G
    5,R
    1,R,J
-  11,R
+   4,R
+  25,R,J
+  16,R,D
+  14,R,Z
+   4,R,J
+   1,R,K,G
+   1,R
+   1,R,J,G
+   3,R,K,G
+   6,R
+  12,R,U,X
+   1,R,J,G
+   7,R
+   8,R,J
+   7,R
+   2,R,J
+   1,R
+   1,R,J
+   6,R
   15,U,Z
    2,L
    1
    1,L
    1
-  27,R,J
-  12,K,G
+  25,R,J
+  12,R,K,G
    7,R
    4,R,Z
    1,R,J
@@ -1086,30 +1046,43 @@ EndStunPause
    2,R,J
    6,R,K,G
   15,R,D,X
-   9,R,J
+
+   7,R,J
+   1,J
+   2,R,J
   14,R,U,X
-   1,R,J,G
-   4,L,J
-   8,R,J
-  12,R,K,G
-   2,R,J,G
-   1,L,J
+   8,J,G
+   1
    1,J
-   3,R,K,G
-  10,R
-   1,J
-   2
+   7
+  13,J
   15,R,Z
-  20,R
-   1,R,D
-   2,R,J,G
-   7,R
-   4,R,Z
+   4
+   3,R
+  13,R,D
+  10,R,Z
    1,R,J
    5,R
   40
 
 #lvl_SHATTER
-Read, ../StrawberryJamTAS/5_Grandmaster/shattersong, lvl_SHATTER
+   1,R
+   1,R,J
+  19,R
+  16,R,Z
+   2,R,J
+   7,R,D,X
+   1,R,J
+   2,R,K,G
+   3,R,J,G
+   2,R,K,G
+   1,R,J,G
+  20,R
+   9,R,J
+  24,R,U,X
+Repeat 45
+   2,R,D
+   1,L,D
+Endrepeat
 
-ChapterTime: 2:58.262(10486)
+ChapterTime: 2:54.624(10272)

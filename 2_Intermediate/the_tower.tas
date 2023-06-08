@@ -1,4 +1,4 @@
-RecordCount: 129
+RecordCount: 239
 console load StrawberryJam2021/2-Intermediate/pixelator
    1
 
@@ -40,35 +40,34 @@ read,../StrawberryJamTAS/2_Intermediate/the_tower,Start,lvl_lvl01
    2,R,J,G
    7,R
   36
-  42,R
+  35,R
+   1,R,D
+   1,R
+   1,R,D
+   1,R
+   3,R,D
   33,R,U,X
    2,R,J,G
    7,R
-  12,R,Z
-   2,L,J
+   1,R,J
+  14,R
+   8,R,Z
+   1,L,J
+   6,L
+   4,L,D,J
    3,L
-  15,R,D
-  15,D,X
-   3,L,D
-  19,L
-  15,U,X
-   7,R,J,G
-   1,R,K,G
-   2,L,K
-   1,K
-   2,L,K
-   3,K
-   1,R,J,G
-   1,R,K,G
+   6
+  15,R,U,Z
+   3,R
+   8,R,J,G
+   6,K
    7,R
-  15,R
-  15,R,X
-   5,R
    4,R,Z
    1,R,J
-   7,R
+   6,R
   11,R,J
   12,U,X
+#0:13.787(811)
   40
 
 #lvl_lvl02
@@ -184,4 +183,4 @@ read,../StrawberryJamTAS/2_Intermediate/the_tower,lvl_lvl03,lvl_lvl04
   40
 #lvl_lvl05
 read,../StrawberryJamTAS/2_Intermediate/the_tower,lvl_lvl05
-ChapterTime: 0:55.284(3252)
+ChapterTime: 0:54.315(3195)

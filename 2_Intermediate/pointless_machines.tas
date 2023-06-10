@@ -1,5 +1,5 @@
 RecordCount: 288
-console wipedebug
+
 console load StrawberryJam2021/2-Intermediate/vitellary
    1
 
@@ -272,4 +272,5 @@ endRepeat
 
 #lvl_08
 read,../StrawberryJamTAS/2_Intermediate/pointless_machines,lvl_08
+
 ChapterTime: 1:14.528(4384)

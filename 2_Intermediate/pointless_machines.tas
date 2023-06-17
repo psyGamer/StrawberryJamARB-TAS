@@ -1,18 +1,277 @@
-RecordCount:
+RecordCount: 579
 
 console load StrawberryJam2021/2-Intermediate/vitellary
    1
 
 #Start
- 190
+read,../StrawberryJamTAS/2_Intermediate/pointless_machines,Start,lvl_03
 
-#lvl_01
+#lvl_03 (0)
+   1,R
+  10,R,Z
+   1,R,J
+   6,R
+   7,R,J
+   5,R
+  14
+   9,D
+   1,R,D
+   4,D
+   1,R,D
+   1,D
+   1,R,D
+   4,D
+   3
+   3,R
+  13,R,X
+   6,R,J,G
+  12,R
+  14,R,X
+  15,L
+  19,L,U,X
+  15,R,C
+  16,R
+   5
+   2,D
+   2,L
+   3,R,D
+  16,R,X
+  15,R,Z
+   1,L
+   1,J,G
+   4
+   5,R
+  15,R,X
+  27,R,D
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+  10,R
+  40
+
+#lvl_04 (0)
+   5,L,X
+  40
+
+#lvl_03 (1)
+  10,L,X
+   2,L
+  15,U,X
+  11,U,C
+  18,L,J
+  15,L,U,X
+  14,L,U,Z
+   1,R,J,G
+   5,L,J,G
+  12,L,K,G
+   6,L,J,G
+  40
+
+#lvl_03-berry
+   1,R,K
+  10,R,J
+   4,R,Z
+   1,R,J
+   7,R
+  22,R,J
+  14,U,X
+  21,L,J
+  15,U,X
+  15,R,U,C
+   2,R
+   1
+  15,U,X
+  18,U,C
+   1,L
+  15,L,X
+  17,L
+   3,L,D
+  15,L,Z
+   3
+  16,L,J
+   9,L,K,G
    1,J
+  79,L,D
+   2,R,D
+  11,R
+   3,L
+   5,L,D
+  40
 
+#lvl_03 (2)
+   2,L,D
+  18,R,D
+  15,R,X
+   1,R
+  15,D,X
+  18,R,D
+  14,R,D,X
+   1,R,J
+  10,R,D,X
+  40
 
+#lvl_04 (1)
+   5
+  11,L,Z
+   6,R,J
+   3,R,K,G
+   7,R
+  12,R,J
+   9,R
+   1,R,J
+   7,R
+  18,R,X
+  15,R,U,C
+  15,D,X
+   6,R,D
+   5,D,C
+   1
+  37,R
+  15,U,X
+  20,R,D
+   9,D
+   1,R,D
+   1,D
+   1,R,D
+   1,D
+   1,R,D
+   5
+  15,R,D,X
+   4,R
+  15,U,C
+   2,R
+   1,K,G
+   4,R,K
+   1,R,J,G
+   1,R,K,G
+   3,R
+  15,L,U,X
+  15,R,D,C
+  14,L
+   3
+   1,K
+   1,L,J,G
+   9,R
+   1,R,J
+  11,R,D
+   6,L,D
+   1,D
+  21,R,D
+   1,R,J
+  11,R
+  40
 
+#lvl_05
+read,../StrawberryJamTAS/2_Intermediate/pointless_machines,lvl_05,lvl_06
 
+#lvl_06
+   2,R
+   7,L,D,X
+   1,R,J
+  12,R
+   2,R,J
+   9,R
+   1,R,J
+  14,R
+  25,L,X
+  24,R,D
+   6,R
+   1
+  17,U,X
+   1,J,G
+   3
+  27,R,C
+  15,R,X
+  15,L,C
+  15,L,D,X
+   5,L,D
+  15,R,D,C
+  12,D
+   5,R
+   2,R,D
+  15,R,U,X
+  15,R,U,C
+  15,R,X
+   1,R
+   1,R,J
+   1
+   1
+   9
+   3,R
+   8,J
+   5,L,J
+   1,R,K,G
+   1,L,K
+   1,L,K
+  18,L,J
+  15,U,X
+   5,R
+   1,L,J,G
+repeat 8
+   1,R,J
+   1,J
+endRepeat
+   1,R,J
+  16,K
+   2,R,K
+  40
 
+#lvl_06-berry
+   7,R
+   1,J,G
+   9,K,G
+   3,R,K
+  15,U,X
+   2
+  15,R,U,C
+  15,R,D,X
+  15,U,C
+   5,R
+  15,U,X
+  15,L,Z
+  16,L
+  15,L,U,X
+   2,L
+  18,R,U,C
+  15,R,D,X
+   4,L,D
+  18,U,X
+  15,U,C
+  15,U,X
+  15,R,C
+   2,L
+  15,L,U,X
+  40,R,D
+  57,D
+   1,J
+  24,D
+  40
 
+#lvl_07
+   7,R,D
+  21,D
+   7,R,D
+  14,R,D,X
+   7,R,J
+  15,R,U,X
+  25,R
+  15,R,U,Z
+  12,R
+  15,R,U,Z
+  43,R
+  13,R,U,Z
+  26,R
+  27,D
+   6,R,D
+  15,R,X
+  13,R,D,C
+   1,R,J
+   6,R
+  40
 
-ChapterTime: 
+#lvl_08
+read,../StrawberryJamTAS/2_Intermediate/pointless_machines,lvl_08
+
+ChapterTime: 1:13.542(4326)

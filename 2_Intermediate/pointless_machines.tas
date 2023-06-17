@@ -4,7 +4,7 @@ console load StrawberryJam2021/2-Intermediate/vitellary
    1
 
 #Start
-read,../StrawberryJamTAS/2_Intermediate/pointless_machines,Start,lvl_03
+Read, ../StrawberryJamTAS/2_Intermediate/pointless_machines, Start, lvl_03
 
 #lvl_03 (0)
    1,R
@@ -164,7 +164,7 @@ read,../StrawberryJamTAS/2_Intermediate/pointless_machines,Start,lvl_03
   40
 
 #lvl_05
-read,../StrawberryJamTAS/2_Intermediate/pointless_machines,lvl_05,lvl_06
+Read, ../StrawberryJamTAS/2_Intermediate/pointless_machines, lvl_05, lvl_06
 
 #lvl_06
    2,R
@@ -209,10 +209,10 @@ read,../StrawberryJamTAS/2_Intermediate/pointless_machines,lvl_05,lvl_06
   15,U,X
    5,R
    1,L,J,G
-repeat 8
+Repeat 8
    1,R,J
    1,J
-endRepeat
+EndRepeat
    1,R,J
   16,K
    2,R,K
@@ -272,6 +272,6 @@ endRepeat
   40
 
 #lvl_08
-read,../StrawberryJamTAS/2_Intermediate/pointless_machines,lvl_08
+Read, ../StrawberryJamTAS/2_Intermediate/pointless_machines, lvl_08
 
-ChapterTime: 1:13.542(4326)
+ChapterTime: 1:12.182(4246)

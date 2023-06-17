@@ -7,6 +7,7 @@ console load StrawberryJam2021/1-Beginner/hyperlife
 Read, ../StrawberryJamTAS/1_Beginner/collapsing_skyline, Start, lvl_a-02
 
 #lvl_a-02 (0)
+#any%-end
   15,R,D,X
   10
   69
@@ -60,6 +61,7 @@ Read, ../StrawberryJamTAS/1_Beginner/collapsing_skyline, Start, lvl_a-02
    1,R,J,G
   11,R
   45
+#any%-start
    2,L,J
    7,L,Z
    1,R,J
@@ -71,6 +73,7 @@ Read, ../StrawberryJamTAS/1_Beginner/collapsing_skyline, Start, lvl_a-02
    1,R,J
   15,R
   17
+#any%-end
    1,D,J
    2
    6,J,G
@@ -99,6 +102,7 @@ Read, ../StrawberryJamTAS/1_Beginner/collapsing_skyline, Start, lvl_a-02
   25,D
    2,L,D
    4
+#any%-start
   15,R,Z
    3
   15,R,D
@@ -141,6 +145,7 @@ Read, ../StrawberryJamTAS/1_Beginner/collapsing_skyline, Start, lvl_a-02
    1,J
    6,R,J
   15,R,D,X
+#any%-end
   11,R,J
    9,R,K,G
    3,K
@@ -194,6 +199,7 @@ Read, ../StrawberryJamTAS/1_Beginner/collapsing_skyline, Start, lvl_a-02
    3
    1,R
    9,L,Z
+#any%-start
    1,R,J
    6,R
    1,R,D,J
@@ -238,6 +244,7 @@ Read, ../StrawberryJamTAS/1_Beginner/collapsing_skyline, Start, lvl_a-02
   40
 
 #lvl_a-05
+#any%-end
    3,R,D,X
    1,R,J
    2,R

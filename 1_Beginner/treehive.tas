@@ -1,4 +1,4 @@
-RecordCount: 492
+RecordCount: 493
 
 console load StrawberryJam2021/1-Beginner/skeleton
    1
@@ -7,7 +7,7 @@ console load StrawberryJam2021/1-Beginner/skeleton
   91
 
 #spinner cycle
-   1
+   2
 
 #lvl_skeleton_00
 Read, ../StrawberryJamTAS/1_Beginner/treehive, lvl_skeleton_00, lvl_skeleton_02

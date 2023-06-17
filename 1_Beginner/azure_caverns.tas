@@ -15,6 +15,7 @@ Read, ../StrawberryJamTAS/1_Beginner/azure_caverns, Start, lvl_02
    7,R
    1,R,J
   17,R,K
+#any%-end
   14,R,U,X
    9
    4,R
@@ -89,6 +90,7 @@ Read, ../StrawberryJamTAS/1_Beginner/azure_caverns, Start, lvl_02
    8
   15,L,U,Z
   11,L
+#any%-start
   14,L,Z
    1,R,J
   14,R,Z
@@ -107,6 +109,7 @@ Read, ../StrawberryJamTAS/1_Beginner/azure_caverns, Start, lvl_02
    1,R,K,G
    2,R,J,G
    1,R
+#any%-end
    6,R,X
   27,L,J
   15,L,X
@@ -165,6 +168,7 @@ Read, ../StrawberryJamTAS/1_Beginner/azure_caverns, Start, lvl_02
   14,R,U,X
    3,R,J,G
    1,R
+#any%-start
    8,R,Z
    1,R,J
    6,R

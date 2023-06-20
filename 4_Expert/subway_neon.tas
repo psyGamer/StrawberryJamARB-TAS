@@ -1,4 +1,4 @@
-RecordCount: 264
+RecordCount: 296
 
 console load StrawberryJam2021/4-Expert/nyan
    1
@@ -30,21 +30,23 @@ Read,../StrawberryJamTAS/4_Expert/subway_neon,Start,lvl_a-05
    7,J,G
    7,L
    4,L,Z
-   1,L,J
-   2,R
+   3,L,J
   40
 
 #lvl_berry
-  20,R
-#slow
-   4,L,J
-   9,R
+   1,L,J
+   3,L
+   2,L,J
+   4,L
+   1,L,N
+   4,J
+   7
   31,G
    1
    1,J,G
    1,K,G
-  34,L,D,X
-  11,L
+  26,L,D,X
+  19,L
   15,R,D,X
    7,L,D
   10,R,D
@@ -80,8 +82,9 @@ Read,../StrawberryJamTAS/4_Expert/subway_neon,Start,lvl_a-05
 
 #lvl_a-05 (1)
    7,R
-  68,D
-  24,R,D
+  72,D
+  19,R,D
+   1,R
   15,R,X
   12,R
    3
@@ -105,9 +108,10 @@ Read,../StrawberryJamTAS/4_Expert/subway_neon,Start,lvl_a-05
   10,L,D,X
   19,L,J
   15,U,X
-   2,L
    2
-   3,R
+   2,R
+   2
+   1,R
   21,L
   15,L,D,X
    8,L,J
@@ -130,7 +134,6 @@ Read,../StrawberryJamTAS/4_Expert/subway_neon,Start,lvl_a-05
    4,Z
    1,R,J
    6,R
-# +2f fish resync from any%
   10,R,J
    5,R
   15,R,U,X
@@ -170,4 +173,4 @@ Read,../StrawberryJamTAS/4_Expert/subway_neon,Start,lvl_a-05
 
 Read,../StrawberryJamTAS/4_Expert/subway_neon,lvl_a-06
 
-ChapterTime: 1:23.708(4924)
+ChapterTime: 1:23.521(4913)

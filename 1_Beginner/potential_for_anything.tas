@@ -1,18 +1,198 @@
-RecordCount:
+RecordCount: 375
 
 console load StrawberryJam2021/1-Beginner/frozenflygone
    1
 
 #Start
-  80
+read, ../StrawberryJamTAS/1_Beginner/potential_for_anything,Start,lvl_SS2-5b
 
-#lvl_SS2-0
+#lvl_SS2-5b (0)
+   3,L,U
+  14,L,U,X
+   2,L,J
+  14,L,U,X
+   1,L
+   5,U,X
+  15,U
+   8,R,U
+  11,R,U,X
+  18,R,J
+  15,R,Z
+  11,R,X
+   1,R,J
+   9,R,U
+  15,U,X
+   4,R,U
+  40
+#lvl_SS2-6
+   8,L,U
+   1,L
+   7,L,Z
+   1,L,J
+   6,L
+   1,L,J
+  14,L,D,X
+   9,L,J
+  15,U,X
+   1,L,U
+  14,U
+  15,R
+  44,R,U
+  16,L,U
+  27,L
+  32,L,U
+  54,U
+  12,R,U
+   5,L,U
+  30,U
+  11,L,U
+  14,U
+   6,R,U
+  10,R
+  25,L,D
+  35,D
+  20,R,D
+  36,L,D
+  45,D
+  19,R,D
+  27,R
+  32,R,D
+  10,L,D
+  62,D
    1,J
+  21,D
+   6,R,D
+  14,R,D,X
+   2,R,J
+   6,R
+  15,D,X
+  40
 
+#lvl_SS2-5b (1)
+  13,R,D
+  15,L,Z
+  15,D,X
+   3,L,D
+  19,D
+  40
 
+#lvl_SS2-3
+  57,D
+   5,R,D
+  12,R,D,X
+   3,R,J
+   2,R,K,G
+   9,R,G
+  10
+  13,L,D,X
+   3,R,J
+   6,R,D,Z
+   1,R,K,G
+   3,R
+   1,R,J
+   3,R
+  40
 
+#lvl_SS2-7
+read, ../StrawberryJamTAS/1_Beginner/potential_for_anything,lvl_SS2-7,lvl_Lab-4 (0)
 
+#lvl_Lab-4 (0)
+   1,R,J,G
+   5,R
+   5
+   7,R,Z
+   1,R,J
+   5,R
+  40
+#lvl_Lab-5 (0)
+   1,R
+   1,R,J
+repeat 4
+  14,R,U,X
+   1,R,J
+endRepeat
+   6,R,U,X
+   1,R,J
+   1,R
+  40
 
+#lvl_Lab-5berry
+   6,R
+  20,R,J
+   1,R,K,G
+  10,R,X
+   9,R,J
+   1,J
+  10
+  14,L,U,X
+   1,L,J
+  14,R,Z
+   1,L,J
+   5,L,U,X
+   1,L,J,G
+  14,L
+   1,L,J
+  15,L,U,X
+   2,L,U
+   1,L,J
+   4,L
+  43
+#lvl_Lab-5 (1)
+  10,L
+   1,L,J
+  14,L
+   1,L,J
+  14,L
+   4,L,J
+  40
 
+#lvl_Lab-4 (1)
+   8,L,J
+  15,L,U,X
+   1,L,J
+  13,L
+   1
+   1,L,J
+   1
+  12,L,U,X
+   1,L,J
+  40
 
-ChapterTime: 
+#lvl_Lab-3
+read, ../StrawberryJamTAS/1_Beginner/potential_for_anything,lvl_Lab-3,lvl_WZ-4
+
+#lvl_WZ-4
+   6,L,D
+  14,L,D,X
+   1,L,J
+  15,D,X
+  15,L,D
+   6,L,Z
+   1,L,J
+   7,L
+   1,L,J
+   1,L
+   7,L,Z
+   1,J,G
+   2,L
+  12
+   2,R
+   1
+   1,R
+   1,D
+   6,R,D
+   3,D
+   1,R,D
+   1,D
+   1,R,D
+   6,R,D,X
+   1,R,J
+   2,R
+   1
+   4,R
+   1,R,J
+   5,R,D,X
+   1,L,J
+#lvl_WZ-5a
+read, ../StrawberryJamTAS/1_Beginner/potential_for_anything,lvl_WZ-5a
+ChapterTime: 1:51.877(6581)

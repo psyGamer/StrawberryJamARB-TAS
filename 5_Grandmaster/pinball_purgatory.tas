@@ -1,4 +1,4 @@
-RecordCount: 1353
+RecordCount: 1466
 
 console load StrawberryJam2021/5-Grandmaster/maya
    1
@@ -88,27 +88,24 @@ Read, ../StrawberryJamTAS/5_Grandmaster/pinball_purgatory,lvl_Delta, lvl_Symbios
 
 #lvl_Symbiosis (0)
    2,R,D,X
+   8,R,J
+   6,R
    5,R,J
-  14,R,X
-   1,R,N
-   1,R,J
+  11,R
+  23,R,Z
+  20,D
+  17,L
+  15,R,D,X
+   5,R,D
    2,R
+   1,R,D
+   6,R
+   4,R,Z
+   2,R,J
+   8,R
+   1,R,J
   10,R,D,X
    5,R,J
-  27,U,X
-  10,L
-  10,L,X
-  17,R
-  22,R,D,X
-  18,L,D
-  69,D
-  15,R,D
-   8,R,D,X
-   1,R,J
-   7,R
-   1,R,J
-  14,R,D,X
-   1,R,J
    8,R,D,X
 
 #lvl_Instability
@@ -196,6 +193,8 @@ Read, ../StrawberryJamTAS/5_Grandmaster/pinball_purgatory,lvl_Delta, lvl_Symbios
   14,R,D,X
   13,R,K,G
   10,R,J,G
+#1:40.096(5888)
+
 
 #lvl_Symbiosis (1)
    1,L,J
@@ -736,4 +735,4 @@ endRepeat
  134,R,D
 
 
-ChapterTime: 3:30.630(12390)
+ChapterTime: 3:29.032(12296)

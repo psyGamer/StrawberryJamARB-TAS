@@ -1,4 +1,4 @@
-RecordCount: 1466
+RecordCount: 1983
 
 console load StrawberryJam2021/5-Grandmaster/maya
    1
@@ -144,71 +144,57 @@ Read, ../StrawberryJamTAS/5_Grandmaster/pinball_purgatory,lvl_Delta, lvl_Symbios
   19,U,X
    1,L
   10,R
-  20,R,D,X
-  11,R
-  15,R,X
-  35,R
-  15,L,X
-  39,L
-  28,L,Z
-  17,R
-  15,L,U,Z
-  13,D
-  16,R,D
-  15,R
-  21,L,U,X
-  38,R
+  31,R,D,X
+  18,C
+  30,R,C
+  21,L,D,X
+  24,L,U,Z
+  23,R
+   8,R,X
+  31,L
+  14,L,U,X
+  28,R
+  18
+  15,R,D,X
+  20,L
+  34,L,D
   15,U,X
-  18,R
-  19,R,D,X
-  35,R
-  30,G
-   1,J,G
-   3,R,J
-   5,J
-   1,R,J
-   1,L,J
-   1,R,J
-  12,R,K,G
-  12,J,G
-   9,L,K
-  10,R,X
-  10,L,J
-   6,L,Z
-   1,L,J
-   7,L
-  12,L,J
-   8,L,K,G
-   5,L,X
-  11,L,K
+   4,R
    8,L
-  14,L,Z
+  26,L,J
+  12,R,X
+   9,L,J
+  12,L,X
+  18,L,J
+   3,L,K,G
+   5,L,X
+  11,L,J
+   7,L
+  14,L,D,X
    1,R,J
-   7,R
-   2,R,J
+   1,J
+   3,R,J
   15,R,D,X
    1,R,J
-  18,R,D,X
-  23,R,J
-  14,R,D,X
-  13,R,K,G
-  10,R,J,G
-#1:40.096(5888)
-
+   1,J
+  20,R,D,X
+  20,R,J
+  12,R
+  13,R,U,Z
+   1,L
+   2,J
 
 #lvl_Symbiosis (1)
    1,L,J
-   5
-   8,R
+  13
    1,R,N
    1,R,J
    2,R
    2
    2,L
   10,L,D,X
-   3,R,J
+   4,R,J
    1,L,J
-   1,R,J
   27,U,X
   10,L
   10,L,X
@@ -259,11 +245,14 @@ Read, ../StrawberryJamTAS/5_Grandmaster/pinball_purgatory,lvl_Delta, lvl_Symbios
   15,L,U,X
   11,R
    2,L
-  59,R
+   1
+   2,L
+   1
+  55,R
   26,R,U,X
-   7,R,Z
+   6,R,Z
    1,R,J
-   6,R
+   7,R
    1,R,J
   14,R,D,X
   40
@@ -735,4 +724,4 @@ endRepeat
  134,R,D
 
 
-ChapterTime: 3:29.032(12296)
+ChapterTime: 3:27.417(12201)

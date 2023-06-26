@@ -1,18 +1,493 @@
-RecordCount:
+RecordCount: 1927
 
 console load StrawberryJam2021/1-Beginner/HankyMueller
    1
-
 #Start
-  69
+Read, ../StrawberryJamTAS/1_Beginner/a_gift_from_the_stars, Start, lvl_Double Vision
 
-#lvl_Intro A
+#lvl_Double Vision (0)
+  21,L
+   1,L,N
+   1,L,J
+   8,L
+   2,L,J
+   5,L
+   7,L,Z
+   1,R,J
+   6,R
+   1,R,J
+   4,R,K,G
+   8,R,D,X
+  40
+
+#lvl_Intro B
+   3,R,J
+  36,R
+  10,R
+  15,U,X
+  15,D,C
+  38,R,D
+  11,D
+   5,L,D
+   1,L,J
+  14,L
+   4,L,J
+  41,L
+  11,L,J
+   1
+   1,L,J,G
+   1,L,K,G
+  14,L
+   1,L,J
+  14,L
+   1,L,J
+  14,L
+  14,L,J
+  14,L,U,X
+  11,L,J,G
+   2
+  15,U,X
+   5,L
+   1,L,J,G
+   1,L,K,G
+   1,L,J,G
+  13,L
+   1,L,J
+   3,L
+  40
+
+#any%
+Read, ../StrawberryJamTAS/1_Beginner/a_gift_from_the_stars, lvl_Double Vision, lvl_Waiting Room
+
+#lvl_Waiting Room (0)
+  12,R
+  14,R,D
+   5,D
+  16,R,D
+   1,D
+   3,R,D
+   8,L,D
+  23,L
+  40
+
+#lvl_Timestop Intro (0)
+  13,L
+  24,L
+  15,L,Z
+   7,R
+  10,R,J,G
+  57,L
+   1,L,J
+  18,L
+repeat,3
+   1,L,J
+  14,L
+endrepeat
+  12,L,J
+  24,L
+  54,L
+  36,L
+  15,U,X
+   2
+  18,L,J
+   5,L,K,G
+  40
+
+#lvl_Shuffle
+  11,L
+   5,L,J,G
+  12,L,K,G
+   1,K
+  14,U,X
+   8,L,J
+  17,L
+  15,L,U,X
+  11,L
+  11
+   4,R
+  10,R,J,G
+  18,R
+  28,R,D
+   1,R,J
+  14,R
+   6,R,J
+   7,R
+   1,R,J
+   1,R
+  16,L
+   1,L,J
+   2
+  16,L
+   4,L,D
+   1,L,J,G
+   1,L,K,G
+  12,L
+   2,L,J
+  15,L
+   1,L,J
+  21,L
+   1,L,J
+  14,L
+   1,L,J
+   1,L
+   1,L,J,G
+   1,L,K,G
+  12,L
+  16,L,J
+  14,U,X
+  15,L,J
+   1
+   8,L
+   2,L,J
+   7,L
+   1
    1,J
+   9,L,J
+   8,L
+  15,U,X
+   4,L
+   2
+   1,J
+   3,L,J
+  12,L,K,G
+  12,L,J,G
+  11,R,K,G
+  40
+
+#lvl_Feedback Loop
+   8
+   3,L,K
+   1,L,J,G
+  12,L
+   1,L,J
+  14,L
+  27,L,J
+  15,L,U,Z
+  31,L
+   2,L,J,G
+  40,L,D
+   1,L,J
+  14,L
+   2,L,J
+   8,L
+  18,L,J
+   5,L
+   6,L,J
+  10,R,K
+   7,R
+   4,L,J
+  10,L
+   4
+  16,R,J
+   1,K
+  20,R,K
+   7,L,J
+   9,L
+  16,R
+  13
+  10,R,J
+   6,R
+  33,L
+  15,L,Z
+  12,L
+   1,L,J,G
+  12,L,K,G
+   7,L
+  16,L
+   3,L,J,G
+  11,R,K
+   1,K
+   6,R,K
+   1,R,J,G
+   1,R,K,G
+  12,R
+   1,R,J
+   4,R
+   1,R,J,G
+  13,R
+   1,R,J
+  14,R
+   1,R,J
+   1,R,K,G
+   1,R,J,G
+  11,R
+   1,R,J
+  18,R
+   3,R
+repeat,2
+   1,R,J
+  14,R
+endrepeat
+   1,R,J
+  18,R
+   1,R,J
+   3,R
+   1,R,J,G
+  13,R
+   1,R,J
+  10,R
+   1,R,J,G
+   1,R,K,G
+   3,R
+   2,R,J,G
+   6,R
+   2
+   1,R,J,G
+  12,R
+   1,R,J
+  14,R
+   1,R,J
+  18,R
+   1,R,J
+  18,R
+   1,R,J
+  14,R
+   1,R,J
+  18,R
+  21,D
+   1,J
+  17
+   1,R
+  25,R,D
+   6,R,J
+  40
+
+#lvl_Double Vision (1)
+  13,R,U,Z
+   2,R,J,G
+   5
+   3,R
+   3
+   6,L,V
+   1,R,J
+   6,R
+  26,R,J
+  10,R
+  20,R,D
+  15,R,X
+  21,R
+  16,R,X
+  29,L
+  10
+  13
+  15,U,X
+  15,R,U,C
+  21,R
+   3
+  15,R,Z
+  56,R
+  15,R,U,X
+  22,R
+  25,R,D
+   2,R,J
+   1,R,K,G
+  11,R
+   1,R,J
+   2,R,K,G
+  11,R
+   1,R,J
+   2,R
+   7
+   1,J
+   8
+   1,L,J
+  16,D
+  13,R,D
+  40
+
+#lvl_Waiting Room (1)
+  12,R
+  14,R,D
+   5,D
+  16,R,D
+   1,D
+   3,R,D
+   8,L,D
+  23,L
+  40
+
+#lvl_Timestop Intro (1)
+  13,L
+  24,L
+  15,L,Z
+   7,R
+  10,R,J,G
+  53,L,D
+   1,L,J
+  18,L
+   1,L,J
+  14,L
+   1,R,J
+  14
+  62
+   1,J
+   7,L,J
+  14,U,X
+   9,L,K
+  15,L,D,X
+  12,L,D
+   3,L,J
+  16,L
+  27,L,J
+  68,L
+ 106,R
+   1,R,J
+  14,R
+   1,R,J
+  15,U,X
+  12,L,J,G
+   3,L,K,G
+  33,L,G
+  32,R,D
+   2,R,J
+  10,R
+   1,R,J
+  14,R
+   4,R,J
+   8,R
+  15,R,Z
+  21,R
+repeat,2
+   1,R,J
+  14,R
+endrepeat
+   8,R,J
+   9,R
+   1
+  12,J,G
+   2
+  12,R,K,G
+  12,R,J,G
+   7,R
+   1,R,J
+   2,R
+   1,R,J,G
+   2,R,K,G
+   5,R
+   3,R,J,G
+  12,R,K,G
+   1,J
+   9,R,J
+  40
+
+#lvl_Waiting Room (2)
+  11
+   1,J
+   8,L,J
+   5,L,Z
+   1,L,J
+   7,L
+  18,L,J
+  10,L,K,G
+   8,L
+  15,U,X
+  14,L,J,G
+   1,K,G
+  10,L,K
+   1,R,K
+  14,L,J,G
+  12,L,K,G
+  12,L,J,G
+   4,L
+  16,R
+  13
+   1,S
+   1,D,J
+  69,O
+   2,R,J
+   9,R
+   8
+   1,L
+   8,L,D
+   5,D
+  40
+
+#any%
+Read, ../StrawberryJamTAS/1_Beginner/a_gift_from_the_stars, lvl_Timestop Intro, lvl_Seeded Berry
 
 
+#lvl_Seeded Berry
+  15,L,D,X
+   2,L,J
+   8,L
+  11,L,J
+   2,L
+  15,L,U,X
+   9,L
+  77,L
+  15,U,X
+  51,R,J
+  15,L
+  10
+  32,R
+  33,R
+  15,R,U,X
+  19,R
+   3
+  10,J,G
+   6,L,J
+  15,R,U,X
+   6,R
+   1,S
+   1,D,J
+  34
+   8,R
+  11
+   2,L
+  15,L,Z
+  14
+   3,D
+  14,L,D,X
+   2,L,J
+  29,L
+  15,D,X
+  23,D
+  77
+#stunpause next room
+   2
+#------
+   4,L,Z
+   9,L,J
+  15,L
+   4,L,D
+   9,D
+  43
 
+#lvl_Staircase
+  14,L,D
+   6,L,D,X
+   4,L,J
+   5,L
+   1,L,J
+  12,L,D
+   2,R,D
+   3,D
+   8,R,D
+   1,D
+  20,R,D
+  14,R,D,X
+   1,R,J
+   7,R
+   1,L,J
+   6,R,J
+   1,R
+  22
+   5,L
+   2,L,J
+  15,L
+  39,R,D
+   6,R,D,X
+   1,R,J
+   2,R
+stunpause
+   6,R
+skipinput 3 1
+  14,D,X
+endstunpause
+   2,D
+  40
 
+#any%
+Read, ../StrawberryJamTAS/1_Beginner/a_gift_from_the_stars, lvl_End
 
-
-
-ChapterTime: 
+ChapterTime: 2:14.249(7897)

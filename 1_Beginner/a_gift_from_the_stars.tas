@@ -1,4 +1,4 @@
-RecordCount: 2238
+RecordCount: 2269
 
 console load StrawberryJam2021/1-Beginner/HankyMueller
    1
@@ -350,25 +350,19 @@ Read, ../StrawberryJamTAS/1_Beginner/a_gift_from_the_stars, lvl_Timestop Intro, 
   15,U,X
    7
   15,L,U,X
-  22,L
-   5,L,D
-  15,L,Z
-  14,L
-  22,L,D
-  22,L
-  15,L,D,X
-   4,L,D
-  14,R,D
+  33,L,D
+  13,L,D,X
+   2,L,J
+  27,L,D
+  15,R,D
    1,S
    1,D,J
   34
-   7,R,D
-   3,R,J
-  16
-   1,J
-   3
+  14,R,D,X
+  11,L,J
+   3,R,K
   77
-#stunpause next room
+#spinner cycle
    1
 #------
    4,L,Z
@@ -415,4 +409,4 @@ endstunpause
 #any%
 Read, ../StrawberryJamTAS/1_Beginner/a_gift_from_the_stars, lvl_End
 
-ChapterTime: 1:51.588(6564)
+ChapterTime: 1:50.823(6519)

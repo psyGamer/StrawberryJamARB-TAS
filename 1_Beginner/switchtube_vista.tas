@@ -1,4 +1,4 @@
-RecordCount: 1089
+RecordCount: 1091
 
 console load StrawberryJam2021/1-Beginner/Flagpole1up
    1
@@ -114,7 +114,6 @@ Read,../StrawberryJamTAS/1_Beginner/switchtube_vista,Start,lvl_a02
    1,R,J
    5,R,D,X
   40
-
 Read,../StrawberryJamTAS/1_Beginner/switchtube_vista,lvl_a04,lvl_a06
 
 #lvl_a06(0)
@@ -267,7 +266,7 @@ Read,../StrawberryJamTAS/1_Beginner/switchtube_vista,lvl_a07,lvl_a09_b
 #   1,R
 # 108
 
-#lvl_a09_b(0)
+#lvl_a09_b (0)
   14,R,Z
    6,R,J
   13,R,X
@@ -316,7 +315,7 @@ Read,../StrawberryJamTAS/1_Beginner/switchtube_vista,lvl_a07,lvl_a09_b
    4,L
   40
 
-#lvl_a09_b(1)
+#lvl_a09_b (1)
    4,L
   15,L,U,X
   19,L
@@ -371,7 +370,7 @@ Read,../StrawberryJamTAS/1_Beginner/switchtube_vista,lvl_a07,lvl_a09_b
    1,L,N
  155
 
-#lvl_a09(1)
+#lvl_a09 (0)
    4,R,J
   15,R,U,X
    4,R
@@ -421,7 +420,7 @@ Read,../StrawberryJamTAS/1_Beginner/switchtube_vista,lvl_a07,lvl_a09_b
   59,D
   40
 
-#lvl_a09(2)
+#lvl_a09 (1)
    6,D
   10,L,D
    1,L,X
@@ -525,8 +524,7 @@ Read,../StrawberryJamTAS/1_Beginner/switchtube_vista,lvl_a10,lvl_a12
   10,L
 # any% inputs from here
   14,L,U,X
-  37
-   1
+  38
   12,K
   18,U,X
   15
@@ -543,12 +541,9 @@ Read,../StrawberryJamTAS/1_Beginner/switchtube_vista,lvl_a10,lvl_a12
    6,L
   63
    1,R,G
-   1,J
-   1,J
-   1,J
+   3,J
   18,U,X
-   2,R,D
-   1,R,D
+   3,R,D
   17,D
    4,R,D,X
   63
@@ -569,4 +564,4 @@ Read,../StrawberryJamTAS/1_Beginner/switchtube_vista,lvl_a10,lvl_a12
 
 Read,../StrawberryJamTAS/1_Beginner/switchtube_vista,lvl_a13(0)
 
-ChapterTime: 2:46.583(9799)
+ChapterTime: 2:46.498(9794)

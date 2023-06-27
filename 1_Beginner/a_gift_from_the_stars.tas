@@ -1,10 +1,9 @@
-RecordCount: 1997
+RecordCount: 2098
 
 console load StrawberryJam2021/1-Beginner/HankyMueller
    1
 #Start
 Read, ../StrawberryJamTAS/1_Beginner/a_gift_from_the_stars, Start, lvl_Double Vision
-
 #lvl_Double Vision (0)
   21,L
    1,L,N
@@ -79,10 +78,12 @@ Read, ../StrawberryJamTAS/1_Beginner/a_gift_from_the_stars, lvl_Double Vision, l
   57,L
    1,L,J
   18,L
-repeat,3
+repeat,2
    1,L,J
   14,L
 endrepeat
+#berry collect looses 0f
+  15,L
   12,L,J
   24,L
   54,L
@@ -112,12 +113,14 @@ endrepeat
   14,R
    6,R,J
    7,R
-   1,R,J
-   1,R
-  16,L
+#berry collect looses 2f here
+   7,R
+   9,L
    1,L,J
    2
-  16,L
+   2,L
+   1
+  13,L
    4,L,D
    1,L,J,G
    1,L,K,G
@@ -258,12 +261,14 @@ endrepeat
    5
    3,R
    3
-   6,L,V
+   9,L,V
    1,R,J
    6,R
-  26,R,J
-  10,R
-  20,R,D
+  28,R,J
+   9,R
+  16,R,D
+   5
+#  19,R,D
   15,R,X
   21,R
   16,R,X
@@ -275,10 +280,14 @@ endrepeat
   21,R
    3
   15,R,Z
-  56,R
+  35,R
+   1,R,D
+  17,R
   15,R,U,X
   22,R
-  25,R,D
+  24,R,D
+   2
+   2,R
    2,R,J
    1,R,K,G
   11,R
@@ -286,8 +295,8 @@ endrepeat
    2,R,K,G
   11,R
    1,R,J
-   2,R
-   7
+   3,R
+   6
    1,J
    8
    1,L,J
@@ -299,108 +308,46 @@ endrepeat
   12,R
   14,R,D
    5,D
-  16,R,D
-   1,D
-   3,R,D
-   8,L,D
-  23,L
-  40
-
-#lvl_Timestop Intro (1)
-  13,L
-  24,L
-  15,L,Z
-   7,R
-  10,R,J,G
-  53,L,D
-   1,L,J
-  18,L
-   1,L,J
-  14,L
-   1,R,J
-  14
-  62
-   1,J
-   7,L,J
-  14,U,X
-   9,L,K
-  15,L,D,X
-  12,L,D
-   3,L,J
-  16,L
-  27,L,J
-  68,L
- 106,R
-   1,R,J
-  14,R
-   1,R,J
-  15,U,X
-  12,L,J,G
-   3,L,K,G
-  33,L,G
-  32,R,D
-   2,R,J
-  10,R
-   1,R,J
-  14,R
-   4,R,J
-   8,R
-  15,R,Z
-  21,R
-repeat,2
-   1,R,J
-  14,R
-endrepeat
-   8,R,J
-   9,R
-   1
-  12,J,G
-   2
-  12,R,K,G
-  12,R,J,G
-   7,R
-   1,R,J
-   2,R
-   1,R,J,G
+   2,R,D
+  32,L,D
+   2,L
+  40,L,J
+   4,J
+   2,L,J
+   1,L,K,G
    2,R,K,G
-   5,R
-   3,R,J,G
-  12,R,K,G
-   1,J
-   9,R,J
+   9,K,G
+   6,L,K
+   3,K
+   3,J,G
+   9,L,J
+  11,L,K,G
+   1,J,G
+  10,L,J
+   2,R,J
+  15,K
+  15,U,X
+  15,L,U,C
+   5,L
+   5,L,J,G
+   7,L
+   1,L,J
+   9,L
+   6,R
+   1,R,J,G
+   6,R,K,G
+  84,R
+   6,R,D
+   1,R,J,G
+   3,R,K,G
+  18,R
+   3,R,J
+  10,R
+  10,L
+   8,L,D
+   4,D
   40
 
-#lvl_Waiting Room (2)
-  11
-   1,J
-   8,L,J
-   5,L,Z
-   1,L,J
-   7,L
-  18,L,J
-  10,L,K,G
-   8,L
-  15,U,X
-  14,L,J,G
-   1,K,G
-  10,L,K
-   1,R,K
-  14,L,J,G
-  12,L,K,G
-  12,L,J,G
-   4,L
-  16,R
-  13
-   1,S
-   1,D,J
-  69,O
-   2,R,J
-   9,R
-   8
-   1,L
-   8,L,D
-   5,D
-  40
 #any%
 Read, ../StrawberryJamTAS/1_Beginner/a_gift_from_the_stars, lvl_Timestop Intro, lvl_Fork
 #lvl_Fork
@@ -534,4 +481,5 @@ endstunpause
 #any%
 Read, ../StrawberryJamTAS/1_Beginner/a_gift_from_the_stars, lvl_End
 
-ChapterTime: 2:14.045(7885)
+ChapterTime: 1:59.646(7038)
+

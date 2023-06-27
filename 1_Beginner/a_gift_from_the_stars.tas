@@ -1,4 +1,4 @@
-RecordCount: 1927
+RecordCount: 1997
 
 console load StrawberryJam2021/1-Beginner/HankyMueller
    1
@@ -401,15 +401,59 @@ endrepeat
    8,L,D
    5,D
   40
-
 #any%
-Read, ../StrawberryJamTAS/1_Beginner/a_gift_from_the_stars, lvl_Timestop Intro, lvl_Seeded Berry
+Read, ../StrawberryJamTAS/1_Beginner/a_gift_from_the_stars, lvl_Timestop Intro, lvl_Fork
+#lvl_Fork
+   3,D
+   1,L,D
+  24,L,D
+   3,L
+   3
+   1,L
+  15,L,Z
+   4,R
+   7,R,J,G
+   1,J
+   5,R,J
+   1,J
+   2,K,G
+   1,R,K
+   1,K
+   1
+   1,J
+   7,K,G
+   2,L,K
+   8,L
+   1,L,K
+   8,L
+  24,L,Z
+  20,L,X
+  18,L,U,C
+  15,L,D,X
+  21,L,D
+  14,L,D,X
+   1,L,J
+   7,L
+   1,L,J
+   5
+   3,F,
+   8,L,D,X
+   7,L,J
+   9,L,U,Z
+   4,L,J,G
+   1,L,K
+   1,L,J
+   5,L,K
+  12,L
+  40
 
 
 #lvl_Seeded Berry
   15,L,D,X
-   2,L,J
-   8,L
+   1,L,J
+   1,J
+   7,L
+   1
   11,L,J
    2,L
   15,L,U,X
@@ -422,8 +466,8 @@ Read, ../StrawberryJamTAS/1_Beginner/a_gift_from_the_stars, lvl_Timestop Intro, 
   32,R
   33,R
   15,R,U,X
-  19,R
-   3
+  18,R
+   4
   10,J,G
    6,L,J
   15,R,U,X
@@ -490,4 +534,4 @@ endstunpause
 #any%
 Read, ../StrawberryJamTAS/1_Beginner/a_gift_from_the_stars, lvl_End
 
-ChapterTime: 2:14.249(7897)
+ChapterTime: 2:14.045(7885)

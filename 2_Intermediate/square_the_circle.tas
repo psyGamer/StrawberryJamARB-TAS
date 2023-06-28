@@ -1,4 +1,4 @@
-RecordCount: 2028
+RecordCount: 2050
 
 console load StrawberryJam2021/2-Intermediate/bryse0n
    1
@@ -283,6 +283,7 @@ Read, ../StrawberryJamTAS/2_Intermediate/square_the_circle, lvl_a_02.5, lvl_a_03
    1,R,J
    7,R
   40
+
 #lvl_a_05
    1,R,J
   10,R,D,X
@@ -707,8 +708,8 @@ Read, ../StrawberryJamTAS/2_Intermediate/square_the_circle, lvl_a_07, lvl_a_08
    1,L,K,G
    9,R,K
   34,R,D
-  10,R
-   2
+   4,D
+   9
    9,L,D,C
   43
 
@@ -823,4 +824,4 @@ Read, ../StrawberryJamTAS/2_Intermediate/square_the_circle, lvl_a_07, lvl_a_08
 #lvl_a_10
 Read, ../StrawberryJamTAS/2_Intermediate/square_the_circle, lvl_a_10
 
-ChapterTime: 2:54.709(10277)
+ChapterTime: 2:54.692(10276)

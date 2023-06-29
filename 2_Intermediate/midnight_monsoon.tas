@@ -1,4 +1,4 @@
-RecordCount: 747
+RecordCount: 837
 
 console load StrawberryJam2021/2-Intermediate/Luma
    1
@@ -499,41 +499,39 @@ read,../StrawberryJamTas/2_Intermediate/midnight_monsoon,lvl_6,lvl_outro
    1,D
   11,U,X
   10,G
-  61,R,G
-   1,D
-  11,U,X
-  27,L,G
-   1,D
-  11,U,X
-  24,G
+  37,R,D,G
+   1,D,G
    1,R
-   1,D
-  40,L,D
+  11,L
+  15,L,D
+   4,L
+   2,L,D
    1,L
-   1,L,D
   10,L,Z
    1,R,J
-   6,R
-   5,R,D
-  20,R,J
-   8,R
-  11,J,G
-  15,R,X
+  11,R,D
+  12,R,J
+  15,R
+   1,R,J,G
+   2,L,J
+   5,R,J
+   7,R
+   5,R,G
+   5,R,X
    1,J
-   2,R,J
-   2,R
- 101
+  15
+   5,L,J,G
+  96
    5,L
    1,L,J
   18,L
    3,L,J
    2,L
   43
-
 #lvl_outro (1)
   14,L,D,X
   10,L,J
    7,L
    5,L,X
  134
-ChapterTime: 2:13.790(7870)
+ChapterTime: 2:12.362(7786)

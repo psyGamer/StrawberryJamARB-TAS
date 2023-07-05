@@ -1,4 +1,4 @@
-RecordCount: 257
+RecordCount: 465
 
 console load StrawberryJam2021/3-Advanced/Julia
    1
@@ -75,13 +75,13 @@ read,../StrawberryJamTAS/3_Advanced/tectonic_trenches,Start, lvl_a-04
    9,R,G
    1,L,G
    5
-   3,R
-   6
+   2,R
+   7
 ### spinner cycle [a-07]
-   2
+   0
 ###
    2,L,J
-   1,L
+   1
   10,R,Z
    2,R,J
    4,R,K,G
@@ -102,8 +102,9 @@ read,../StrawberryJamTAS/3_Advanced/tectonic_trenches,Start, lvl_a-04
    2,R
    1,R,J
    1,R
-  11,D,X
-  47,D
+   7,D,X
+   1,L,J,G
+  33,D
   40
 
 #lvl_transition (0)
@@ -123,33 +124,35 @@ read,../StrawberryJamTAS/3_Advanced/tectonic_trenches,Start, lvl_a-04
   12,R,D,X
    2,R,J
    4,R
-  31
-  11,L,Z
-   5,R,J
-  72,R,U,G
+  21
+  14,L,D,X
+   1,R,J
+   9,R,U,X
+  35,R,D,G
    1,L
-   5,R
-  15,R,X
-   6,R
-  15,D,X
-  13,R,D
-  34,R
-  14,R,X
-  52,R,G
-   5,G
+   8,R,D
    1,D
-   8
-  12,U,X
-  21,G
+  21,R,D
+   4,R
+   1,R,D
+   1,R
+   4,R,J,G
+   5,R,K,G
+   1,R,J,G
+   3,J,G
+  10
+  28,D,G
+  10,R,J,G
+
+  10,R
+  11,U,X
+  21,R,G
    1,L
-  24,D
-  37,R,D
-  28,R
-   8,R,D,X
-   1,R,J
-   7,R
-   1,R,J
-   8,R,U,X
+  37,R
+  22,D
+  33,R
+   9,R,D,X
+  13,R,J
   77
   14,L,D,X
    1,L,J
@@ -162,6 +165,7 @@ read,../StrawberryJamTAS/3_Advanced/tectonic_trenches,Start, lvl_a-04
   15,U,X
   18,L,J
   61
+
 #lvl_transition (1)
   11
   16,U,X
@@ -267,4 +271,4 @@ read,../StrawberryJamTAS/3_Advanced/tectonic_trenches,Start, lvl_a-04
 #lvl_a-07
 read,../StrawberryJamTAS/3_Advanced/tectonic_trenches,lvl_a-07
 
-ChapterTime: 1:16.857(4521)
+ChapterTime: 1:15.072(4416)

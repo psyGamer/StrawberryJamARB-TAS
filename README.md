@@ -1,6 +1,6 @@
 # StrawberryJam - All Red Berries TAS
 
-Make sure to clone the repositorty recursivly:
+Make sure to clone the repository recursively:
 
 `git clone https://github.com/psyGamer/StrawberryJamARB-TAS --recursive`
 

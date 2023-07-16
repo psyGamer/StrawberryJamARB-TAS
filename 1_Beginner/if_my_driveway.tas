@@ -1,4 +1,4 @@
-RecordCount: 1811
+RecordCount: 1816
 
 console load StrawberryJam2021/1-Beginner/Bing_Over_Google
    1
@@ -403,11 +403,11 @@ EndStunPause
   11,J,G
   15,R,U,Z
   11,R
-   5,R,J
+   5,L,J
    7,U,X
   40
 
 #lvl_09- Fin
 Read, ../StrawberryJamTAS/1_Beginner/if_my_driveway, lvl_09- Fin
-
-ChapterTime: 0:50.898(2994)
+#2994
+ChapterTime: 0:50.915(2995)

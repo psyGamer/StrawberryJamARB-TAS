@@ -1,4 +1,4 @@
-RecordCount: 1182
+RecordCount: 1198
 
 console load StrawberryJam2021/3-Advanced/Citrea
    1
@@ -7,7 +7,7 @@ console load StrawberryJam2021/3-Advanced/Citrea
  190
 
 #spinner
-   2
+   0
 
 #lvl_intro
 Read, ../StrawberryJamTAS/3_Advanced/toggle_theory, lvl_intro, lvl_a-2
@@ -145,14 +145,16 @@ Read, ../StrawberryJamTAS/3_Advanced/toggle_theory, lvl_intro, lvl_a-2
    6,L,Z
    1,R,J
   12,R,D
-  20,R,D,J
-  14,U,X
-   1,L
-   1,K,G
-   3,R,K
-   7,R
-   4,X
-  10,R,J
+  18,R,D,J
+   1,J
+   1,R
+  11,U,X
+   6,R,J
+   2,R
+   1,R,K,G
+   1,R,J,G
+   9,R
+   9,R,U,Z
   40
 
 #lvl_a-4
@@ -161,11 +163,11 @@ Read, ../StrawberryJamTAS/3_Advanced/toggle_theory, lvl_a-4, lvl_a-5
 #lvl_a-5 (0)
    1
   20,R,D
-   1,D
-  12,R,D
+   3,D
+   8,R,D
   15,D,X
-   3,R,D
-   8,D
+   2,R,D
+  10,D
 #spinner cycle
    0
    5,R,Z
@@ -285,4 +287,4 @@ endstunpause
 #lvl_epilogue
 Read, ../StrawberryJamTAS/3_Advanced/toggle_theory, lvl_epilogue
 
-ChapterTime: 1:02.832(3696)
+ChapterTime: 1:01.710(3630)

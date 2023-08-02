@@ -1,4 +1,4 @@
-RecordCount: 1061
+RecordCount: 2106
 
 console load StrawberryJam2021/3-Advanced/hennyburgr
    1
@@ -70,58 +70,56 @@ Read, ../StrawberryJamTAS/3_Advanced/lethal_laser_laboratory, Start, lvl_a_05
 
 #lvl_a_06b
    5,L
-  10,L,K
-   6,L
-   1,L,K
+  15,L,U,X
+   2,L,J,G
+   7,L
+   3,L,J
+  10,L
+   7
+  10,J
+  10
+  19,L
+  15,L,U,G
+   8,L,G
+   4,L
    1,L,J,G
    1,L,K,G
-  13,L
-   6
-repeat,9
-   1,D
+   1,L,J,G
+   1,L,K,G
+  15,L,D,X
+   3,L,J
+#:catbeplanting: 
+   2,J
+stunpause,input
+   5,J
+   1,L,J
    1
-endrepeat
-  15,D,X
-repeat,32
-   1,D
-   1
-endrepeat
-   1,J
-  12
-  13,L
-  10,L,D,X
-  30,L,J
-  14,U,X
-  15,L,J
-  52,L
-  15,D,X
-   9,L
-repeat,50
-   1,D
-   1
-endrepeat
-  10
-   6,L
-  20,L,J
-  14,U,X
-  54,L,J
-   1,K,G
-   1,R
-  29,L,J,G
-   3
-   2,R
-  27,J,G
-  12
-   4,J,G
-  13
+skipinput, 3
+   7,L,D,X
+endstunpause
+   8,L,D,X
+  10,L,J
+   3,L
+stunpause,input
+   3,L
    2,L
-   1
-   1,L,K
-  22,L
-  15,L,X
-  15,L,U,C
-  16
-   1,L
+endstunpause
+   2,L
+stunpause,input
+skipinput, 3
+   7,L,U,X
+endstunpause
+   6,L,U,X
+stunpause,input
+   2,L,U,X
+   3,L,J,G
+endstunpause
+   1,L,J,G
+   2,J
+   7,L
+  12,L,U,X
+  17
+   2,R
   77
    4,R,Z
    1,R,J
@@ -140,7 +138,7 @@ endrepeat
    5,R
    1,R,J
   10,R,D,X
-   1,R,J
+   1,J
    7,R
   10,R,J
    5,R
@@ -191,4 +189,4 @@ endrepeat
 #lvl_a_07
 Read, ../StrawberryJamTAS/3_Advanced/lethal_laser_laboratory, lvl_a_07
 
-ChapterTime: 0:51.799(3047)
+ChapterTime: 0:47.141(2773)

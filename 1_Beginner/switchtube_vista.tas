@@ -1,4 +1,4 @@
-RecordCount: 1511
+RecordCount: 1759
 
 console load StrawberryJam2021/1-Beginner/Flagpole1up
    1
@@ -228,7 +228,6 @@ Read, ../StrawberryJamTAS/1_Beginner/switchtube_vista, lvl_a04, lvl_a06
 
 #lvl_a07
 Read,../StrawberryJamTAS/1_Beginner/switchtube_vista,lvl_a07,lvl_a09_b
-StartRecording
 
 #lvl_a09_b (0)
   10,R,Z
@@ -300,7 +299,6 @@ EndRepeat
   10,L,X
   12,R,J
    5,R
-StopRecording
 #any%-start (almost)
    8,K,G
    1,L,K
@@ -343,6 +341,7 @@ StopRecording
  155
 
 #lvl_a09 (0)
+#any%-end
    4,R,J
   15,R,U,X
    4,R
@@ -351,56 +350,63 @@ StopRecording
    5,R,K
   14,U,X
    5,J
-   1,L,J
-  11,R,K
+   2,L,J
+   3,J
+   4,R,J
   40
 
 #lvl_a09_s
-   3,L,J
-  16,L
+   3,L
+   1,L,K,G
+   1,L,J,G
+  10,L
   15,U,Z
    3,R
-   1,J
-  14,L,J
-   8,L
-  11,L,J
-   3
-   2,J,G
-   1,R,J
-   9,L,J
-   5,L
-   8,L,J
-  12,K,G
-   6,J,G
-  10,K,G
+  34,L,J
+   3,J
+   3,K,G
    1,R,K
-   3,L
-   4,L,K,G
-   8,K
-  11,R,J
-   2,R,K,G
-   5,R
-  10,R,J
-  17,R
-   3
-   2,L,J
-  15,L,U,X
-   3,L,J,G
-   5,L
-   1,L,J
-  12,L
-  59,D
+   1,L,K
+  14,L,J,G
+   1,K,G
+   2,L,K
+   5,K
+   1,L,K
+   1,R,K
+   1,L,K
+   2,J,G
+  15,R,J
+  11,L,K
+   1,L
+   1,J
+   1,R,J
+   1,J
+   8,R,J
+   1,R
+   1,R,J,G
+   1,R,K,G
+   8,R
+   1,R,J
+  15,R
+   3,R,D
+   2,D
+   4,L,J
+  14,L,U,X
+   1,L,J,G
+   4,L
+  72,D
   40
 
 #lvl_a09 (1)
-   6,D
-  10,L,D
+   5,D
+  11,L,D
    1,L,X
   35
    5
   14,L,D,X
    9,L,J
   11,D,X
+#any%-start
    4,R
    2,R,J
   10,R,X
@@ -425,13 +431,14 @@ StopRecording
 #lvl_a10
 Read,../StrawberryJamTAS/1_Beginner/switchtube_vista,lvl_a10,lvl_a12
 
-#lvl_a12(0)
+#lvl_a12 (0)
    1,R,J,G
   10,R
    6,R,Z
    1,R,J
    7,R
   11,R,D,J
+#any%-end
   12,R,K
    3,R
   12,R,X
@@ -446,56 +453,48 @@ Read,../StrawberryJamTAS/1_Beginner/switchtube_vista,lvl_a10,lvl_a12
   40
 
 #lvl_a12_s
-   6,R
-   1,L,J
+   3
+   4,R
   15,R,D,X
-  17,R
-   7,R,J
-   6,R
+   1,D
+  12,R,D
+   6,R,J
+   2,R
+   1
    1,R,J,G
-  10,R
-   7
-   6,D
-   7,L,D
-  15,U,X
-   5,L
-   3,L,J,G
-   5,L
-   9,L,J
-   6,L
-   1,L,J
-   5,L
-   5,L,J
-  13,L
+  20,D
+   4
+  13,L,U,X
+   7,L,J,G
+   8,L
+   4,L,J
+  12,L,D
+   1,L
    5,R,Z
    1,L,J
    6
    1,L,J
-   2
-   5,L
-   1
-  12,L,J,G
+   8,J
+   6,L,J
   12,L,K,G
-  11,L,J,G
+  12,J,G
+   1,K,G
    5,L,Z
+   2,L,J
+   4,L
    1,L,J
-   6,L
   40
 
-#lvl_a12(1)
-   1,L
-   1,L,J
-   2,L
+#lvl_a12 (1)
+   4,L
   15,D,X
-   9,D
-   2,L
-   6,L,D
+   5,D
    1
-   1,L,D
-   1,L,D
+  11,L,D
+   1,L
   12,D,X
   10,L
-# any% inputs from here
+#any%-start
   14,L,U,X
   38
   12,K
@@ -535,6 +534,7 @@ Read,../StrawberryJamTAS/1_Beginner/switchtube_vista,lvl_a10,lvl_a12
    7,L,U,Z
   40
 
+#lvl_a13
 Read,../StrawberryJamTAS/1_Beginner/switchtube_vista,lvl_a13(0)
 
-ChapterTime: 2:41.109(9477)
+ChapterTime: 2:39.987(9411)

@@ -1,4 +1,4 @@
-RecordCount: 1595
+RecordCount: 1722
 
 console load StrawberryJam2021/1-Beginner/CoupCritik
    1
@@ -102,6 +102,7 @@ Read, ../StrawberryJamTAS/1_Beginner/over_the_city, Start, lvl_02
   14,L
    1,L,J
    4,L
+#0:16:575(975)
   40
 
 #lvl_02 (1)
@@ -310,32 +311,35 @@ Read, ../StrawberryJamTAS/1_Beginner/over_the_city, lvl_03, lvl_04
    2,J,G
    6,R,J
    1,L,J
-  68,L,K,G
-  34,G
-  45,R,J
-   4,K,G
-   2,L,K
-  34,L,J
-   2,J
-   2,L,J
-   1,L,K,G
-   1,L,J,G
-   6,L
-   7
-  18,L,J
+  51,L,K,G
+   1,J,G
+   1,K
+   1,L,J
+   1,K
+  52,R,K
+   5,J
+  21,R,J
+  38,L,K
+   5,L,J,G
+  15,L,D
+  17,L,J
   63,L,K
    3,L,J
   27,L,D
-   3,L,J
-   7,L
-   2,L,J
-  40,J
+   1,L,J
+   9,L
+   1,L,J
+   1,L
+#0:52.224(3072)
+#-16f
+  40
 
 #lvl_12 (1)
    3,R,J
-  17,L,K
+  18,L,K
   12,L,J,G
-   2,L,K,G
+   3,L,K,G
+#+2f because different movement idfk
   40
 
 #lvl_13
@@ -361,32 +365,35 @@ Read, ../StrawberryJamTAS/1_Beginner/over_the_city, lvl_03, lvl_04
    1,L,J
    9,L
    1,L,J,G
-   5,L
-   1,L,J
-   9,L
-   1,L,J
-  17,L
+   3,L,K,G
+  19,L,D
+   2,R,D
+   1,L,J,G
+   1,L,K,G
+   1,L,J,G
    1,L,J
   14,L
-   1,J
-   1,L
+   1,L,J
+   5,L
+   9,R
+   1,R,J
   14,R
    1,R,J
   14,R
-  27,R,J
-  13,R,K
-   1,J
-   2,K,G
-  19,L,K
-   1,L,J
-   7,L
+  10,R,J
+  11,L,J
+  18,L,K
    1,L,J,G
    1,L,K,G
-  14,L
+   1,L,J,G
+   1,L,K,G
+  13,L
    1,L,J
   14,L
    1,L,J
-   3,L
+   7,L
+#0:58.616(3448)
+#-18f
   40
 
 #lvl_14
@@ -798,7 +805,6 @@ Read, ../StrawberryJamTAS/1_Beginner/over_the_city, lvl_03, lvl_04
    1,R,J
    3,R
   40
-
 #lvl_RouteB-1 (1)
   11,R
 Repeat 8
@@ -1012,4 +1018,6 @@ EndRepeat
   15,U,X
  135
 
-ChapterTime: 2:43.064(9592)
+ChapterTime: 2:42.520(9560)
+#Old ChapterTime: 2:43.064(9592)
+#-32f total

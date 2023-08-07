@@ -1,10 +1,11 @@
-RecordCount: 363
+RecordCount: 364
 
 console load StrawberryJam2021/4-Expert/Agent
    1
 
 #Start
 Read, ../StrawberryJamTAS/4_Expert/a_change_in_direction, Start, lvl_Agent_04
+
 #lvl_Agent_04 (0)
    3,L,D,X
    1,L,J
@@ -103,7 +104,7 @@ EndStunPause
   10,R
    1
 #Spinner Cycle
-   1
+   0
 #
    6,R,Z
    1,R,J
@@ -122,4 +123,4 @@ EndStunPause
 #lvl_Agent_05
 Read, ../StrawberryJamTAS/4_Expert/a_change_in_direction, lvl_Agent_05
 
-ChapterTime: 1:00.146(3538)
+ChapterTime: 0:59.925(3525)

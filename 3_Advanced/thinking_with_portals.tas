@@ -1,20 +1,22 @@
-RecordCount: 1891
+RecordCount: 1919
 
 console load StrawberryJam2021/3-Advanced/sp1029
    1
 
 #Start
 
-#PowerBox Cycle
-  24
+#Spinner cycle
+# Works with 2 cycles so should never be 2
+   0
 
 #lvl_a-01
-Read, ../StrawberryJamTAS/3_Advanced/thinking_with_portals, lvl_a-01, lvl_a-06
+Read, ../StrawberryJamTAS/3_Advanced/thinking_with_portals, lvl_a-01, lvl_a-06 (0)
 
-#lvl_a-06
+#lvl_a-06 (0)
    1,R
    1,R,J
   14,R,D,X
+#any%-end
    1,R,J
    7,R
    1,R,J
@@ -61,70 +63,52 @@ Read, ../StrawberryJamTAS/3_Advanced/thinking_with_portals, lvl_a-01, lvl_a-06
    7,R,J
   40
 
-#lvl_a-07
+#lvl_a-07 (0)
   11,R,J
    5,R,Z
+#any%-start
    1,R,J
    6,R
    7,R,J
    1,J
    1,R,K,G
    4,K
-  15,U,Z
-   1
+  14,U,Z
+   2
    2,L,K,G
    7,L
+# Berry collection, +8f
+   8
    4,L,J
    5,D,X
-   3,R
    7
-   7,R,D,X
-   4,L,K
-  18,L,J,G
-  17,L,D,G
-  17,R,J,G
-   1,L,D,G
-  16,R,D,G
-   4,R,G
-   9,R
-  15,R,Z
-  19,L,D
-  22,L,D,G
-   1,L,D
-   7,U,X
-  21,D,G
-  12,R,D,G
-  11,D,G
-  11,J,G
-   1,D
-  10,U,X
-  14,J,G
-   9,L,J,G
-   9,L
-  10,R,Z
-   1,L,J
-  12,L
-  11,L,U,X
-  23,L,G
-   1,L
-  12,D
-   5,L,D
-  13,R,D
-  10,D
-   7,R,Z
-   1,R,J
-   5,R,K,G
    3,R
-   1,R,J,G
-   5,R
-   1,R,J
-   1,R
+   7,R,D,X
+  12,L,J
+  17,L,D
+  26,R,D
+   3,R
+  20,R
+   4,R
+  18,D,X
+  13,U,C
+  18,D
+  14,R,D
+   6,L
+  15,D,X
+   9,D
+  10,L,D
   40
 
-#lvl_a-08
-Read, ../StrawberryJamTAS/3_Advanced/thinking_with_portals, lvl_a-08, lvl_a-09
+#lvl_a-06 (1)
+   6,U,X
+  40
+
+#lvl_a-07 (1)
+Read, ../StrawberryJamTAS/3_Advanced/thinking_with_portals, lvl_a-07 (1), lvl_a-09
 
 #lvl_a-09 (0)
+#any%-end
    5,R,D,X
   11,R,J
    2,R
@@ -212,8 +196,7 @@ Read, ../StrawberryJamTAS/3_Advanced/thinking_with_portals, lvl_a-08, lvl_a-09
    4,R
   11,R,U,X
   23,R,D,G
-   4,R,J,G
-  11,R,K,G
+  15,R,K,G
    1,R
   14,R,Z
    8,R,J
@@ -238,7 +221,7 @@ Read, ../StrawberryJamTAS/3_Advanced/thinking_with_portals, lvl_a-08, lvl_a-09
   22,R,G
   43
 
-#lvl_a-11(0)
+#lvl_a-11 (0)
    6,R,G
   12,R,J,G
    1,R,G
@@ -353,7 +336,10 @@ Read, ../StrawberryJamTAS/3_Advanced/thinking_with_portals, lvl_a-08, lvl_a-09
    4,R,D
   10,D
   10,R,D
-   6,R,Z
+## PowerBox Cycle
+  28
+##
+   5,R,Z
    1,R,J
    3,R
   40
@@ -371,6 +357,7 @@ Read, ../StrawberryJamTAS/3_Advanced/thinking_with_portals, lvl_a-08, lvl_a-09
 #   6,U,C
 # 135
 ##
+   1,R,J
    4,R
    1,R,J
    4,Z
@@ -382,4 +369,4 @@ Read, ../StrawberryJamTAS/3_Advanced/thinking_with_portals, lvl_a-08, lvl_a-09
   53,R,D
   82,R,J
 
-ChapterTime: 1:15.939(4467)
+ChapterTime: 1:15.259(4427)

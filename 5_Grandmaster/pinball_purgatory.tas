@@ -1,10 +1,13 @@
-RecordCount: 1983
+RecordCount: 1984
 
 console load StrawberryJam2021/5-Grandmaster/maya
    1
 
 #Start
  190
+
+#Spinner Cycle
+   2
 
 #lvl_Insert Coin
 Read, ../StrawberryJamTAS/5_Grandmaster/pinball_purgatory, lvl_Insert Coin, lvl_Phase 
@@ -723,5 +726,4 @@ endRepeat
   16,D,X
  134,R,D
 
-
-ChapterTime: 3:27.417(12201)
+ChapterTime: 3:26.040(12120)

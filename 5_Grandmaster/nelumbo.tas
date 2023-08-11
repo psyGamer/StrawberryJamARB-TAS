@@ -1,16 +1,149 @@
-RecordCount:
+RecordCount: 380
 
 console load StrawberryJam2021/5-Grandmaster/tofu
    1
 
 #Start
-#lvl_Atrium
-   1,J
+Read, ../StrawberryJamTAS/5_Grandmaster/nelumbo, Start, lvl_Rat Run
+
+#lvl_Rat Run
+   1,R,D,X
+   2,R,J
+  15,D,X
+   8,R,J
+   7,R,Z
+   6,R,J
+  11,R,D
+  20,D
+  12,R,D,X
+   3,R,J
+  12,L,D,X
+   3,R,J
+  14,R,X
+  21,R,G
+   1,D
+  17,R,D,X
+  13,R,G
+  18,R,X
+  13,U,C
+   2,L,J
+   7,L,X
+  15,L,G
+   9,L,D
+   1,L,J
+  13,L,U,X
+  13,L,G
+  17,L,X
+   1,R,J
+   9,R,U,X
+  13,R,G
+  16,R,U,X
+  13,R,G
+  10,R,D,X
+  13,R,G
+   1,R,J
+#any%-end
+  14,R,D,X
+  20,R,G
+   1,D,G
+   1,D
+   2,R
+  20,R,G
+   1,D,G
+   1,D
+   2,R
+  10,R,G
+  10,L,G
+   1,D,G
+   1,D
+   7,R
+   9,R,X
+  30,R,G
+   1,L
+   6,R
+   1,R,J
+  19
+   9,R,J
+   3,R
+  43
+  15,U,X
+  16,J
+   9,R,K
+   9,R
+   4,R,Z
+   1,R,J
+   7,R
+   3,R,J
+  40
+
+#lvl_Zigzag
+   1,R,J
+  11,R,D,X
+   4,R,J
+  15,R,D,X
+   4,R
+  10,R,J
+  15,R,D,X
+  15,R,D,C
+   9,U,X
+   6,R,J
+  15,R,X
+  15,R,G
+   6,R,X
+  24,R,G
+  24,D
+   4,R,D
+  15,L,D,X
+   4,R,J
+  11,R,D,X
+   8,L,J
+   6,L,U,X
+  21,L,G
+   1,D
+  13,L
+  20,L,J
+   3,L
+   1,G
+  27,D
+  13,L,X
+   4,R,J
+  18,R,U,X
+  17,D,C
+   1,L,J
+  15,L,U,X
+  35,D
+  13,L,U,X
+   3,R,J
+  20,R,D,X
+  15,D,C
+  10,R,X
+   5,L,J
+  18,L,U,X
+  18,D,C
+  12,L,X
+   1,K
+   1,R,K
+   1,K
+  13,R,D,X
+  14,R,U,J,G
+   3,R,K
+   6,R,D,X
+  13,R,G
+   1,R,D
+  10,R,D,X
+  13,R,D,G
+   1,R,J
+   6,R,D,X
+  13,R,G
+  46,R,U,J,G
+  40
+
+#lvl_Lotus
+ 219,R,U,J,G
+   1,L
+  15,R,X
+ 135
 
 
 
-
-
-
-
-ChapterTime: 
+ChapterTime: 1:00.571(3563)

@@ -1,18 +1,231 @@
-RecordCount:
+RecordCount: 770
 
 console load StrawberryJam2021/4-Expert/spirialis
    1
 
 #Start
-  99
+Read, ../StrawberryJamTAS/4_Expert/lunar_pagoda, Start, lvl_5
+#lvl_5
+   2,R,U,X,G
+   1,L,G
+   3,K,G
+   8,G
+   1,R,G
+  14,R,U,X,G
+   2,R,G
+   8,G
+   4,R,Z,G
+   1,R,J,G
+   4,R,G
+   9,R
+   1,R,D,J,G
+   2,R
+   1,R,J,G
+   1,R
+   1,R,J,G
+  10,R
+#any%-end
+   4,R,J,G
+  15,R,D,X,G
+   3,L,D,G
+  15,R,D,G
+   6,R,J,G
+  40
 
-#lvl_0
+#lvl_5-1 (1)
+  22,R
+  15,R,J
+  10,L,K
+   1,L,K,G
+  15,L,X,G
+  12,J,G
+   1,R,K,G
+   6,R,G
+  11,L,J,G
+  20,R,K,G
+  11,R,G
+  16,R,Z,G
+   1,R,J,G
+  33,R,D,G
+   2,L,J,G
+  16,L,D,G
+#cornerslip maybe possible on this zipper, but i wasnt able to do it
+  13,R,D,G
+   6,D,G
+   4,R,Z
+   7,R,Z,G
+  30,R,J,G
+   1,R,K
+  10,R,U,X
+  96
+   4,L,Z
+   1,L,J
+   7,L
+  40
+
+#lvl_5-1 (2)
+   3,L,J
+  15,L,X
+   4,L,G
+   1,J,G
+  12,J
+   7,R,J
+  16,U,X
+  16,J
+   8,K
+   6,J
+   6,K
+   6,J
+   6,K
+   7,J
+   1,K
+  20,R,K
+#resyncing with any%
+  10,R,Z
+   1,R,J
+   6
+   4,R,J
+   7,R,U,Z
+  40
+
+#resynced
+Read, ../StrawberryJamTAS/4_Expert/lunar_pagoda, lvl_6, lvl_7
+#any%-end
+#lvl_7 (1)
+   1,R,J
+   5,R
+  15,R,U,X
+  10
+  11,R,Z
+   4,R,J
+  15,R,D,X
+   5,R,D
+   1,R,J
+  40
+
+#lvl_7-1
+  13,R,J
+   7,R,Z
+   8,R,J
+   5,R
+  15,D,X
+  15
+  11,R,D,X
+   9,R,J
+  58,G
+   1,R,J
+   1,G
+   1,R,J
+   1,G
+   1,R,J
+   1,G
+   3,R,J
+  16,R,D,X
+  58,G
+   1,R,D,J
+   1,G
+   1,R,D,J
+   8,G
+  12,R,J
+  15,R,D,X
+  23,R
+  95,R
+   1,R,J
+   2,J
+  11,L,D,X
+   6,L,J
+  10,L,D,X
+  40
+   
+#lvl_7 (2)
+   4,L,D
+  15,L,J
+   5,K
+   6,L,K
+  15,L,X
+  23,L,D
+  11,L,Z
+   7,L,J
+  15,R,D,X
+   6,R,J
+#resynced
+   6,R
+   4,R,X
+  11,R,J
+  10,R
+  26
+   6,L
+   9,L,J
+  15,R,K
+  10,R,U,X,G
+  11,J,G
+   2,R,D,G
+  13,D,G
+   7,L,D,G
+   1,D
+   2,L,D
+   9,L,D,J,G
+   6,L,G
+  10,L,D,J,G
+   3,D,J,G
+  15,U,X
+  15,R,Z
+   8,R,G
+  15,R,J,G
+   1,K,G
+  25,R,K,G
+   1,J,G
+  28,L,K,G
+  40,L,U,Z
+   6,L,X
+  13,L,X,G
+   7,L,J
+   1,L
+   1,K
+   7,R,J
+   1,R
+  14,R,X
+   4,R
+   3
+  15,D,X
+  90
+   9,L,Z
+   1,R,J
+   7,R
+   1,R,J
+   9,R
+  24,R,D,J
+  12,U,X
+  45,L
+  25
+  10,L
+   1,L,J
+#let go of grab a few frames later because block breaks for some reason otherwise
+  81,G
+  10,L,J
+  13,U,X
+  13,G
+   1,L
+  47,G
    1,J
+   1,K
+   5,R
+  60,G
+   4,Z
+   1,R,J
+   4,R
+   5,R,G
+ 115,R
+#might be possible to stunpause here
+   1,R,J,G
+  11,J,G
+  18,U,X,G
+  11,R,Z,G
+   5,R,J,G
+  40
+
+Read, ../StrawberryJamTAS/4_Expert/lunar_pagoda, lvl_8
 
 
 
-
-
-
-
-ChapterTime: 
+ChapterTime: 1:24.813(4989)

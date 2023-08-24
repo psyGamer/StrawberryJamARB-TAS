@@ -1,4 +1,4 @@
-RecordCount: 439
+RecordCount: 515
 
 console load StrawberryJam2021/5-Grandmaster/tofu
    1
@@ -84,37 +84,42 @@ Read, ../StrawberryJamTAS/5_Grandmaster/nelumbo, Start, lvl_Rat Run
    4,R,Z
    1,R,J
    7,R
-   3,R,J
+   1,R,J
+   2,R
   40
 
 #lvl_Zigzag
-   1,R,J
-  11,R,D,X
-   4,R,J
-  15,R,D,X
-   4,R
+  14,R,D,X
+   2,R,J
+  18,R,D,X
   10,R,J
   15,R,D,X
-  15,R,D,C
+  14,R,D,C
+   1,L,J
    9,U,X
    6,R,J
-  15,R,X
-  15,R,G
-   6,R,X
-  24,R,G
+  16,R,X
+  14,R,J,G
+   9,R,D,X
+  21,R,J,G
+   1,D,J
+   1,R,J
   24,D
-   3,R,D
   15,L,D,X
-   4,R,J
-  11,R,D,X
-   8,L,J
-   6,L,U,X
+   1,R,J
+   2,J
+  10,R,D,X
+   5,L,J
+   8,L,U,X
   21,L,G
    1,D
-  14,L
+   9,L,D
+   2,L
   12,L,J
-  13,L,D
-   1,D
+   7,L
+   1,L,J
+   4,L,D
+   3,D
    4,R,D
   16,L,D
   12,L,X
@@ -167,4 +172,4 @@ Read, ../StrawberryJamTAS/5_Grandmaster/nelumbo, Start, lvl_Rat Run
   14,R,U,X
  135
 
-ChapterTime: 0:59.670(3510)
+ChapterTime: 0:59.551(3503)

@@ -1,18 +1,512 @@
-RecordCount:
+RecordCount: 1696
 
 console load StrawberryJam2021/4-Expert/Flamecrafter113
    1
 
 #Start
-  92
+Read, ../StrawberryJamTAS/4_Expert/overgrown_linn.tas, Start, lvl_a-01
 
-#lvl_a-00-start
+#lvl_a-01(0)
+   4,D,X
+   1,R,J
+  11,D,X
+  21,R,J
+   2,L,J
+  10,R,D,X
+   4,R,J
+   2,R
+  15,D,X
+   1,R,D
+  14,D,X
+  16,R,J
+  14,R,X
+   1,R,J
+   9,D,X
+   1,R,J
+#any%-end
+  31,R,D
+   5
+  23,R,U,Z
+   4,R,J
+  10,U,X
+  12,R,J
+  40
+
+#lvl_a-01_berry
+   7,R
+   1
+   3,R
+   9,D,X
+  12,L,J
+  14,D,X
+   3,L,J
+   9,D,X
+  15,L,J
+   4,L
+  11,D,X
+   1,L,J
+  21,L,D
+  27,L,Z
+   4,L,J
+   4,L,X
+   1,L,J
+  31,L,D
+   9,D
+   9,D,X
+  14,L,J
+   1,L
+  14,R,X
+   1,R,J
+  11,D,X
+   2,R,J
+   5,R
+  19,R,D,X
+  21,R
+  27,U,X
+  57,R
+  13,R,Z
+  20,R,J
+  14,R,X
+   1,R,J
+  12,D,X
+#frame ties
+#  25,L,D
+#  15,D
+#   9,D,X
+#   7,L,J
+#   8,R,J
+#  14,R,X
+#  15,R,J
+#  26,R
+#   4,R,D
+#  24,R,Z
+#  24,U,X
+#  45,R
+#  14,R,D,X
+#   1,R,J
+#   9,D,X
+#  15,R,J
+#  14,R,X
+#   1,R,J
+#  11,D,X
+   5,R,J
+   4,R
+  14,D,X
+   5,R,J
+  20,R
+  40,D
+  34,L,D
+  15,D,X
+   6,R,D
+  40
+
+#lvl_a-01(1)
+  13,L,D
+  24,R,D,X
+   4,R,J
+   5,R,C
+   1,R,J
+   4,R
+   4
+   1,R,J
+   7,D,X
+  40
+
+#lvl_a-02
+   9,R,J
+  10,D,X
+  12,J
+   4
+  15,R,U,X
+   9,R
+#any%-start (holds left longer to resync)
+  12,R,X
+   3,L,J
+   9,D,X
+  18,L,J
+   1,R,K
+   2,R,J
+   3,R
+  10,L,Z
+  13,R,J
+  23,R,X
+   7,R,J
+   8,R,Z
+   9,R,J
+  40
+
+#lvl_a-03
+Read, ../StrawberryJamTAS/4_Expert/overgrown_linn.tas, lvl_a-03, lvl_a-07
+
+#lvl_a-07(0)
+   3,R
+   1,R,J
+   9,D,X
+  23,R,J
+  33,R,X
+   4,R,J
+   6,R,Z
+  25,R,J
+  32,R,U,Z
+#any%-end
+   4,L,J
+  28,L,U,X
+   5,L,J
+   1,L
+  12,U,X
+  23,L,J
+  15,R,U,X
+   9
+  10,R,D,X
+  22,L,J
+  14,L,X
+   1,L,J
+  12,D,X
+   2,L,J
+  10,L
+  11,U,X
+  43
+
+#lvl_a-07_berry
+  11,R
+   9,D,X
+   1,R,J
+  17,L,J
+  10,R,U,X
+   4,R,J
+  27,R,K
+  17,U,X
+  20,R,J
+  11,R,X
+  26,L,J
+  17,U,X
+   6,R,J
+  14,J
+  10,R,Z
+  19,L,J
+  44,L,X
+   4,R,J
+   6,R,Z
+  29,R,J
+  34,R,U,Z
    1,J
+   6,D,X
+  22,L,J
+   5,U,X
+  33,L,J
+  30,R,K
+  36,R,U,Z
+  11,U,X
+  44,R,J
+  10,R,D
+  77
+  13,R,D,X
+   2,R,J
+  12,D,X
+  40
+
+#lvl_a-07(1)
+   3,L,D
+  15,L,Z
+  20,L,D
+  13,D
+  39,R,D
+  24,R,Z
+  10,R,X
+  13,R,J
+   6,R
+  17,R,U,X
+  13,L,J
+  45,L,X
+#any%-start
+   4,R,J
+   6,R,Z
+  12,R,J
+  49,R,D
+  15,R,X
+   5,R,D
+   4,R,X
+  10,R,J
+  15,R,D
+   1,D
+  35,R,D
+  19,R,Z
+   8,R,D,X
+   4,R,J
+   5,R
+  10,R,J
+  15,U,X
+   6,R
+  10,L,U,C
+   6,R,J
+  10,L,Z
+  18,R,J
+  15,R,U,X
+   9,R
+   4,R,C
+   8,R,J
+   4,R
+   1,R,J
+   7,D,X
+  43
+
+#lvl_a-08(0)
+   7,D
+   1,R,J
+  10,D,X
+   5,R,J
+  22,R,Z
+   4,R,J
+   7,R,X
+  21,R,J
+  10,R
+  14,R,X
+  16,L,J
+  15,U,X
+  18,L
+  10,L,D,X
+  20,R,J
+  14,R,X
+   1,R,J
+  12,D,X
+   6,R,J
+  40,R,D,X
+   7,R,J
+   4,R,X
+  10,R,J
+  15,R,D,X
+  18,R
+  20,R,D
+   1,R,J
+   9,D,X
+   5,R,J
+  19,R
+  15,R,Z
+  20,L
+   3,D
+Repeat 5
+   3
+   3,D
+EndRepeat
+  10,J
+   2,R
+  15,L,Z
+   6,L
+   2,L,J
+  10,R,D,X
+  10,L,J
+  20,L
+  10,L,D,X
+  15,R,J
+   8,R
+  25,R,X
+   4,R,J
+   4,R,X
+  15,R,J
+  15,R,D,X
+  20,R
+  13,R,D
+   1,D
+   9,D,X
+  10,L,J
+   8,L
+   4,R
+   1,R,J
+   5,R
+  14,L,X
+  24,R,J
+  15,R,D
+   2,R
+#any%-end
+   1,R,J
+   5,R,K
+  11,U,X
+  14,L,J
+   3,L
+  11
+  14,U,X
+  22,L,J
+  40
+
+#lvl_a-08_berry
+  11,L
+  13,L,X
+   1,L,J
+   7,L
+   4,L,J
+  10,L,Z
+   1,J
+   4,L
+  13,L,Z
+  13,J
+  14,L,X
+   1,L,J
+  15,D,X
+   2,L
+   3,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+   2,L,J
+StunPause
+   7,L,J
+SkipInput,3,1
+   9,D,X
+   5,L,J
+EndStunPause
+  20,L,J
+   9,D,X
+   3,L,J
+   1,L
+  96
+  16,R,D,X
+  40
+
+#lvl_a-08(1)
+   7,L,D
+   8,D
+  35,R,D
+  12,R,U,Z
+  14,R,J
+  14,R
+   1,R,J
+   1,R
+   6,R,X
+   1,R,J
+   5,R
+  40
+
+#lvl_a-09
+   1,R
+   6,R,J
+  15,R,D,X
+   1,R
+   7
+  27,R,Z
+   4,R,J
+   5,R,Z
+  26,R,J
+  15,U,X
+  13,J
+   4,L,J
+   1,J
+   2,L,J
+  28,L,K
+  21,R,J
+  24,R
+   1,R,J
+  11,D,X
+  22,R,J
+  14,R,X
+   9,R,J
+  31,R,D
+  15,R,C
+   8,L,J
+  33,L,D
+  15,L,X
+  32,L,D
+   3,L
+   1,L,D
+   5,L,X
+  21,R,J
+  14,R
+#any%-start
+  29,R,X
+   4,R,J
+   4,R,Z
+   1,J
+  22,L,J
+   6,L,X
+  26,R,J
+   2,R
+  15,U,X
+  13,R,J
+   9,R
+   4,R,J
+   1,R
+   3,R,J
+  12,R,D
+   7,R,X
+   1,R,J
+   5,R
+  40
+
+#lvl_a-10-end(0)
+   1,R
+   1,R,J
+   9,D,X
+#any%-end
+  11,R,J
+  15,R,D,X
+   9,D,C
+   9,R,J
+  10,D,X
+   4,R,J
+  40
+
+#lvl_a-10_berry
+   1,R
+  15,D,X
+  15,R,D,C
+  14,U,X
+   5,R,J
+  10,J
+  15,U,X
+  15,J
+  15,R,U,X
+  16,L
+   9,D,X
+  12,L,J
+  16,L
+   4,L,J
+  17,L,X
+  11,R,J
+  22,R,D
+  35,R,U,Z
+   4,L,J
+   6,L,K
+   4,L
+  16,U,X
+  14,R,D,J
+  41,R,Z
+   4,L,J
+  18,L,K
+  15,L,X
+  17,L,D
+   1,L
+  15,L,X
+   7,L,J
+  15,U,X
+   2,R,J
+  17,J
+   4,L,X
+  31,R,J
+  14,R,X
+   2,R,J
+   9,R,D,X
+   1,S
+   1,D,J
+  34
+   6,R,D
+   4,L,Z
+  13,L,J
+  77
+  13,L,D
+  10,L,X
+   2,L,J
+   8,L
+   1,L,J
+  10,D,X
+  43
+
+#lvl_a-10-end(1)
+   4,D
+   1,L,J
+  13,D,X
+   2,L,J
+  13,L,U,X
+ 135
 
 
 
-
-
-
-
-ChapterTime: 
+ChapterTime: 1:56.722(6866)

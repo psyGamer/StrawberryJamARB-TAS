@@ -4,7 +4,7 @@ console load StrawberryJam2021/4-Expert/nyan
    1
 
 #Start
-Read,../StrawberryJamTAS/4_Expert/subway_neon,Start,lvl_a-05
+Read, ../StrawberryJamTAS/4_Expert/subway_neon, Start, lvl_a-05
 
 #lvl_a-05 (0)
    7,R,D
@@ -171,6 +171,7 @@ Read,../StrawberryJamTAS/4_Expert/subway_neon,Start,lvl_a-05
    5,R,D,X
   40
 
-Read,../StrawberryJamTAS/4_Expert/subway_neon,lvl_a-06
+#lvl_a-06
+Read, ../StrawberryJamTAS/4_Expert/subway_neon, lvl_a-06
 
-ChapterTime: 1:23.300(4900)
+ChapterTime: 1:23.283(4899)

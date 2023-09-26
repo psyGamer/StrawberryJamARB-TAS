@@ -4,7 +4,7 @@ console load StrawberryJam2021/1-Beginner/frozenflygone
    1
 
 #Start
-read, ../StrawberryJamTAS/1_Beginner/potential_for_anything,Start,lvl_SS2-5b
+Read, ../StrawberryJamTAS/1_Beginner/potential_for_anything, Start, lvl_SS2-5b
 
 #lvl_SS2-5b (0)
    3,L,U
@@ -94,7 +94,7 @@ read, ../StrawberryJamTAS/1_Beginner/potential_for_anything,Start,lvl_SS2-5b
   40
 
 #lvl_SS2-7
-read, ../StrawberryJamTAS/1_Beginner/potential_for_anything,lvl_SS2-7,lvl_Lab-4 (0)
+Read, ../StrawberryJamTAS/1_Beginner/potential_for_anything, lvl_SS2-7, lvl_Lab-4 (0)
 
 #lvl_Lab-4 (0)
    1,R,J,G
@@ -159,7 +159,7 @@ endRepeat
   40
 
 #lvl_Lab-3
-read, ../StrawberryJamTAS/1_Beginner/potential_for_anything,lvl_Lab-3,lvl_WZ-4
+Read, ../StrawberryJamTAS/1_Beginner/potential_for_anything, lvl_Lab-3, lvl_WZ-4
 
 #lvl_WZ-4
    6,L,D
@@ -193,6 +193,8 @@ read, ../StrawberryJamTAS/1_Beginner/potential_for_anything,lvl_Lab-3,lvl_WZ-4
    1,R,J
    5,R,D,X
    1,L,J
+
 #lvl_WZ-5a
-read, ../StrawberryJamTAS/1_Beginner/potential_for_anything,lvl_WZ-5a
-ChapterTime: 1:51.877(6581)
+Read, ../StrawberryJamTAS/1_Beginner/potential_for_anything, lvl_WZ-5a
+
+ChapterTime: 1:51.860(6580)

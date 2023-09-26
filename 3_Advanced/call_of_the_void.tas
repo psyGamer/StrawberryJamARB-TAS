@@ -1,10 +1,11 @@
 RecordCount: 716
+
 console wipedebug
 console load StrawberryJam2021/3-Advanced/Viv
    1
 
 #Start
-read,../StrawberryJamTAS/3_Advanced/call_of_the_void,Start,lvl_viv2
+Read,../StrawberryJamTAS/3_Advanced/call_of_the_void, Start, lvl_viv2
 
 #lvl_viv2 (0)
    3,R
@@ -84,7 +85,7 @@ read,../StrawberryJamTAS/3_Advanced/call_of_the_void,Start,lvl_viv2
   40
 
 #lvl_viv3
-read,../StrawberryJamTAS/3_Advanced/call_of_the_void,lvl_viv3,lvl_viv4
+Read, ../StrawberryJamTAS/3_Advanced/call_of_the_void, lvl_viv3, lvl_viv4
 
 #lvl_viv4
   10,R,U,Z
@@ -205,7 +206,7 @@ read,../StrawberryJamTAS/3_Advanced/call_of_the_void,lvl_viv3,lvl_viv4
   40
 
 #lvl_viv5x
-read,../StrawberryJamTAS/3_Advanced/call_of_the_void,lvl_viv5x,lvl_viv7
+Read, ../StrawberryJamTAS/3_Advanced/call_of_the_void, lvl_viv5x, lvl_viv7
 
 #lvl_viv7(0)
    5,R,Z
@@ -251,6 +252,7 @@ read,../StrawberryJamTAS/3_Advanced/call_of_the_void,lvl_viv5x,lvl_viv7
   15,R,D,X
   14,U,C
   50,J
+
 #lvl_viv7(1)
    1,R
   16,L,K
@@ -282,6 +284,7 @@ read,../StrawberryJamTAS/3_Advanced/call_of_the_void,lvl_viv5x,lvl_viv7
    2,R
    1
   40
+
 #lvl_viv8
   12,R,D,X
    1,R,J
@@ -331,7 +334,9 @@ read,../StrawberryJamTAS/3_Advanced/call_of_the_void,lvl_viv5x,lvl_viv7
   40
 #lvl_vivEB
   74,R,J
+
 #lvl_vivEnd(1)
   35,L,U,X
  139,R,C
-ChapterTime: 2:24.194(8482)
+
+ChapterTime: 2:23.990(8470)

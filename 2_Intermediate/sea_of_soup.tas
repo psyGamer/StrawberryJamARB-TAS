@@ -33,25 +33,20 @@ console load StrawberryJam2021/2-Intermediate/SpoopySoup
  117,R,X
 
 #lvl_soup-2
-  19,R,D
-   1,J
-  12,R,D
-   1,R,D
+  20,R,D
+   1,G
+   5,L,D
   21,R,D
-   1,R,J
+Repeat 5
    1,R,K
    1,R,J
+endRepeat
+   1,R
    1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-  19,R,J
-  44,R,X
+  10,R,J,G
+  11,R,D
+   8,R,X
+  34,R,J
   21,R,U,C
   14,R,Z
    7,R,J
@@ -64,11 +59,15 @@ console load StrawberryJam2021/2-Intermediate/SpoopySoup
    5,R
    2,R,J
   14,R
-  12,R,J
-  18,R
-   1,R,J,G
+  11,R,J
+   7,R
+   3,R,J
    9,R
-  71,R,J
+   1,R,K,G
+   1,R,J,G
+  10,R
+  16,R,J
+  49,R
   13,R,X
   15,U,C
   10,R
@@ -218,9 +217,7 @@ console load StrawberryJam2021/2-Intermediate/SpoopySoup
    7,R,J
    2,R
    2,R,J
-   1,R
-   1,R
-  12,R
+  14,R
    1,R,K,G
    1,R,J,G
   11,R
@@ -232,12 +229,11 @@ console load StrawberryJam2021/2-Intermediate/SpoopySoup
   10,R,U,G
   11,R,J,G
   19,R,D
-   6,R,J
-  12,R
-   2
-   1,R
+   5,R,J
+  15,R
+   1
    3,L,J,G
-  17,R,K
+  14,R,K
   40
   15,R,X
   12,L
@@ -268,8 +264,7 @@ console load StrawberryJam2021/2-Intermediate/SpoopySoup
    1,L
    2,R
    3
-   4,L
-   8,L
+  12,L
    1
    1,L
   41,R
@@ -415,7 +410,8 @@ console load StrawberryJam2021/2-Intermediate/SpoopySoup
   15,L
   34,L,U,X
 #spinner cycle
-   1
+   0
+##
   15,D,C
   20,L,D
   40
@@ -478,4 +474,4 @@ EndRepeat
   15,D,X
  135,R
 
-ChapterTime: 1:45.519(6207)
+ChapterTime: 1:45.264(6192)

@@ -1,4 +1,4 @@
-RecordCount: 579
+RecordCount: 625
 
 console load StrawberryJam2021/2-Intermediate/vitellary
    1
@@ -7,66 +7,72 @@ console load StrawberryJam2021/2-Intermediate/vitellary
 Read, ../StrawberryJamTAS/2_Intermediate/pointless_machines, Start, lvl_03
 
 #lvl_03 (0)
-   1,R
-  10,R,Z
+   2,R,D
+   5,R,Z
    1,R,J
-   6,R
-   7,R,J
+   1,R
+   1,R,J
+   1,R,K,G
+   1,R
+   1
+   7,R
+   1,R,J
+   3,J
+   2,R,J
+   1,R
+   1
    5,R
-  14
-   9,D
+  26,D
    1,R,D
-   4,D
+   2,L,D
+   3,D
+   1
+   1,R,D
+   4,R
+  13,R,X
+  10,R,J,G
+   2
+   3,R
+   1,R,J
+   1,J
+   2,R
+  14,R,X
+   7,L
+  19,U,X
+  15,L,Z
+  15,R,X
    1,R,D
    1,D
-   1,R,D
-   4,D
-   3
-   3,R
-  13,R,X
-   6,R,J,G
-  12,R
-  14,R,X
-  15,L
-  19,L,U,X
-  15,R,C
-  16,R
-   5
-   2,D
-   2,L
-   3,R,D
-  16,R,X
-  15,R,Z
-   1,L
-   1,J,G
-   4
-   5,R
+   4,R,D
+   9,D
+  15,R,D,X
+   1,R
+  19,R,Z
+   1,R
+   2,R,J
+   4,R
   15,R,X
-  27,R,D
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  10,R
-  40
-
-#lvl_04 (0)
-   5,L,X
-  40
-
-#lvl_03 (1)
-  10,L,X
-   2,L
-  15,U,X
-  11,U,C
-  18,L,J
+  28,R,D
+  15,R,J
+  11,K,G
+   1,L,K
+  14,R,J,G
+   1,K,G
+   1,R,K
+   8,K
+   1,L,K
+  14,R,J,G
+   1,K,G
+   1,R,K
+   1,K
+   1,L,K
+   1,J
+  24,R,J
+  38,L,K
   15,L,U,X
-  14,L,U,Z
-   1,R,J,G
-   5,L,J,G
-  12,L,K,G
-   6,L,J,G
+  12,L,J
+  12,K,G
+   2,J,G
   40
 
 #lvl_03-berry
@@ -100,7 +106,7 @@ Read, ../StrawberryJamTAS/2_Intermediate/pointless_machines, Start, lvl_03
    5,L,D
   40
 
-#lvl_03 (2)
+#lvl_03 (1)
    2,L,D
   18,R,D
   15,R,X
@@ -112,7 +118,7 @@ Read, ../StrawberryJamTAS/2_Intermediate/pointless_machines, Start, lvl_03
   10,R,D,X
   40
 
-#lvl_04 (1)
+#lvl_04
    5
   11,L,Z
    6,R,J
@@ -274,4 +280,4 @@ EndRepeat
 #lvl_08
 Read, ../StrawberryJamTAS/2_Intermediate/pointless_machines, lvl_08
 
-ChapterTime: 1:11.604(4212)
+ChapterTime: 1:09.955(4115)

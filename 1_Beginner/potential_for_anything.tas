@@ -1,32 +1,28 @@
-RecordCount: 375
+RecordCount: 462
 
 console load StrawberryJam2021/1-Beginner/frozenflygone
    1
 
 #Start
-Read, ../StrawberryJamTAS/1_Beginner/potential_for_anything, Start, lvl_SS2-5b
+Read,../StrawberryJamTAS/1_Beginner/potential_for_anything,Start,lvl_SS2-5b
 
 #lvl_SS2-5b (0)
-   3,L,U
-  14,L,U,X
-   2,L,J
-  14,L,U,X
-   1,L
-   5,U,X
-  15,U
-   8,R,U
-  11,R,U,X
-  18,R,J
-  15,R,Z
-  11,R,X
+   1,S,N
+   1,D,J
+  69,O
+   4,R,Z
    1,R,J
-   9,R,U
-  15,U,X
-   4,R,U
+   7,R
+   3,R,J
+  15,R,U,X
+   6,R,U
+   5,U
+   6,L,U
   40
+
 #lvl_SS2-6
-   8,L,U
-   1,L
+   5,L,U
+   3,L
    7,L,Z
    1,L,J
    6,L
@@ -77,26 +73,10 @@ Read, ../StrawberryJamTAS/1_Beginner/potential_for_anything, Start, lvl_SS2-5b
   40
 
 #lvl_SS2-3
-  57,D
-   5,R,D
-  12,R,D,X
-   3,R,J
-   2,R,K,G
-   9,R,G
-  10
-  13,L,D,X
-   3,R,J
-   6,R,D,Z
-   1,R,K,G
-   3,R
-   1,R,J
-   3,R
-  40
-
-#lvl_SS2-7
-Read, ../StrawberryJamTAS/1_Beginner/potential_for_anything, lvl_SS2-7, lvl_Lab-4 (0)
+Read,../StrawberryJamTAS/1_Beginner/potential_for_anything,lvl_SS2-3 (2),lvl_Lab-4 (0)
 
 #lvl_Lab-4 (0)
+#any%-end
    1,R,J,G
    5,R
    5
@@ -104,13 +84,14 @@ Read, ../StrawberryJamTAS/1_Beginner/potential_for_anything, lvl_SS2-7, lvl_Lab-
    1,R,J
    5,R
   40
+
 #lvl_Lab-5 (0)
    1,R
    1,R,J
-repeat 4
+Repeat 4
   14,R,U,X
    1,R,J
-endRepeat
+EndRepeat
    6,R,U,X
    1,R,J
    1,R
@@ -119,11 +100,9 @@ endRepeat
 #lvl_Lab-5berry
    6,R
   20,R,J
-   1,R,K,G
-  10,R,X
-   9,R,J
-   1,J
-  10
+   2,R,K,G
+  11,R,J,G
+  13,R
   14,L,U,X
    1,L,J
   14,R,Z
@@ -133,10 +112,11 @@ endRepeat
   14,L
    1,L,J
   15,L,U,X
-   2,L,U
+   2,L
    1,L,J
    4,L
   43
+
 #lvl_Lab-5 (1)
   10,L
    1,L,J
@@ -159,11 +139,12 @@ endRepeat
   40
 
 #lvl_Lab-3
-Read, ../StrawberryJamTAS/1_Beginner/potential_for_anything, lvl_Lab-3, lvl_WZ-4
+Read,../StrawberryJamTAS/1_Beginner/potential_for_anything,lvl_Lab-3,lvl_WZ-4
 
 #lvl_WZ-4
    6,L,D
   14,L,D,X
+#any%-end
    1,L,J
   15,D,X
   15,L,D
@@ -185,6 +166,7 @@ Read, ../StrawberryJamTAS/1_Beginner/potential_for_anything, lvl_Lab-3, lvl_WZ-4
    1,R,D
    1,D
    1,R,D
+#any%-start
    6,R,D,X
    1,R,J
    2,R
@@ -197,4 +179,4 @@ Read, ../StrawberryJamTAS/1_Beginner/potential_for_anything, lvl_Lab-3, lvl_WZ-4
 #lvl_WZ-5a
 Read, ../StrawberryJamTAS/1_Beginner/potential_for_anything, lvl_WZ-5a
 
-ChapterTime: 1:51.554(6562)
+ChapterTime: 1:51.282(6546)

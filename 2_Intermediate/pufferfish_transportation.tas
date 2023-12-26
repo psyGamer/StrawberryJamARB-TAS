@@ -1,4 +1,4 @@
-RecordCount: 1579
+RecordCount: 1601
 
 console load StrawberryJam2021/2-Intermediate/Rocketguy2
    1
@@ -283,9 +283,30 @@ Read, ../StrawberryJamTAS/2_Intermediate/pufferfish_transportation, lvl_RG2-6, l
 #OPTIMIZABLE
 
 #lvl_RG2-7
-  10,D
-   4
-   3,D
+
+
+
+
+
+  12,D
+   3
+   1,D
+   1
+   1,D
+
+
+
+
+
+#  10,D
+#   4
+#   3,D
+
+
+
+
+
+
    4,Z
    1,R,J
    6,R
@@ -315,7 +336,11 @@ Read, ../StrawberryJamTAS/2_Intermediate/pufferfish_transportation, lvl_RG2-6, l
    7,L,J
    5,J
   14,L,U,X
-  39
+  38
+   1,R,G
+#Spinner Cycle [RG2-8]
+   2,R,G
+####
   15,R,X
   31
    5,R,K
@@ -337,6 +362,10 @@ Read, ../StrawberryJamTAS/2_Intermediate/pufferfish_transportation, lvl_RG2-6, l
    1,R,K,G
    9,R
   40
+
+
+
+
 
 #lvl_RG2-8
 Read, ../StrawberryJamTAS/2_Intermediate/pufferfish_transportation,lvl_RG2-8, lvl_RG2-9
@@ -466,8 +495,9 @@ EndRepeat
    8,R,G
  135
 
-
 ChapterTime: 1:59.085(7005)
+
+
 
 #Simulate Save&Quit
 #ChapterTime: 1:56.739(6867)

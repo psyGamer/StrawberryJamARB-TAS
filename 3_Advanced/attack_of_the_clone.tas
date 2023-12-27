@@ -1,4 +1,4 @@
-RecordCount: 222
+RecordCount: 224
 
 console load StrawberryJam2021/3-Advanced/pugroy
    1
@@ -16,8 +16,8 @@ Read, ../StrawberryJamTAS/3_Advanced/attack_of_the_clone, Start, lvl_BR-Outro
    7,R,J
   15,R,D,X
 #any%-end
-  11,R,J
-   1,J
+   9,R,J
+   3,J
   15,R,U,X
   14,U,C
    9,J
@@ -68,4 +68,4 @@ EndRepeat
   31,U,X
    3,L,J
 
-ChapterTime: 1:12.097(4241)
+ChapterTime: 1:11.281(4193)

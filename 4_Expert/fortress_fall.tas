@@ -1,12 +1,13 @@
-RecordCount: 6063
+RecordCount: 6064
 
 console load StrawberryJam2021/4-Expert/Aspar
    1
 
 #Start
   61
+
 ### spinner cycle [08]
-   2
+   1
 ###
 
 #lvl_00-intro
@@ -590,4 +591,4 @@ Read,../StrawberryJamTAS/4_Expert/fortress_fall.tas, lvl_00-intro, lvl_05-hub (0
 #lvl_05-hub (4)
 Read,../StrawberryJamTAS/4_Expert/fortress_fall.tas, lvl_05-hub (1)
 
-ChapterTime: 2:14.096(7888)
+ChapterTime: 2:13.841(7873)

@@ -1,16 +1,17 @@
-RecordCount: 440
+RecordCount: 795
 
 console load StrawberryJam2021/1-Beginner/Jadeturtle
    1
 
 #Start
-Read, ../StrawberryJamTAS/1_Beginner/strawberry_orchard, Start, lvl_a-02y
+Read,../StrawberryJamTAS/1_Beginner/strawberry_orchard,Start,lvl_a-02y
 
 #lvl_a-02y
   11,R,G
   10,R,J,G
-  16,R,G
+  15,R,G
    4,G
+   1,R,G
   28,R,G
   19,R,G
    2,G
@@ -22,31 +23,36 @@ Read, ../StrawberryJamTAS/1_Beginner/strawberry_orchard, Start, lvl_a-02y
   29,R
   11,U,C
   14,R,J
+#any%-end
    6,R
    5
-  10,R,Z
-   4,L,J
-  15,L,U,X
-  31,L
-   2,D
-  40,U,X
-   6,R
-  14,R,D,X
-   1,R,J
   10,R,D,X
-  13,G
-  12,R,J,G
-   2,R,G
+   5,L,J
+  12,L,U,X
+  34
+   2,D
+   6,U,X
+  33
+   1,R,J
+   1,R,K
+  15,R,D,X
+   1,R
+   1,R,J
+# Theo's subpixels are bad and
+# we can't control them...
+# Luckily it's only a +1f resync
+   7,R,D,X
+  13,R,G
+  11,R,J,G
+   3,R,G
   40
 
 #lvl_a-03y
    2,R,G
-   1,G
-   2,R,G
-   1,J,G
-   1
+   3,R,J,G
+   1,J
    9,R,U,Z
-  38,R,G
+  40,R,G
    1,R,D,G
    1,R
   15,R,X
@@ -54,60 +60,66 @@ Read, ../StrawberryJamTAS/1_Beginner/strawberry_orchard, Start, lvl_a-02y
    1
    1,R
    6
-   3,D
-   1,R,D
+   1
    1,D
-#having theo further left
-#would be better
-#I was lucky to even get 6fbh
+   1,R,D
+#any%-start
    8,L,Z
    1,R,J
    6,R
    1,R,J
    5,R,D,X
-  13,G
-   1,R,J,G
-   8,R,G
+  13,R,G
+   1,R,J
+   7,R,G
   40
 
 #lvl_a-04z
-   6,R,G
-  20,R,J,G
-   3,R
+   7,R,G
+  19,R,J,G
+   1
   15,R,D,X
-   4,R
-##theo here, he takes ages
-   9
+   5,R
+  10
   15,U,Z
-   1,J
-   5,L,U,X
+## +2f here
+   1
+   6,L,U,X
+#   5,L,U,X
+##
   17,R
   15,R,D,X
   17,R,D
-   1
    1,R
-   7,D,X
+   6,D,X
   39
-   6,R,D
-   2,R
-   6
-   6,R
-  13,R,X
-  27,R,G
-  32,R,G
-   6,R,G
+## -1f here
+   7,R,D
    1,R
-  15,R,X
-   9,R
-   5
-   5
-   1,R
-   1
+   2
    1,D
-   1,L,D
+   1
+   1,R
+#   6,R,D
+#   2,R
+#   6
+##
+   6,R
+  14,R,X
+  25,R,G
+  32,R,G
+  13,R,G
+   1,R
+  14,R,D,X
+#any%-end
+   3,R
+   4,R,D
+   1,R
+   1,D
+   1
    9,L,Z
    1,R,J
-   1
+   1,R
    5,R
    1,R,J
    5,R,D,X
@@ -120,93 +132,93 @@ Read, ../StrawberryJamTAS/1_Beginner/strawberry_orchard, Start, lvl_a-02y
    3,R,G
    1,R,J,G
   14,R,G
-   5,R,J,G
-  18,R,G
-   8,R,D,G
-   2,J,G
-   1,J,G
-   1,G
-   1,D
-   8,R,D,X
-   1,J
-  18,L
-  14,L,Z
+   7,R,J,G
+   5,R,G
+   4,R,J,G
+  12,R,G
+   1,R,D
+  12,R,D,X
+   4,L,J
+   2,L
+  14,L,D,X
    1,R,J
-  10,R,D,X
-  13,G
-   2,R,J,G
+   5,R,D,X
+  13,R,G
+   6,R,J,G
   40
 
-
 #lvl_a-06z
-  18,R,J,G
+  19,R,J,G
    1,R
-  58,R,D,X,O
-   4,R
-   8,L,U,C
-  21,R
-  10
-   5,R,X
-  21,R,G
-   1,R
-  14,R,D
-   9,R
   12,R,D,X
-   3,L,J
-   9,R,U,X
-  21,R,G
+  47
+   2,R
+   6,L,D,X
+   9,R
+  13,L,X
+   9,R
+  14,R,X
+  33,R,G
+  14,R,G
    1,R
-  20,R,D
-   6
-   5,R,Z
+  15,R,D,X
+   1,R
+   1,R
+  14,L,Z
    1,R,J
-   1,R
-   1,R,K,G
-  15,R
-  17
+   5,R,D,X
+   1,R,J,G
+   5
+   8,R
+   1,R,J
+   6,R,K,G
+  15,D,X
+  14
    1,S
    1,D,J
   69,O
-
   14,R,D,X
    1,L,J
    7,L,D,X
-  13,G
+  13,L,G
   11,L,J,G
   40,J
-
 
 #lvl_a-05z (1)
   17,L,J,G
    2,L,K,G
    7,L,G
-  15,L,G
-   1,L
-  14,L,U,Z
-  21,R,G
+  12,G
    1,R
-   8,R,U,X
+   4,L
+  15,L,U,X
+   3,L
+   2,R
+   5,L,U,C
+  22,L,J,G
+   1,L,D
+   1,K,G
+#any%-start
+   6,L
    1,R
-   1,R,G
-  13,G
-  31,L,G
-   1,L
-   5,K
-  14,U,X
-  20,G
-   1,R,G
-   1,G
-  15,R,G
+   2,L,J
+  21,L,J,G
+   3,L,D
+   1,L,J,G
+   1,K,G
+  22,R,K,G
+   1,D
+   9,U,X
+  46,R,G
    1,R
-  15,R,U,X
-   9,R
-   4,R,Z
+   6,R,Z
    1,R,J
-  13,R,G
-   3,R,J,G
-  10,R,G
    1,R
-   7,L,Z
+  20,R,G
+   1,R,J,G
+   1,R,G
+   1,R
+   6,L,D,X
    1,R,J
    5,R
   40
@@ -216,33 +228,38 @@ Read, ../StrawberryJamTAS/1_Beginner/strawberry_orchard, Start, lvl_a-02y
   12,R,J
   15,R,D,X
    1,R,J
-   5,R,D,X
-  13,G
-  12,R,J,G
+   5,R,D,J,X
+  18,R,J,G
+  12,R,K,G
    5,R,G
-   3,R,J,G
-  18,R,G
-   2,R,D,G
-   1,R
-   9,R,U,Z
-  30,R,G
+  10,R,J,G
+  14,R,G
+   1,R,K,G
+  29,R,G
    1,G
    3,R,G
-##theo here, by a little bit
   38,R,D,G
    1,R
   15,R,D,X
    2,D
-   5,R,D
-   1,D
-  10,R
+   6,R,D
+   1,R
+   1
+   2,R,D
+   6,R
   14,R,U,X
   18,R
    4
    4,R
    7,R,X
-  36,R,G
-   3,R,D,G
+  29,R,G
+   1,R,D,G
+   1,R,G
+   1,R,D,G
+   1,R,G
+   2,R,D,G
+   3,R,G
+   1,R,D,G
    1,R
    5,L,Z
    1,R,J
@@ -252,11 +269,12 @@ Read, ../StrawberryJamTAS/1_Beginner/strawberry_orchard, Start, lvl_a-02y
    6,R,D,X
   22,R,J,G
    8,R,G
+#any%-end
   10,R,J,G
-   6,L,K,G
+   7,L,K,G
    1,L
   15,L,U,X
-  54
+  52
    1,R
   13,G
    8,R,G
@@ -266,20 +284,31 @@ Read, ../StrawberryJamTAS/1_Beginner/strawberry_orchard, Start, lvl_a-02y
   14,R,D,X
    1,L,J
    6,L,D,X
-  13,G
+  13,L,G
    1,L,J,G
    7,L,G
-   1,D
+   1,L,D
    8,L,D,X
    1,L,J
    7,L
+## Faster entry, but pipe say "No :)"
+#   1,L,J
+#   6,J
+#   2
+#  10,R,D,X
+#   1,R,J
+#   7,R
+#   3,R,J
+#   9,R,D,X
+##
    7,L,J
    2,L
   14,R,D,X
    1,R,J
   14,R,D,X
    1,R,J
-  46,R,D,C
+   6,R,D,C
+  40
    7,D
    9,R,D
   14,L,D,X
@@ -293,50 +322,26 @@ Read, ../StrawberryJamTAS/1_Beginner/strawberry_orchard, Start, lvl_a-02y
 #lvl_a-08z
    2,R,G
    4,R,J,G
+  26,R,G
+   7,R
+   6,G
+   4,R,D
+#any%-start
+  15,R,D,X
+  15,R
+  12,R
+  14,R,U,X
+  58,R,J,G
+   7
+  13,R,X
+  10,R
   28,R,G
    1,R
-   3,R,D
-##theo here
-  13,R,G
-   3,R,D
-   1,R
-  15,R,D,X
-  34,R
-   8,R,U,X
-  65,R,J,G
-   4,R
-   1,R,K,G
-   6,R,J,G
-   8,R,X
-## loses 2f
-#   6,R
-#  22,R,J,G
-#   1,R
-#  32,R,D
-#  10,L,Z
-#   8,R,J,G
-#  48,R,D,G
-#   3,R
-#  14,R,D,X
-#   1,L,J
-#   6,L,D,X
-#   1,R,J
-#   7,R
-#   3,R,J
-#   3,R,K,G
-#   3,R,J,G
-#   6,R,D,X
-#  13,R,G
-#  99,R,J,G
-##
-  13,R
-  25,R,J,G
-   1,R
   12,R,D
-  11,D
+   8,D
+   2
   10,L,Z
-   6,R,J
-   1,R
+   7,R,J
   14,R,U,X
   12,R,J,G
   28,R,D,G
@@ -357,22 +362,25 @@ Read, ../StrawberryJamTAS/1_Beginner/strawberry_orchard, Start, lvl_a-02y
    5,R,J,G
    2,R,K,G
   40
-Read, ../StrawberryJamTAS/1_Beginner/strawberry_orchard, lvl_a-09z, lvl_a-11z
+
+#lvl_a-09z
+Read,../StrawberryJamTAS/1_Beginner/strawberry_orchard,lvl_a-09z,lvl_a-11z
 
 #lvl_a-11z (0)
+#any%-end
    1
    5,R
-  55,U,X
+  13,U,X
+  42
    7,R,Z
    4,L,J
-  13,G
-   3,L,G
+  16,L,G
   40
 
 #lvl_a-10z
    7,L,G
    1,L,J,G
-   7,L,G
+   6,L,G
    1,L
   72,L,X
    5,D,C
@@ -403,9 +411,8 @@ Read, ../StrawberryJamTAS/1_Beginner/strawberry_orchard, lvl_a-09z, lvl_a-11z
 
 #lvl_a-11z (1)
    1,S
-   1,D,O
-  69,J
-
+   1,D,J
+  69,O
    7,L,Z
    7,R,J
   16,R,G
@@ -421,6 +428,7 @@ Read, ../StrawberryJamTAS/1_Beginner/strawberry_orchard, lvl_a-09z, lvl_a-11z
    1,K
   13,J
   11,L,J
+#any%-start
   49,R,G
    2,R,D,G
    1,R,G
@@ -461,7 +469,7 @@ Read, ../StrawberryJamTAS/1_Beginner/strawberry_orchard, lvl_a-09z, lvl_a-11z
    7,R,G
    3,R
   10,L,Z
-
+#any%-end
   18,R,J
    7,U,X
   29,L,G
@@ -493,6 +501,7 @@ Read, ../StrawberryJamTAS/1_Beginner/strawberry_orchard, lvl_a-09z, lvl_a-11z
    6,R,D,G
    3,R,J,G
   32,R,G
+#any%-start
    1,R
   15,L,D,X
   15,R,D,C
@@ -507,6 +516,6 @@ Read, ../StrawberryJamTAS/1_Beginner/strawberry_orchard, lvl_a-09z, lvl_a-11z
   40
 
 #lvl_a-13z
-Read, ../StrawberryJamTAS/1_Beginner/strawberry_orchard, lvl_a-13z
+Read,../StrawberryJamTAS/1_Beginner/strawberry_orchard,lvl_a-13z
 
-ChapterTime: 1:39.739(5867)
+ChapterTime: 1:38.396(5788)

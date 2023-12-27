@@ -1,4 +1,4 @@
-RecordCount: 493
+RecordCount: 498
 
 console load StrawberryJam2021/1-Beginner/skeleton
    1
@@ -6,21 +6,21 @@ console load StrawberryJam2021/1-Beginner/skeleton
 #Start
   91
 
-#spinner cycle
-   2
+#SpinnerCycle
+   0
 
 #lvl_skeleton_00
-Read, ../StrawberryJamTAS/1_Beginner/treehive, lvl_skeleton_00, lvl_skeleton_02
+Read,../StrawberryJamTAS/1_Beginner/treehive,lvl_skeleton_00,lvl_skeleton_02
 
 #lvl_skeleton_02 (0)
-   1,L
-   2,L,J
-   8,J
-  17,R,U,X
+  11
+  20,R,U,X
    4,R,J
-  10,R,X
+   4,R,D,X
+   1,R,J
+   7,R
    6,R,J
-  34,R,X
+  31,R,X
    7,R,J
    4,R,Z
   32,R,K
@@ -48,6 +48,7 @@ Read, ../StrawberryJamTAS/1_Beginner/treehive, lvl_skeleton_00, lvl_skeleton_02
    1,R,J
   14,R
   12,R,J
+#any%-end
    5,R,K,G
    8,K
   14,U,X
@@ -118,6 +119,7 @@ Read, ../StrawberryJamTAS/1_Beginner/treehive, lvl_skeleton_00, lvl_skeleton_02
    4,R,J
   15,R,K
    4,K
+#any%-start
   29,U,Z
   11,R,D
    1
@@ -172,6 +174,7 @@ Read, ../StrawberryJamTAS/1_Beginner/treehive, lvl_skeleton_00, lvl_skeleton_02
   32,U,Z
   24,R
   66,U,Z
+#any%-end
   16,R,D
   14,R,Z
    1,R,J
@@ -245,9 +248,9 @@ Read, ../StrawberryJamTAS/1_Beginner/treehive, lvl_skeleton_00, lvl_skeleton_02
    7,R
    9,R,J
    9,R
-  15,U,Z
-   2,R
-  13,L,U,Z
+#any%-start
+  17,U,Z
+  13,L,U,X
    8,L,K
   27,L,J
   21,L,X
@@ -257,12 +260,13 @@ Read, ../StrawberryJamTAS/1_Beginner/treehive, lvl_skeleton_00, lvl_skeleton_02
   18,U,X
    3,R
   28,L,U,Z
-   4,L,K
-   3,L,J
+   4,L
+   2,L,J
   11,U,X
+   1,R,J
   40
 
 #lvl_skeleton_05
-Read, ../StrawberryJamTAS/1_Beginner/treehive, lvl_skeleton_05
+Read,../StrawberryJamTAS/1_Beginner/treehive,lvl_skeleton_05
 
-ChapterTime: 1:19.305(4665)
+ChapterTime: 1:19.016(4648)

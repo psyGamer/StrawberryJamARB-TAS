@@ -1,9 +1,13 @@
-RecordCount: 2106
+RecordCount: 2128
 
 console load StrawberryJam2021/3-Advanced/hennyburgr
    1
 
 #Start
+#Spinner Cycle [a_06b]
+   1
+
+#lvl_a_01
 Read, ../StrawberryJamTAS/3_Advanced/lethal_laser_laboratory, Start, lvl_a_05
 
 #lvl_a_05
@@ -89,31 +93,32 @@ Read, ../StrawberryJamTAS/3_Advanced/lethal_laser_laboratory, Start, lvl_a_05
   15,L,D,X
    3,L,J
 #:catbeplanting: 
-   2,J
-stunpause,input
-   5,J
+   3,J
+Stunpause
+   4,J
    1,L,J
    1
-skipinput, 3
+SkipInput 3 1
    7,L,D,X
-endstunpause
+EndStunpause
    8,L,D,X
   10,L,J
-   3,L
-stunpause,input
-   3,L
    2,L
-endstunpause
-   2,L
-stunpause,input
-skipinput, 3
-   7,L,U,X
-endstunpause
+Stunpause
+   5,L
+   1,L,J
+EndStunpause
+   1,L
+Stunpause
+   1,L
+SkipInput 3 1
    6,L,U,X
-stunpause,input
-   2,L,U,X
+Endstunpause
+   6,L,U,X
+Stunpause
+   3,L,U,X
    3,L,J,G
-endstunpause
+Endstunpause
    1,L,J,G
    2,J
    7,L
@@ -184,9 +189,11 @@ endstunpause
    3,R
    1,R,J
   11,R,D,X
-  40
+  43
 
 #lvl_a_07
 Read, ../StrawberryJamTAS/3_Advanced/lethal_laser_laboratory, lvl_a_07
 
-ChapterTime: 0:47.141(2773)
+ChapterTime: 0:46.784(2752)
+
+#ChapterTime: 0:47.141(2773)

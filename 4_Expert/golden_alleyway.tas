@@ -1,4 +1,4 @@
-RecordCount: 758
+RecordCount: 759
 
 console load StrawberryJam2021/4-Expert/RedBoule
    1
@@ -11,7 +11,7 @@ EndRepeat
    8
  
 #Spinner cycle [b04]
-   2
+   1
 
 Read,../StrawberryJamTAS/4_Expert/golden_alleyway,lvl_a_01,lvl_a_02
 
@@ -154,7 +154,6 @@ Read,../StrawberryJamTAS/4_Expert/golden_alleyway,lvl_a_01,lvl_a_02
   40
 
 #lvl_a_04
-
 Read,../StrawberryJamTAS/4_Expert/golden_alleyway,lvl_a_04,lvl_a_06
  
 #lvl_a_06 (0)
@@ -342,7 +341,6 @@ Read,../StrawberryJamTAS/4_Expert/golden_alleyway,lvl_a_04,lvl_a_06
   40,K
 
 #lvl_b_01
-
 Read,../StrawberryJamTAS/4_Expert/golden_alleyway,lvl_b_01
 
-ChapterTime: 1:50.143(6479)
+ChapterTime: 1:49.582(6446)

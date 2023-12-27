@@ -4,7 +4,7 @@ console load StrawberryJam2021/1-Beginner/Eclipse
    1
 
 #Start
-Read, ../StrawberryJamTAS/1_Beginner/troposphere, Start, lvl_c_02
+Read,../StrawberryJamTAS/1_Beginner/troposphere,Start,lvl_c_02
 
 #lvl_c_02
   12,R
@@ -18,14 +18,17 @@ Read, ../StrawberryJamTAS/1_Beginner/troposphere, Start, lvl_c_02
   18,D,X
   15,L,U,Z
   85,U,X
+#any%-end
   38,L,D
   17,D
    3,L,D
   15,L,Z
-  96
+  19
+  77
    3,R,J
   18,U,X
   54,R,C
+#any%-start
    4,J
    1,R,K
   18,D,X
@@ -71,6 +74,6 @@ Read, ../StrawberryJamTAS/1_Beginner/troposphere, Start, lvl_c_02
   40
 
 #lvl_c_03_end
-Read, ../StrawberryJamTAS/1_Beginner/troposphere, lvl_c_03_end
+Read,../StrawberryJamTAS/1_Beginner/troposphere,lvl_c_03_end
 
-ChapterTime: 1:50.041(6473)
+ChapterTime: 1:49.990(6470)

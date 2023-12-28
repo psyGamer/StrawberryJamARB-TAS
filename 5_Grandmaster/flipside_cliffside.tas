@@ -1,4 +1,4 @@
-RecordCount: 2022
+RecordCount: 2055
 
 console load StrawberryJam2021/5-Grandmaster/tcookiem
    1
@@ -208,10 +208,76 @@ console load StrawberryJam2021/5-Grandmaster/tcookiem
   40
 
 #lvl_Reach
-Read, ../StrawberryJamTAS/5_Grandmaster/flipside_cliffside, lvl_Reach, lvl_Basin
+Read, ../StrawberryJamTAS/5_Grandmaster/flipside_cliffside, lvl_Reach, lvl_Glare
+
+#lvl_Glare
+   6,R,J
+  15,R,D,X
+  10,R,J
+   1,R
+   5
+   1,R
+  21,R,U,X
+   4,L,J
+   4,Z
+   7,L,J
+   9,L
+  23,L,J
+  38,R,U,X
+  10,L,C
+  18,L,J
+  15,U,Z
+   3
+   3,L,J
+  10,J
+   9
+   1,J
+  15
+  14,D
+  25,R,D
+  34,R,X
+   4,R,J
+   1,R,K
+  15,R,D,X
+   6,R,D
+  23,R,K
+   1,K
+   3,R,K
+  14,U,X
+  13,R,J
+  11,R
+   2,R,J
+  14,R,X
+  25,R,J
+  14,U,X
+  15,L,J
+  13,L
+   1,L,J
+   3,L
+   1,L,J,G
+   1,L,K,G
+   3,L
+   1,L,J,G
+  13,L
+   4,Z
+   1,R,J
+   5,R
+  24,R,J
+  48,R,U,X
+#any%-end
+   4,R,J
+   1,R,K
+   2,R
+   3,R,J,G
+   6,R
+  14,R,X
+   3,R,J
+   2,J
+  11,R,U,X
+  40
 
 #lvl_Basin (0)
-   3,R,U,X
+   4,R,U,X
   12,L,J,G
    5,K,G
    1,R,K
@@ -541,6 +607,7 @@ Repeat 60
 EndRepeat
    2,G
    3,L
+#any%-start
   21,R,X
    4,R,J
    1,R,K
@@ -600,42 +667,40 @@ Read, ../StrawberryJamTAS/5_Grandmaster/flipside_cliffside, lvl_Arrowhead, lvl_N
    1,R,K
    3,R
   14,R,U,X
-   2,R,J,G
-   7,R
-   7,J
-   5,R,X
-  11,R,J
-   3,R
-   2,R,J,G
-   7,R
-  10,R,X
-   7,R,J
-   3,K,G
-   3,L,K
-  14,R,U,X
-   1,R,J,G
-   1,R
+   2,J,G
+   5,R
+   1,L
    1
-   4,R
-   5
-   7,R,D,X
-   1,L,J
-   6,L
-  15,L,J
-  14,L,U,X
-  12,L,J,G
-   7,L
-   2,L,J
-  15,U,Z
-  10,R,J,G
-   7,R,K,G
-   7,R
-   2,R,J
+   7,J
   10,R,X
-   7,R,J
+   5,R,J
+  10,R,U,X
+   1,R,K,G
+   9,R
+  12,J
+  14,R,U,X
+   2,R,J,G
+   6,R
+   2,R,J
+   5,R
+   4,L,Z
+   1,L,J
+   5,L
+  14,L,J
+  17,L,U,X
+  11,L,J,G
+   7,L
+   3,J
+  15,U,X
+   6,R,J,G
+   7,R
+   7,L,J
+  10,R,X
+   3,R,J
+  10,R,K,G
   18,U,X
   25,R
-  29,R,U,X
+  28,R,U,X
    4,R,J
    1,R,K
    3,R
@@ -649,6 +714,7 @@ Read, ../StrawberryJamTAS/5_Grandmaster/flipside_cliffside, lvl_Arrowhead, lvl_N
    3,L,J,G
    1,L
    6,J,G
+#any%-end
    3,L
    1,R
    2,J
@@ -787,4 +853,4 @@ EndRepeat
    1,L,J
   23,L,K
 
-ChapterTime: 2:22.868(8404)
+ChapterTime: 2:22.698(8394)

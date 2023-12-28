@@ -4,7 +4,7 @@ console load StrawberryJam2021/4-Expert/Archire
    1
 
 #Start
-Read, ../StrawberryJamTAS/4_Expert/chromatic_complex, Start, lvl_a-13
+Read,../StrawberryJamTAS/4_Expert/chromatic_complex,Start,lvl_a-13
 
 #lvl_a-13
    1,R,J
@@ -27,4 +27,4 @@ Read, ../StrawberryJamTAS/4_Expert/chromatic_complex, Start, lvl_a-13
   40,L,X
   59,L,C
 
-ChapterTime: 0:59.925(3525)
+ChapterTime: 0:59.789(3517)

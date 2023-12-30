@@ -1,10 +1,12 @@
-RecordCount: 319
+RecordCount: 320
 #draft had 0
 
 console load StrawberryJam2021/2-Intermediate/Emik
    1
+
 #Start
 read,../StrawberryJamTas/2_Intermediate/deep_blue,Start,lvl_a_03
+
 #lvl_a_03
    8,L
   15,L,U,X
@@ -56,7 +58,7 @@ read,../StrawberryJamTas/2_Intermediate/deep_blue,Start,lvl_a_03
    1,L,J
    4,L
 #Spinner cycle
-   0
+   1
 ##
    6,L,Z
    1,L,J
@@ -210,6 +212,8 @@ EndStunpause
   17,L,D,X
    1,L,J
   40
+
 #lvl_a_06
 read,../StrawberryJamTas/2_Intermediate/deep_blue,lvl_a_06
-ChapterTime: 1:05.501(3853)
+
+ChapterTime: 1:05.484(3852)

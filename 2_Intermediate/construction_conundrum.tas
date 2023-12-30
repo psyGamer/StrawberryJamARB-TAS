@@ -1,4 +1,4 @@
-RecordCount: 525
+RecordCount: 549
 
 console load StrawberryJam2021/2-Intermediate/thebreadstick1
    1
@@ -122,6 +122,7 @@ console load StrawberryJam2021/2-Intermediate/thebreadstick1
    7,D
    8,R,D
    4,R
+#any%-start
    5,L,X
    4,L,J
   15,L
@@ -137,10 +138,16 @@ console load StrawberryJam2021/2-Intermediate/thebreadstick1
   40
 
 #lvl_a-002
-read,../StrawberryJamTas/2_Intermediate/construction_conundrum,lvl_a-002,lvl_a-009
+read,../StrawberryJamTas/2_Intermediate/construction_conundrum,lvl_a-002,lvl_a-005 (2)
+
+#any%-end
+#lvl_a-005
+  20,R,D
+   7,R,Z
+  40
 
 #lvl_a-009 (0)
-   5,R,D,X
+   7,R,Z
    5,R,J
   15,R,D,X
    2,R,J
@@ -266,12 +273,77 @@ read,../StrawberryJamTas/2_Intermediate/construction_conundrum,lvl_a-002,lvl_a-0
   14,L,D,X
    1,L,J
   15,L,D,X
-   0,D
-   2,D
-   1,L
+   3,D
   40
 
+#any%-start
 #lvl_a-010
+   2,D
+
+#lightning cycle [a-010]
+   1,L,G
+
+  12,L,D,X
+   1,L,J
+   4,L
+   1,L,J
+   2,L
+   7
+  15,R,D,X
+   8,R
+  13,R,D
+  15,R,U,Z
+   7,R
+   2
+   2,L,J,G
+repeat 3
+   1,R,J
+   1,J
+endrepeat
+  10,K
+   5,R,K
+   4
+  15,R,X
+   2,R,D
+   3,D
+   1,R,D
+  13,D
+  21,L,D
+   9,D
+  15,R,D
+   5,R,J
+   5,R
+   1,R,J
+   2,R,K
+   5,R
+  13,R,D,X
+stunpause
+  40,R,D
+endstunpause
+   2,L
+   1
    1,L
-read,../StrawberryJamTas/2_Intermediate/construction_conundrum,lvl_a-010
-ChapterTime: 2:02.128(7184)
+   1
+  19,D
+   3,L
+  16,L,D
+   1,L
+  31,L,D
+   7,L
+  15,L,X
+  16,L
+  15,L,D,C
+  22,L
+   3,J
+  21,L,U,X
+  20,U,C
+   7,R
+  15,R,D,X
+  15,D,C
+   3,D
+  40
+
+#lvl_a-012
+read,../StrawberryJamTas/2_Intermediate/construction_conundrum,lvl_a-012
+
+ChapterTime: 2:01.482(7146)

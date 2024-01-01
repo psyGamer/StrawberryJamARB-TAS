@@ -1,4 +1,4 @@
-RecordCount: 1367
+RecordCount: 1592
 
 console load StrawberryJam2021/3-Advanced/RadleyMcTuneston
    1
@@ -336,56 +336,112 @@ Read, ../StrawberryJamTAS/3_Advanced/the_lab, lvl_start-01-Radley (1), lvl_move-
   11,R,D,X
 
 #lvl_cross-01-Worldwaker2
-Read, ../StrawberryJamTAS/3_Advanced/the_lab, lvl_cross-01-Worldwaker2, lvl_cross-03-TiltTheStars
+Read, ../StrawberryJamTAS/3_Advanced/the_lab, lvl_cross-01-Worldwaker2, lvl_cross-02-TiltTheStars
+
+#lvl_cross-02-TiltTheStars
+   9,R,D,X
+   1,R,J
+  16,R,U,C
+  14,R,Z
+   5,R,J
+   1,R
+   5,R,J
+   5,R
+  15,R,Z
+   8
+  30,R,D
+   1,D
+   1,R,D
+   1,D
+   1,R,D
+   4,D
+   1,D
+   1,R
+   1,R,D
+   1,R
+   1
+  15,R,X
+  15,L,C
+   7,L
+   1,L,K,G
+  19,L,J,G
+  22,L
+   5
+  15,L,D,X
+   4,D
+   1,L,G
+   1,L,J,G
+   7,L,D
+  25,R,D
+  14,R,X
+   2,R,J,G
+   2
+  13,R
+  12,R,J,G
+  16,R
+   4
+  15,R,U,Z
+   5,L,K,G
+  42,L,G
+   1
+   1,K,G
+   1,J,G
+   1,L,K,G
+   1,K
+   1
+   1,R
+  14,R,U,X
+#any%-end
+   4,R,J,G
+  40
 
 #lvl_cross-03-TiltTheStars
-#any%-end
-  13,R,U,X
+   9,R,J
   20,L,C
   15,L,X
   15,L
   11,L,D
    1,L
-   9,L,D
-   6,L
-   5,L,Z
+   8,L,D
+   5,L
+   2,L,D
+   4,Z
    1,R,J
-  12,R
+   4
+   8,R
    1,R,J
    3,R
   15,R,U,X
-  22,L,D
+   4,R,D
+  20,L,D
   13,D
-   2,R,D
-   2,D
-  29,R,D
+  12,R,D
+   1,D
+   4,R,D
+   1,D
+  13,R,D
   15,R,U,Z
   13,L,D
   26,D
-   2
+   1,L
+   1
    1,R,G
    7,R,J,G
    8,R
    3,R,J
   10,R,D
-  47,D
+  46,D
   20,R,D
-   1,D
+   5,R
    1,R,D
-   1,D
-   1,R,D
-   1,D
-   4,R,D
-   8,R,J
-   7,R
-   8,R,J
-  13,U,Z
-  15,J
+  18,R,X
+  12,U,C
+  16,J
   15,U,X
    5,L,D
-  47,D
+  46,D
   25,L,D
-   1,D
+   2,D
    9,L,Z
    4,L,J
   27,L,D
@@ -423,7 +479,7 @@ Read, ../StrawberryJamTAS/3_Advanced/the_lab, lvl_cross-01-Worldwaker2, lvl_cros
   25,D
 #any%-start
 #key cycle
-  49
+  54
 ####
   20,J
   15,U,X
@@ -443,4 +499,4 @@ Read, ../StrawberryJamTAS/3_Advanced/the_lab, lvl_cross-01-Worldwaker2, lvl_cros
 #lvl_escape-01-Worldwaker2
 Read, ../StrawberryJamTAS/3_Advanced/the_lab, lvl_escape-01-Worldwaker2
 
-ChapterTime: 2:09.676(7628)
+ChapterTime: 2:09.523(7619)

@@ -1,4 +1,4 @@
-RecordCount: 462
+RecordCount: 639
 
 console load StrawberryJam2021/1-Beginner/frozenflygone
    1
@@ -27,34 +27,44 @@ Read,../StrawberryJamTAS/1_Beginner/potential_for_anything,Start,lvl_SS2-5b
    1,L,J
    6,L
    1,L,J
-  14,L,D,X
-   9,L,J
+   7,L,D,X
+   1,L,J
+   5,L
+   2,L,K
+  10,L,J
   15,U,X
+   7,U
+  16,R
+  43,R,U
+  20,L,U
+  12,L
+repeat, 14
    1,L,U
-  14,U
-  15,R
-  44,R,U
-  16,L,U
-  27,L
-  32,L,U
-  54,U
-  12,R,U
-   5,L,U
-  30,U
-  11,L,U
-  14,U
-   6,R,U
-  10,R
+   1,L
+endrepeat
+  15,L,U
+  56,U
+  10,R,U
+  40,U
+  12,L,U
+   3,U
+  10,R,U
+  12,R
+   1,R,U
   25,L,D
-  35,D
-  20,R,D
-  36,L,D
-  45,D
-  19,R,D
-  27,R
-  32,R,D
-  10,L,D
-  62,D
+  40,D
+  10,R,D
+  25,D
+  15,L,D
+  52,D
+  14,R,D
+   9,R
+repeat, 20
+   1,R,D
+   1,R
+endrepeat
+   9,R,D
+  72,D
    1,J
   21,D
    6,R,D
@@ -179,4 +189,4 @@ Read,../StrawberryJamTAS/1_Beginner/potential_for_anything,lvl_Lab-3,lvl_WZ-4
 #lvl_WZ-5a
 Read, ../StrawberryJamTAS/1_Beginner/potential_for_anything, lvl_WZ-5a
 
-ChapterTime: 1:51.214(6542)
+ChapterTime: 1:51.146(6538)

@@ -4,9 +4,10 @@ console load StrawberryJam2021/1-Beginner/coffe
    1
 
 #Start
-Read, ../StrawberryJamTAS/1_Beginner/loopy_lagoon, Start, lvl_c-08
+Read,../StrawberryJamTAS/1_Beginner/loopy_lagoon,Start,lvl_c-08
 
 #lvl_c-08 (0)
+#any%-end
    1,R,J
    7,R
   15,G
@@ -100,6 +101,7 @@ Read, ../StrawberryJamTAS/1_Beginner/loopy_lagoon, Start, lvl_c-08
    3,J,G
    6
    2,R
+#any%-start
    5,L
    4,Z
    1,R,J
@@ -109,7 +111,7 @@ Read, ../StrawberryJamTAS/1_Beginner/loopy_lagoon, Start, lvl_c-08
   40
 
 #lvl_c-09
-Read, ../StrawberryJamTAS/1_Beginner/loopy_lagoon, lvl_c-09, lvl_c-11
+Read,../StrawberryJamTAS/1_Beginner/loopy_lagoon,lvl_c-09,lvl_c-11
 
 #lvl_c-11
    8,R,U
@@ -117,6 +119,7 @@ Read, ../StrawberryJamTAS/1_Beginner/loopy_lagoon, lvl_c-09, lvl_c-11
   10,R,V
    1,R,J
    4,R
+#any%-end
   30,R,J
    1,G
    1,J,G
@@ -146,13 +149,14 @@ Read, ../StrawberryJamTAS/1_Beginner/loopy_lagoon, lvl_c-09, lvl_c-11
   11,R,X
    5,J
   11,L,D,X
+#any%-start
    1,R,J
    7,R
    5,R,J
   40
 
 #lvl_c-12
-Read, ../StrawberryJamTAS/1_Beginner/loopy_lagoon, lvl_c-12, lvl_c-13
+Read,../StrawberryJamTAS/1_Beginner/loopy_lagoon,lvl_c-12,lvl_c-13
 
 #lvl_c-13
    8,R,D,X
@@ -173,6 +177,7 @@ Read, ../StrawberryJamTAS/1_Beginner/loopy_lagoon, lvl_c-12, lvl_c-13
   15,R,U,X
   11,R,J
   15,U,Z
+#any%-end
    7,L,D,X
    1,L,J
    4,L
@@ -249,6 +254,7 @@ Read, ../StrawberryJamTAS/1_Beginner/loopy_lagoon, lvl_c-12, lvl_c-13
    8,R,D,X
    1,J
   13,R,U,X
+#any%-start
   14,R,D,C
    1,R,J
   10,L,D,X
@@ -282,6 +288,6 @@ Read, ../StrawberryJamTAS/1_Beginner/loopy_lagoon, lvl_c-12, lvl_c-13
   40
 
 #lvl_c-15
-Read, ../StrawberryJamTAS/1_Beginner/loopy_lagoon, lvl_c-15
+Read,../StrawberryJamTAS/1_Beginner/loopy_lagoon,lvl_c-15
 
 ChapterTime: 1:45.842(6226)

@@ -1,10 +1,10 @@
-RecordCount: 1224
+RecordCount: 1226
 
 console load StrawberryJam2021/1-Beginner/hyperlife
    1
 
 #Start
-Read, ../StrawberryJamTAS/1_Beginner/collapsing_skyline, Start, lvl_a-02
+Read,../StrawberryJamTAS/1_Beginner/collapsing_skyline,Start,lvl_a-02
 
 #lvl_a-02 (0)
 #any%-end

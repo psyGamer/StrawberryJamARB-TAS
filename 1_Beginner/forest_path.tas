@@ -1,10 +1,10 @@
-RecordCount: 438
+RecordCount: 439
 
 console load StrawberryJam2021/1-Beginner/asteriskblue
    1
 
 #Start
-Read, ../StrawberryJamTAS/1_Beginner/forest_path, Start, lvl_a-03
+Read,../StrawberryJamTAS/1_Beginner/forest_path,Start,lvl_a-03
 
 #lvl_a-03
    1,R,J
@@ -61,13 +61,14 @@ Read, ../StrawberryJamTAS/1_Beginner/forest_path, Start, lvl_a-03
   40
 
 #lvl_a-05
-Read, ../StrawberryJamTAS/1_Beginner/forest_path, lvl_a-05, lvl_a-11
+Read,../StrawberryJamTAS/1_Beginner/forest_path,lvl_a-05,lvl_a-11
 
 #lvl_a-11
   15,R,D,X
    1,R,J
   18,R,U,X
   27,R,Z
+#any%-end
    4,R,J
   11,R,K
   34,L,U,X
@@ -84,6 +85,7 @@ Read, ../StrawberryJamTAS/1_Beginner/forest_path, lvl_a-05, lvl_a-11
    3,R
   18,R,J
   27,R,Z
+#any%-start
   15,R,J
    2,R
    6,R,K,G
@@ -96,9 +98,11 @@ Read, ../StrawberryJamTAS/1_Beginner/forest_path, lvl_a-05, lvl_a-11
   11,R,D,X
   40
 
-Read, ../StrawberryJamTAS/1_Beginner/forest_path, lvl_a-12, lvl_a-17
+#lvl_a-12
+Read,../StrawberryJamTAS/1_Beginner/forest_path,lvl_a-12,lvl_a-17
 
 #lvl_a-17
+#any% with slight modifications
    7,R,J
    1,L,J
    1,K,G
@@ -124,21 +128,7 @@ Read, ../StrawberryJamTAS/1_Beginner/forest_path, lvl_a-12, lvl_a-17
   40
 
 #lvl_a-18
-  14,R,J
-  24,R,X
-   4,R,J
-   3,R,K
-  13,R
-  18,R,U,X
-  18,R,Z
-   4,R,J
-   6,R,K
-  13,R,D,X
-   4,R,J,G
-   1,R,K,G
-  10,R
-   1
-  40
+Read,../StrawberryJamTAS/1_Beginner/forest_path,lvl_a-18,lvl_a-19
 
 #lvl_a-19
    2,R
@@ -146,6 +136,7 @@ Read, ../StrawberryJamTAS/1_Beginner/forest_path, lvl_a-12, lvl_a-17
    1
    4,R
    3,R,K
+#any%-end
   14,R,J,G
    2,R
   15,R,X
@@ -177,6 +168,7 @@ Read, ../StrawberryJamTAS/1_Beginner/forest_path, lvl_a-12, lvl_a-17
    1,R
   14,R,Z
    4,R,J
+#any%-start
    8,R,Z
    1,R,J
    6,R

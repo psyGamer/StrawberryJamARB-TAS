@@ -1,4 +1,4 @@
-RecordCount: 1498
+RecordCount: 1581
 
 console load StrawberryJam2021/2-Intermediate/Ice
    1
@@ -196,7 +196,7 @@ Read, ../StrawberryJamTAS/2_Intermediate/temple_of_a_thousand_skies, lvl_b-02 (2
    2,R,D
    7,L,D
 #Spinner Cycle [b-06] 1
-   2,L,G
+   0,L,G
 ###
   15,L,D,X
    5,L
@@ -273,18 +273,32 @@ StunPause
   13,R,J,G
 EndStunPause
 #Spinner Cycle [b-07]
-   1
+   2
 ###
   33,U,X
-  10,R,Z
+#+2f over optimal end movement
+#but collects the berry for b-07
+#deathwarp
+   9,R,Z
    1,R,J
-   4,R
-   7,R,D,X
+   6,R
+   1
    1,R,J
-   7,R
-   7,R,J
-   1,R,K,G
+  12,R,D,X
+   4,R,J
+   4,R,K,G
+   2,R,J,G
    5,R
+#  10,R,Z
+#   1,R,J
+#   4,R
+#   7,R,D,X
+#   1,R,J
+#   7,R
+#   7,R,J
+#   1,R,K,G
+#   5,R
+#####
   27,D,X
    3,L,J
   15,U,X

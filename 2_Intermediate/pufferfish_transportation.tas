@@ -1,4 +1,4 @@
-RecordCount: 1601
+RecordCount: 1610
 
 console load StrawberryJam2021/2-Intermediate/Rocketguy2
    1
@@ -15,6 +15,7 @@ Read, ../StrawberryJamTAS/2_Intermediate/pufferfish_transportation, lvl_RG2-0, l
 #lvl_RG2-4 (0)
   15,R,J
   10,R,X
+#any%-end
  108
    8,L
   14,U,X
@@ -78,6 +79,15 @@ Read, ../StrawberryJamTAS/2_Intermediate/pufferfish_transportation, lvl_RG2-0, l
   17,R,D
   17,D,X
  101
+#any%-start
+
+
+
+
+
+
+
+
    5,R,J
   42,R,K
   15,R,U,X
@@ -95,17 +105,14 @@ Read, ../StrawberryJamTAS/2_Intermediate/pufferfish_transportation, lvl_RG2-0, l
   22,R,D
    1,R
    9,R,D
-  40,R,J
-  15,U,X
-   7,R
-  19
-   5,D
-   4,R,D
-  15,U,X
-   6,R
-  28,R
-  15,R,D,X
- 176,R,D
+  39,R,J
+  15,R,U,X
+  27,L
+  18,U,X
+  31,R,D
+  21,R,D,X
+ 170
+#any%-end
    5,R,Z
    1,R,J
   60,R,D
@@ -156,6 +163,7 @@ Read, ../StrawberryJamTAS/2_Intermediate/pufferfish_transportation, lvl_RG2-0, l
    2,R,J,G
    8,R,G
    1,R
+#any%-start
 Repeat,5
    1,R,J,G
    1,R,K,G
@@ -179,6 +187,7 @@ EndRepeat
    9,L
   18,L,U,G
   12,L,J,G
+#any%-end
    1,K
    1,L,J,G
    7,R,J
@@ -267,6 +276,7 @@ EndRepeat
    6,L
    1,R,J
   14,R,D,X
+#any%-start
    2,R,J
   14,R,U,X
    1,R,J,G
@@ -283,30 +293,11 @@ Read, ../StrawberryJamTAS/2_Intermediate/pufferfish_transportation, lvl_RG2-6, l
 #OPTIMIZABLE
 
 #lvl_RG2-7
-
-
-
-
-
   12,D
    3
    1,D
    1
    1,D
-
-
-
-
-
-#  10,D
-#   4
-#   3,D
-
-
-
-
-
-
    4,Z
    1,R,J
    6,R
@@ -328,6 +319,7 @@ Read, ../StrawberryJamTAS/2_Intermediate/pufferfish_transportation, lvl_RG2-6, l
    6,R
   13,R,J
   15,R,D,X
+#any%-end
   40
    1,R,J
    1,R,K
@@ -353,6 +345,7 @@ Read, ../StrawberryJamTAS/2_Intermediate/pufferfish_transportation, lvl_RG2-6, l
   14,R,D,C
    1,L,J
   14,L,D,X
+#any%-start
    1,R,J
    6,R,D,X
    1,R,J,G
@@ -362,10 +355,6 @@ Read, ../StrawberryJamTAS/2_Intermediate/pufferfish_transportation, lvl_RG2-6, l
    1,R,K,G
    9,R
   40
-
-
-
-
 
 #lvl_RG2-8
 Read, ../StrawberryJamTAS/2_Intermediate/pufferfish_transportation,lvl_RG2-8, lvl_RG2-9
@@ -444,6 +433,7 @@ Repeat 4
   14,R,D,X
    1,R,J
 EndRepeat
+#any%-end
   13,R,D,X
    1,L,J
   21,L,G
@@ -495,7 +485,8 @@ EndRepeat
    8,R,G
  135
 
-ChapterTime: 1:59.085(7005)
+ChapterTime: 1:59.034(7002)
+
 
 
 

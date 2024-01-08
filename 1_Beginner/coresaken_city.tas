@@ -4,7 +4,7 @@ console load StrawberryJam2021/1-Beginner/voliver9
    1
 
 #Start
-Read, ../StrawberryJamTAS/1_Beginner/coresaken_city, Start, lvl_a-03
+Read,../StrawberryJamTAS/1_Beginner/coresaken_city,Start,lvl_a-03
 
 #lvl_a-03
    7,L
@@ -34,7 +34,6 @@ Read, ../StrawberryJamTAS/1_Beginner/coresaken_city, Start, lvl_a-03
   11,K,G
   14,L,U,X
   40
-
 
 #lvl_a-04
    6,L
@@ -167,7 +166,6 @@ Endrepeat
    9
    1,K
    4,L
-
   15,R,Z
    1,R,J
   18,R,D
@@ -178,7 +176,6 @@ Endrepeat
    2,R
    8,L,D
   18,R,D
-
   15,R,Z
   36,L,D
    6,L,Z

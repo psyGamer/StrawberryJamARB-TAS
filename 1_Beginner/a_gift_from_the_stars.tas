@@ -4,7 +4,7 @@ console load StrawberryJam2021/1-Beginner/HankyMueller
    1
 
 #Start
-Read, ../StrawberryJamTAS/1_Beginner/a_gift_from_the_stars, Start, lvl_Intro B
+Read,../StrawberryJamTAS/1_Beginner/a_gift_from_the_stars,Start,lvl_Intro B
 
 #lvl_Intro B
    7,L,J
@@ -59,7 +59,7 @@ Read, ../StrawberryJamTAS/1_Beginner/a_gift_from_the_stars, Start, lvl_Intro B
   40
 
 #lvl_Double Vision (0)
-Read, ../StrawberryJamTAS/1_Beginner/a_gift_from_the_stars, lvl_Double Vision, lvl_Waiting Room
+Read,../StrawberryJamTAS/1_Beginner/a_gift_from_the_stars,lvl_Double Vision,lvl_Waiting Room
 
 #lvl_Waiting Room (0)
   12,R
@@ -444,7 +444,5 @@ Read, ../StrawberryJamTAS/1_Beginner/a_gift_from_the_stars, lvl_Timestop Intro, 
 
 #lvl_Staircase
 Read, ../StrawberryJamTAS/1_Beginner/a_gift_from_the_stars, lvl_Staircase
-
-#ChapterTime: 1:47.389(6317)
 
 ChapterTime: 1:47.440(6320)

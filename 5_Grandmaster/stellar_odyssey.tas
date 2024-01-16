@@ -1,4 +1,8 @@
-RecordCount: 3583
+RecordCount: 3586
+
+#Picks up silver, and also
+#deathwarps; not a good combo
+console clrsav
 
 console load StrawberryJam2021/5-Grandmaster/Ecl1psed
    1
@@ -749,9 +753,13 @@ EndStunPause
    3,D
    1,L,D
   77
+#Spinner Cycle [a-07]
+   2
+###
    3,L
    1,L,J
    6,R,D,X
+#any%-start
    1,R,J
    7,R
    1,R,J
@@ -826,22 +834,12 @@ Read,../StrawberryJamTAS/5_Grandmaster/stellar_odyssey,lvl_a-06,lvl_a-07
    3,D
   15,D,X
    3,L,D
-##SpinnerCycle
-## +0f
-#  23,R,D
-## +1f
-  18,R,D
-   6,R
-## +2f
-#  14,R,D
-#  11,R
-##
+  23,R,D
   14,R,Z
    1,R,J
   14,R,D,X
    1,R,J
   15,R,D,X
-
   28,L,D
    7,D
    2,L,D

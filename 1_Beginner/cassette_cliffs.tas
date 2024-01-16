@@ -1,4 +1,4 @@
-RecordCount: 371
+RecordCount: 377
 
 console load StrawberryJam2021/1-Beginner/Ceph
    1
@@ -6,13 +6,25 @@ console load StrawberryJam2021/1-Beginner/Ceph
 #Start
 Read,../StrawberryJamTAS/1_Beginner/cassette_cliffs,Start,lvl_4
 
-
 #lvl_4 (0)
-  15,D
-   3
-   1,D
-   4,L
+#fall slower here 
+#to resync global cycle
    1
+   4,D
+   1,L
+   1,L,D
+   1,L
+   1,D
+   1,L,D
+   1,D
+   1,R,D
+   6,D
+   1
+   1,D
+   1
+   1
+   1,R,D
+   2
   15,L,D,X
    9,R,Z
    2,R,J

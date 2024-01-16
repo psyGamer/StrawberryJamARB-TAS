@@ -1,4 +1,4 @@
-RecordCount: 265
+RecordCount: 272
 
 console load StrawberryJam2021/3-Advanced/Goldian
    1
@@ -31,66 +31,68 @@ Read, ../StrawberryJamTAS/3_Advanced/superstructure, lvl_start, lvl_goldian-5
    1,R,J
   12,R,D,X
    2,R,J
+   1,R
+   1,R,J
    2,R
    1,R,J
    2,R
+   1,R,J
+   6,R
+   7,R,J,G
+   1,J
+   5,R,J
+  14,U,X
+  14,L,J
    2,R,J
-   7,R
-   8,R,J,G
-   5
-  15,U,X
-  13,L,J
-   3
-   3,R
+   1,L
+   1,R
   14,L,Z
-   7,R,J
-   9,R
+   6,R,J
+  11,R
   20,L,D
-   4,R,D
-  15,R,Z
-   5,R
-  18,R,Z
+   2,R,D
+  15,R,X
+   3,R
+  18,R,X
+   2,R
    8,U,X
    1,R,J
   13,R,G
    5,R,J,G
    8,R,G
-   5,R,J,G
+   3,R,J,G
    6,R,G
-   4,L,G
-   3
-   7,R,J,G
-  18,R,G
-  14,R,D,G
-   6,L,D,G
-   4,D,G
-   1,R,D,G
-   1,J
-   5,R,J
-   7
-  14,R,Z
-   4,R,J
-   7,R,D,X
-  13,R,G
-  11,R,J,G
-   1,D
-  11,U,X
-  13,G
    5,L,G
-   1,G
-  15,R,J,G
-   3,R,G
+   3
+   5,R,J,G
+  18,R,G
    1,R
-  26,R,D
-  12,R,D,X
-   1,R,J
-   3,R
-   1,R,K,G
-   9,R
+  22,R
+   5,R,D
+  14,R,X
+   1,R,J,G
+  12,R
+  19,R,J
+  15,U,X
+   9,L,J,G
+   5,L,Z
+   2,L,J
+   5,L
+   1,L,K
+   3,L
+   1,R,K
+  17,R,G
+   7,G
    1
-   5,R
-  12,R,J
-  15,R
+  14,R,D
+   4,R,D
+   6,R
+   4
+   8,R,Z
+   1,R,J
+   1,R,K,G
+  14,R
+  25,R,K
    1,J
   11,R,J
    5,R
@@ -103,8 +105,8 @@ Read, ../StrawberryJamTAS/3_Advanced/superstructure, lvl_start, lvl_goldian-5
   11,L,J
    5,L
    9,L,J
-   8,R,K
-  10,R
+   5,R,K
+  13,R
 #any%-end
   12,L,J
   14,U,X
@@ -135,7 +137,6 @@ Read, ../StrawberryJamTAS/3_Advanced/superstructure, lvl_start, lvl_goldian-5
   20,L
   11,L,G
    4,L
-
    4,L,Z
    1,L,J
   22,R
@@ -166,7 +167,7 @@ Read, ../StrawberryJamTAS/3_Advanced/superstructure, lvl_start, lvl_goldian-5
    7,R
    1,R,J
 #any%-start
-   4,R,D,X
+   4,R,Z
    1,R,J
    2,R
   40
@@ -174,4 +175,4 @@ Read, ../StrawberryJamTAS/3_Advanced/superstructure, lvl_start, lvl_goldian-5
 #lvl_goldian-6
 Read, ../StrawberryJamTAS/3_Advanced/superstructure, lvl_goldian-6
 
-ChapterTime: 1:26.309(5077)
+ChapterTime: 1:25.952(5056)

@@ -1,4 +1,4 @@
-RecordCount: 3299
+RecordCount: 3303
 
 set Language english
 console load StrawberryJam2021/3-Advanced/Oppen
@@ -6,36 +6,13 @@ console load StrawberryJam2021/3-Advanced/Oppen
 
 #Start
 #lvl_oppen_intro (0)
-  32
-#Need to wait for cutscene
-  10,R,X
-   9,L,J
-   5,L
-   2,L,K
-   1,L
-  12,L,Z
-   4,R,J
-  15,R,D,X
-   2,R,J
-  10,R,K,G
-  15,R,D,X
+Read,../StrawberryJamTAS/3_Advanced/lost_woods.tas,Start,lvl_oppen_1b
    1,R,J
-   7,R,D,X
-   1,S
-   1,D,J
-  34
-   6,R,J
-  40
 
-#lvl_oppen_1a (0)
-#key2route
-   2,R,J
-   2,R
-  16,R,D,X
-   3,R,J
-
+#the labels placement
+#in any% bugs me
 #lvl_oppen_1b (0)
-  19,R,J
+  18,R,J
   15,U,X
    4,R
    1,J,G
@@ -256,7 +233,7 @@ console load StrawberryJam2021/3-Advanced/Oppen
   10,L,X
    1,L,J
 
-#lvl_oppen_1a (1)
+#lvl_oppen_1a (0)
   12,L,J
   10,U,X
    3,L,J
@@ -457,7 +434,7 @@ console load StrawberryJam2021/3-Advanced/Oppen
    5,L,D,X
   40
 
-#lvl_oppen_1a (2)
+#lvl_oppen_1a (1)
   13,L,D,X
    7,L,J
   61,L,D,X
@@ -537,146 +514,6 @@ console load StrawberryJam2021/3-Advanced/Oppen
    1,D,J
   69,O
 #key1route
-  10,L,D,X
-   1,L,J
-   4,L,K,G
-  14,L,D,X
-   3,L,J
-  17,L,D,X
-
-
-#lvl_oppen_1a (3)
-  11,L,D
-  28,D
-   1
-   1,D
-   4
-   4,D
-   2
-   3,D
-  15,L,D,X
-  12,L,J
-   7,U,X
-   2,J
-   6,L,J
-   1,L
-   1,L,K,G
-   1,L,J,G
-   8,L
-   1,L,J
-   1,L
-  14,R,D,X
-   1,L,J
-   5,L,D,X
-   2,L,J,G
-   5,L
-   1,L,J
-   2,L
-   2,L,D,J
-   5,L
-   6,L,J
-   5,L
-  15,L,U,Z
-   1,S
-   1,D,J
-  69,O
-   2,R,J
-   5,R,Z
-   2,R,J
-   6,R
-  10
-  12,R,D
-  10,R,D,X
-   6,R,J
-  15,U,X
-   2,L,J,G
-   7,L
-   2,L,J
-  14,L,U,X
-   3,J,G
-   8,L,K,G
-   7,L
-   7,L,J
-   5,J
-  15,U,X
-   1,J,G
-   1,R,J
-   2,L,K,G
-   7,L,J,G
-   7,L
-  10,L,J
-   5,L
-   1,L,J
-   8,K,G
-   4,L,K
-   1,J,G
-   2,L,J
-   1,L
-   1
-  15,L,Z
-   6,L
-   2,L,J
-   8,L,Z
-   2,L,J
-   1,S
-   1,D,J
-  69,O
-   4,Z
-   2,L,J
-   5,L,K,G
-   2,L,J,G
-   3,L
-  40
-
-#lvl_oppen_intro (1)
-   1,L
-  14,L,D,X
-   1,L,J
-   3,L
-   1,L,K
-   3,L
-   3,L,J
-   5,L,K,G
-   1,L,J,G
-  14,L,D,X
-   1,L,J
-  15,L
-   1,R
-   1,L,X
-  25
-   1,O
-   1
-   1,O
-  20
-   1,O
-   1
-   1,O
-  83
-   1,O
-   1
-   1,O
-  80
-   1,O
-  27
-  15,L,C
-  23
-   6,R
-  10,R,Z
-   1,R,J
-   7,R
-   1,R,J
-   7,J
-  14,R,Z
-   1,R,J
-  14,R,D,X
-   1,L,J
-   6,L,D,X
-   1,L,J,G
-  12,L
-   7,L,J
-  15,L,D,X
-   2,L,J
-  13,L,U,Z
- 135,L,G
+Read,../StrawberryJamTAS/3_Advanced/lost_woods.tas,key1route
 
 ChapterTime: 1:19.747(4691)

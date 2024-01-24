@@ -1,11 +1,11 @@
-RecordCount: 2135
+RecordCount: 2137
 
 console load StrawberryJam2021/3-Advanced/hennyburgr
    1
 
 #Start
 #Spinner Cycle [a_06b]
-   1
+   2
 
 #lvl_a_01
 Read, ../StrawberryJamTAS/3_Advanced/lethal_laser_laboratory, Start, lvl_a_05

@@ -1,199 +1,141 @@
-RecordCount: 39
+RecordCount: 4649
 
 console load StrawberryJam2021/2-Intermediate/marlin
    1
 
 #Start
-  69
-
 #lvl_1
-   7,L,D,X
-   1,R,J
-   3,R
-   1,R,J
-   3,R
-   5,R,J
-  15,R,D,X
-   3,R
-   1,R,K,G
-   7,R
-   1,R,J
-   3,R
-   7,R,J
-  15,R,D,X
-   6,R,J
-   6,R
-   1,R,K
-  13,R,U,Z
-   2,R,J,G
-   1
-   7,R
-   2,R,K
-   1,R
-   7,R,J
-  15,R,D,X
-  12,R,J
-  11,R
-   1,R,K
-   1,R
-  11,R,D,X
-   1,R,J,G
-   2,R,K,G
-   1,R,J,G
-   2,R,K,G
-  16,R
-   6,R,J
-   1,R
-  14,R,U,X
-   7,R,J,G
-   1,J
-   4,R,J
-  10,R
-   1,R,J
-   3,R
-  40
+Read,../StrawberryJamTAS/2_Intermediate/low-g_botany.tas,Start,lvl_5
 
-#lvl_2
-   1,R
-   1
-   2,R
-   7
-  15,D,X
-   5,D
-   4,R,D
-  10,R,X
+#lvl_5 (0)
+   8,R,K
+  15,R,D,X
+#any%-end
    8,R,J
-   1,L,K,G
-  11,R,K
-   1,K
-   5
-  11,L,J
    1,J
-   1,L
+  33,R,J
+   1,K,G
+   2,L,K
+  23,L,J
   15,U,X
-   3,J,G
-  24,D
-  29,L,D
-   4,Z
-   1,L,J
-  17,L
-  14,L,D,X
-   5,R,J
-  15,R,D,X
-   1,R,J
-   2,J
-   3,R,K,G
-  10,R,J,G
-  15,R,D,K,X
-  34,R,K
-   3
-   2,R
-  14,U,X
-  14,R,J
-   1,L,J
-   7,K,G
-  21,R,K
-   4,R
-   2,R,J
-   7,R
-   4,Z
-   2,R,J
-   4,R
-  40
-
-#lvl_3
-  21,R,D
-  15,D,X
-  11,R,D
-  19,R
-   2
-   5,R
-  30,R,J
-  15,R,Z
-   2,R
-  19,D
-   1,G
-   1,R,K,G
-  10
-   6,R
-  10,R,D,X
-   1,R,J
-   1,R
-   1,R,K,G
-  33,R,D
-  13,R,Z
    1,R,J,G
-  23,R
-  13,R,J
-  22,R,D,X
-   5,R
-  38,R,J
-  15,R,D,X
-   3,R,J
-   8,R,K,G
+  16,R
+   1,R,J
+   8,R
+   2
+   1,R
+   2
+  14,L,D,X
+  24,L,J
+  15,U,X
+   1,L,J
+ 117,L,D
+   1,L,J
+  31,L
+   1,L,J
+  16,L
   40
 
 #lvl_4
-   1,R
-  15,R,D,X
-   6,L
-  12,L,X
-   1,R,J
-   2,J
-  48,R,J
-  15,R,D,X
-   2,R,D
-  15,D,X
-   3,L,D
-   3,D
-   1,R,D
-  25,D
-   3
-   1,D
-   5
-  14,R,Z
-   6,R,J
-  12,R
-   8,R,K
-   1,R
-  11,R,K
-  10
+  18,L
+  23,L,J
   15,U,X
-  15,L
-   2
-   1,J,G
-   2,R,J
-  59,R
-  24,R,U,X
-  15,R,C
-  26,R,D
-   5,R
-  15,R,X
-   2,R
-  11,R,U,C
-   1,R,J,G
-  14,R
-   2,R,J
-  15,D,X
-  12
-  20,R
-  36,R,X
+  11,L
+  14,U,X
+   1,L,J
+   9,L
+  10,R
+  21,D
+  25,R,D
+   2,D
+   1,R,D
+  20,D
+   7
+#any%-start
    4,Z
    7,R,J
    4,R,K,G
   40
 
-#lvl_5
-   8,R,K
+#lvl_5 (1)
+Read,../StrawberryJamTAS/2_Intermediate/low-g_botany.tas,lvl_5,lvl_6
+
+#lvl_6
+   2,R,D,X
+   1,R,J
+  50,R,D
+   6,R
+   8,R,U,Z
+   1,J
+   1,L,K,G
+  20,R
+   2
+  15,U,X
+   1,J
+   1
+  80,L,D
+   2,L
+   2
+   1,L
+  14,L,D,Z
+   9,R,J
+   3,R
+   2,R,J
+   7,R
+  15,R,Z
+   1,R
+  14,L,U,X
+  21,R,D
+  15,R,X
+  34,R,D
+   9,D
+   1,R,D
+   1,D
+  26,D
+  43,R,D
+   3,D
+  14,R,D,X
+  50,R,J
+  30,R,U,X
+   2,R,J,G
+   5,L,J
+  12,R
+   1,R,K
+   3,R
+  10,R,Z
+  16,R,J
+  13,U,Z
+#any%-end
+  18,R
+   1
+  22,R
+   1
+   1,R
+  11,J,G
+  14,R,Z
+  16,R,J
+   3,R
   15,R,D,X
-  23,R,J
-  15,R,D,X
-#berry-1
-   5,R,D,J
-  10,U,X
-  18,J
- 200,R,G
- 200,U,G
-  12,L,X
-  16,L,J,G
-   2,U,G
+  11,R
+   1,R,J
+  12,R
+  19,L
+  14,L,Z
+   3,L,J
+   6,L,D,X
+   1,R,J,G
+  11,L,J
+  10,L
+  10,L,J
+   6,L
+   5,L,J
+  16,U,X
+  12,R,J,G
+   3,R,K,G
+  40
+
+#any%-start
+#lvl_7
+Read,../StrawberryJamTAS/2_Intermediate/low-g_botany.tas,lvl_7
+
+ChapterTime: 1:37.070(5710)

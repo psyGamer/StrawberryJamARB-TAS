@@ -1,11 +1,11 @@
-RecordCount: 2128
+RecordCount: 2137
 
 console load StrawberryJam2021/3-Advanced/hennyburgr
    1
 
 #Start
 #Spinner Cycle [a_06b]
-   1
+   2
 
 #lvl_a_01
 Read, ../StrawberryJamTAS/3_Advanced/lethal_laser_laboratory, Start, lvl_a_05
@@ -40,8 +40,7 @@ Read, ../StrawberryJamTAS/3_Advanced/lethal_laser_laboratory, Start, lvl_a_05
    9,K,G
    1,R,K
    2,K
-  30,L,U,Z
-   1,L
+  31,L,U,Z
    3,L,K,G
    1,K
    6,L,K
@@ -56,6 +55,7 @@ Read, ../StrawberryJamTAS/3_Advanced/lethal_laser_laboratory, Start, lvl_a_05
   18,K,G
    9,J,G
    7
+#any%-end
   10,U,X
    1,L,J
   40
@@ -140,53 +140,57 @@ Endstunpause
   40
 
 #lvl_a_06 (1)
+   1,R,J
    5,R
    1,R,J
-  10,R,D,X
-   1,J
+   9,R,D,X
+   1,R,J
    7,R
+#any%-start
   10,R,J
    5,R
-  13,R,J
+  14,R,K
    8,U,C
-  14,R,J
-  18,R
-  27,R,U,X
-  12,D
+  12,R,J
+  11,R
+  10,R,J
+  26,R,U,X
+  11,D
    3,R,D
    9,L,D
-  10,D
-   1
+   8,D
+   2,R
+   2
    5,R
   15,L,D,X
    9,L,C
   38,R
   14,R,X
-   5
-   9,D,C
-   3
+   4
+   8,D,C
+   4
   16,L
   21,R,X
    9
    1,R,G
-  10,G
-   2,U,G
-   8,G
+  20,G
    1
    1,R,K,G
    1,R,J,G
    8,D
-  18,R,D
-   1
-   8,R
-  16,R,U,Z
+  17,R,D
+   1,D
+   9,R
+  16,R,U,X
    6,U,C
-  15,R,J
-  22,R
+  14,R,J
+  12,R
+   6,R,J
+   4,R
   14,R,Z
   16,R,J
   15,R,D,X
-   3,R
+   3,R,D
    1,R,J
   11,R,D,X
   43
@@ -194,6 +198,4 @@ Endstunpause
 #lvl_a_07
 Read, ../StrawberryJamTAS/3_Advanced/lethal_laser_laboratory, lvl_a_07
 
-ChapterTime: 0:46.784(2752)
-
-#ChapterTime: 0:47.141(2773)
+ChapterTime: 0:46.410(2730)

@@ -1,9 +1,10 @@
-RecordCount: 1280
+RecordCount: 10463
 
 console load StrawberryJam2021/2-Intermediate/Jems
    1
 
-Read, ../StrawberryJamTAS/2_Intermediate/in_filtration, Start, lvl_btd-02
+#Start
+Read,../StrawberryJamTAS/2_Intermediate/in_filtration.tas,Start,lvl_btd-02
 
 #lvl_btd-02 (0)
    1,R,D
@@ -13,12 +14,14 @@ Read, ../StrawberryJamTAS/2_Intermediate/in_filtration, Start, lvl_btd-02
   22,R,J
    9,K,G
    1
-  21,L
-  15,U,X
-  16,R
-   5,R,J
-  25,R,D
-  29,L,D
+  37,L
+  14,R,U,X
+   4,R,K,G
+  19,R,D
+  25,L,D
+   7,L
+   2,L,D
+   1,L
   13,R,D,X
    1,J,G
    5,R,J,G
@@ -30,132 +33,192 @@ Read, ../StrawberryJamTAS/2_Intermediate/in_filtration, Start, lvl_btd-02
    4,L,J,G
   40,R
   36,R,U,Z
-  13,R,D
-  24,D
+#any%-end
+  18,R,D
+  13,D
+   6,L,D
   40
 
 #lvl_btd-02b
-   8,L,D
-   4,L
-  14,R,D
-  14,D
-   1,L,G
-   1,R,J
-  13,R,D
-  15,D
-  54,R,D
-  15,R,Z
-  14,D
-  13
-  15,R,D
-  12,L,D
-  33,D
-  14,R,D
-  15,R,U,Z
-  15,R,D
-  24,D
-   1,S
-   1,D,J
-  34
-   1,S
-   1,D,J
-   1,O
-  68
+   7,L
+   3
+  11,R
+   8,R,D
+   1,G
+   3,L
+   6,R
+  19,R,D
    9,R
-  16,L,D
-  12,L,J,G
-  12,L,K,G
-   1,L
-   9,L,J,G
-  22,R,K
    1,R,J
-  12,R,K,G
-   7,L,J
+  12,R
+   8
+  21,R
+   8
+  15,R,Z
+  14
+  11,D
+  39
+   7,D
+   5,R,D
+# bottleneck is the laser here
+# if we can stall enough to pass it
+# high up after the first bounce,
+# that saves time
+   1
+  16,R
+  15,R,U,X
+  13,R
+   9
+  12,D
+   1,S
+   1,D,O
+  34
+   6,D
+   7,L,D
+   6,L
+Repeat,8
+   1,L,J
+  14,L
+EndRepeat
+   8,L,J
+   9,L,K
+   8,G
+   1,J,G
+   8
+  12,J
+   9,L,G
+   6,L,K,G
+   2,L
+  15,L,J,G
+   1,K,G
+   1,R,J
+  12,R,K
+   7,R
+   4,R,J
+   8,J
+   7,K,G
+   1,J
   40
 
 #lvl_btd-02 (1)
-   2,L
-  12,L,J,G
-   4,L,K,G
-  14,L,D
-   5
-  12,R,J
-  17,R,D
-   1,R
-  70
-  52,L,J
-  15,U,Z
-   4,J
-  40,L
+   1,K
+   5,L,K
+   2,L,J,G
+   3,R,J
+   5,L,J
+  14,L
+   1,R,J
+  14,R
+  17
+   5,R
+  66,G
+   3,J,G
+  11,K,G
+  10,L,K
+   5,K
+  16,U,X
+  12,R,J,G
+   2,K,G
+  40
 
 #lvl_btd-02c
-   3,L,J
-  10,J
-  38,R,G
-  24,J
-   2,R
-  21
+   1,L
+   1,R
+  10,J,G
+   1,L,J
+   1,R,K,G
+   1,R,J,G
+   8,R,G
+  12,J,G
+   8,G
+   9,J,G
+   7,K,G
+  11,R
+  27
+   1,R
+   1
   17,L,J
-  12,L,K,G
-   4,J,G
-  12,L,K,G
-  23,R,J
-   2,G
-  12,R,K,G
-   9,J
-   2,L,J
-   8
+  11,K,G
+   1,R,K
+  22,L,J,G
+   2,J
+   1,L,J
+  22,R,K
+   1,G
+  11,J,G
+   1
+  10,K,G
+   3,R
+   1,L,J
+   7,L
    7,L,J
   10,L
-   1,L,J
-   3,L,D
-  16,D
-   1,R,G
-   6
-  10,L,J
-   7,L
-   3,R,G
-   3,R,J,G
-  69,U,G
-  32,J
-   1,R,K
-  15,R
-   4,R,J
-   9,R
-  96
-   1,L,J
+  32
+   1,R
+   1
+   6,L
    5,L,D
-  16,R,D
+   1,L,J
+   3,R,J
+   5,R,K,G
+Repeat,4
+   1,L,K
+   1,K
+EndRepeat
+   3,L,K
+   1,R,K
+   7,J,G
+   1,R,J
+   1,R,K,G
+  13,R
+  11,R,J
+  19,R
+  77
+   1,L,J
+  10,L
+  11,D
   40
 
 #lvl_btd-02 (2)
-   9,R,D
-  18,D
-  10
+  11,R,D
+  15,L,D
    5,R
-  53
-  29
-   6,R
-   1,R,D
-   1,R,D,J
-  36,R,J
+   1
+   2,L
+  31,R,G
+   3,D,G
+   3,G
+   1,U,G
+  23,G
+  18,R,G
+#any%-start
+   1,R,J,G
+   2,R,K,G
+  11
+   3,R
+   2,R,D
+  10,R,D,J
+  24,J
   15,U,X
-   1,R
+   2,L
+   1
    1,L,J
-   1,J
-   3
+   2,J
+   1,L
+   1
    1,K
    1,J,G
    5
   40
 
 #lvl_btd-02a
-Read, ../StrawberryJamTAS/2_Intermediate/in_filtration, lvl_btd-02a, lvl_btd-05
+Read,../StrawberryJamTAS/2_Intermediate/in_filtration.tas,lvl_btd-02a,lvl_btd-05
 
 #lvl_btd-05
    1,L,J,G
    1,L,K,G
-  17,L
+   8,L
+   4
   11,L,D,J
    2,R,K,G
    1,K
@@ -171,281 +234,488 @@ Read, ../StrawberryJamTAS/2_Intermediate/in_filtration, lvl_btd-02a, lvl_btd-05
   14,R
    1,R,J
    4
-  15,R,D
-  17,R,J
-   2,J
-   2,U,G
-   1,J
   10,R
-  94
-  11,J
-  19,R,J
-  11,R,D
-  35,D
+   5,R,D
+  17,R,J
+   2,R
+   1,G
+   1,J,G
+  10,R
+   7
+   1,R
+  82
+   8,J
+  22,R,J
+   1,R
+   2,R,J
+#any%-end
+   6,R
+  17,L,D
+   1,D
+   1,L,D
+   8,D
+   8,R,D
   40
 
 #lvl_btd-05a
-  16,R,D
-   4,R
-   4,R,J
-   1,J
-  11,L,G
-  22,G
-   7,U,G
-  33,D,G
-  23,G
-   9,D,G
-   8,G
-  31,L,U,G
-  20,L
-  15
-   1,J
-  33,L,D
-   8,L
-   4,L,J
-   1,J
-  11,R,G
-  12,R,J,G
-  12,R,K,G
-  12,R,J,G
-   3,R,K,G
-   8,R
+   9,R,D
+   2,R
+   1,R,D
+   1,R,G
+   8,R,D
    1,R,J
-  15,R
-   6,R,J
+  14,R
+   4,R,J
    9,R
-  22,G
-  12
-   8,L,J
-  26,U,G
-  19,G
-  21,G
-   4,U,G
-  33,G
-  12,U,G
-  49,G
-  27,R
-  18,D
+   2,R,J
+   4,R
+   1,R,G
+   1
+   1,J
+   1,R,K,G
+  15,R
+   1,R,J,G
+   7,R
+   3,R,J
+  10,R,D
+  13,L,D
+   1,L,G
+   8,L,D
+  16,L,G
+   2
+   1,L,J,G
+   1,L,K,G
+   2,L,J,G
+   5,L,K,G
+   7,L
+  31,D
+   2,L,J
+  14,D
    4,R,D
-  28,R
-  19
-   3,J
-  12,R,K,G
-  12,R,J,G
-  11,L,K
+  15,L,D
+   5,L
+   8,L,J
+  12,L,K
+  12,J,G
+   5,K,G
+   1,L,K
+   1,R,K
+   1,R,J
+   6,R,K
+   1,R,J,G
+   1,R,K,G
+   5,R
+  10,R,J
+   5,R,D
+  10,R,D,J
+   5,R
+   9,R,J
+   1,J
+   1,L,K,G
+   8,L,G
+   2,J,G
+   8,G
+   1
+   1,J
+   4,L,J
+  15,L
+  21,G
+   1,U,G
+   1,G
+   2,U,G
+   2,G
+   7,D,G
+  16,R,D
+   1,R,J
+  22,R
+  33
+   4,J
+   1,R,J
+   1,J
+   1,L,J
+   1,K,G
+   1,R,K
+  11,L,J,G
+   5,J
+   1,L,J
   40
 
 #lvl_btd-06
+   6,L
+   1,L,J,G
+   7,L,K,G
+   6,L
    4,L,J
-   4,L,J,G
-   8,L
-   1,L,J
-  11,L
-   4,J
-   8,R,G
-  12,R,J,G
-   8,R,K,G
+  12,L,K
+  12,J,G
+   1
+   1,J,G
+  12,K,G
   10
-  16,J
-***
-  75
-  30,K
+  30,R
+   1,R,J
+  13,R
+  23
+#any%-start
+ 105,J
+  47,K
    5,R
    1,R,J
   14,R
    1,R,J
   14,R
-  99
+   2,R,J
+  23,R
   30,J
-   9,R
+  10,L
    1,R,J
-  15,R
+   6,J
+   6,R
+   1
+  13,R
+   1,R,J,G
+   1,R,K,G
+  13,R
    1,R,J
-  15,R
-   2,R,J
-  16,R
-  23,J
-  28
-   2,R,J
-  16,R
-   1,R,J
-  15,R
-   1,R,J
-  15,R
+  14,R
   40
 
-Read, ../StrawberryJamTAS/2_Intermediate/in_filtration, lvl_btd-07, lvl_btd-20
+#lvl_btd-07
+Read,../StrawberryJamTAS/2_Intermediate/in_filtration.tas,lvl_btd-07,lvl_btd-20
 
 #lvl_btd-20 (0)
    9,L,D
    5,L,J
   20,L,D
    5,D
-  24,L,D
-  21,R,Z
-  36,D
-  27,L,D
-   1,L
-  18,L,Z
-  22,R,D
+  21,L,D
+  12,D
+  15,R,Z
+  40,D
+  15,L,D
+  15,L,Z
+  25,L,D
   14,R,D,X
    1,R,J,G
+#any%-end
    2,R
   12,D
-   7,R
+   4,R
    4,R,D
-   5,R
-  32,R,D
-  15,D
-  12,L,J
-  12,L,D
-  10,D
+   3,R
    1,R,D
-  64,D
-  15,R,D
+   1,R
+   2,R,D
+   4,R
+   1,R,D
+   1,R
+   8,R,J
+  21,R
+   2,R,D
+   5,D
+   1
+  57,D
+  14,R,D
    1,R,J
-  15,R
+  14,R
    1,R,J
-   6,R
+   8,R
   40
 
 #lvl_btd-20a
+   6,R
+Repeat,5
+   1,R,J
+  14,R
+EndRepeat
+   4,R,J
+   1,R
+   1,R,J
+   4,R
+   1,R,J
+  14,R
+   1,R,J
+   8,R
+   3
+   3,R
+   3,R,J
+   1,R
+   1,R,J
+   4,R
+   1,R,J
    9,R
+   2
+   7,R
    1,R,J
-  15,R
+  14,R
    1,R,J
-  15,R
-   1,R,J
-  15,R
-   1,R,J
-  19,R
-   1,R,J
-  10,R
-   1,R,J
-  15,R
-   1,R,J
-  15,R
-   1,R,J
-  15,R
-   1,R,J
-  13,R
-   1,R,J
-  15,R
-   1,R,J
-  10,R
+  18,R
    5,R,X
-  17,R
-  12,R,J,G
-  12,R,K,G
-   9,L,J
-  12,L
-   1,L,J
-  15,L
-   6,L,J
-  15,L
-   1,L,J
-  15,L
-   5,L,J
-   5,L
-   2,L,J,G
-  11,L,D
-  10,D
-   7,J
-   4,R,K,G
-  22,R,D
-   1,R,J
-  15,R
-   8,R,J
-  15,R,D
-   7,D
-  13,L
-  28,L,D
-   3,L,J
-  12,L
-   5,L,J
-  12,L,K,G
-  14,L,J,G
-   1,L,K
-  22,L,D
-   1,L,J
-   3,J
-  12,L,J,G
-  16,L,K,G
-   1,L,J
-  22,L,D
-   1,L,J
-  15,L
-   2,L,J
-  16,L
+  13,R,J
+   9,K,G
    1
-  10,R
-  12,R,J,G
-   8,L,K
-  37,L,D
+   1,L,J
+  12,L,K
+   7,L
+   1,L,J
+  26,L
    1,L,J
    2,L
+   1
+   5,L
+   1,L,J,G
+   3,L,K,G
+  15,L
+   5,L,J
+   1,L,K,G
+   1,L,J,G
+   1,K,G
+  10,L
+   1,R
+   8,L
+   6,R,J
+   1,R,K,G
+   2,R,J,G
+   8,R
+   1,R,J
+  11,R,D
+   1,R,J
+  14,R
+   1,R,J
+  18,R
+   1,R,J
+   3,R
+  17,L
+   2,L,D,J
+   4,L
+   4
+  21,L,D
+   7,L,J
+   1,R,J
+   6,K,G
+   4,L,K
+   1,L
+   1,L,J,G
+   1,L,K,G
+  16,L
+   1,L,J
+  12,L
+   1,L,J,G
+   5,L,K,G
+  18,L,D
+   1,L,J
+  14,L
+   1,L,J
+  23,L
+   2
+  14,R
+  10,J,G
+   1,L,J
+   1,K
+   1,J
+   2
+  35,L,D
+   1,L,J
   40
 
 #lvl_btd-20 (1)
-  13,L
-   1,L,J
-  15,L
+  14,L
    1,L,J
   14,L
- 121,D
-   3,L,J
-   3,L
-  12,L,J,G
-  12,L,K,G
-   2,R,J
-   5,R
-  24,R
-   9
-  12,R,J
-  52,R
-   5,U,X
- 106
-   5,U,X
-   8
-   2,J
-#not properly synced
-  41,R
-   2,R,J
+   1,L,J
+  14,L
+  43,D
+   1
+   1,L
+   1
+   1,L
+   1
+  42,D
+   7,L
+   7,L,D
+   1,L,J
+   1,R,K,G
+  12,L,K
+  11,J,G
+   1,R,J
+   1,K
+   8,R,G
+  10,U,G
+   5,G
+   1,U,G
+   1,G
+   1,U,G
+   1,G
+   1
+   1,R,J,G
+   1,R,K,G
+   1,R
+   1,R,J,G
+   7,R
+  19,R,J
+   9,U,X
+  22,R
+  22,L
+  22,R
+  29,L
+  13,U,X
+   1,L,J
+  36,R
+   4,R,J
+   2,R
   40
 
 #lvl_btd-21
-  25,R,D
-   1,D
+  27,R
+#any%-start
   13,R
-  17
-   1,R
+   5
+   1,J
+   2,L
+   9
+   1,K
    1
-   6,J
-  22,L,J
+   1,J
+#hit spring a little more to the right
+#  21,L,J
+#   1,L
+  19,L,J
+   1,J
+   1,L,J
+   1
+#####
   19,D
-  27,R,D
-   7,R
-  33,R,J
-   4,D
+  18,R,D
+   1,R
+   1,R,D
+   2,R
+   1,R,D
+   1,R
    2,R,D
+   1,R
+   8,R,J
+   5,R
+   1,R,J
+  12,R
+   1,R,K,G
+   5,R
+   4,R,J
+   2,R
+   3
+   1,R
+   2
    1,R
   19,R,J
    1,L,J
    1,K
    2,J,G
-   1
-   4,R
+   5,R
    5,R,J
    1,R
-  21
-  16,R
-   4,R,J
-  33,R,D
-   8,D
+   9
+  15,R
+  10,R,J
+  28,R,D
+   9,D
   15,R,D
-   1,R,J
-   4,R
+   6,R
   40
 
+#lvl_btd-30
+Read,../StrawberryJamTAS/2_Intermediate/in_filtration.tas,lvl_btd-30,lvl_btd-35
 
-ChapterTime: 
+#lvl_btd-35
+   3
+   3,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   1,R,D,J
+   1,R,K,G
+   1,R,J,G
+  11,R
+   1,R,J
+  14,R
+   2,R,J
+   1,R
+   1
+   5,R
+   2,R,J
+  13,R
+   1,R,J,G
+   1,R,K,G
+   9,R
+   1,R,J
+  14,R
+#any%-end
+   1,R,J
+  14,R
+  50,L
+  36,L,J
+  30,D
+   1,L,J
+  18,D
+   1,R,G
+  12,R,D
+   1,R,J
+   8,R,G
+  19,U,G
+   4
+   7,R,J,G
+   5,R,K,G
+   1,R,J,G
+   3,R,K,G
+  25,R
+   5,R,J
+  11,R
+   4
+  17,R,D
+   1,R
+   4,R,J
+   6,R
+   4,R,J
+  12,R,K
+   8,J,G
+   1,L,J
+   1,R,J
+  12,K,G
+   4,R,J,G
+   8,R,G
+   4,R,J,G
+  10,R,G
+  12
+   4,L,J
+   1,R,K,G
+   7,L,K
+   4,R,K
+   1,K
+  12,R,J
+   1
+   1,R
+   1
+   1,R
+   1
+   5,R,J
+   1,R,K,G
+   3,R,J,G
+  15,R
+   1,R,G
+  18,R
+   9,R,G
+   1,R
+   2,R,J
+   2,R,K,G
+   2,R,J,G
+   3,R,K,G
+  12,R,J,G
+  45,R,D
+#any%-start
+   1,R,J
+  12,R
+  40
+
+#lvl_btd-42
+Read,../StrawberryJamTAS/2_Intermediate/in_filtration.tas,lvl_btd-42
+
+ChapterTime: 3:17.761(11633)

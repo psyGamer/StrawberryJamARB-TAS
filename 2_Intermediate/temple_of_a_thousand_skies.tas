@@ -1,4 +1,4 @@
-RecordCount: 2486
+RecordCount: 3168
 
 console load StrawberryJam2021/2-Intermediate/Ice
    1
@@ -210,6 +210,9 @@ Read, ../StrawberryJamTAS/2_Intermediate/temple_of_a_thousand_skies, lvl_b-02 (2
 
 #any%-end
 #lvl_b-06
+#
+# any% similar strat commented
+#
   12,D
   15,D,X
    1,R,D
@@ -221,55 +224,104 @@ Read, ../StrawberryJamTAS/2_Intermediate/temple_of_a_thousand_skies, lvl_b-02 (2
    7,L,J
   15,L,D,X
    3,L,J
-   4,L
-   1
-   7,L,D,X
-StunPause
+  15,L,D,X
+   7,L,J
+   6,L
    8,L,D,X
-   1,L,D
-  17,D
-EndStunPause
-   4,D
-   1,L,D
-  31,D
-  27
-  12,L,X
-   1,R,K
-   4,R,J,G
-   4,J
-   3,R,J
-  61,R,D
-   3,D
-   1,R,D
-  45,L,K
-  15,L,U,X
-  22,L
-   3,L,D
-   1,L,J,G
-   1,L,K,G
-  10,L
-  11,L,X
-  31,U,C
-  10
-  20,J
-   9,U,X
-  11,J
+stunpause, input
+   7,L,D,X
+   7,L,D
+   7,D
+endstunpause
+   2,D
+  16,D
+  15,L,D,X
+   8,L
+  51,R,X
+  15,U,C
+   7,J
   22
-  24,D
-  21,R,D
-   2,R
-   1
-   1,R,J,G
-   7,R,K,G
+  18,L,D
+   7,D
+   1,L,D
+   3,D
+   5,R,D
+   4,D
+   4,L,D
+   5,D
+   4,R,Z
+  11,R,J
    4,R,D,X
   10,R
   33,R,J
-  38,R,U,G
-   1,R,J,G
-  11,L,J
-   6,J
-   1,L,J
-   9,R,Z
+  33,R,U,G
+  36,L,K
+  31,L
+   1,L,U,G
+  10,G
+   4,L,J,G
+   8
+  15,L,Z
+  24,R
+   6
+   2,R
+   6
+  12,L,X
+   1,R,J
+   2,R,K,G
+   4,K
+  43,R,K
+  15,R,U,Z
+   8,R
+#   3,L,J
+#   4,L
+#   1
+#   7,L,D,X
+#StunPause
+#   8,L,D,X
+#   1,L,D
+#  17,D
+#EndStunPause
+#   4,D
+#   1,L,D
+#  31,D
+#  27
+#  12,L,X
+#   1,R,K
+#   4,R,J,G
+#   4,J
+#   3,R,J
+#  61,R,D
+#   3,D
+#   1,R,D
+#  45,L,K
+#  15,L,U,X
+#  22,L
+#   3,L,D
+#   1,L,J,G
+#   1,L,K,G
+#  10,L
+#  11,L,X
+#  31,U,C
+#  10
+#  20,J
+#   9,U,X
+#  11,J
+#   7
+#  15
+#  24,D
+#  21,R,D
+#   2,R
+#   1
+#   1,R,J,G
+#   7,R,K,G
+#  38,R,U,G
+#   1,R,J,G
+#  11,L,J
+#   5,J
+#   1,L,J
+#   9,R,Z
+#####
 #Spinner Cycle [b-07]
    2
 ###
@@ -523,4 +575,4 @@ Read, ../StrawberryJamTAS/2_Intermediate/temple_of_a_thousand_skies, lvl_b-01 (2
 #lvl_c-02
 Read, ../StrawberryJamTAS/2_Intermediate/temple_of_a_thousand_skies, lvl_c-02
 
-ChapterTime: 2:12.600(7800)
+ChapterTime: 2:11.954(7762)

@@ -1,33 +1,220 @@
-RecordCount:
+RecordCount: 1172
 
 console load StrawberryJam2021/3-Advanced/MousseMoose
    1
 
 #Start
- 264
+Read, ../StrawberryJamTAS/3_Advanced/synapse, Start, lvl_b1
 
-#lvl_intro_fall
-   5,F,91
+#lvl_b1 (0)
+   2,R,J
+  32,R
+   9,R,Z
    1,R,J
-   1,R,K
+   4,R
    1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
+   2,R
+   3,R,D
+   4,R,J
+   4,J
+   3,R
+   1
+   1,R
+  15,U,X
+  15,L
+   1,J
+   1,L,J
+   7,R,J
+   1,J
+   2,R,J
+   1,L,J
+   1,K
+   3,J,G
    3,R,J
-   1,R,K,G
-   6,R,D,X
-   1,S
-   1,D,J
-  34
-   1,R,K
-  14,R
+   5,R
+  15,U,Z
+   1,L
+  18,J
+   1,K,G
+   1
+   1,K,G
+   1
+   1,L,K,G
+   1,R
+   6,L
+   4,Z
+#any%-end
+   1,L,J
+   4,J
+   1
+   2,J
+   8
+
+#lvl_b1-b
+  13,R,D,X
    1,R,J
-  40
+   7,R
+  12,R,J
+  18,U,X
+  18,R,U,C
+  15,U,X
+   1
+  18,L,U,C
+  18
+  15,L,Z
+  18,L,U,X
+  18,U,C
+  17,R
+   1
+  10,R,U,X
+  14,R,J,G
+   1,R,K,G
+  18,R,D
+  30,R,D
+  10,R,D
+# gated by magenta block
+# can probably optimise feather speed
+  36,F,136
+  59,F,350
+  14,F,0
+  12,F,12
+   9,R
+  15,R,D,X
+   7,R,D
+  47,D
+  11,R,D
+   
+#lvl_b1 (1)
+   7,R,D,X
+   1,R,J
+   4,R
+   2
+   1,R
+# wait for block cycles
+  15,D,C
+  15,D,Z
+  15,D,C
+  28
+###
+   4,R,Z
+#any%-start
+   1,R,J
+   4,R
+   1,R,J
+   2,R
+   3,R,D
+   4,R,J
+   4,J
+   3,R
+   1
+   1,R
+  15,U,X
+  15,L
+   1,J
+   1,L,J
+   7,R,J
+   1,J
+   2,R,J
+   1,L,J
+   1,K
+   3,J,G
+   3,R,J
+   5,R
+  15,U,Z
+   1,L
+  18,J
+   1,K,G
+   1
+   1,K,G
+   1
+   1,L,K,G
+   1,R
+   6,L
+   4,Z
+   2,L,J
+   2
+   2,J
+   5
+   4,L,Z
+   1,L,J
+   6,L
+   4,L,J
+  12,L,Z
+   3,R,J
+  15,D,C
+  15,D,X
+   6,R,J
+   1,J
+   7
+  14,L,Z
+   1,R,J
+   1,J
+   5,R,J
+   2,R
+   1,R,J
+   1,R
+   1,R,J
+   1,R
+   6,R,J,G
+   1,J
+  15,U,X
+   1
+  18,U,C
+   2
+  15,U,X
+   2,L
+   2
+   1,L
+   1
+   4,L
+  10,L,J
+  15,U,X
+   1,L
+   1,L,J,G
+   1,L,K,G
+   4,L
+   1
+   1,L
+   1,L,J
+   7,L
+   5,L,J
+   6,J
+   1,L,J
+   1,J
+  18,U,X
+  11,U,C
+StunPause
+skipinput 3 2
+   7,U
+   8,R
+skipinput 3 1
+  15,U,Z
+   2,R
+   3,L
+EndStunPause
+  14,L,K
+   1,L
+  10,L,K
+   1,J
+  19,R,J
+   2,R
+   1
+   1,R
+   1
+   1,R,K,G
+  31,R,J,G
+  19,R,U,Z
+  11,R,J
+   1,R
+  11,K,G
+   7,R
+   4,R,Z
+   1,R,J
+   7,R
+   3,R,J
+  13,L,D,X
 
-#lvl_intro_a1
+#lvl_b2
+Read, ../StrawberryJamTAS/3_Advanced/synapse, lvl_b2
 
-
-
-
-ChapterTime: 
+ChapterTime: 1:42.340(6020)

@@ -1,4 +1,4 @@
-RecordCount: 855
+RecordCount: 861
 
 console load StrawberryJam2021/1-Beginner/Jadeturtle
    1
@@ -324,7 +324,7 @@ Read,../StrawberryJamTAS/1_Beginner/strawberry_orchard,Start,lvl_a-02y
    5,R,G
    1,R,J,G
   10,R,G
-  14,G
+  13,G
    7,R
    1,G
    3
@@ -522,4 +522,4 @@ Read,../StrawberryJamTAS/1_Beginner/strawberry_orchard,lvl_a-09z,lvl_a-11z
 #lvl_a-13z
 Read,../StrawberryJamTAS/1_Beginner/strawberry_orchard,lvl_a-13z
 
-ChapterTime: 1:38.345(5785)
+ChapterTime: 1:38.328(5784)

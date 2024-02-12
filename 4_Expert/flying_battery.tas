@@ -1,4 +1,4 @@
-RecordCount: 195
+RecordCount: 237
 
 console load StrawberryJam2021/4-Expert/alicequasar
    1
@@ -68,20 +68,17 @@ read,../StrawberryJamTAS/4_expert/flying_battery,lvl_a-01,lvl_a-08
   35,R
   11,R,X
   28,R,J,G
-  26,R
-  18,R,X
-  13,R,C
-   1,R,J,G
+  25,R,J
+  27,R,X
+   8,R,C
+  30,R,J,G
+  15,R,U,X
+  23,R,D
+   1,L
+  18
    7,R
-  15,R,U,X
-  29,R
-  15,R,U,X
-  15,R
-   1
-   1,R,J,G
-   8,R,D
-   8,D
-   6,L,D,X
+   1,L
+   4,Z
    1,R,J
    7,R
   34,R,J
@@ -103,4 +100,4 @@ read,../StrawberryJamTAS/4_expert/flying_battery,lvl_a-01,lvl_a-08
    2,L,J
   15,L,U,X
  135
-ChapterTime: 1:11.536(4208)
+ChapterTime: 1:11.519(4207)

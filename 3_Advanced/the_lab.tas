@@ -1,4 +1,4 @@
-RecordCount: 1592
+RecordCount: 1761
 
 console load StrawberryJam2021/3-Advanced/RadleyMcTuneston
    1
@@ -58,10 +58,9 @@ Read, ../StrawberryJamTAS/3_Advanced/the_lab, Start, lvl_evade-02-TiltTheStars
   11,L,D,C
    3
   15,D,C
-   1,X
-   1,J
+   2
   12
-  14,L,D,X
+  14,L,D,C
    1,R,J
    2,R
    9,R,U,X
@@ -71,15 +70,22 @@ Read, ../StrawberryJamTAS/3_Advanced/the_lab, Start, lvl_evade-02-TiltTheStars
    5,R,K,G
   15,R
   77
+   9,R,D,X
+   1,L,J
    7,L
-  11,R,D,X
-   4,L,J
-  13,L,U,X
+   1,L,J
+   8,L,U,X
   40
 
 #lvl_evade-02-TiltTheStars (1)
-  39,L
-  31,L,D
+   7,L
+   1,L,J,G
+  18,L
+   3,L,D
+  14,D
+   1,L,D
+  13,D
+   6
   13,R,U,X
    1,R,J,G
   23,D
@@ -442,10 +448,13 @@ Read, ../StrawberryJamTAS/3_Advanced/the_lab, lvl_cross-01-Worldwaker2, lvl_cros
   46,D
   25,L,D
    2,D
-   9,L,Z
-   4,L,J
-  27,L,D
-  28,R,D
+   4,L,Z
+   7,L,J
+   6,L
+   1,L,J
+  24,L,D
+  19,R,D
+   5,R,D
    6,R,Z
    1,R,J
    8,R
@@ -499,4 +508,4 @@ Read, ../StrawberryJamTAS/3_Advanced/the_lab, lvl_cross-01-Worldwaker2, lvl_cros
 #lvl_escape-01-Worldwaker2
 Read, ../StrawberryJamTAS/3_Advanced/the_lab, lvl_escape-01-Worldwaker2
 
-ChapterTime: 2:09.489(7617)
+ChapterTime: 2:09.183(7599)

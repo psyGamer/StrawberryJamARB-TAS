@@ -1,4 +1,4 @@
-RecordCount: 1034
+RecordCount: 1047
 
 console load StrawberryJam2021/1-Beginner/coffe
    1
@@ -96,18 +96,19 @@ Read,../StrawberryJamTAS/1_Beginner/loopy_lagoon,Start,lvl_c-08
   19,R,J
   15,D,X
   15,L,D,C
-   4,L,D
+   4,L
   53,R
    3,J,G
-   6
-   2,R
-#any%-start
-   5,L
-   4,Z
+#any% start
+   5,R
    1,R,J
-   2,R,K,G
-   7,R
-   6,R,J
+   2,R
+   7,R,Z
+   1,R,J
+   2,R
+   1,R,J,G
+   9,R
+   2,R,J
   40
 
 #lvl_c-09
@@ -158,7 +159,7 @@ Read,../StrawberryJamTAS/1_Beginner/loopy_lagoon,lvl_c-09,lvl_c-11
 #lvl_c-12
 Read,../StrawberryJamTAS/1_Beginner/loopy_lagoon,lvl_c-12,lvl_c-13
 
-#lvl_c-13
+#lvl_c-13 (0)
    8,R,D,X
    1,R,J
   11,R,D,X
@@ -290,4 +291,4 @@ Read,../StrawberryJamTAS/1_Beginner/loopy_lagoon,lvl_c-12,lvl_c-13
 #lvl_c-15
 Read,../StrawberryJamTAS/1_Beginner/loopy_lagoon,lvl_c-15
 
-ChapterTime: 1:45.842(6226)
+ChapterTime: 1:45.757(6221)

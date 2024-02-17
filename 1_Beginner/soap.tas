@@ -1,4 +1,4 @@
-RecordCount: 1360
+RecordCount: 1363
 
 console load StrawberryJam2021/1-Beginner/Circumplex
    1
@@ -7,7 +7,7 @@ console load StrawberryJam2021/1-Beginner/Circumplex
  104
 
 #SpinnerCycle [07]
-   2
+   0
 
 #lvl_01
 Read,../StrawberryJamTAS/1_Beginner/soap,lvl_01,lvl_04
@@ -220,7 +220,7 @@ Read,../StrawberryJamTAS/1_Beginner/soap,lvl_06,lvl_08
   72,O
 #any%-end
 #SpinnerCycle [09]
-   0
+   2
 #
   15,L,J
    1,J
@@ -317,7 +317,6 @@ Read,../StrawberryJamTAS/1_Beginner/soap,lvl_06,lvl_08
   15,U,X
    8,R,J
   40
-
 #lvl_09
 Read,../StrawberryJamTAS/1_Beginner/soap,lvl_09,lvl_10
 

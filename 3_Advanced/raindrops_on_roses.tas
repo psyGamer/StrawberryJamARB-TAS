@@ -1,4 +1,4 @@
-RecordCount: 8848
+RecordCount: 9389
 
 console load StrawberryJam2021/3-Advanced/Worldwaker2
    1
@@ -343,7 +343,8 @@ endstunpause
   18,R,K,G
   13,R,G
    2,G
-  14,R,X
+   1,R
+  13,R,X
    1,R,J,G
    1,R,J
    6,R
@@ -358,10 +359,7 @@ endstunpause
   10,R,K,G
   35,R,G
    1,R
-
-   
 #any%-end
-
    9,U,X
    7,R,J
    1,R,K,G
@@ -562,21 +560,21 @@ Read,../StrawberryJamTAS/3_Advanced/raindrops_on_roses,lvl_3,lvl_2 (1)
   18,L,K
   37,L,J,G
    8,L,D,G
-  63,L,U,G
+  40,L,G
+   8,L,D,G
    1,L
-  10,L,D,X
-   5,L,J
-  42,L,U,G
+  14,L,Z
+   1,L,J
+  77,L,U,G
+  26,L,G
    1,L
-  13,L,U,X
-   3,L
- 143,L,U,G
+  15,L,U,X
+  52,L,G
    1,L
    4,Z
    1,L,J
    6,L
   40
-
 #lvl_3 (2)
    1,L
    1,L,J
@@ -850,39 +848,52 @@ EndRepeat
   16,L,J
   14,U,X
 #this section could be a lot better
-  50,L,U,J,G
-  61,U,G
-  29,R,U,G
-   1,R
+  22,L,U,J,G
+   9,G
+   1,R,G
+   1,J,G
+   1,L,J,G
+   7,R,J,G
    1,K,G
-  10,K
-   1,L,K
-  13,J
-  55,U,J,G
-  13,L,U,G
-   1,L
+  11,K,G
+  64,U,K,G
+  11,R,U,G
+   1,L,J
+  32,L,K
    1,J,G
   10,J
    1,R,J
-   9,R
+  11,R,K
+   3,L,K
+  36,L,J,G
+   1,L
+   6,J,G
+   1,R,J
+   7
+   1,J
+   1
    4,R,X
   10,L,J
    5,L
-   5,L,J
+   3,L,J
    2,L
    1,L,J
-   2,L
+   3,L
    4,R,Z
    1,R,J
    7,R
    7,R,J
   36,R,G
-  15,U,X
-   7,L,J
-  30,L,G
-   5,R,G
+   1,R
+  14,U,X
+   6,L,J
+  28,L,G
+   8,R,G
+   1,R
    1,R,J,G
-   6,R,J
+   2,R
+   1,R,J,G
+   4,R,J
    7,R
   10,R,Z
    1,L,J
@@ -999,7 +1010,7 @@ EndRepeat
    4
    3,R
 #spinner cycle
-   2
+   0
 #
   10,R,X
    1,L,J
@@ -1127,7 +1138,6 @@ endstunpause
    0,R,K,G
    3,R
   15,L
-
    5,D
    1,L
 #key cycle
@@ -1166,8 +1176,6 @@ endstunpause
   19,L,J
   30,U,J,G
   15,L,U,J,G
-#1f late climbjump for spx manip
-#real bad but it works and don't see an option for more height to land frame sooner
    1,L,K,G
   11,L,K
    7,L,J,G
@@ -1308,4 +1316,4 @@ endstunpause
   17,R,U,X
  135,R,D
 
-ChapterTime: 3:56.725(13925)
+ChapterTime: 3:55.654(13862)

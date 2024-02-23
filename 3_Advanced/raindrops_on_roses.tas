@@ -1,4 +1,4 @@
-RecordCount: 9430
+RecordCount: 9887
 
 console load StrawberryJam2021/3-Advanced/Worldwaker2
    1
@@ -575,6 +575,7 @@ Read,../StrawberryJamTAS/3_Advanced/raindrops_on_roses,lvl_3,lvl_2 (1)
    1,L,J
    6,L
   40
+
 #lvl_3 (2)
    1,L
    1,L,J
@@ -582,40 +583,36 @@ Read,../StrawberryJamTAS/3_Advanced/raindrops_on_roses,lvl_3,lvl_2 (1)
    1
   15,L,D,X
   10
-  14,U,X
-   6,L,J
-  17,L
-  14,L,D,X
+  10,U,X
+  10,L,J
+   8,L
+   3,L
+  10,L,Z
    1,L,J
-  39,L,U,J,G
+   1,L,J,G
+  43,L,U,G
    1,L
   10,L,D,X
    5,L,J
-  35,L,U,J,G
+   1,L,J,G
+  32,L,G
    1,L
   15,U,X
   12,R,J
-  15,R
-  14,R,D,X
+   3
+  14,R
+  13,R,D,X
    1,R,J
- 114,R,U,J,G
-   1,R
-  14,U,X
-   1,L,J
-  41,R,U,J,G
-   1,R
-  12,L,K
-  44,L,K,G
-  19,L
-  15,R
-  10,R,D,X
-   1,L,J
-  62,L,U,J,G
-   1,L
-  15,L,U,X
-  24,L,J,G
-   1,L,J
-  12,K
+   1,R,J,G
+  40,R,G
+  15,U,X
+ 119,L,U,G
+   1,K,G
+  10,K
+   1,R,K
+   2,L,J,G
+  10,R,J
+  11,L,K
    9,L,J,G
   40
 
@@ -672,7 +669,7 @@ Read,../StrawberryJamTAS/3_Advanced/raindrops_on_roses,lvl_3,lvl_2 (1)
    1,R
   18,U,X
   13,U,C
-  51,R,G,P
+  51,R,G
    3,R,J
   14,U,X
   39,R,U,J,G
@@ -1010,7 +1007,7 @@ EndRepeat
    4
    3,R
 #spinner cycle
-   0
+   1
 #
   10,R,X
    1,L,J
@@ -1316,4 +1313,4 @@ endstunpause
   17,R,U,X
  135,R,D
 
-ChapterTime: 3:55.450(13850)
+ChapterTime: 3:52.441(13673)

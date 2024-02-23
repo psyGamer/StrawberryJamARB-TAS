@@ -1,4 +1,4 @@
-RecordCount: 10463
+RecordCount: 10475
 
 console load StrawberryJam2021/2-Intermediate/Jems
    1
@@ -625,24 +625,23 @@ EndRepeat
 Read,../StrawberryJamTAS/2_Intermediate/in_filtration.tas,lvl_btd-30,lvl_btd-35
 
 #lvl_btd-35
-   3
-   3,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
+   8,R
    1,R,D,J
+  29,R
+   1,R,J
    1,R,K,G
    1,R,J,G
   11,R
    1,R,J
   14,R
+   1,R,J
+   2
+   7,R
    2,R,J
-   1,R
+   7,R
    1
-   5,R
-   2,R,J
-  13,R
+   1,R,D
+   1,D
    1,R,J,G
    1,R,K,G
    9,R
@@ -718,4 +717,4 @@ Read,../StrawberryJamTAS/2_Intermediate/in_filtration.tas,lvl_btd-30,lvl_btd-35
 #lvl_btd-42
 Read,../StrawberryJamTAS/2_Intermediate/in_filtration.tas,lvl_btd-42
 
-ChapterTime: 3:17.761(11633)
+ChapterTime: 3:17.013(11589)

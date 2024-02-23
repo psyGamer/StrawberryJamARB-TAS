@@ -1,4 +1,4 @@
-RecordCount: 1581
+RecordCount: 3168
 
 console load StrawberryJam2021/2-Intermediate/Ice
    1
@@ -23,11 +23,15 @@ Read, ../StrawberryJamTAS/2_Intermediate/temple_of_a_thousand_skies, Start, lvl_
   66,D,X
   26,L,U,C
 #any%-end
-   9,L,D
-  48,D
-  29,L
+  41,D
+   2,L,D
+   2,D
+   1,L,D
+   1,D
+  12,L,D
+  26,L
   15,L,X
-  18,L
+  17,L
    4,L,Z
    5,L,J
   19
@@ -98,22 +102,23 @@ Read, ../StrawberryJamTAS/2_Intermediate/temple_of_a_thousand_skies, Start, lvl_
    7,R,J
 #any%-end
   55,U,X
-   4,R
-   5
+   7
+   2,R
   15,L,D,X
    1,L,J
   10,L,D,X
    6,L,J
   19,L,D
-  15,L,Z
+  14,L,Z
   19
   77
-   4,R,J
-  10,R,D,X
+   4,R,Z
+   1,R,J
+   7,R
    5,R,J
   15,R,D,X
   15,D,C
-  12,R,D
+   8,D
   55,U,X
   15,L,C
   21
@@ -195,7 +200,7 @@ Read, ../StrawberryJamTAS/2_Intermediate/temple_of_a_thousand_skies, lvl_b-02 (2
    7,L,D
    2,R,D
    7,L,D
-#Spinner Cycle [b-06] 1
+#Spinner Cycle [b-06]
    0,L,G
 ###
   15,L,D,X
@@ -205,6 +210,9 @@ Read, ../StrawberryJamTAS/2_Intermediate/temple_of_a_thousand_skies, lvl_b-02 (2
 
 #any%-end
 #lvl_b-06
+#
+# any% similar strat commented
+#
   12,D
   15,D,X
    1,R,D
@@ -216,62 +224,104 @@ Read, ../StrawberryJamTAS/2_Intermediate/temple_of_a_thousand_skies, lvl_b-02 (2
    7,L,J
   15,L,D,X
    3,L,J
-   4,L
-   1
-   7,L,D,X
-StunPause
+  15,L,D,X
+   7,L,J
+   6,L
    8,L,D,X
+stunpause, input
+   7,L,D,X
+   7,L,D
+   7,D
+endstunpause
+   2,D
+  16,D
+  15,L,D,X
+   8,L
+  51,R,X
+  15,U,C
+   7,J
+  22
+  18,L,D
+   7,D
    1,L,D
-  17,D
-EndStunPause
+   3,D
+   5,R,D
    4,D
-  14,L,D
-  18,D
-  26
-  28,R,J
-  10,R,D
-  10,D
-  12,L,G
-  63,R,D,J
-  46,L,K
-  42,L,U,X
-   3,L,J,G
-  13,L
-  11,L,X
-  31,U,C
-  10
-  20,J
-   9,U,X
-  11,J
-  70,D
-   2,R,D
-   1,D
-   4,R,X
-   7,R,J
-   7,R,K,G
-#Spinner Cycle [b-06] 2
-   2
-###
+   4,L,D
+   5,D
+   4,R,Z
+  11,R,J
    4,R,D,X
   10,R
-  20,R,J
-  15,R,X
-   1,J,G
-   8,R,G
-Repeat,5
-   1
-   1,G
-EndRepeat
-   2,R,J,G
-StunPause
-   6,R,J,G
-   3,J
-   4
-   6,L
-   5,R,J,G
+  33,R,J
+  33,R,U,G
+  36,L,K
+  31,L
+   1,L,U,G
+  10,G
+   4,L,J,G
+   8
+  15,L,Z
+  24,R
+   6
    2,R
-  13,R,J,G
-EndStunPause
+   6
+  12,L,X
+   1,R,J
+   2,R,K,G
+   4,K
+  43,R,K
+  15,R,U,Z
+   8,R
+#   3,L,J
+#   4,L
+#   1
+#   7,L,D,X
+#StunPause
+#   8,L,D,X
+#   1,L,D
+#  17,D
+#EndStunPause
+#   4,D
+#   1,L,D
+#  31,D
+#  27
+#  12,L,X
+#   1,R,K
+#   4,R,J,G
+#   4,J
+#   3,R,J
+#  61,R,D
+#   3,D
+#   1,R,D
+#  45,L,K
+#  15,L,U,X
+#  22,L
+#   3,L,D
+#   1,L,J,G
+#   1,L,K,G
+#  10,L
+#  11,L,X
+#  31,U,C
+#  10
+#  20,J
+#   9,U,X
+#  11,J
+#   7
+#  15
+#  24,D
+#  21,R,D
+#   2,R
+#   1
+#   1,R,J,G
+#   7,R,K,G
+#  38,R,U,G
+#   1,R,J,G
+#  11,L,J
+#   5,J
+#   1,L,J
+#   9,R,Z
+#####
 #Spinner Cycle [b-07]
    2
 ###
@@ -341,39 +391,84 @@ EndStunPause
   40
 
 #lvl_b-07
-   4,U
-StunPause
-   4,U
-SkipInput
-   3
-   3,R
-SkipInput,3,1
-  12,R,X
-  12,R,J
-   5,J
-SkipInput,3,1
+# Leaving old strat in
+# just in case
+#
+  14,L
+  10,L,D,X
+   3,L,J
+   6,L,K,G
+   5,L,Z
+   1,L,J
+   7,L
+   4,J
+  10,L,D,X
+   6,R,J
+   5,R,D,X
+   1,R,J,G
+  11,R
+  13,R,J
+stunpause, input
+  13,R,J
+skipinput,3,1
   15,U,X
   13,R,J
-EndStunPause
-  14,R,J
+endstunpause
+  13,R,J
   11,L,K
-   5,L
-   2,L,K
    7,L
-   5
-   1,L,D
+   3,L,K
+   4,L
+   6
   10,L,X
-   5,R,J
-  16,R,G
-  33,U,G
+   6,R,J
+  13,R
+   1
+   6,R,G
+   1,D,G
+  27,U,G
    1,J
    1,L,J
    1,L
    1,K
    6,U,X
-  14,L,J
+  15,L,J
 StunPause
-  14,L,J
+  13,L,J
+#   4,U
+#StunPause
+#   4,U
+#SkipInput
+#   3
+#   3,R
+#SkipInput,3,1
+#  12,R,X
+#  12,R,J
+#   5,J
+#SkipInput,3,1
+#  15,U,X
+#  13,R,J
+#EndStunPause
+#  14,R,J
+#  11,L,K
+#   5,L
+#   2,L,K
+#   7,L
+#   5
+#   1,L,D
+#  10,L,X
+#   5,R,J
+#  16,R,G
+#  33,U,G
+#   1,J
+#   1,L,J
+#   1,L
+#   1,K
+#   6,U,X
+#  14,L,J
+#StunPause
+#  14,L,J
+####
    2,J
    1,K
    2,R,K
@@ -480,4 +575,4 @@ Read, ../StrawberryJamTAS/2_Intermediate/temple_of_a_thousand_skies, lvl_b-01 (2
 #lvl_c-02
 Read, ../StrawberryJamTAS/2_Intermediate/temple_of_a_thousand_skies, lvl_c-02
 
-ChapterTime: 2:18.278(8134)
+ChapterTime: 2:11.954(7762)

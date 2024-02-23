@@ -1,4 +1,4 @@
-RecordCount: 2113
+RecordCount: 2149
 
 console load StrawberryJam2021/1-Beginner/CoupCritik
    1
@@ -266,12 +266,16 @@ Read,../StrawberryJamTAS/1_Beginner/over_the_city,lvl_03,lvl_04
   11,R
   27,R,J
    1,K,G
-   2,L
+   1,L
    7,R,J,G
-   8,R
-  35,R,J,G
-   1,R,K,G
-  66,R,D
+   7,R
+   1,R,J,G
+  10,R,K,G
+   1
+  22,R,K
+   1,R,J,G
+  22,R
+  45,R,D
    1,R,J
   18,R
    1,R,J
@@ -1065,4 +1069,4 @@ EndRepeat
   15,U,X
  135
 
-ChapterTime: 2:40.565(9445)
+ChapterTime: 2:40.531(9443)

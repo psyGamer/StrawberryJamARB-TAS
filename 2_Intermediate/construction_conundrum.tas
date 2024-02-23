@@ -1,8 +1,9 @@
-RecordCount: 549
+RecordCount: 550
 
 console load StrawberryJam2021/2-Intermediate/thebreadstick1
    1
-
+#spinner
+   1
 #Start
   91
 
@@ -136,7 +137,6 @@ console load StrawberryJam2021/2-Intermediate/thebreadstick1
    3,R,K,G
    7,R,U,X
   40
-
 #lvl_a-002
 read,../StrawberryJamTas/2_Intermediate/construction_conundrum,lvl_a-002,lvl_a-005 (2)
 
@@ -346,4 +346,4 @@ endstunpause
 #lvl_a-012
 read,../StrawberryJamTas/2_Intermediate/construction_conundrum,lvl_a-012
 
-ChapterTime: 2:01.210(7130)
+ChapterTime: 2:00.394(7082)

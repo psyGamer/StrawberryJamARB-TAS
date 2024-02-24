@@ -1,4 +1,4 @@
-RecordCount: 9900
+RecordCount: 9901
 
 console load StrawberryJam2021/3-Advanced/Vamp
    1
@@ -89,6 +89,16 @@ EndRepeat
    1,R,U
   10,U
 #any%-start
+
+
+
+
+
+
+
+
+
+
   16,L,U
    3,U
    3
@@ -113,14 +123,65 @@ EndRepeat
   27,R,J
    1,R
    7,L
-   5,L,U
-   1,L
+   3,L,U
+   4,R
    4,R,Z
    1,R,J
-   6,R
-   1,R,J
-   6,R,K,G
+   4,R
+   2,R,J
+   5,R,K,G
   40
+
+
+
+
+
+
+
+
+
+
+
+#  16,L,U
+#   3,U
+#   3
+#   7,U
+#  14,R,U
+#  15,R,U,X
+#  15,L,U,C
+#  14,U
+#   3
+#   2,U
+#   1,R,U
+#   1,U
+#   9,R,U
+#   8,U
+#   6
+#  15,R,Z
+#  10,R
+#  14,R,U,X
+#   5,R,J
+#  15,R,U,X
+#   1,R
+#  27,R,J
+#   1,R
+#   7,L
+#   5,L,U
+#   1,L
+#   4,R,Z
+#   1,R,J
+#   6,R
+#   1,R,J
+#   6,R,K,G
+#  40
+
+
+
+
+
+
+
+
 
 #lvl_Vamp_2
 Read,../StrawberryJamTAS/3_Advanced/rightside-down_cavern.tas, lvl_Vamp_2, lvl_Vamp_6
@@ -234,6 +295,4 @@ EndStunPause
 #lvl_Vamp_7
 Read,../StrawberryJamTAS/3_Advanced/rightside-down_cavern.tas, lvl_Vamp_7
 
-ChapterTime: 1:09.054(4062)
-
-#ChapterTime: 0:58.480(3440)
+ChapterTime: 1:08.952(4056)

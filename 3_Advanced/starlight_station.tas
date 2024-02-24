@@ -1,4 +1,4 @@
-RecordCount: 404
+RecordCount: 444
 
 console load StrawberryJam2021/3-Advanced/Jolly
    1
@@ -147,8 +147,9 @@ endStunpause
    1
    1
    1,L
-#Spinner cycle [b2]
    1
+#Spinner cycle [b2]
+   2
 #
    9,R,Z
   12,R,J
@@ -182,9 +183,8 @@ endStunpause
 read,../StrawberryJamTAS/3_Advanced/starlight_station,lvl_b1,lvl_b4
 
 #lvl_b4 (0)
-   7,R
-   6,R,J
-  16,U,X
+  14,R,J
+  13,U,X
   15,R,J
   12,R,X
    1,L,J
@@ -354,8 +354,7 @@ read,../StrawberryJamTAS/3_Advanced/starlight_station,lvl_b6,lvl_brys2
   13,R,D,X
    2,R,J
 # spinner cycle
-   0
-#   1
+   2
 #####
 # second spinner cycle in later bubble
   45,R,Z
@@ -521,4 +520,4 @@ read,../StrawberryJamTAS/3_Advanced/starlight_station,lvl_brys3,lvl_brys4
    9,D,X
  135
 
-ChapterTime: 2:12.991(7823)
+ChapterTime: 2:12.566(7798)

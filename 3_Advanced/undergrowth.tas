@@ -1,4 +1,4 @@
-RecordCount: 10144
+RecordCount: 10152
 
 console load StrawberryJam2021/3-Advanced/Nic
    1
@@ -51,7 +51,6 @@ Read,../StrawberryJamTAS/3_Advanced/undergrowth.tas,Start,lvl_03-a (0)
    4,L,J
   14,L
 #Spinner Cycle [03-a]
-#   2
    0
 ###
    2,L,J
@@ -335,13 +334,12 @@ EndStunPause
    4,R,Z
    1,R,J
    5,R
-  10,R,D
-   5,L,Z
+  10,D
+   4,L,Z
 #Spinner Cycle [06-b]
-#Can't be 0 without changing
-#key cycles; , if anyone has a
-#better spot that would be great
-#info
+#may affect key cycle in the
+#next room, use alt stun if the
+#normal one isn't possible
    1,L,Z
 ###
    1,R,J
@@ -373,7 +371,7 @@ EndStunPause
 #any%-start
   15,D,X
 #key cycle 1
-  96
+  97
 ###
   14,L,Z
    1,R,J
@@ -406,9 +404,8 @@ EndStunPause
    1
    1,J
    2
-#+3f MoonBlock Cycle Wait
+#+2f MoonBlock Cycle Wait
    2
-   1,G
 ###
   13,R,U,Z
    2,R,J,G
@@ -795,19 +792,8 @@ EndStunPause
    3,R,J
 
 #Base stun:
-#   2,R
-#StunPause
-#   1
-#   1,R
-#SkipInput 3 1
-#  15,R,D,X
-#   7,R,D
-#EndStunPause
-#   5,R,D
-#+0f, start stun one frame earlier:
-   1,R
+   2,R
 StunPause
-   1,R
    1
    1,R
 SkipInput 3 1
@@ -815,6 +801,18 @@ SkipInput 3 1
    7,R,D
 EndStunPause
    5,R,D
+#+0f, start stun one frame earlier
+#just in case its needed
+#   1,R
+#StunPause
+#   1,R
+#   1
+#   1,R
+#SkipInput 3 1
+#  15,R,D,X
+#   7,R,D
+#EndStunPause
+#   5,R,D
 #####
 
   17,R
@@ -940,4 +938,4 @@ EndStunPause
 #lvl_07-a
 Read,../StrawberryJamTAS/3_Advanced/undergrowth.tas,lvl_07-a
 
-ChapterTime: 2:09.217(7601)
+ChapterTime: 2:09.200(7600)

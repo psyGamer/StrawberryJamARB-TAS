@@ -1,4 +1,4 @@
-RecordCount: 2442
+RecordCount: 2472
 
 console load StrawberryJam2021/2-Intermediate/LegS
    1
@@ -11,20 +11,18 @@ Read, ../StrawberryJamTAS/2_Intermediate/supernautica, Start, lvl_LegS-2
    7,R
    8,R,J
    5,R
-   1,R,J
-   3,R
-   1
+   5,R,J
   14,R,U,X
-  23,R,G
+  21,R,G
    1,R,D
-  17,R
-   3,R,D
+  21,R
   10,L,X
    4,J
   10,L,J
   25,L,G
    1,R
   15,L,Z
+#any%-end
    4,L,J
   14,U,X
    8,R,J
@@ -33,7 +31,7 @@ Read, ../StrawberryJamTAS/2_Intermediate/supernautica, Start, lvl_LegS-2
 #lvl_LegS-B1
   11,R
    9,R,X
-  54
+  53
    9,R,X
    1,R,J,G
   11,R
@@ -62,6 +60,7 @@ Read, ../StrawberryJamTAS/2_Intermediate/supernautica, Start, lvl_LegS-2
 #lvl_LegS-3
   11,L,X
   49
+#any%-start
    7,R,Z
    1,L,J
    5
@@ -69,31 +68,36 @@ Read, ../StrawberryJamTAS/2_Intermediate/supernautica, Start, lvl_LegS-2
   11,L,J
   18,L
   15,L,X
-  47
-  12,L,J
-   9,L,X
+  46
+   1,L,J
+   8,L,K
+   2,L
+  10,L,X
   21,L,U,G
    1,R
-  17,L
-   5,L,D
-   1,L
+  10,L
+   6,L,D
+   5,L
    1,L,D
    4,L,Z
    1,L,J
    6,L
   11,L,J
   14,L,U,Z
- 140
+ 139
    1,L,J
-   8,L,K
+   1,J
+   3,L,J
+   5,L,K
    5,L,J,G
-  14,U,X
+  14,U,Z
   11,L,J
   40
 
-#any%
+#lvl_LegS-4
 Read, ../StrawberryJamTAS/2_Intermediate/supernautica, lvl_LegS-4, lvl_LegS-B2
 
+#any%-end
 #lvl_LegS-B2
   11
    8,R,U,X
@@ -122,15 +126,20 @@ Read, ../StrawberryJamTAS/2_Intermediate/supernautica, lvl_LegS-4, lvl_LegS-B2
   40
 
 #lvl_LegS-5
-   3
-   3,J
-   8,L,J
+   3,L,U,Z
+   1,J
+   1,L,J
+   1,J
+   2,L,J
+   4,J
+   2,L,J
+#any%-start
    6,L,Z
    1,L,J
    7,L
    5,L,J
-   5,J
-   2,L,J
+   3,J
+   4,L,J
   15,U,X
    6
    4,L
@@ -161,15 +170,20 @@ Read, ../StrawberryJamTAS/2_Intermediate/supernautica, lvl_LegS-4, lvl_LegS-B2
   40
 
 #lvl_LegS-6
-  11,J
+   5
+   2,J,G
+   2,L,J
+   1,J
+   3,L,J
   14,L,X
    1,R,N
-  45
+  24
    1,S
    1,D,O
   34
-# Spinner unload cycle
-   6
+#Spinner Cycle
+   1
+#####
    5,J,AR
    9,R,J
   15,U,X
@@ -223,4 +237,5 @@ Read, ../StrawberryJamTAS/2_Intermediate/supernautica, lvl_LegS-4, lvl_LegS-B2
 #lvl_LegS-7
 Read, ../StrawberryJamTAS/2_Intermediate/supernautica, lvl_LegS-7
 
-ChapterTime: 1:00.724(3572)
+
+ChapterTime: 1:00.214(3542)

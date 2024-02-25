@@ -1,10 +1,69 @@
-RecordCount: 716
+RecordCount: 810
 
 console load StrawberryJam2021/3-Advanced/Viv
    1
 
 #Start
-Read,../StrawberryJamTAS/3_Advanced/call_of_the_void, Start, lvl_viv2
+ 110
+
+#same as any% except spinner cycle
+#lvl_viv0
+   1,S,N
+   1,D,J
+  34
+#spinner cycle
+   1
+#
+   4,Z
+   1,R,J
+   5,R
+   2,R,K
+   7,R,J
+   2,R
+   1,G
+  40,J,G
+  11,R,Z
+   1,R,J
+   1,L,D
+  13,D
+   9,R,D
+  39,R,V
+  10,R,U,Z
+  65,R
+  12,L,D,X
+  13,L,J
+  11,L,D,X
+   4,R,J
+  10,L,D,X
+  15,R,J
+   9,R,D,X
+  16,R,J
+  14,K,G
+   6,J,G
+  26,L,J
+  14,D,G
+  27
+repeat 6
+   1,J
+   1,O
+endrepeat
+  25
+  10,L,D,X
+  11,R,J
+  14,D,G
+   1,G
+   3,D,G
+   7
+  36,R,Z
+   1,S,N
+   1,D,J
+  34
+  24,R,D
+   7,R,Z
+  40
+
+#lvl_viv1
+Read,../StrawberryJamTAS/3_Advanced/call_of_the_void,lvl_viv1,lvl_viv2
 
 #lvl_viv2 (0)
    3,R
@@ -17,6 +76,7 @@ Read,../StrawberryJamTAS/3_Advanced/call_of_the_void, Start, lvl_viv2
   15,L,D,X
   23,D
   23
+#any%-end
   18,R,U,Z
   13,R
   15,U,X
@@ -53,6 +113,7 @@ Read,../StrawberryJamTAS/3_Advanced/call_of_the_void, Start, lvl_viv2
    4,R
    1,R,J
   10,R
+#any%-start
   15,R,D,X
    3,R,D
    1,J
@@ -68,9 +129,12 @@ Read,../StrawberryJamTAS/3_Advanced/call_of_the_void, Start, lvl_viv2
    6,L,J
   24,L,D,X
   40,R,Z
- 101,U,G
-  43,D,G
-  34
+   6,J,G
+  13,L
+  77,K
+   1,R,G
+  26,D,G
+  39
   13,L,D,X
   30,R,J
   17,R,D,X
@@ -80,7 +144,8 @@ Read,../StrawberryJamTAS/3_Advanced/call_of_the_void, Start, lvl_viv2
    1,R,J
   14,R,D,X
    1,R,J
-  11,R,D,X
+   7,R,D,X
+   5,R,J
   40
 
 #lvl_viv3
@@ -88,7 +153,7 @@ Read, ../StrawberryJamTAS/3_Advanced/call_of_the_void, lvl_viv3, lvl_viv4
 
 #lvl_viv4
   10,R,U,Z
-  30,R,D,X
+  25,R,D,X
   10,L,D,C
   34,R,J
   38,L,D,X
@@ -106,6 +171,7 @@ Read, ../StrawberryJamTAS/3_Advanced/call_of_the_void, lvl_viv3, lvl_viv4
   14,R,Z
    1,L,J
   15,L,D,X
+#any%-end
   24,L
   15,R,D,X
   37,R
@@ -136,7 +202,7 @@ Read, ../StrawberryJamTAS/3_Advanced/call_of_the_void, lvl_viv3, lvl_viv4
    1,R,J
   40
 
-#lvl_viv5(0)
+#lvl_viv5 (0)
   10,R,D,X
    1,R,J
    4,J
@@ -181,14 +247,14 @@ Read, ../StrawberryJamTAS/3_Advanced/call_of_the_void, lvl_viv3, lvl_viv4
   93,R,U,Z
   51,L,J
   41,D,G
+#any%-start
   25,U,G
   15,D,X
    3,R
-  19,R,D,J
-   1,L
-   1,L,J,G
-   7,K,G
-  60,R,K
+  20,R,D,J
+   1,L,K,G
+   7,J,G
+  60,R,J
   20,U,X
   25,L,J
    1,G
@@ -216,6 +282,7 @@ Read, ../StrawberryJamTAS/3_Advanced/call_of_the_void, lvl_viv5x, lvl_viv7
    9,R,D,X
    9
   16,R,D,X
+#any%-end
   10,L
    1,L,J
   16,L
@@ -287,10 +354,11 @@ Read, ../StrawberryJamTAS/3_Advanced/call_of_the_void, lvl_viv5x, lvl_viv7
 #lvl_viv8
   12,R,D,X
    1,R,J
-   7,R
+   3,R
+   1,R,J
+   3,R
    1,R,J
   18,R,K,G
-   1
   15,R,D,X
   77,R
    4,R,J
@@ -305,10 +373,10 @@ Read, ../StrawberryJamTAS/3_Advanced/call_of_the_void, lvl_viv5x, lvl_viv7
   18,J,G
   10,L,K
   62,R,J
- 117,R,K
-  13,R,D,G
-  29
- 200,U,G
+ 118,R,K
+#any%-start
+  41,D,G
+ 198,U,G
   45
   16,R,J
   13,U,X
@@ -326,11 +394,13 @@ Read, ../StrawberryJamTAS/3_Advanced/call_of_the_void, lvl_viv5x, lvl_viv7
    5,R,J
    3,R,D,K
   15,R,D,X
+#any%-end
   36,R,J
   24,L,X
   33,R
    1,R,J
   40
+
 #lvl_vivEB
   74,R,J
 
@@ -338,4 +408,4 @@ Read, ../StrawberryJamTAS/3_Advanced/call_of_the_void, lvl_viv5x, lvl_viv7
   35,L,U,X
  139,R,C
 
-ChapterTime: 2:23.990(8470)
+ChapterTime: 2:23.021(8413)

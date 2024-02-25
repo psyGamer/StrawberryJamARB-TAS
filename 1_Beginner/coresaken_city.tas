@@ -31,6 +31,7 @@ Read,../StrawberryJamTAS/1_Beginner/coresaken_city,Start,lvl_a-03
    9,L
    1,R
   12,J
+#any%-end
   11,K,G
   14,L,U,X
   40
@@ -112,7 +113,7 @@ Read,../StrawberryJamTAS/1_Beginner/coresaken_city,Start,lvl_a-03
    9,R,J,G
   40
 
-#lvl_a-06
+#lvl_a-06 (1)
    4,R
    8,U,X
   17,R,J
@@ -160,7 +161,7 @@ Endrepeat
    1,R,D
   40
 
-#lvl_a-06
+#lvl_a-06 (2)
    1,D
   12,G
    9
@@ -229,7 +230,7 @@ Endrepeat
   13,R,D
   40
 
-#lvl_a-08
+#lvl_a-08 (1)
    1,R,J
    4,L
   13,R
@@ -284,7 +285,7 @@ Endrepeat
    5,L,U,Z
   40
 
-#lvl_a-08(1)
+#lvl_a-08 (2)
    7,L,J
    1,R,K,G
   13,L,K
@@ -333,7 +334,7 @@ EndRepeat
    1,L,D,J
   40
 
-#lvl_a-08
+#lvl_a-09
   11,J
    2,R,J
    1,L,K,G
@@ -368,7 +369,7 @@ endrepeat
    5,R,D,X
   40
 
-#lvl_b-03
+#lvl_b-03 (1)
   10,R,D,X
   11,R,D
    5,R
@@ -434,7 +435,7 @@ endrepeat
    7,L
   40
 
-#lvl_b-03(1)
+#lvl_b-03 (2)
    1,L,J
   11,L,D,X
    9,L,J
@@ -451,4 +452,4 @@ endrepeat
    1,L,J,G
   25,L,U,X
 
-ChapterTime: 1:01.234(3602)
+ChapterTime: 1:01.217(3601)

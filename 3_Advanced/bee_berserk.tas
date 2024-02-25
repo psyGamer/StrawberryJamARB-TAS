@@ -1,4 +1,4 @@
-RecordCount: 1020
+RecordCount: 1109
 
 console load StrawberryJam2021/3-Advanced/TiltTheStars
    1
@@ -9,88 +9,45 @@ Read,../StrawberryJamTAS/3_Advanced/bee_berserk,Start,lvl_a-06
 #lvl_a-06 (0)
    1
    4,R
-   1,R,J
-  10,R,U,X
-   6,R,J,G
-   5,R
+   5,R,D,X
+   4,R,J,G
+   1,R
+   1,S,N
+  17,R,J
+  14,R
+StunPause
+SkipInput 3 1
+   1,R
+  14,R,Z
+   1,R,J,G
+EndStunPause
+   2,R,J,G
+StunPause
+  10,R,J
+EndStunPause
    6,R,J
-   1,R
-  41,R,J
-  18,R,D
-   9,R
-   1,D
+   2,R,D
+   1,R,D,J
+StunPause
+   1,R,D,J
+   4,R
    2
-   1,R,D
-  18,R,U,X
-  15,U,C
-   1,R
-  27,R,K
-   4
-  12,L,U,X
-  23,R
-  15,R,D,X
-  21,L,D
-   1,D
-   5,R
-   1,K
-   1,L,J,G
-   6,R
-   4
-  22,D
-   6
-   1,R
-   2
-  15,U,X
-   2,L
-  15,U,Z
-   2,R
+EndStunPause
    1
 #any%-end
-  55,R,J
-   1,R,D
-   1,R
-   1,R,D
-   1,R
-   1,R,D
-   1,R
-   3,R,D
-   3,R
-   2,R,K,G
-   3,L,K
-   1,K
-   1,R,J,G
-   1,R,K,G
-   9,R,J,G
-   1,K,G
-   1,L,K
-   1,R,J,G
-   1,R,K,G
-   2,K
-   1,L,K
-   7,K
+  10,R,J
+   5,R
+   2,R,J
+StunPause
+   2,R,J
+EndStunPause
    1,R,K
-   1,R,J,G
-   1,R,K,G
-   3,R,J,G
-   7,R
+   5,R
+  15,D,X
+   6,R,D
    1
-   3,R,J
-   6,R
-   2
-   2,R
-   1
-   4,R,J
-   3,J
-  15,R,Z
-  11,R
-   3
    1,D
-   1,L
-   1
-   1,L
-   1
-   1,R,D
-   1
+   3
    1,G
    1
    1,J
@@ -281,4 +238,4 @@ Read,../StrawberryJamTAS/3_Advanced/bee_berserk,Start,lvl_a-06
 #lvl_a-06-07-transition
 Read,../StrawberryJamTAS/3_Advanced/bee_berserk,lvl_a-06-07-transition
 
-ChapterTime: 2:26.506(8618)
+ChapterTime: 2:23.225(8425)

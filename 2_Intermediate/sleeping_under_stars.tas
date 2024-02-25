@@ -8,6 +8,7 @@ console load StrawberryJam2021/2-Intermediate/Arphimigon
 
 #lvl_a_01
 read,../StrawberryJamTAS/2_Intermediate/sleeping_under_stars,lvl_a_01 (0),lvl_b_02
+
 #lvl_b_02 (0)
    5,J
    3,R,J
@@ -41,7 +42,7 @@ read,../StrawberryJamTAS/2_Intermediate/sleeping_under_stars,lvl_a_01 (0),lvl_b_
   15,R,U,X
    4
   31,U,X
-#end any%
+#any%-end
   14,L
   19,L,X
    4,L,J
@@ -51,6 +52,7 @@ read,../StrawberryJamTAS/2_Intermediate/sleeping_under_stars,lvl_a_01 (0),lvl_b_
    1,L,J
    6,L,D,X
   40
+
 #lvl_b_02b
   10,L,J
   15,L,U,X
@@ -62,6 +64,7 @@ read,../StrawberryJamTAS/2_Intermediate/sleeping_under_stars,lvl_a_01 (0),lvl_b_
    8,R,D,X
    8,R,J,G
   40
+
 #lvl_b_02 (1)
   13,R,J
   15,U,X
@@ -77,6 +80,7 @@ read,../StrawberryJamTAS/2_Intermediate/sleeping_under_stars,lvl_a_01 (0),lvl_b_
    7,R,Z
    6,R,J
   40
+
 #lvl_b_03
 #really old any% because no bino storage
   19,R,J
@@ -112,7 +116,7 @@ read,../StrawberryJamTAS/2_Intermediate/sleeping_under_stars,lvl_a_01 (0),lvl_b_
   15,R,X
   56,R
    3
-#start to current any%
+#any%-start
   10,R,X
   17
    4,R,J
@@ -136,7 +140,8 @@ read,../StrawberryJamTAS/2_Intermediate/sleeping_under_stars,lvl_a_01 (0),lvl_b_
    1,R,J,G
    6,R
   40
+
 #lvl_b_04
 read,../StrawberryJamTAS/2_Intermediate/sleeping_under_stars,lvl_b_04
 
-ChapterTime: 1:58.745(6985)
+ChapterTime: 1:58.303(6959)

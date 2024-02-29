@@ -1,4 +1,4 @@
-RecordCount: 1840
+RecordCount: 2048
 
 console load StrawberryJam2021/1-Beginner/Bing_Over_Google
    1
@@ -133,9 +133,9 @@ console load StrawberryJam2021/1-Beginner/Bing_Over_Google
    6,L,J
    1,L
 StunPause
-   4,L
+   3,L
 EndStunPause
-   2,L
+   3,L
   10,L,D,X
   40
 
@@ -284,8 +284,8 @@ EndStunPause
   15,L,X
   22,L,D
   10,L,X
-   9,L,J
-  10,U,Z
+  10,L,J
+   7,U,X
   15,R,U,C
   10,L,U,X
    1,J,G
@@ -293,7 +293,7 @@ EndStunPause
    1,G
   15,J,G
   12,K,G
-   3,J,G
+   4,J,G
    2,R,K
    2,R
    5,L,Z
@@ -421,4 +421,4 @@ EndStunPause
 #lvl_09- Fin
 Read, ../StrawberryJamTAS/1_Beginner/if_my_driveway, lvl_09- Fin
 
-ChapterTime: 0:50.813(2989)
+ChapterTime: 0:50.796(2988)

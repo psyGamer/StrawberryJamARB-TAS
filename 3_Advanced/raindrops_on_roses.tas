@@ -1,17 +1,17 @@
-RecordCount: 9887
+RecordCount: 10253
 
 console load StrawberryJam2021/3-Advanced/Worldwaker2
    1
 
 # Quick note:
-# After some point, the game gave up. I really have no idea why.
-# all *,G,J had to be replaced with
-# 1,G,J  *-1,J to avoid grabbing the umbrella. 
-# Lame.
-# It also meant that you cannot umbrella the
-# frame after you hyper, for some reason.
-# Double lame.
-
+# After we collect any berry that
+# bubbles, Madeline's depth 
+# changes and umbrellas now
+# take priority over Madeline
+# permanently.
+# Almost anything that involved
+# jumping while grabbing had to
+# be adjusted accordingly.
 
 #Start
  190
@@ -291,7 +291,7 @@ endstunpause
 
 #lvl_1 (2)
    1
-#optimise this,
+#bad resync, can optimise
 #x subpixels are annoying
    3,K
    7,R
@@ -359,7 +359,6 @@ endstunpause
   10,R,K,G
   35,R,G
    1,R
-#any%-end
    9,U,X
    7,R,J
    1,R,K,G
@@ -795,6 +794,7 @@ EndRepeat
    3,L,K
    7,L
   10,L,X
+#any%-end
   28,R,J
   15,U,Z
    1
@@ -805,26 +805,18 @@ EndRepeat
    5
    2,R
   10,R,X
-  20,L,J
-  13,U,X
-  13,G
-  69,R,U,G
-   3,R,J,G
-   1,R
-  15,R,U,X
-  11,R
-#any%-end
-  10,R,Z
-   1,L,J
-   4,L
-   5,L,U,X
-  45,L,U,J,G
-   4,L,G
+  11,L,J
+  34,L,J,G
    1,L
+  15,U,X
+   4,R,J
+  11,J
+  33,G
+   7,L
    4,L,Z
    1,L,J
    7,L
-  26,L,J
+  25,L,J
   14,U,X
   29,R,U,J,G
    5,L,U,J,G
@@ -1007,7 +999,7 @@ EndRepeat
    4
    3,R
 #spinner cycle
-   1
+   2
 #
   10,R,X
    1,L,J
@@ -1188,45 +1180,44 @@ endstunpause
    1,L,J,G
    6,L,J
    8,L
-  12,L,D,X
-   3,R,J
-  15,R,D,X
-  18,R,D
- 107,R,G
-  19,R,D,G
-   1,R
-   4,R,Z
+  10,Z
    1,R,J
-  15,R
-#spinner+unload cycle
-   1
-##
-   4,L,X
-   2,L,J
-# celeste TASer drops worst stun ever
-# asked to leave studio
+  21,L
+  21,L,D
+  15,L,X
+  24,L
+   1,L,D
+  10,L,Z
+  11,R,J
+  12,R,J,G
+  57,R,J,G
 stunpause, input
-   4,L,J
-   8,L
-  19,L,J
+   1,R
 skipinput,3,1
-  15,U,X
-  27,L,G
+  15,R,U,X
+  46,R,G
+   1,G
+   2,R,J,G
 endstunpause
-   5,L,G
-   4,L,J,G
-   7,L
-   4,L,X
-  13,L,J
-   6,L
-   1,L,K,G
-   5,L
-   2,L,J
-   1,L
+   2,R,J,G
+   1,J,G
+   4,G
+   4,K,G
+   1,R
+   1
+   1,R
+   2
+   1,R
 #any%-start
+   4,L
+  13,L,U,X
+   1,L,J,G
+   1,R
+   6,L
    3,J
   10,L,J
-   2,K,G
+   1,K,G
+   1,K
    1,R,K
    6,L,K
    1,L,J,G
@@ -1313,4 +1304,4 @@ endstunpause
   17,R,U,X
  135,R,D
 
-ChapterTime: 3:52.441(13673)
+ChapterTime: 3:49.653(13509)

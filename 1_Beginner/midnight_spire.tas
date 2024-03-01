@@ -1,4 +1,4 @@
-RecordCount: 1012
+RecordCount: 1023
 
 console load StrawberryJam2021/1-Beginner/joltik
    1
@@ -480,8 +480,8 @@ EndStunPause
 #lvl_a_06 (1)
 # Maybe collect the berries and retry?
    6,D
-  16,L,D
-  15,L,X
+  17,L,D
+  13,L,X
   15,D,C
    8,D
   15,L,X
@@ -505,4 +505,4 @@ EndStunPause
 #lvl_a_07 (1)
 Read,../StrawberryJamTAS/1_Beginner/midnight_spire,lvl_a_07
 
-ChapterTime: 1:16.126(4478)
+ChapterTime: 1:16.109(4477)

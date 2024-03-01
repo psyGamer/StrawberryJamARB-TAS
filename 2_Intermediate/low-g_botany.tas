@@ -1,4 +1,4 @@
-RecordCount: 4649
+RecordCount: 4958
 
 console load StrawberryJam2021/2-Intermediate/marlin
    1
@@ -19,13 +19,10 @@ Read,../StrawberryJamTAS/2_Intermediate/low-g_botany.tas,Start,lvl_5
   23,L,J
   15,U,X
    1,R,J,G
-  16,R
+  19,R
    1,R,J
-   8,R
-   2
-   1,R
-   2
-  14,L,D,X
+   6,R
+  13,L,D,X
   24,L,J
   15,U,X
    1,L,J
@@ -41,16 +38,15 @@ Read,../StrawberryJamTAS/2_Intermediate/low-g_botany.tas,Start,lvl_5
   23,L,J
   15,U,X
   11,L
-  14,U,X
-   1,L,J
-   9,L
-  10,R
-  21,D
-  25,R,D
-   2,D
-   1,R,D
-  20,D
-   7
+  15,U,Z
+   7,R,J,G
+   2,K
+  23,R,D
+   1,R,J
+  15,D,X
+  35,R,D
+   4,R
+   2,R,D
 #any%-start
    4,Z
    7,R,J
@@ -128,14 +124,13 @@ Read,../StrawberryJamTAS/2_Intermediate/low-g_botany.tas,lvl_5,lvl_6
   10,L
   10,L,J
    6,L
-   5,L,J
-  16,U,X
-  12,R,J,G
-   3,R,K,G
+  11,L,J
+   8,U,X
+  16,R,J
   40
 
 #any%-start
 #lvl_7
 Read,../StrawberryJamTAS/2_Intermediate/low-g_botany.tas,lvl_7
 
-ChapterTime: 1:37.036(5708)
+ChapterTime: 1:36.781(5693)

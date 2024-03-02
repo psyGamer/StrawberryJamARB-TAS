@@ -47,7 +47,7 @@ console load StrawberryJam2021/3-Advanced/Tortoise
   10,R,Z
 
 #lvl_1
-read,../StrawberryJamTas/3_Advanced/javas_crypt,lvl_1,lvl_2
+read,../StrawberryJamTAS/3_Advanced/javas_crypt,lvl_1,lvl_2
 
 #lvl_2
    2,D,X
@@ -378,7 +378,7 @@ read,../StrawberryJamTas/3_Advanced/javas_crypt,lvl_1,lvl_2
 
 #lvl_4
    3
-read,../StrawberryJamTas/3_Advanced/javas_crypt,lvl_4,lvl_5
+read,../StrawberryJamTAS/3_Advanced/javas_crypt,lvl_4,lvl_5
    3,L,K
 
 #lvl_5

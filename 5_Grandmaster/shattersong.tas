@@ -1,4 +1,4 @@
-RecordCount: 5020
+RecordCount: 5038
 
 console load StrawberryJam2021/5-Grandmaster/Hydro
    1
@@ -399,7 +399,7 @@ EndRepeat
   19,R,D
   77
 #SpinnerCycle [Third Movement (0)]
-   1
+   0
 #
    7,L,Z
    1,L,J
@@ -428,7 +428,7 @@ Read,../StrawberryJamTAS/5_Grandmaster/shattersong,lvl_Third Movement,lvl_Welcom
    5,D
   10,L,D,X
 #SpinnerCycle [C1]
-   2,L,D,X
+   0,L,D,X
 #
    1,R,J
    4,R
@@ -1060,4 +1060,4 @@ Repeat 45
    1,L,D
 Endrepeat
 
-ChapterTime: 2:52.805(10165)
+ChapterTime: 2:52.754(10162)

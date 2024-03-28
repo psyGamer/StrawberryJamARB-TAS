@@ -1,4 +1,4 @@
-RecordCount: 1848
+RecordCount: 1968
 
 console load StrawberryJam2021/4-Expert/powerav
    1
@@ -245,7 +245,6 @@ Read,../StrawberryJamTAS/4_Expert/meaningless_contraptions,lvl_a-3,lvl_a-5
   40
 
 #lvl_a-5-berry
-## snq spot 1
    7
    2,J,G
    2
@@ -275,101 +274,62 @@ Read,../StrawberryJamTAS/4_Expert/meaningless_contraptions,lvl_a-3,lvl_a-5
    2,L
    3,L,J
   15,L,U,Z
-  38,L,D
+  36,L,D
+   1,D
+   1,L,D
   18,R,D
   11,R
   20,R,D,X
-###### snq spot 2
-# very optimisable
-  40,R,J
-  15,R,U,X
-  21,R,C
-  15,R,D,X
-   5,R,D
-  10,D
-   2,R,D
-   3,D
-   1,R,D
-  10,D
+  11,R,J
+  15,R
+  18,R,X
+  15,R,C
+  18,R,X
+  15,R,D,C
+   7,R,D
+  19,D
    1,S
    1,U
    1,F,0
    1,U,J
 SaveAndQuitReenter
   36
-   4,R,Z
+   4,Z
    1,R,J
    7,R
    3,R,J
   32,R,D,X
   40
-######
-
-#   2,R,J
-#  10,R
-#  14,R,X
-#  24,R,G
-#   1
-#  15,R,U,X
-#  27,R,C
-#   6,R
-#   7,R,D,X
-#  29,R
-#  28,R,D,X
-#   2,R,D
-#   1,L
-#   1,R,D
-#  15,R,Z
-#   3
-#  11,J
-#   4,R,K,G
-#   7,R
-## dont collect here -3f
-#   4,R,Z
-#   1,J
-#   7
-#   6,R
-#  24,D,X
-##
-#  15,R,Z
-#  15,R,D,X
-#  15,D
-#  40
 
 #lvl_a-5-b (1)
-## snq spot 3
-  34,R,D
-#optimise
-   3,R
-   1,R,D
+  13,L,D
+  25,R,D
   12,R,D,X
-   1,R,J
-   4,R,D
+   4,R,J
   15,D,X
-   5
+   2,L
+   3
 ## spinner cycle
-   0
+   1
 ##
-   4,L,Z
+   4,Z
    3,L,J
-## snq spot 4?
-   6,L
+   5,L
+   1
    1,J
    1
    1,N
-  18,R,D
-   1,D
+  19,R,D
   14,R,D,X
    1,R,J
   11,R,D,X
-# any% stun strat but drift happens
    1,R,J
   10,R
-  17,R,J
+  18,R,J
    2,J
-   2,R,J
+   1,R,J
   14,U,X
-   1,L,U,X
+   1,L
    6,J,G
    1,R,J
    4,L,K,G
@@ -438,20 +398,20 @@ EndStunPause
    1,L,D
    3,D
    9,R,D
-   4,R,Z
-   3,R,J
-   8,R
+   7,R,Z
    1,R,J
-# do gultra cancel here
-   5,R,D,X
-   1,R,K
-   3,R
+   6,R
+   1,R,J
+   9,R,D,X
   40
 
 #lvl_a-6 (0)
-   4,R
-   9,R,D,J
+   5,R,D,J
    3,J
+   2
+   1,R
+   1
+   1,L,J,G
   11,U,X
    1,R,J
   11,R
@@ -688,4 +648,4 @@ EndStunPause
 
 Read,../StrawberryJamTAS/4_Expert/meaningless_contraptions,lvl_a-7
 
-ChapterTime: 2:20.488(8264)
+ChapterTime: 2:20.301(8253)

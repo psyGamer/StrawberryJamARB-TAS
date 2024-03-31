@@ -1,4 +1,4 @@
-RecordCount: 2244
+RecordCount: 2245
 
 console load StrawberryJam2021/4-Expert/powerav
    1
@@ -118,7 +118,7 @@ Read,../StrawberryJamTAS/4_Expert/meaningless_contraptions,Start,lvl_a-2
   15,R,D,C
    4,R,D
    8,R,J
-   6,R
+   6
   40
 
 #lvl_a-3
@@ -655,4 +655,4 @@ EndStunPause
 
 Read,../StrawberryJamTAS/4_Expert/meaningless_contraptions,lvl_a-7
 
-ChapterTime: 2:20.182(8246)
+ChapterTime: 2:19.519(8207)

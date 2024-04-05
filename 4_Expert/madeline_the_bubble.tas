@@ -1,4 +1,4 @@
-RecordCount: 1961
+RecordCount: 2128
 
 console load StrawberryJam2021/4-Expert/Vina
    1
@@ -51,6 +51,7 @@ Read,../StrawberryJamTAS/4_Expert/madeline_the_bubble,Start,lvl_Vina-04
    4,L
   10,L,D,X
 #any%-end
+
    1,L
    8,L,D
    1,L
@@ -124,19 +125,37 @@ Read,../StrawberryJamTAS/4_Expert/madeline_the_bubble,Start,lvl_Vina-04
   58,L,J
   15,U,X
    8,J
-  36,L,J
-  15,U,X
-  18,L,J
-   7
-  28,L,J
+  39,L,J
+   9
+   2,D
+  15,L,U,Z
+  21,L,J
   15,L,X
-  16,L,D
-   2,L
-   9,R,K,G
+   8,L
+   7
+   1,R,K,G
+   8,K
    3
   15,U,X
- 107,R,G
-  23
+  20,R,G
+
+# Fun while waiting for refill (equivalent to 80,G)
+   1,U,G
+   1,D,G
+   1,U,G
+   1,D,G
+repeat 18
+   1,U,G
+   2,D,G
+   1,U,G
+endrepeat
+   1,D,G
+   1,U,G
+   1,D,G
+   1,U,G
+
+   6,G
+  24
    5,L,X
   24,L,J
   13,L
@@ -146,25 +165,24 @@ Read,../StrawberryJamTAS/4_Expert/madeline_the_bubble,Start,lvl_Vina-04
   15,L,X
    5,L,J
   18,U,C
-  19,L,J
+  17,L,J
+   3,J
   15,L,X
    6
-  13,R
+  11,R
   15,R,D,X
-   4,R,D
-   1,R
-  34,R,J
-   1,J
-  15,R,J
+   4,R
+  52,R,J
   11,R,X
-  23,R,J
+  21,R,J
+   2,R
   14,U,X
    7,L,J
   20,L
   20,L,U,Z
-  35,L,J
+  37,L,J
   15,L,D,X
-  25,L
+  24,L
   12,L,J
   89
   15,R
@@ -232,6 +250,7 @@ Read,../StrawberryJamTAS/4_Expert/madeline_the_bubble,Start,lvl_Vina-04
   18,U,X
    1,R
   18,R,C
+
 # any%-start
   12,R,U,X
    1,L,J,G
@@ -295,6 +314,7 @@ Read,../StrawberryJamTAS/4_Expert/madeline_the_bubble,lvl_Vina-06,lvl_Vina-08
   13,R,U,Z
   40,R,G
 #any%-end
+
    1,R,D,G
    1,R,G
    1,R,D,G
@@ -430,6 +450,7 @@ Read,../StrawberryJamTAS/4_Expert/madeline_the_bubble,lvl_Vina-06,lvl_Vina-08
    1,L,G
    2,L,G
    1,L
+
   18,R,U,Z
   10
    3,R
@@ -464,6 +485,7 @@ Read,../StrawberryJamTAS/4_Expert/madeline_the_bubble,lvl_Vina-06,lvl_Vina-08
   12,U,X
   11,R,J
    1,R
+
 #any%-start
   11,R
    2
@@ -490,4 +512,4 @@ Read,../StrawberryJamTAS/4_Expert/madeline_the_bubble,lvl_Vina-06,lvl_Vina-08
 Read,../StrawberryJamTAS/4_Expert/madeline_the_bubble,lvl_Vina-End
 
 
-ChapterTime: 2:29.532(8796)
+ChapterTime: 2:29.192(8776)

@@ -1,4 +1,4 @@
-RecordCount: 2228
+RecordCount: 2614
 
 console load StrawberryJam2021/4-Expert/Vina
    1
@@ -51,7 +51,6 @@ Read,../StrawberryJamTAS/4_Expert/madeline_the_bubble,Start,lvl_Vina-04
    4,L
   10,L,D,X
 #any%-end
-
    1,L
    8,L,D
    1,L
@@ -62,21 +61,38 @@ Read,../StrawberryJamTAS/4_Expert/madeline_the_bubble,Start,lvl_Vina-04
    1,R,D
   15,R,U,X
   11,R
-  10,R,Z
-   1,R,J
-   6,R,K,G
+# +1f strat which has more
+# speed but less height
+# can maybe get best of both
+#  10,R,Z
+#   1,R,J
+#   6,R,K,G
+#   7,R
+#   1,R,J
+#   5,R,U,X
+   5,R,Z
+   5,R,J
+   4,R,K,G
    7,R
    1,R,J
    5,R,U,X
+##
   40
 
 #lvl_Vina-05 (0)
+#  10,R,U,X
+#   4,R
+#  15,U,X
+#  11,J
+#   2,L,J
+#   6,R,J
   10,R,U,X
-   4,R
+   6,R
   15,U,X
-  11,J
+  11,R,J
    2,L,J
    6,R,J
+##
    5,L,K,G
    5,K,G
    1,R,K,G
@@ -510,4 +526,4 @@ Read,../StrawberryJamTAS/4_Expert/madeline_the_bubble,lvl_Vina-06,lvl_Vina-08
 Read,../StrawberryJamTAS/4_Expert/madeline_the_bubble,lvl_Vina-End
 
 
-ChapterTime: 2:29.107(8771)
+ChapterTime: 2:29.090(8770)

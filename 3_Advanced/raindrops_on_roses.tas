@@ -1,4 +1,4 @@
-RecordCount: 10253
+RecordCount: 10265
 
 console load StrawberryJam2021/3-Advanced/Worldwaker2
    1
@@ -107,8 +107,7 @@ console load StrawberryJam2021/3-Advanced/Worldwaker2
   10,R,X
    2,R,J
    1,L,K
-  12,L,J
-   1,L,J
+  13,L,J
    5,J
   27,G
    6,L,G
@@ -234,9 +233,7 @@ endstunpause
   11
    9,D
   16,R,D
-
    1,R,J
-
   20,R
    1,R,J,G
    1,R,K,G
@@ -264,8 +261,7 @@ endstunpause
    1,L,J,G
    9,L
    9,L,D,J
-  20,L
-   1,L
+  21,L
    1,L,J,G
   11,K,G
   10,R,K
@@ -291,19 +287,12 @@ endstunpause
 
 #lvl_1 (2)
    1
-#bad resync, can optimise
-#x subpixels are annoying
    3,K
    7,R
-  15,R,X
-  15,D,C
-   4,R
-   6,D
-   1
+  10,R,X
+  10,R,J
+   5,K,G
 #any%-start
-   7,R,J
-   5,J
-   3,K,G
    1,L,K
    1,L,J
   40,L,K,G
@@ -318,9 +307,13 @@ endstunpause
    5,L,J,G
    2,L
    1,L,K,G
-   5,L
+#adjust for subpixel difference
+   2
+   1,R
    1
-   1,L
+   2,L
+   1
+##
    4,R,Z
    1,R,J
   48,R,D
@@ -334,30 +327,29 @@ endstunpause
   40
 
 #lvl_2 (2)
-   4,R
-   1,R,J
-  10,R,D,X
-   1,R,J
-   7,R
-   1,R,J,G
-  18,R,K,G
-  13,R,G
-   2,G
    1,R
-  13,R,X
-   1,R,J,G
    1,R,J
-   6,R
-  25,R,D,G
-   4,R,J
-  15,R,D,X
+   3,R
+  14,R,Z
+  14,R,J,G
+   5,R,K,G
+  16,R,G
+   1,R
+   1
+  14,R,X
    1,R,J,G
-  20,R,K,G
+   8,R
+  22,R,G
+   3,R,J,G
+   1,J
+  15,R,D,X
+  19,R,J,G
+   4,R,K,G
+   2,K,G
    2,R,J,G
-   3,R,G
-   2,R,J,G
-  10,R,K,G
-  35,R,G
+   9,R,K,G
+  23,R,G
+  10,R,U,G
    1,R
    9,U,X
    7,R,J
@@ -366,7 +358,7 @@ endstunpause
    2,R
 #any%-start
 #key cycle
-Repeat 15
+Repeat 7
    1
    1,D
 EndRepeat
@@ -438,6 +430,7 @@ Read,../StrawberryJamTAS/3_Advanced/raindrops_on_roses,lvl_3,lvl_2 (1)
    7,R
 #any%-end
   15,R,Z
+#try other routes
   14,L,V
    1,L,J
   17,L
@@ -464,8 +457,7 @@ Read,../StrawberryJamTAS/3_Advanced/raindrops_on_roses,lvl_3,lvl_2 (1)
    1,R,K
    7
   12,U,X
-  19
-  77
+  96
   15,R,Z
   15,D,X
   40
@@ -476,23 +468,27 @@ Read,../StrawberryJamTAS/3_Advanced/raindrops_on_roses,lvl_3,lvl_2 (1)
   10,R,D,X
    5,R,J
   15,R,D,X
-   3,R,J
+   1,R,J
+  14,R,J,G
   40
 
 #lvl_3 (1)
- 111,R,U,J,G
-  15,R,D
-  83,D
-   5,L,D
-   3,R,J
-   2,R,J
+  95,R,U,J,G
+  14,R,D
+  87,D
+   2,L
+   1
+   5,R,J
    9,R
    1,R,J
   17,R
+   0,R,D
   15,R,X
   34,R,G
-  22,R,D,G
-   4,R,G
+  19,R,D,G
+   3,R,G
+   1,R,D,G
+   3,R,G
    1
    4,R,Z
    1,R,J
@@ -502,9 +498,10 @@ Read,../StrawberryJamTAS/3_Advanced/raindrops_on_roses,lvl_3,lvl_2 (1)
    1,R,D,G
    1,R,G
    1,R,D,G
+   1,R
   15,R,Z
-  10,R,D
-   6,D
+   8,R,D
+   7,D
    4,R,Z
    1,R,J
    4,R
@@ -512,6 +509,7 @@ Read,../StrawberryJamTAS/3_Advanced/raindrops_on_roses,lvl_3,lvl_2 (1)
 
 #lvl_2 (5)
    1,R
+#can be faster
    7,R,J
    4,R
    1,R,J,G
@@ -542,38 +540,40 @@ Read,../StrawberryJamTAS/3_Advanced/raindrops_on_roses,lvl_3,lvl_2 (1)
   33,L,J,G
    1,L
   18,U,X
-  25,J,G
-   1
-  15,R,U,X
-   1,R
-  14,R,D,C
+  14,R,G
+  16,R
+  14,R,Z
+#1:26.037(5061)
    1,R,J
-  41,R,G
-  25,R,D,G
-   4,R
+  42,R,G
+  20,R,D,G
+   3,R,G
+   6,R
   13
   15,U,Z
    2,R
    7,L,J
   32,L,J,G
   18,L,K
-  37,L,J,G
-   8,L,D,G
-  40,L,G
-   8,L,D,G
+  36,L,J,G
+   9,L,D,G
+  41,L,G
+   7,L,D,G
    1,L
   14,L,Z
    1,L,J
-  77,L,U,G
-  26,L,G
+  81,L,U,G
+  22,L,G
    1,L
   15,L,U,X
-  52,L,G
-   1,L
+  35,L,G
+  13,L,U,G
+   6,L
    4,Z
    1,L,J
    6,L
   40
+
 
 #lvl_3 (2)
    1,L
@@ -584,8 +584,7 @@ Read,../StrawberryJamTAS/3_Advanced/raindrops_on_roses,lvl_3,lvl_2 (1)
   10
   10,U,X
   10,L,J
-   8,L
-   3,L
+  11,L
   10,L,Z
    1,L,J
    1,L,J,G
@@ -843,8 +842,7 @@ EndRepeat
    1,J,G
    1,L,J,G
    7,R,J,G
-   1,K,G
-  11,K,G
+  12,K,G
   64,U,K,G
   11,R,U,G
    1,L,J
@@ -999,7 +997,7 @@ EndRepeat
    4
    3,R
 #spinner cycle
-   2
+   0
 #
   10,R,X
    1,L,J
@@ -1189,8 +1187,7 @@ endstunpause
    1,L,D
   10,L,Z
   11,R,J
-  12,R,J,G
-  57,R,J,G
+  69,R,J,G
 stunpause, input
    1,R
 skipinput,3,1
@@ -1304,4 +1301,4 @@ endstunpause
   17,R,U,X
  135,R,D
 
-ChapterTime: 3:49.653(13509)
+ChapterTime: 3:48.582(13446)

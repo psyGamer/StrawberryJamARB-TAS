@@ -1,4 +1,4 @@
-RecordCount:
+RecordCount: 1412
 
 console load StrawberryJam2021/4-Expert/rdoggo8
    1
@@ -6,13 +6,524 @@ console load StrawberryJam2021/4-Expert/rdoggo8
 #Start
  190
 
-#lvl_a-01
+#lvl_a-01 (0)
+   5,L
+   1,L,J
+   5,L
+  15,D,X
+  15,D,C
+  15,D,X
+  14,R,D,C
+   1,R,J
+  14,R,D,X
+   1,R,J
+  12,R,D,X
+   3,R,U,J
+  16,R,U,X
+  15,U,C
+  14,U,X
+   3,R,U,J
+   1,R,U,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   9,R,Z
+   2,R,J
+   1,R,K,G
+   2
+   1,R,K,G
+  14,R
+   3,R,J
+  14,R,Z
+  15,R,U,X
+  15,R,C
+  11,R,D
+   7,D
+  10,R
+  15,R,X
+  16,R,D
+  14,R,D,X
+  25,R,J
+  14,R,Z
+  15,U,X
+   9,R
+  15,R,Z
+  25,R,J
+   1
+   1,R,K,G
+   8,K,G
+   4
+   3,R
+  14,R,D,X
+   1,R,J
+   5,R,D,X
+  13,R,G
+   4,R,U,J
+  40
+
+#lvl_berry1
+   4,R,U,J
+   5,R,J
+  15,R,D,X
+   8,R,D
+  29,R,J
+  15,R,X
+  10,U,C
+   5,L,J
+   9,L,U,X
+  11,R
+  15,R,X
+   2,R
+  14,R,D,X
+   1,R,J
+  10,R,D,J,X
+  86,R,U,J,G
+   1,L
+   8,R
+  18,L,J
+  23,L,U,J,G
+   8,L
+  16,U,X
+  21,U,J,G
+   1,D
+  13,U,X
+  57
+   1,Q
    1,J
+  31
+
+#lvl_a-01 (1)
+#any%-start
+Read,../StrawberryJamTAS/4_Expert/vinculum,Start,lvl_a-03
+
+#lvl_a-03 (0)
+   6,R
+   1,R,J
+   7,R
+  13,R,J
+   5,R,X
+  34,R,X,G
+   5,R,J,G
+  37,R,U,K,G
+   1,L
+  15,R,D,X
+  14,R
+   7,R,J
+   5,R,K,G
+  15,R,X
+   4,L,J
+  21,L,J,G
+#any%-end
+
+  14,L,D
+   7,U,X
+  70,L,U,J,G
+  12,L,J
+   9,U,X
+  30,U,G
+  12,D
+   9,U,X
+  24,U,J,G
+   1,D
+  12
+   8,U,X
+  21,U,G
+  12,R,D
+   5,U,X
+  15,L,J
+  40
+
+#lvl_berry2
+   7
+   5,L
+   1,L,K,G
+  12,L,J,G
+  14,L,U,X
+  14,L,U,J,G
+  56,U,J,G
+  28,R,U,J,G
+  20,R,D,G
+   4,R,J,G
+  16,R,D,G
+  21,R,U,J,G
+  30,U,J,G
+   1,L,J
+  11
+  15,U,X
+  12,U,C
+  13,L,J
+   1,L
+  15,L,J
+   1,L
+  30,L,J
+  22,U,J,G
+  34,L,U,J,G
+   5,L,U,G
+  20,L
+  23,D
+   8,J
+  21,L,J
+  14,U,X
+   7
+  12,U,J,G
+  18,R,U,J,G
+   1,L
+  31,R,D
+  15,R,Z
+   5,R
+  18,U,X
+   2,L
+  15,U,X
+   5,L,C
+  27,L,U,J,G
+   4,L,U,K,G
+  27,L,U,J,G
+   1,R
+  16,L,X
+  94
+  14,R,D,X
+   1,R,J
+  15,R,D,X
+   2,L,D
+  40
+
+#lvl_a-03 (1)
+  11,L,D
+   1,L
+   1,L,J
+   1,L
+  15,D,X
+  20,D
+  46,R,D
+  15,R,D,X
+   4,L,J
+  22,U,J,G
+   6,D
+   6,L,D
+  10,U,X
+  30,U,J,G
+   1,L
+   9,R
+  11,U,X
+  24,U,J,G
+   1,L
+   6,L,D
+   1,D
+   8,L,D
+   1,D
+   1,L,D
+
+#any%-start
+  40,R,D
+   7,R
+   4,R,Z
+   1,R,J
+   2,R
+   3,R,J
+   4,R
+   1,R,J
+   8,R,D,X
+   1,R,J
+   5,R
+  40
+
+#lvl_a-04
+Read,../StrawberryJamTAS/4_Expert/vinculum,lvl_a-04,lvl_a-08
+
+#lvl_a-08 (0)
+   4,R,U,Z
+   1,R,J,G
+   3,J
+#any%-end
+
+   8,R,D,X
+  13,R,G
+   8,R,J,G
+   2,L
+  12,R
+  15,R,Z
+  14,R
+  40
+
+#lvl_berry3
+  10,R,D,X
+   5,R,J
+  10,R,X
+  12,R,J
+   5,R,X
+  15,R,G
+   9,L,U,G
+  12,U,X,G
+  52,R,U,J,G
+  32,R
+  13,R,Z
+  15,U,X
+   3,R
+   5,R,C
+  15,R,J,G
+  10,L,U,G
+  12,L,X,G
+   6,R,U,G
+  15,U,X,G
+  28,U,J,G
+   1,R
+  15,U,X
+   1
+  15,U,C
+  25,D
+  25,R,D
+  15,R,X
+   8,R,C
+  36,R,G
+   4,L,D,G
+  30,D,X,G
+   2,R,D,G
+   1,R
+   2,R,D
+  15,L,D,X
+  14,R,D,C
+   1,R,J
+  14,R,U,X
+  67,R,U,J,G
+   1,L,J
+  17,R,J
+  91
+   4,L,Z
+   1,L,J
+  10,L
+  11,D,X
+
+#lvl_a-08 (1)
+   9,D,X
+  14,R,D
+   8,R
+  13,L,D,X
+   2,R,J
+   9,R,D,X
+  17,R,G
+   7,R,K,G
+  14,R,G
+   1,R,U,J,G
+   7,R
+  14,U,X
+  33,R,G
+   1,R,D
+   7
+   2,R
+   1
+   1,R
+   9,U,X
+  37,R,G
+  11,D
+   1,R,D
+  11,U,X
+  13,G
+   1,R,G
+   1,G
+  16,R,G
+   1,G
+
+#any%-start
+   1,R
+  11,R,U,X
+   7
+   5,U,C
+  27,R,G
+  10
+  11,U,X
+  30,R,G
+   1,L
+  12,R,J,G
+   1,K,G
+   7
+  14,U,X
+   1,J
+  40
+
+#lvl_a-09
+Read,../StrawberryJamTAS/4_Expert/vinculum,lvl_a-09,lvl_a-10
+
+#lvl_a-10 (0)
+  12,R,J
+#any%-end
+
+  16,U,X
+  37,U,J,G
+   1,D
+  14,L,U,X
+   1,L,J,G
+  12,L
+  40
+
+#lvl-berry4
+   8,L,J
+  15,L,X
+   1,L,J
+   9,R,J
+   1,L,J
+   2,L
+   1,J,G
+  14,J
+  21,U,J,G
+   1,D,J
+   2,J
+  15,K,G
+  21,U,K,G
+   1,D,K
+   2,K
+  15,J,G
+  21,U,J,G
+   1,D,J
+   3,J
+   3,K,G
+   1,R,K
+   3,K
+   7
+  21,U,K,G
+   1,R
+  15,U,X
+  13,D
+  23,L,D
+   5,L,D,X
+   5,L,J
+   4,L,K,G
+   8,L
+   1,R,J
+  11,L,J
+  19,L,U,J,G
+  16,R,U,K,G
+   4,D
+  12,K,G
+   1,R,J,G
+   2,R,J
+  24,U,J,G
+   7,R,U,J,G
+   2,L,U,K,G
+   7,L,J
+   4,L
+  10,U,X
+  13,U,J,G
+  11,R,U,J,G
+   4,R,D,J
+   1,R,J
+  10,J
+   4,R,J
+   5,R,X
+  26,R,G
+   4,L,U,G
+  12,L,U,K,G
+   1,R,K
+   1,L,K
+  11,J,G
+   1,R,J
+   1,K
+   4,R,K
+  12,R,D
+  15,D
+   5
+  14,U,X
+  43,L,U,K,G
+   9,R,D
+  12,U,X
+  21,U,J,G
+   6,L,U,J,G
+   1,R,J
+   1,L,K,G
+   5,K
+   3,R,K
+   1,L,K
+   1,L,J,G
+   1,L,K,G
+  27,L,J,G
+  96
+   1,L,J
+  10,R,D,X
+   1,R,J
+   6,R
+  30,D,X
+   2,R,D
+  14,R,D,X
+   1,R,J
+   5,R,D,X
+  40
+
+#lvl_a-10 (1)
+  10,R,D,X
+  15,D,C
+   9,R,D
+   6,D
+   5,U,X
+  23,R,D,G
+   1
+  39,D
+  12,R,D
+  10,R,D,X
+  14,R,J
+
+#any%-start
+  13,U,X
+  14,U,C
+  25,L,G
+   1,L
+  15,U,X
+  12,R
+   5,R,X
+  31,R,G
+   4,L,G
+  33,U,X
+  21,L,G
+  21,L
+  15,L,X
+  16,L,D
+   3,D
+  15,L,Z
+  32,D
+  15,L,Z
+  15,U,C
+  32,G
+  13,D
+   8,U,X
+  28,G
+   1,L
+   9,D
+   5,U,X
+  18,G
+  21,R,D,G
+   9,D,G
+  23,R,D,G
+   6,R
+   1
+  14,R,U,X
+  52,R,U,G
+   8,R
+  14,U,X
+  20,G
+   6,L,G
+   4,G
+   1,R,G
+  10,R
+   9
+  13,U,X
+  34,L,G
+  21,L,X
+  26,G
+   1
+   9,R,D
+  17,D
+   3,R,D
+   2,D
+  19,R,D
+  15,R,X
+  14,R,Z
+   1,R,J
+   9,R,D,X
+  40
+
+#lvl_a-11
+Read,../StrawberryJamTAS/4_Expert/vinculum,lvl_a-11
 
 
 
-
-
-
-
-ChapterTime: 
+FileTime: 2:57.514(10442)

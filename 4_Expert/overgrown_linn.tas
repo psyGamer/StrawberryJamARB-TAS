@@ -1,4 +1,4 @@
-RecordCount: 1696
+RecordCount: 1697
 
 console load StrawberryJam2021/4-Expert/Flamecrafter113
    1
@@ -338,6 +338,11 @@ EndRepeat
    1,J
    4,L
   13,L,Z
+
+# Spinner cycle
+   1
+#
+
   13,J
   14,L,X
    1,L,J
@@ -509,4 +514,4 @@ EndStunPause
 
 
 
-ChapterTime: 1:56.722(6866)
+ChapterTime: 1:56.518(6854)

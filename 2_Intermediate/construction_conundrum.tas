@@ -2,10 +2,12 @@ RecordCount: 550
 
 console load StrawberryJam2021/2-Intermediate/thebreadstick1
    1
-#spinner
-   1
+
 #Start
   91
+
+#spinner
+   1
 
 #lvl_a-001 (0)
    6,L,Z
@@ -137,6 +139,7 @@ console load StrawberryJam2021/2-Intermediate/thebreadstick1
    3,R,K,G
    7,R,U,X
   40
+
 #lvl_a-002
 read,../StrawberryJamTas/2_Intermediate/construction_conundrum,lvl_a-002,lvl_a-005 (2)
 

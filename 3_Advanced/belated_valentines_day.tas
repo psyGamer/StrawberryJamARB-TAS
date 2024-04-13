@@ -1,4 +1,4 @@
-RecordCount: 876
+RecordCount: 955
 
 console load StrawberryJam2021/3-Advanced/Roborb
    1
@@ -15,27 +15,24 @@ read, ../StrawberryJamTAS/3_Advanced/belated_valentines_day, Start, lvl_1-f
   15,R,U,X
   21,R
   15,R,X
+#any%-end
   18,R
    2
    1,R
-   4,L
-   5,L,D
-  22,R,D
+   9,L
+  20,R
   15,R,U,X
-   4,R
-   1,R,J,G
-   5
-   2,R
-#any%-end
-  10,R,X
-   5,R,J
+  11,R
+  11,R,X
+   1,R,J
+   3,R
   18,R,D,X
   15,D,C
-   2,D
+   1,L,D
   40
 
 #lvl_1-d
-   4,D
+   4,L,D
   13,R,D,X
    4,R,J
   13,R,D,X
@@ -69,6 +66,18 @@ read, ../StrawberryJamTAS/3_Advanced/belated_valentines_day, Start, lvl_1-f
   40
 
 #lvl_1-f (1)
+#new any% strat seems impossible
+#end inputs here
+#   3,R
+#  12,R,U,Z
+#   1,R,J,G
+#  13,R
+#   1,R,J
+#   8,R,D,X
+#  40
+#read, ../StrawberryJamTAS/3_Advanced/belated_valentines_day, lvl_1-g, lvl_2-b
+#####
+
    2
   11,R,J
    0,R
@@ -92,9 +101,56 @@ read, ../StrawberryJamTAS/3_Advanced/belated_valentines_day, Start, lvl_1-f
    5,R,D,X
   40
 
-#any%-start
 #lvl_1-g
-read, ../StrawberryJamTAS/3_Advanced/belated_valentines_day, lvl_1-g, lvl_2-b
+#old any% inputs
+#~-2f from current any% inputs
+   2,R,D,X
+   1,R,J
+   7,R
+   1,R,J
+  15,R
+  18,R,U,X
+  14,R,D,C
+   7,R,J
+   1,R
+   1,R,J
+   3,R
+   2,R,J
+   9,R
+  15,R,U,X
+   5,R
+   3,L
+  15,U,X
+   3,L
+   1,R
+   3,L
+  21,R
+   1
+  14,U,Z
+  23,L,J
+   4,L
+  22,R,D
+   6,R
+   2
+#any%-start
+  10,L,D,X
+  20,R,J
+   9,R
+  15,R,U,X
+   9,R
+  15,R,U,X
+   7,R
+  13,R,C
+   1,R,J,G
+   9,R
+   1,R,J
+   4,R,D,X
+   1,R,J
+   4,R
+  40
+
+#lvl_1-h
+read, ../StrawberryJamTAS/3_Advanced/belated_valentines_day, lvl_1-h, lvl_2-b
 
 #lvl_2-b
    2,R,U,X
@@ -167,4 +223,4 @@ read, ../StrawberryJamTAS/3_Advanced/belated_valentines_day, lvl_1-g, lvl_2-b
 #lvl_2-c
 read, ../StrawberryJamTAS/3_Advanced/belated_valentines_day, lvl_2-c
 
-ChapterTime: 1:00.112(3536)
+ChapterTime: 1:00.044(3532)

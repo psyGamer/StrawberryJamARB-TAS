@@ -1,4 +1,4 @@
-RecordCount: 2096
+RecordCount: 2138
 
 console load StrawberryJam2021/5-Grandmaster/maya
    1
@@ -6,11 +6,105 @@ console load StrawberryJam2021/5-Grandmaster/maya
 #Start
  190
 
-#Spinner Cycle
+#Spinner Cycle [Delta]
    2
 
 #lvl_Insert Coin
-Read, ../StrawberryJamTAS/5_Grandmaster/pinball_purgatory, lvl_Insert Coin, lvl_Phase 
+Read, ../StrawberryJamTAS/5_Grandmaster/pinball_purgatory, lvl_Insert Coin, lvl_Pursuit
+
+#lvl_Pursuit
+  15,R,U,X
+   1,J
+   5
+   6,L
+   1,L,N
+   3,R
+  17,R,D,X
+  13,R,C
+   5,R,J
+   9,D,X
+  23,L
+  10,U,X
+  17,R
+  12,L,U,X
+  34,R
+  12,D,X
+  25,R
+  10,R,Z
+  32,R,J
+  12,L,X
+  26,R
+  19,R,D,X
+  15,R,D,C
+  27,R
+  14,L,X
+  23,R
+  14,R,U,X
+  27,R
+  16,D,X
+  21,L
+  23,L,U,X
+  35,R
+  14,U,X
+  28,R,J
+   9,R,X
+  41,L
+  12,L,U,X
+  45
+  29,L
+  17,R,X
+  37,L
+   9,U,X
+  37
+  23,R,U,X
+  17,L
+  12,L,D,X
+  31,L
+  15,U,X
+   7,L
+  10
+   3,L
+  19
+  10,R
+  17,R,U,X
+  85
+  15,U,X
+  30,L,D
+   1,L
+   7,L,D
+#any%-end
+#any%-strat and stun in Phase
+#would miss a coin to get berry.
+#multiboost seems pretty slow
+#overall and i dont wanna
+#resync Phase tbh
+  42,R
+   3
+  20,L,U,X
+  31,R
+  14,R,Z
+   2,R,J
+   1,R
+  15,R,D,X
+   1,R,D
+  12,R,J
+   5,R
+   3,R,J
+   2,R
+   2,R,J
+  10,R
+  14,R,U,X
+   1,R,J,G
+   9,R
+  34,R,J
+  14,R,Z
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+  10,R,D,X
+  40
 
 #lvl_Phase
    1,R,J
@@ -49,7 +143,6 @@ Read, ../StrawberryJamTAS/5_Grandmaster/pinball_purgatory, lvl_Insert Coin, lvl_
    5,L,D
   15,L,U,Z
   32,L
-#any%-end
   15,D,X
    8,L
   11,L,D
@@ -82,7 +175,10 @@ Read, ../StrawberryJamTAS/5_Grandmaster/pinball_purgatory, lvl_Insert Coin, lvl_
   12,R,J
    8,R
   19,R,J
+#dont need spinner cycle
+#wait in this room
   24,R,U,X
+#####
    6,R,Z
    1,R,J
    7,R
@@ -796,7 +892,7 @@ endRepeat
 
 #lvl_pumber (1)
    8,R,D
-  16,D,X
- 134,R,D
+  15,D,X
+ 135,R,D
 
-ChapterTime: 3:22.878(11934)
+ChapterTime: 3:22.674(11922)

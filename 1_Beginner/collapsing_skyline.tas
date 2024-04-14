@@ -1,4 +1,4 @@
-RecordCount: 1235
+RecordCount: 1239
 
 console load StrawberryJam2021/1-Beginner/hyperlife
    1
@@ -48,6 +48,11 @@ Read,../StrawberryJamTAS/1_Beginner/collapsing_skyline,Start,lvl_a-02
   40
 
 #lvl_a-02 (1)
+#+18f:
+#collect berry before deathwarp
+   1,L,J,G
+  17,L
+#####
    1,S
    1,D,J
   72,O
@@ -177,12 +182,12 @@ Read,../StrawberryJamTAS/1_Beginner/collapsing_skyline,Start,lvl_a-02
   12,R,D,X
   40
 
-#lvl_a-03
+#lvl_a-04 (2)
    9,R,D
    8,R,U,Z
   40
 
-#lvl_a-04 (0)
+#lvl_a-03
    6,R
    1,L,J,G
    1,R,J
@@ -413,4 +418,4 @@ Read,../StrawberryJamTAS/1_Beginner/collapsing_skyline,Start,lvl_a-02
   15,U,X
  135
 
-ChapterTime: 0:57.324(3372)
+ChapterTime: 0:57.630(3390)

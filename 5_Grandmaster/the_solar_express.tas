@@ -1,4 +1,4 @@
-RecordCount: 2183
+RecordCount: 2199
 
 console load StrawberryJam2021/5-Grandmaster/Soloiini
    1
@@ -585,26 +585,36 @@ Read, ../StrawberryJamTAS/5_Grandmaster/the_solar_express, Start, lvl_Shimmering
   12,R,U,X
    4,R,J,G
    7,K,G
-  14,G
-   7,R,G
+  17,G
+   3,R,G
+
 #any%-start
-  13,R,J,G
-  17,R,G
-   4,D,G
-   3,G
+   7,R,J,G
+   2,J,G
+   4,G
+   6,R,D
+   3,D
+   2,R,D
    1,D
-  14,L,Z
+
+## Add extra waiting frame because the coin is activated late
+   1,D
+##
+
+  14,L,D,X
    1,R,J
-   8,R,D,X
-  13,G
+   5,R,D,X
+  13,R,G
+  10,R,J,G
+   1,J,G
    1,R,J,G
-   7,R,G
-   1,R,J,G
-  17,R,G
+   1,R,G
    3,R,J,G
+  13,R,G
+   6,R,J,G
   43
 
 #lvl_Staging Grounds
 Read, ../StrawberryJamTAS/5_Grandmaster/the_solar_express, lvl_Staging Grounds
 
-ChapterTime: 3:42.802(13106)
+ChapterTime: 3:42.275(13075)

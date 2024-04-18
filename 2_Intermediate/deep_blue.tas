@@ -1,11 +1,11 @@
-RecordCount: 321
+RecordCount: 669
 #draft had 0
 
 console load StrawberryJam2021/2-Intermediate/Emik
    1
 
 #Start
-read,../StrawberryJamTas/2_Intermediate/deep_blue,Start,lvl_a_03
+Read,../StrawberryJamTAS/2_Intermediate/deep_blue,Start,lvl_a_03
 
 #lvl_a_03
    8,L
@@ -23,42 +23,41 @@ read,../StrawberryJamTas/2_Intermediate/deep_blue,Start,lvl_a_03
   11,R,D,X
   17,L,J
   15,L,U,Z
-   4,L,J
-   1,L,K
-   7,R,K
-  15,L,U,X
-  27,L,G
+#any%-end
+   8,L,J
+   9,K
+  14,L,U,X
+  19,G
+   2,L,G
    1,L
    9,R,J,G
-   3,L
-   7,R,X
+   1,L
+   6,R,U,X
   14,L
   15,L,X
-  19,L,D
-   6,D
+  25,L,D
   32,D,X
   22,L,C
    4,L,J
-   4,L,K
+   1,L,K
   25,U,X
-  42,L,D
+#any%-start
+  22,L,J
    2,L
-   2
-   1,D
-   1,L
-   3,L,J
-  15,L
-  15,L,U,Z
-   7,L
-   1,R
-   1,J
-   2,K,G
-   6,L,K
-   5,L
+## Y-subpx manip
+#   1,L
    1,L,J
-   4,L
+##
+  15,L
+   5,L,D
+   9,L,K
+   5,L
+   5,L,K
+  21,L,Z
+  11,L,K
+   7,L
 #Spinner cycle
-   2
+   1
 ##
    6,L,Z
    1,L,J
@@ -66,60 +65,74 @@ read,../StrawberryJamTas/2_Intermediate/deep_blue,Start,lvl_a_03
   40
 
 #lvl_a_04
-   3,L
+   2,L
+   1
    1,L,D,J
    1,J
   15,L,D,X
-   3,R,J
+   1,R,J
+   1,L,J
+   1,J
    7
    1,J
-  19
-   1,R
-  33,G
-   1,D,G
-   1
+   2
    1,J
-   1,R,K,G
-  14,L,U,X
+  10
+   7,K
+   6,R,K,G
+   3,D,K,G
+  20,K,G
+   4,U,K,G
+   2,K
+   1,J,G
+   2,K,G
+  12,L,U,X
   14,L,G
 StunPause
-  10,L,G
-EndStunpause
-   8,L,J,G
-   1,R,J
-   2,L,J
+   8,L,G
+EndStunPause
+   9,L,G
+   1,R
    1,L,K,G
    2,R,K
-   1,K
-   1,L,J,G
-  18,L
-  20,D
+   1,L,K
+   5,L
+   9,L,K
+   8,L
+  19,D
+   1,L,D
+#any%-end
   15,L,Z
-   1,L,J
-  15,L,Z
-  31,L,D
+  15,L,V
+  30,L,D
   15,L,Z
   10,L,D
    2,R,D
   11,L,D
   15,L,X
-  28,L,G
-   1,L,D,G
+  11,L
+  13,G
+   1,D,G
+   1,G
+   1,D,G
+   1,G
+   1,D,G
   12
+   1,G
    5,L,J,G
-   1,R
-   1,J
-   2,K,G
-   2,L,K
-   5,L
-  20,L,K
-  11,L,X
+   1,L,K
+   3,L,J
+  19,L
+  14,L,X
    3,L,J,G
    5,L
-   8,L,J
-  10,L,D,X
+   1,L,K
+   6,L
+  10,L,X
    5,R,J
-  35,U,X
+   1,J
+  31,U,X
+   2
    8,L,C
    4,L,J,G
    8,L
@@ -133,6 +146,7 @@ EndStunpause
    8,L,D
    3,L
   59,L,X
+#any%-start
    4,R,G
   18,R,U,Z
    4,R,J
@@ -161,50 +175,47 @@ EndStunpause
   15,L,Z
    1,R
    3,L
-  10,L,J
+#any%-end
+   9,L,J
+   1,J
    7
   15,D,X
-   4,L
-   3,L,D
-  15,L,D,X
-  16,D
-   2,L,D
-   4,L,J
-   5,L
-   1,L,J
-  13,L,D
-   9,L
-   2,L,D
-   2,R,J
-   2,L,K
-   6,L,J,G
-   5,L
-   1,L,J
-   5,L
-   1,L,K,G
-   7,L
-   1,J
-   2,L,J
-   5,J
-   7,K
-  19,L,U,X
-   4,L,J
+   3,R,D
    4,L,Z
-   2,L,J
-  10,R,J
-  13,R
-   1,R,D
-   5,L
-  12,L,X
-  15,L,J,G
+   1,L,J
+  12,D
+  22,L,D
+   9,D
+   5
+   1,R
+   2,J
+   2,L,K
+   1,L,J,G
+   8,L,K,G
+   7,L
+   9,J
+   3,K
+#any%-start
+  21,L,U,X
+   4,L,J
+   5,L,Z
+   1,L,J
+   9,R,J
+## Move forward for X-subpx manip
+   1,L,D
+##
+  16,R,D
+   3,L
+  11,L,X
+  11,L,J,G
+   4,L
   48,L,D
    5,L
   14,L,Z
    4,L,J,G
-   7,L,K,G
-   2,L
-   4,L,J,G
-   3,L
+   9,L,K,G
+   3,L,J,G
+   4,L
   11,L,K,G
    7,L
    1,L,J
@@ -214,6 +225,6 @@ EndStunpause
   40
 
 #lvl_a_06
-read,../StrawberryJamTas/2_Intermediate/deep_blue,lvl_a_06
+Read,../StrawberryJamTAS/2_Intermediate/deep_blue,lvl_a_06
 
-ChapterTime: 1:05.484(3852)
+ChapterTime: 1:04.430(3790)

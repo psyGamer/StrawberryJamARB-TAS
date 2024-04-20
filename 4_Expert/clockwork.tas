@@ -1,4 +1,4 @@
-RecordCount: 8937
+RecordCount: 9052
 
 console load StrawberryJam2021/4-Expert/fonda1515
    1
@@ -89,28 +89,29 @@ Read,../StrawberryJamTAS/4_Expert/clockwork.tas,Start,lvl_a-05
   14,L,C
   43
   22,R
-  29,J
-   1,L,J
-   1,J
-   5,R,J
-   1,J
-   1,R,J
-  12,U,X
- 112,L,G
-  66,U,G
+  10,L,J
+   7,L
+  12
+  10,D
+   1
+  15,U,X
+   8,L
+  84,L,G
+  20,G
+  46,U,G
   20,L,G
   42,U,G
   51,R,U,G
   49,U,G
-  19,L,U,G
-  65,U,G
-   8,L,U,G
-  40,U,G
-   8,R,U,G
-  40,U,G
-   8,L,G
-  20,G
-  16,D,G
+  18,L,U,G
+  66,U,G
+  11,L,U,G
+  37,U,G
+   9,R,U,G
+  39,U,G
+  10,L,G
+  10,G
+  21,D,G
   33,U,G
   77
    4,R,Z
@@ -689,4 +690,4 @@ Read,../StrawberryJamTAS/4_Expert/clockwork.tas,lvl_a-08,lvl_a-09
    1,R,J
   57,R
 
-ChapterTime: 4:17.890(15170)
+ChapterTime: 4:17.584(15152)

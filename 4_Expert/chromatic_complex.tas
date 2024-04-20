@@ -1,4 +1,7 @@
-RecordCount: 97
+RecordCount: 144
+Unsafe
+console wipedebug
+Safe
 
 console load StrawberryJam2021/4-Expert/Archire
    1
@@ -15,15 +18,16 @@ Read,../StrawberryJamTAS/4_Expert/chromatic_complex,Start,lvl_a-13
   10,R,D,X
    1,R,J
    7,R
-   5,R,J
-  16,R,D
-   3,D
-   2,R,D
-   1,D
-   1,R,D
-  26,R,U,X
-  43,L,D,C
-  40,L,X
-  59,L,C
+   2,R,J
+   8,R
+   2,R,J
+   3,R
+  13,R,U,Z
+   1,J,G
+  21,D
+  42,L,D,X
+  39,L,C
+  42,L,X
+  19,R,J
 
-ChapterTime: 0:59.585(3505)
+ChapterTime: 0:59.517(3501)

@@ -1,4 +1,4 @@
-RecordCount: 992
+RecordCount: 1138
 
 console load StrawberryJam2021/4-Expert/KAERRA
    1
@@ -16,25 +16,30 @@ console load StrawberryJam2021/4-Expert/KAERRA
   40
 
 #lvl_a00s
-   8,L
-   3
+   6
+   5
   10,L,X
-  32,J
+  24,J
+   8,R
   10,L,Z
-   2,R,J
+   1,R,J
    1,R
    1,R,J
-  18,R
-   3,R,J,G
+  16,R
+   2,R,J,G
   11,R
   14,R,D,X
    1,R,J
   11,R
   15,R,X
-  14,R
-  10,D
-  21,L,D
-   7,L
+   9,R
+   7
+   4,D
+   1,R,D
+   4,D
+  19,L,D
+   6,L
+   2,R
   12,D,X
   40
 
@@ -84,13 +89,14 @@ read,../StrawberryJamTAS/4_Expert/floating_point,lvl_a01,lvl_a03
   12,R,J
    1,R,K,G
    1,R,J,G
-  20,R
-  22,R,X
-   1
+  15,R
+  26,R,X
   15,D,C
-   4,R,D
-   1
-   8,R
+   5,R,D
+   1,R
+   1,R,D
+   1,R
+   5,R,D
    7,R,J,G
   10,R,Z
    1,R,J
@@ -185,26 +191,26 @@ read,../StrawberryJamTAS/4_Expert/floating_point,lvl_a04,lvl_a05
   19,D
    3,R,D
   13,R,D,X
-   2,R,J
-  30,L,J
-  13,L,X
+   1,R,J
+   6,L,J
+   1,R,J
+  20,L,J
+  14,L,U,X
   32,R,C
   15,D,X
-   3,L,D
-   9,D
+   1,D
+  11,R,D
   10,L,X
-   2,R,J
-   5,R
    3,R,J
-   1,R
+   5,R
    1,R,J,G
-   9,R
-  10,L
+  14,R
+   6,L
   13,L,X
-   6,R,J
-  10,R
+   5,R,J
+   7,R
    1,R,J,G
-  16,R
+  15,R
   28,L,U,X
   15,U,C
   10,L,X
@@ -300,16 +306,20 @@ read,../StrawberryJamTAS/4_Expert/floating_point,lvl_a06,lvl_a08
   14,L
   11,D
   10,L,Z
-  17,R,J
-  14,R,D,X
    1,R,J
-   8,R
-  11,R,D,X
+   3,R
+   5,R,J
+   9,R
+  13,R,D,X
    1,R,J
-   5,R
+   4,R
+  13,R,D,X
+   1,R,J
+   4,R
   15,R,D,X
-   1,L,J
-  16,R
+   1,J
+   6,L
+  10,R
   18,L,D,X
   15,D,C
    9,D
@@ -321,8 +331,8 @@ read,../StrawberryJamTAS/4_Expert/floating_point,lvl_a06,lvl_a08
   15
   11,R
    6,R,X
-  14,R,C
-  32,D,X
+  15,R,C
+  31,D,X
   17,R,D
    2,D
    1,R,J,G
@@ -410,8 +420,9 @@ read,../StrawberryJamTAS/4_Expert/floating_point,lvl_a06,lvl_a08
    1,R,J,G
    7,R,K,G
    5,R
-   6,R,J
-  15
+   4,R,J
+   2,R
+  14
   18,R,X
   18,D,C
   15,U,X
@@ -472,4 +483,4 @@ read,../StrawberryJamTAS/4_Expert/floating_point,lvl_a06,lvl_a08
    4,X
  135
 
-ChapterTime: 1:44.533(6149)
+ChapterTime: 1:44.159(6127)

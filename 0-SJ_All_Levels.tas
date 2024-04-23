@@ -1,0 +1,38 @@
+#To sync:
+#Use Celeste 1.4.0.0 (or latest)
+#Use Everest 4607 (or latest stable)
+#Use Strawberry Jam 1.0.9 (or latest)
+#Please let us know if future versions
+#Appear to be desyncing the TAS
+
+#Use the bindings in the CelesteTAS readme
+#Change your default map to Strawberry Jam Collab
+#Start from file creation "Begin"
+#Make sure map select shows up
+#Open and close Mod Options if it doesn't
+
+Read,StrawberryJamTAS/StartFullCollabFile
+
+Read,StrawberryJamTAS/0-SJ_prologue,Start
+
+Read,StrawberryJamTAS/LoadBeginnerLobby
+
+Read,1-BeginnerLobbyMain,Start
+
+Read,StrawberryJamTAS/LoadLobbyfromHeartside
+
+Read,2-IntermediateLobbyMain,Start
+
+Read,StrawberryJamTAS/LoadLobbyfromHeartside
+
+Read,3-AdvancedLobbyMain,Start
+
+Read,StrawberryJamTAS/LoadLobbyfromHeartside
+
+Read,4-ExpertLobbyMain,Start
+
+Read,StrawberryJamTAS/LoadLobbyfromHeartside
+
+Read,5-GrandmasterLobbyMain,Start
+
+FileTime: 3:52:14.934(819702)

@@ -1,4 +1,4 @@
-RecordCount: 444
+RecordCount: 1106
 
 console load StrawberryJam2021/3-Advanced/Jolly
    1
@@ -7,7 +7,7 @@ console load StrawberryJam2021/3-Advanced/Jolly
   76
 
 #Spinner Cycle [a-berry]
-   2
+   0
 
 #lvl_a0
 read,../StrawberryJamTAS/3_Advanced/starlight_station,lvl_a0,lvl_a2
@@ -67,17 +67,23 @@ read,../StrawberryJamTAS/3_Advanced/starlight_station,lvl_a0,lvl_a2
    5,U,X
   11,L,J
    1,L,K,G
-   7,L
-  13
-   6,R,Z
-   1,L,J
-   6,L
-stunpause
+   1
    1,L
-   1,R,J,G
-   8,L,J
-endStunpause
+   1
+   1,L
+   1
+   1,L
+  10
+   4,R
+   4,L,Z
    1,L,J
+   5,L
+   2,L,D,J
+stunpause, input
+   5,L,D,J
+   5,L
+endstunpause
+   1,L
   97,L,G
    3,R,J
    8,R,Z
@@ -520,4 +526,4 @@ read,../StrawberryJamTAS/3_Advanced/starlight_station,lvl_brys3,lvl_brys4
    9,D,X
  135
 
-ChapterTime: 2:12.566(7798)
+ChapterTime: 2:12.515(7795)

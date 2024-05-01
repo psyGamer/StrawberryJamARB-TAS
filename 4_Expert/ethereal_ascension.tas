@@ -1,4 +1,4 @@
-RecordCount: 1312
+RecordCount: 1682
 
 console load StrawberryJam2021/4-Expert/QuantumSpaceman
    1
@@ -8,7 +8,6 @@ console load StrawberryJam2021/4-Expert/QuantumSpaceman
 Read,../StrawberryJamTAS/4_Expert/ethereal_ascension,Start,lvl_a-01
 
 #lvl_a-01
-
 
 # Intended berry route; skips a retry but warps back to the wrong spawnpoint
 #   2,R
@@ -57,35 +56,43 @@ Read,../StrawberryJamTAS/4_Expert/ethereal_ascension,Start,lvl_a-01
    8,R
   13,R,X
   31,R,D,G
-  67,R,U,G
 #any%-end
-
-   9,U,G
-  73,D
+  64,R,U,G
+  19,U,G
+   8,L
+  15,D,X
+   6,L,D
+   3,D
+   3
+   2,D
   15,R,Z
-  15,D,C
-  14,L
-  77
+  16,L,D
+  96
+# wouldn't need to retry if double dash respawned
    1,S
    1,D,J
   69,O
+# Spinner Cycle
+   1
+#####
   10,L,X
-   2,R,J
+   7,R,J
+   2,R
+  17,L,D
+  34,L,D,G
+   1,L
    9,R
-   1,R,J
-   1,R
-   8,L,D
-  50,L,D,G
-   9,L
-  27
-  11,R
-   3,R,D
+  11,L
+   4,L
+  10,R
   21,R,D,G
-   8,R
-  13,R,X
-  84,R,U,G
-  49,U,G
-   2,R,U,G
+  11,R,D
+  14,R,X
+  30,R,D,G
+  66,R,U,G
+  33,U,G
+   1,R,G
+   1,R,U,G
    6,U,G
    6,R,U,G
    3,R
@@ -94,16 +101,16 @@ Read,../StrawberryJamTAS/4_Expert/ethereal_ascension,Start,lvl_a-01
   14,R,D,X
    2,R
   19,R,D
-  61,R,U,G
+  62,R,U,G
    1,L
-  11,R
-  22,R,X
-
+   9,R
+  20,R,X
 #any%-start
   21,R,Z
   40
 
 Read,../StrawberryJamTAS/4_Expert/ethereal_ascension,lvl_a-02,lvl_a-04b
+
 #lvl_a-04b
    1
   72,O
@@ -521,4 +528,4 @@ Read,../StrawberryJamTAS/4_Expert/ethereal_ascension,lvl_a-07 (1),lvl_a-09
   15,U,X
  124
 
-ChapterTime: 2:55.372(10316)
+ChapterTime: 2:54.505(10265)

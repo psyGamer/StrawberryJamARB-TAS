@@ -1,4 +1,4 @@
-RecordCount: 2701
+RecordCount: 2839
 
 console load StrawberryJam2021/3-Advanced/MousseMoose
    1
@@ -202,20 +202,22 @@ EndStunPause
    2,R
   15,R,D,X
    7,R,D
-  45,D
-   7,R,D
-   1,D
-   4,R,D
-   
+  48,D
+   9,R,D
+   2,J
+
 #lvl_b1 (1)
-   7,R,D,X
+  10,R,D,X
    1,R,J
    4,R
-   2
-   1,R
 ## wait for cycles
-  15,D,C
-  17
+   5,R,Z
+   1,L,J
+   6
+   3,L
+   4,Z
+   1,R,J
+  10
 ##
    4,R,Z
 #any%-start
@@ -338,4 +340,4 @@ EndStunPause
 #lvl_b2
 Read, ../StrawberryJamTAS/3_Advanced/synapse, lvl_b2
 
-ChapterTime: 1:40.164(5892)
+ChapterTime: 1:40.113(5889)

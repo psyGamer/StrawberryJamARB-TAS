@@ -1,4 +1,4 @@
-RecordCount: 2839
+RecordCount: 2857
 
 console load StrawberryJam2021/3-Advanced/MousseMoose
    1
@@ -135,15 +135,10 @@ EndStunPause
   32,R
    9,R,Z
    1,R,J
-   4,R
-   1,R,J
-   2,R
-   3,R,D
-   4,R,J
-   4,J
-   3,R
-   1
-   1,R
+   7,R
+   2,R,D
+   7,R,J
+   6,R
   15,U,X
   15,L
    1,J
@@ -207,30 +202,22 @@ EndStunPause
    2,J
 
 #lvl_b1 (1)
-  10,R,D,X
+   8,R,D,X
    1,R,J
-   4,R
+   5,R
+   2
 ## wait for cycles
-   5,R,Z
-   1,L,J
-   6
-   3,L
-   4,Z
-   1,R,J
-  10
+  15,D,C
+  15,D,V
+   1
 ##
    4,R,Z
 #any%-start
    1,R,J
-   4,R
-   1,R,J
-   2,R
-   3,R,D
-   4,R,J
-   4,J
-   3,R
-   1
-   1,R
+   7,R
+   2,R,D
+   7,R,J
+   6,R
   15,U,X
   15,L
    1,J

@@ -1,4 +1,4 @@
-RecordCount: 1376
+RecordCount: 1416
 
 console load StrawberryJam2021/4-Expert/LethargicDoggo
    1
@@ -80,6 +80,7 @@ console load StrawberryJam2021/4-Expert/LethargicDoggo
   12,L,X
   14,L,J
    3,R,J
+
 #any%-start
   18,U,X
   15,U,C
@@ -443,12 +444,14 @@ read,../StrawberryJamTAS/4_Expert/storm_runner,lvl_a-08,lvl_a-09
   25,L,K
    3,R,J
   21,R,U,J,G
-   7,R,J
+   5,R,J
   16,R,U,X
-  74,R,G
-  97,R,U,G
+  82,R,U,G
+  25,R,D,G
+  10,R,U,J,G
+  54,R,U,G
    1,R
-  76,L,U,G
+  77,L,U,G
    1,L,J,G
    1,L,K,G
    1,J,G
@@ -458,12 +461,11 @@ read,../StrawberryJamTAS/4_Expert/storm_runner,lvl_a-08,lvl_a-09
   10,R,U,G
    1,L,J
    3,R,J
-   5,R,J,G
-   2,J
-   7,G
+   8,R,G
    1,U,G
-   1
-   1,L
+   1,G
+   1,U,G
+   6,G
    1
    1,L
   77
@@ -482,5 +484,4 @@ read,../StrawberryJamTAS/4_Expert/storm_runner,lvl_a-08,lvl_a-09
   15,D,X
  134
 
-
-ChapterTime: 2:14.589(7917)
+ChapterTime: 2:14.572(7916)

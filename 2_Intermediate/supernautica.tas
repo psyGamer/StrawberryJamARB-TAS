@@ -1,4 +1,4 @@
-RecordCount: 2472
+RecordCount: 2923
 
 console load StrawberryJam2021/2-Intermediate/LegS
    1
@@ -17,14 +17,19 @@ Read, ../StrawberryJamTAS/2_Intermediate/supernautica, Start, lvl_LegS-2
    1,R,D
   21,R
   10,L,X
-   4,J
-  10,L,J
-  25,L,G
+# change speed and position
+# for more optimal wallbounce
+# using left wall
+   2,J
+  12,L,J
+  19,L,G
+   6,G
+##
    1,R
   15,L,Z
 #any%-end
-   4,L,J
-  14,U,X
+   2,L,J
+  15,U,X
    8,R,J
   40
 
@@ -32,21 +37,25 @@ Read, ../StrawberryJamTAS/2_Intermediate/supernautica, Start, lvl_LegS-2
   11,R
    9,R,X
   53
-   9,R,X
-   1,R,J,G
-  11,R
+   4,R,Z
+   5,R,J
+   8,R
   28
    1,R,J
    7,R,K
-  22,R
+   5,R
+   3,R,J
+  14,R
   13,R,U,X
-  39,R,G
-  24,R,D,G
-  14
-   5,L
+  21,R,U,J,G
+   1,L
+  14,R,J
+  18,R
+  15
+   3,K
   77
-  15,L,Z
-   6,D,X
+  15,L,X
+   6,D,C
   48
    1,L,J
    1,L,K
@@ -181,7 +190,7 @@ Read, ../StrawberryJamTAS/2_Intermediate/supernautica, lvl_LegS-4, lvl_LegS-B2
    1,S
    1,D,O
   34
-#Spinner Cycle
+#Spinner unload cycle
    1
 #####
    5,J,AR
@@ -237,5 +246,4 @@ Read, ../StrawberryJamTAS/2_Intermediate/supernautica, lvl_LegS-4, lvl_LegS-B2
 #lvl_LegS-7
 Read, ../StrawberryJamTAS/2_Intermediate/supernautica, lvl_LegS-7
 
-
-ChapterTime: 1:00.214(3542)
+ChapterTime: 0:59.959(3527)

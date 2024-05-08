@@ -1,4 +1,4 @@
-RecordCount: 1652
+RecordCount: 2330
 
 console load StrawberryJam2021/4-Expert/rdoggo8
    1
@@ -52,30 +52,35 @@ console load StrawberryJam2021/4-Expert/rdoggo8
   15,R,Z
   24,R,J
    1
-   1,R,K,G
-   1,K,G
-   2
-   4,K,G
-   4
+   1,R,J,G
    2,R
-   1,L
-   3,L,J
-  14,R,D,X
+   1,R,J,G
+   1,R
+   1,R,J,G
+   1,R
+   1,R,J,G
+   7,R
+   7,L,Z
+   1,R,J
+   6,R
    1,R,J
    5,R,D,X
   13,R,G
-   6,R,U,J
+   6,R,J,G
   40
 
 #lvl_berry1
-   2,R,U,J
-   1,L,J
-   2,R,J
    2,R
+   1,L
+   4,R
   15,R,D,X
-   8,R,D
-  18,R,J
+   7,R,D
+   0,R
+  17,R,J
   15,R,X
+# this is bothersome
+   1
+#
    9,U,C
    6,L,J
    8,L,U,X
@@ -532,4 +537,4 @@ Read,../StrawberryJamTAS/4_Expert/vinculum,lvl_a-09,lvl_a-10
 #lvl_a-11
 Read,../StrawberryJamTAS/4_Expert/vinculum,lvl_a-11
 
-FileTime: 2:57.004(10412)
+FileTime: 2:56.936(10408)

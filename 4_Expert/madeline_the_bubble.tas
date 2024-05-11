@@ -1,4 +1,4 @@
-RecordCount: 2826
+RecordCount: 2890
 
 console load StrawberryJam2021/4-Expert/Vina
    1
@@ -6,7 +6,62 @@ console load StrawberryJam2021/4-Expert/Vina
 
 #Start
 
-Read,../StrawberryJamTAS/4_Expert/madeline_the_bubble,Start,lvl_Vina-04
+#lvl_Vina-00
+
+#any%-start
+  10,R,D,X
+   2,R,J
+   1,J
+   3,R,J
+  15,R,D,X
+   1,R,J
+   5,R,K,G
+   7,R
+   4,R,J
+   7,R,D,X
+   7,R,J,G
+   5,R
+   3,R,J
+   8,R
+   8,R,J
+   8,J
+   9,U,X
+  14,R,J
+  11
+
+# spinner cycle [Vina-05 (1)]; changed from any% to include berry 1
+#   1
+   0
+##
+
+   1,J
+   2
+  10,R,X
+  19,J
+  18,U,X
+  16,R
+  15,R,U,X
+  16,R
+   4,R,Z
+   3,R,J
+   1,R
+   5,R,K,G
+   7,R
+   1,R,J
+   2,R
+   1,R,J
+   6,R,D,X
+   2,R,J,G
+   1,R,K
+   2,R,J
+   5,R
+   1,R,J
+   6,R
+   1,R,J
+   1,R
+  40
+
+Read,../StrawberryJamTAS/4_Expert/madeline_the_bubble,lvl_Vina-01,lvl_Vina-04
 
 #lvl_Vina-04
    8,R,D,X
@@ -171,11 +226,6 @@ endrepeat
    1,U,G
    1,D,G
    1,U,G
-
-
-# Spinner cycle (as an alternative to the awkward waiting spots in any%)
-   0,G
-#
 
    6,G
   24
@@ -484,60 +534,75 @@ Read,../StrawberryJamTAS/4_Expert/madeline_the_bubble,lvl_Vina-06,lvl_Vina-08
   18,R,U,Z
   10
    3,R
-  17,R,Z
+  18,R,Z
   15,U,X
-   8,U,C
-  54,R
-  17,R,U,X
-  30,R,C
-  25,R
-  23,R,Z
+   9,U,C
+  56,R
+  16,R,U,X
+  15,R,C
+  37,R
+  18,R,Z
   15,U,X
-   1,R
    1
-  14,R,C
+   2,L
+   5,R,J
+   8,R
+   5,R,K
+   6,L,K
+  10,L
+   8,R,X
    1,R,J
    7,J
   18,U,X
-   3,L
-  30,L,C
-  24,L,U,X
-  63,L,U,Z
-  40,L,U,V
-  15,U,X
-  15,L,U,C
+  15,L,C
+  10,L
+  15,L,U,X
+  21,L
+  19,U,X
+   3
    1,R
-   7,U,Z
-  29,R
-  16,R,U,Z
-  40,R,J
-  12,U,X
-  11,R,J
-   1,R
-
-#any%-start
-  11,R
+   1,K
+   2,J,G
+  20,L,J
+   2,K
+   1,L,J,G
+  21,L,K,G
+   7,L
+   1,G
+   1
+   3,J
+   4
+  15,U,Z
    2
-   2,L
+  27,L,J
+   1,J
    1,L,J
-  16,L
+  18,R
+   1,J
   18,R
   15,R,Z
-  15,R,D
-   8,R,J
-  15,U,X
-   5,L,J
-   1,L,K,G
-   1,J,G
-   6,L
-   1,R
-   3,R,J
+  15
+   1,L,J
+   7,J
   14,U,X
-   8,L,J
-   9,R,J
+   4,R,J
+   2,J
+   1,K,G
+   1,R
+   4
+   1,R
+   1,L
+   1,L,J
+  14,U,X
+   5,J
+   4,L,J
+   8,R,J
+   3,R,K,G
   40
 
 #lvl_Vina-End
+
+#any%-start
 Read,../StrawberryJamTAS/4_Expert/madeline_the_bubble,lvl_Vina-End
 
-ChapterTime: 2:26.795(8635)
+ChapterTime: 2:25.656(8568)

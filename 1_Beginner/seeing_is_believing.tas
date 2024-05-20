@@ -1,4 +1,4 @@
-RecordCount: 260
+RecordCount: 262
 
 console load StrawberryJam2021/1-Beginner/NotYourBadeline
    1
@@ -63,9 +63,10 @@ Read,../StrawberryJamTAS/1_Beginner/seeing_is_believing,Start,lvl_a_09
    1,G
   10,R,K,G
    1,J
-Repeat 10
+Repeat 12
    1,K
    1,J
 EndRepeat
+   
 
 ChapterTime: 0:31.484(1852)

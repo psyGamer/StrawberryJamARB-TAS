@@ -1,4 +1,4 @@
-RecordCount: 1759
+RecordCount: 1765
 
 console load StrawberryJam2021/4-Expert/Cabob
    1
@@ -13,31 +13,24 @@ console load StrawberryJam2021/4-Expert/Cabob
 Read, ../StrawberryJamTAS/4_Expert/psychokinetic, lvl_a-start, lvl_a-02
 
 #lvl_a-02 (0)
-  17,R,U,X
+   1,L,J,G
+   1,R,J
+  10,R,Z
    4,R,J
-   7,R,Z
-  12,R,J
-   7,R
-  25,R,X
-   4,R,J
-   1,R,K
-  15,R,D,X
-  10,L,J
-  12,D
-   8,R,D
-   4,D
-  16,R,D
-   9,R
-   3,R,D
-  20,R,U,X
-  20,R,D
-  10,L,D,X
-   3,R,J
+  15,R
+  15,D,X
+   2,R
+  18,R,D
+   2,R
+   1,R,D
    1,R
-  10,R,J
-   8,R
-  32,R,K
-  10,U,X
+   8,R,Z
+   1,R,J
+   4,R
+   1,R,K
+   6,R
+  31,R,J
+   9,U,X
   34,R,J
   10,R
   10,R,D
@@ -212,7 +205,7 @@ Read, ../StrawberryJamTAS/4_Expert/psychokinetic, lvl_a-03, lvl_a-08
    3,R,J,G
    7,R
 # Spinner cycle
-   2
+   0
 #
   14,R,D,X
    6,R,J
@@ -420,4 +413,4 @@ Endstunpause
    5,R
  141,L,U,X
 
-ChapterTime: 1:16.585(4505)
+ChapterTime: 1:14.817(4401)

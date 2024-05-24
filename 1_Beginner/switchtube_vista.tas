@@ -1,4 +1,4 @@
-RecordCount: 2037
+RecordCount: 2060
 
 console load StrawberryJam2021/1-Beginner/Flagpole1up
    1
@@ -176,15 +176,14 @@ Read,../StrawberryJamTAS/1_Beginner/switchtube_vista,lvl_a04,lvl_a06
    4,L
    1,L,D,J
    6,L
-  17,L,J,G
+  19,L,J,G
   15,L,X
-   1,D
- 161
+   4,D,C
+ 158
    1,R,J
   10,R,K
   15,U,X
-   6
- 127
+ 133
    7,L,Z
    1,L,J
   15,L
@@ -544,4 +543,4 @@ Read,../StrawberryJamTAS/1_Beginner/switchtube_vista,lvl_a10,lvl_a12
 #lvl_a13
 Read,../StrawberryJamTAS/1_Beginner/switchtube_vista,lvl_a13(0)
 
-ChapterTime: 2:39.120(9360)
+ChapterTime: 2:39.137(9361)

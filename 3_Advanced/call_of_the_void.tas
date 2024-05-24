@@ -1,4 +1,4 @@
-RecordCount: 1126
+RecordCount: 1143
 
 console load StrawberryJam2021/3-Advanced/Viv
    1
@@ -365,11 +365,11 @@ Read, ../StrawberryJamTAS/3_Advanced/call_of_the_void, lvl_viv5x, lvl_viv7
   14,R,D,X
    1,R,J
   15,L,D,C
-   9,R
-   8,L,J
-   1,L,K,G
-  26,D,G
- 104
+  10,R
+   2
+  10,L,J
+  12,D,G
+  87
   59,R,X
   18,D,G
    6,R
@@ -418,4 +418,4 @@ Read, ../StrawberryJamTAS/3_Advanced/call_of_the_void, lvl_viv5x, lvl_viv7
   35,L,U,X
  139,R,C
 
-ChapterTime: 2:21.321(8313)
+ChapterTime: 2:20.862(8286)

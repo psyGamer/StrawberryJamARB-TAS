@@ -43,7 +43,7 @@ Read, ../StrawberryJamTAS/4_Expert/psychokinetic, lvl_a-start, lvl_a-02
    9,R
    8,L,D,X
 #Spinner Cycle
-   2
+   0
 #-----
    1,R,J
    1,R,K
@@ -79,17 +79,16 @@ Read, ../StrawberryJamTAS/4_Expert/psychokinetic, lvl_a-start, lvl_a-02
    5,L,J
    1,J
   25,R
-  15,R,D
-  12,R,D
+  27,R,D
   13,L,D
   40
 
 #lvl_a-03x
    3,L,D
   14,D
-   8,L,D
-  10,D
-  11,L,Z
+  10,L,D
+   5,D
+  10,L,D,X
    1,R,J
    1,R,K
    1,R,J
@@ -116,7 +115,8 @@ Read, ../StrawberryJamTAS/4_Expert/psychokinetic, lvl_a-start, lvl_a-02
   12,R,U,X
    4,R,K
    1,R,J
-  11,R,U,X
+   1,R
+  10,R,U,X
    4,R,K
    4,R,J
   10,R,X
@@ -212,8 +212,7 @@ Read, ../StrawberryJamTAS/4_Expert/psychokinetic, lvl_a-03, lvl_a-08
   15,R,K
    5,R,J
   14,R,X
-   1,R,K,G
-   9,R,K,G
+  10,R,K,G
   17,R,D,X
    4,R,K
    1,R,J
@@ -231,18 +230,17 @@ Stunpause
    2,R,J
 Endstunpause
   11,R,J
-  38,R,K
-  11,R,U,X
-   2,R,K,G
-   8,R
-   2,R,K,G
-   8,R
-   5
-  10,R,Z
+  29,R,K
+   8,R,D
+  15,R,U,X
+  15,R
+   5,R,Z
    1,R,J
-   4,R
+   8,R
+   1,R,J
   15,R,D,X
- 107,D
+  10,F,179.99
+  96
   10,L,Z
    1,L,J
   21,L,D
@@ -323,26 +321,29 @@ Endstunpause
   12
   17,R,U,X
    4,R,K
-  18,R,C
+  17,R,C
+   1,R,J
   10,R,X
    4,R,K
-   8,R,J
-  26,R
-  12,R,U,X
+   6,R,J
+  18,R
+   6,R,D
+   1,L,D
+  14,R,U,X
   40
 
 #lvl_a-end (0)
    1,R,U,X
-   3,L,K
+   1
    4,L,J
    9,L,U,X
   40
 
 #lvl_a-10 (1)
-  17,L
+  15,L
   15,L,U,Z
    8,R,K,G
-   8,R
+   7,R
    2,R,J
   12,U,X
    6,L,J
@@ -355,7 +356,7 @@ Endstunpause
    8,R,U,X
    4,R,K,G
    7,R
-   1,R,K,G
+   1,R,K
    3,R
   10,R,D,X
   13,R,J
@@ -378,11 +379,14 @@ Endstunpause
    3,L
   15,R,D,X
   21,R,J
-  11,R,K
-  13,R,U,X
+   4,R,K
+   1,R
+   4,R,K
+   1,L,K
+  14,R,U,X
    3,J,G
-   3,R
- 107,L,K
+   2,L,J
+  96
   10,L,Z
    4,L,J
    1,L,K,G
@@ -410,7 +414,17 @@ Endstunpause
    1,R,J
   10,R,U,X
    4,R,K
-   5,R
- 141,L,U,X
+   5,R,J
+  84,R,U,X
+  12,R,U,Z
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+  13,R,J,G
+   5,J
+Repeat 13
+   1,K
+   1,J
+EndRepeat
 
-ChapterTime: 1:14.817(4401)
+ChapterTime: 1:14.256(4368)

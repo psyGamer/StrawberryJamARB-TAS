@@ -1,4 +1,4 @@
-RecordCount: 535
+RecordCount: 606
 
 console load StrawberryJam2021/5-Grandmaster/tobyaaa
    1
@@ -6,7 +6,7 @@ console load StrawberryJam2021/5-Grandmaster/tobyaaa
 #Start
 Read, ../StrawberryJamTAS/5_Grandmaster/lava_layer, Start, lvl_Phil
 
-#lvl_Phil(0)
+#lvl_Phil (0)
    2,L,J
    9,L,K,G
    4,L,Z
@@ -24,8 +24,7 @@ Read, ../StrawberryJamTAS/5_Grandmaster/lava_layer, Start, lvl_Phil
    1,R,K
    4,L,J,G
    1,R,J
-   1,L,J
-   1,L,J
+   2,L,J
    9,K,G
    5,L,K
    6,J
@@ -34,19 +33,24 @@ Read, ../StrawberryJamTAS/5_Grandmaster/lava_layer, Start, lvl_Phil
    2,L,J
    2,R,J
   19,R
-   8,L
-  75,O
-   4,D,X
-   8,R,X
-   1,J
-   5,L
+   2,R,J
+  15,L,Z
+  18,R
+   6,R,Z
+   1,R,J
+  18,R
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+   9,R,D,X
   43
 
-#lvl_Phil(1)
+#lvl_Phil (1)
+   5,R,D,X
+   1,R,J
+  15,D,X
    1,L
-   1,L,J
-  16,L
-   1,R
 #any%-start
   14,R,C
    2,R,J
@@ -186,4 +190,4 @@ EndRepeat
   34,R,D,X
   64,R,J
 
-ChapterTime: 1:02.628(3684)
+ChapterTime: 1:02.492(3676)

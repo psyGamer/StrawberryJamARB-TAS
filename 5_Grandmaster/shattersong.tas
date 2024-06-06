@@ -1,4 +1,4 @@
-RecordCount: 5038
+RecordCount: 5039
 
 console load StrawberryJam2021/5-Grandmaster/Hydro
    1
@@ -270,12 +270,12 @@ Read,../StrawberryJamTAS/5_Grandmaster/shattersong,lvl_Second Movement,lvl_B3
    1,R,J
    9,R
   10,R,D,X
-   9,R,J
-   7,R
+   8,R,J
+   4,R
+   3,R,K
   14,R,D,X
    1,R,J,G
-  11,R
-   6,R
+  17,R
   33,R,J
   14,R,U,X
    1,J
@@ -1060,4 +1060,4 @@ Repeat 45
    1,L,D
 Endrepeat
 
-ChapterTime: 2:52.754(10162)
+ChapterTime: 2:52.703(10159)

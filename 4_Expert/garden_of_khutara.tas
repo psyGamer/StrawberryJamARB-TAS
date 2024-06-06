@@ -21,6 +21,7 @@ Read,../StrawberryJamTAS/4_Expert/garden_of_khutara.tas,Start,lvl_DanTKO_06b
    1,R,J
   14,R,D,X
 #any%-end
+
    1,R,J
    5,R
   15,D,X
@@ -33,16 +34,18 @@ Read,../StrawberryJamTAS/4_Expert/garden_of_khutara.tas,Start,lvl_DanTKO_06b
   20,R,D,C
    4,Z
    1,R,J
-  13,R
+   4,R
+   2,R,J
+   7,R
    1,R,J
    1,R,K
    1,R,J
-  11,R
-   5,R,J
-  19,R
-  26,G
-   9,G
-   3,D,G
+   1,R,K
+   1,R,J,G
+   7,R,K
+  20,R
+  31,G
+   7,D,G
   14,L,D,X
    1,L,J
    1
@@ -102,10 +105,10 @@ Read,../StrawberryJamTAS/4_Expert/garden_of_khutara.tas,Start,lvl_DanTKO_06b
    1,L,K
    9,L,J
    1,R,K
-   7,R,J
+   5,R,J
   14,U,X
    1,J
-  13,U,X
+  14,U,X
   43
 
 #lvl_DanTKO_06b (1)
@@ -388,4 +391,4 @@ Read,../StrawberryJamTAS/4_Expert/garden_of_khutara.tas,lvl_DanTKO_08,lvl_DanTKO
 #lvl_DanTKO_Outro
 Read,../StrawberryJamTAS/4_Expert/garden_of_khutara.tas,lvl_DanTKO_Outro
 
-ChapterTime: 1:45.009(6177)
+ChapterTime: 1:44.890(6170)

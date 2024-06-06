@@ -1,4 +1,4 @@
-RecordCount: 1227
+RecordCount: 1961
 
 console load StrawberryJam2021/2-Intermediate/Luma
    1
@@ -65,12 +65,15 @@ read,../StrawberryJamTas/2_Intermediate/midnight_monsoon,Start,lvl_2
    1,R,K,G
    1,R,J,G
   13,R
-#any% before here
+#any%-end
    1,R,D,J
-  15,R
-   4
+  14,R
+   5
+   1,R
+   1,L,J
+   1,L,K,G
    1,L,J,G
-  23,L,K,G
+  17,L,K,G
   12,U,X
   47,L,J
    7,L,K
@@ -80,11 +83,10 @@ read,../StrawberryJamTas/2_Intermediate/midnight_monsoon,Start,lvl_2
   16,R
   13,L,D
   15,L,Z
-   1
-  15,L,C
-   1
+   2
+  15,L,Z
   34,L,X
-  12,U,C
+  11,U,C
    1,L,J
   32,L
   12,R,J
@@ -192,15 +194,17 @@ read,../StrawberryJamTas/2_Intermediate/midnight_monsoon,Start,lvl_2
    6,R
    7,R,J
   10,R
+#any%-start
    5,R,Z
    1,R,J
    6,R
   40
+
 #lvl_3
 read,../StrawberryJamTas/2_Intermediate/midnight_monsoon,lvl_3,spinner cycle
 #spinner cycle
-   1
-#any%
+   2
+##
   43,R,X
   15,U,C
    1,G
@@ -249,6 +253,7 @@ ENdStunPause
 
 #lvl_4
 read,../StrawberryJamTas/2_Intermediate/midnight_monsoon,lvl_4,lvl_5
+
 #lvl_5 (0)
   12,R,J
    9,U,X
@@ -284,19 +289,20 @@ read,../StrawberryJamTas/2_Intermediate/midnight_monsoon,lvl_4,lvl_5
    9,R,J
    5,R
    2,R,J
-#any% before here
+#any%-end
    3,R,K,G
    5,R
    1,R,J
-  18,R,D
+   1,D
+  17,R,D
    3,R
    1,R,J
-  14,R,D
-   3,R,J
-   8,R,D
-  10,L
-   9,L,D
+  13,R,D
+   2,R,J
    6,R,D
+   5,L
+  17,L,D
+   3,R,D
   40
 
 #lvl_5b
@@ -361,8 +367,8 @@ read,../StrawberryJamTas/2_Intermediate/midnight_monsoon,lvl_4,lvl_5
    4,L,K,G
    7,L
    5,L,J
-   4,K,G
-   5,J,G
+   4,K
+   5,J
    2,L,J
    1,R,K,G
    1,R,J,G
@@ -378,6 +384,7 @@ read,../StrawberryJamTas/2_Intermediate/midnight_monsoon,lvl_4,lvl_5
 
 #lvl_6
    1,R
+#any%-start
 read,../StrawberryJamTas/2_Intermediate/midnight_monsoon,lvl_6,lvl_outro
 
 #lvl_outro (0)
@@ -462,7 +469,7 @@ read,../StrawberryJamTas/2_Intermediate/midnight_monsoon,lvl_6,lvl_outro
   15,R,D
    6,R,D,J
    3,R
-#any% before here
+#any%-end
    1,L,K,G
   25,R
    1,R,J
@@ -535,4 +542,4 @@ read,../StrawberryJamTas/2_Intermediate/midnight_monsoon,lvl_6,lvl_outro
    7,L
    5,L,X
  134
-ChapterTime: 2:08.843(7579)
+ChapterTime: 2:08.724(7572)

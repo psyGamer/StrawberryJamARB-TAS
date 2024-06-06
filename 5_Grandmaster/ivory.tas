@@ -1,4 +1,4 @@
-RecordCount: 1180
+RecordCount: 1288
 
 console load StrawberryJam2021/5-Grandmaster/Linj
    1
@@ -63,10 +63,9 @@ Read, ../StrawberryJamTAS/5_Grandmaster/ivory, Start, lvl_Conspiracy
    3,J
    1
   15,R,D,X
-   6,R,D
-   4,L,D
-  26,D
-  21,R,D
+   3,R,D
+  15,L,D
+  38,R,D
   40
 
 #lvl_Ascent (0)
@@ -76,11 +75,21 @@ Read, ../StrawberryJamTAS/5_Grandmaster/ivory, Start, lvl_Conspiracy
 #lvl_Chordless
    2,R,U,X
    1,R,J,G
+   1,R,K
+   4,K
+  21,R,K
+   1,R
+   1
+   5,R
+   4,R,J,G
+   9,R,K,G
+
    2,R,K
-  36,R,U,J,G
-   1,L
-  17,R
-  17,L
+   4,J,G
+   7
+   1,G
+   4,R,J,G
+   1,R
   77
    2,L,J
    8,L,Z
@@ -190,4 +199,4 @@ Read, ../StrawberryJamTAS/5_Grandmaster/ivory, Start, lvl_Conspiracy
    9,U,X
  135
 
-ChapterTime: 0:33.609(1977)
+ChapterTime: 0:33.490(1970)

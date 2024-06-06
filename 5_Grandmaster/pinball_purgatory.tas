@@ -1,4 +1,4 @@
-RecordCount: 2138
+RecordCount: 2140
 
 console load StrawberryJam2021/5-Grandmaster/maya
    1
@@ -7,7 +7,7 @@ console load StrawberryJam2021/5-Grandmaster/maya
  190
 
 #Spinner Cycle [Delta]
-   2
+   0
 
 #lvl_Insert Coin
 Read, ../StrawberryJamTAS/5_Grandmaster/pinball_purgatory, lvl_Insert Coin, lvl_Pursuit
@@ -895,4 +895,4 @@ endRepeat
   15,D,X
  135,R,D
 
-ChapterTime: 3:22.674(11922)
+ChapterTime: 3:22.368(11904)

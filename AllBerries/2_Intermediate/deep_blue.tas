@@ -1,4 +1,4 @@
-RecordCount:
+RecordCount: 4731
 
 console load StrawberryJam2021/2-Intermediate/Emik
    1
@@ -7,12 +7,80 @@ console load StrawberryJam2021/2-Intermediate/Emik
  190
 
 #lvl_a_01
+   2,J
+   7,L,J
    1,J
+   4,L,J
+  14,L,D,X
+   1,L,J
+   1,L
+   7,L,K,G
+   1,L
+   9,L,J,G
+  13,L,K,G
+   8,L,J,G
+#any%-start
+   5,L,Z
+   1,L,J
+   6,L
+   3,L,J
+   6,L,Z
+  40
 
+#lvl_a_02
+Read,../../StrawberryJamTAS/2_Intermediate/deep_blue.tas,lvl_a_02,lvl_a_03
 
+#lvl_a_03
+   8,L
+  15,L,U,X
+   4,R,J
+   1,R,K
+   1,L
+   2,R
+  21,R,G
+   1,R
+  16,L
+  34,L,X
+  13,G
+   1,J,G
+  11,R,D,X
+  17,L,J
+  15,L,U,Z
+   4,L,J
+   3,L,K
+  14,L,U,X
+   1,L,J,G
+   8,L,J
+  19,L
+   1,L,J
+  18,D,X
+   1,L,D
+  19,L,Z
+   4,L,J
+   1,L,K
+  20,L,X
+   4,L,J
+   1,L,K
+  24,U,X
+  22,L,J
+  18,L
+   5,L,D
+   9,L,K
+   5,L
+   5,L,K
+  21,L,Z
+  11,L,K
+   7,L
+#Spinner Cycle [a_04]
+#kept this here just in case
+   0
+#####
+   6,L,Z
+   1,L,J
+   4,L
+  40
 
+#lvl_a_04
+Read,../../StrawberryJamTAS/2_Intermediate/deep_blue.tas,lvl_a_04
 
-
-
-
-ChapterTime: 
+ChapterTime: 1:00.248(3544)

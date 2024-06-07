@@ -1,4 +1,4 @@
-RecordCount:
+RecordCount: 3108
 
 console load StrawberryJam2021/1-Beginner/asteriskblue
    1
@@ -7,12 +7,24 @@ console load StrawberryJam2021/1-Beginner/asteriskblue
   76
 
 #lvl_a-01
+   5,J
+   3,L,J
    1,J
+  14,R,D,X
+  10,R,J
+   4,R
+   1,R,J
+  14,R
+  15,R,U,X
+  14,R,D
+   5,D
+#any%-start
+   9,R,Z
+   1,R,J
+   8,R,D
+  40
 
+#lvl_a-02
+Read,../../StrawberryJamTAS/1_Beginner/forest_path.tas,lvl_a-02
 
-
-
-
-
-
-ChapterTime: 
+ChapterTime: 0:46.937(2761)

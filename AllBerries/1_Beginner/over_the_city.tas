@@ -1,4 +1,4 @@
-RecordCount:
+RecordCount: 3511
 
 console load StrawberryJam2021/1-Beginner/CoupCritik
    1
@@ -7,12 +7,84 @@ console load StrawberryJam2021/1-Beginner/CoupCritik
  190
 
 #lvl_01
+   1,L,J
+   8,L
+   2,L,J
+   2
+   2,L
+   1
+   7,L,J
+   4,L
+   1,L,K,G
+   1,L,J,G
+   9,L
+   2,L,J
+   5,L
+   2,L,J
+  14,L
+   3,L,D
+   1,L
+   1,L,J,G
+   1,L,K,G
+   9,L
+   1,L,D,J
+  14,L
+   3,L,J
+   2,L
+   1,L,K,G
+   1,L,J,G
+   9,L
+  12,L,J
+   9,L,K,G
+   1,L
    1,J
+   2,K,G
+  30,R,K,G
+  33,R,J
+  36,R,K
+   6,R,J
+  18,R
+   1,R,J,G
+   1,R,K,G
+#any%-end
+   9,R
+   9,R,J
+  15,R
+  40
 
+#lvl_02
+   5,R,D
+   1,R,J
+  14,R
+   1,J
+  14,R
+   2
+   8,R,D
+#any%-start
+   1,R,J,G
+   2,R,K,G
+  14,R
+  27,R,J
+   7,R,K
+  12,K
+   8,J
+   7,R,J
+   5,J
+   1,K
+   2,J,G
+  10,L,J
+  11,K,G
+   1,R,K
+   1,J
+   1,K
+  10,R,K
+   1,R,J,G
+   5,R,J
+   2,K,G
+   1,L,K
+  40
 
+#lvl_03
+Read,../../StrawberryJamTAS/1_Beginner/over_the_city.tas,lvl_03
 
-
-
-
-
-ChapterTime: 
+ChapterTime: 0:37.315(2195)

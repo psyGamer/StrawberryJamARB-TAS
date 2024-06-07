@@ -1,16 +1,36 @@
-RecordCount:
+RecordCount: 3473
 
 console load StrawberryJam2021/1-Beginner/Bing_Over_Google
    1
 
 #Start
 #lvl_00- intro
+#spinner cycle
+   2
+#
+  10,R,X
    1,J
+   3,L,J
+   8,R,K,G
+   6,K
+  15,L,D,X
+   6,L,Z
+   2,L,J
+   2,L,K,G
+   6,L
+   1,L,J
+   4,L
+   1,L,J
+   1,L,K,G
+   9,L
+   5,L,J
+   4,L
+  15,L,D,X
+   1,L,J
+   6,L,D,X
+  40
 
+#lvl_01- Crusher
+Read,../../StrawberryJamTAS/1_Beginner/if_my_driveway.tas,lvl_01- Crusher
 
-
-
-
-
-
-ChapterTime: 
+ChapterTime: 0:19.992(1176)

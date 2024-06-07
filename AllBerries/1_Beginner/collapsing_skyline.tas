@@ -1,0 +1,64 @@
+RecordCount: 2525
+
+console load StrawberryJam2021/1-Beginner/hyperlife
+   1
+
+#Start
+ 190
+
+#lvl_a-01
+   2,L,J
+   2,J
+   1,K
+   3,J,G
+   7,R,J
+   9,R
+  18,R,D,X
+   4,R,Z
+   1,R,J
+   2,R
+   1,R,J
+   1,R,K,G
+   8,R
+   1,R,J
+   8,R,K
+   1,R
+  14,U,X
+   7,R,J
+  11,R
+#any%-start
+   5,L,D,X
+   1,R,J
+   6,R
+   3,R,J
+  12,R,U,Z
+   4,R,K,G
+   3,R
+   1,R,J
+   5,R
+   3,R,J
+   2,R
+  14,R,Z
+   2,R,J,G
+  12,R
+   8,L,Z
+   1,R,J
+   6,R
+   1,R,J
+   2,R,K
+   5,R,J,G
+   4,R,K,G
+  15,R,D,X
+   5,R,D
+   8,R
+   2,G
+  14,R,D,X
+   1,R,J
+  15,R,D,X
+   3,R,J
+  40
+
+#lvl_a-02
+Read,../../StrawberryJamTAS/1_Beginner/collapsing_skyline.tas,lvl_a-02
+
+ChapterTime: 0:25.993(1529)

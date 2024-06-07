@@ -1,0 +1,36 @@
+#draft by Vamp
+RecordCount: 1976
+
+console load StrawberryJam2021/1-Beginner/NotYourBadeline
+   1
+
+#Start
+  88
+
+#lvl_a_01
+#CantPause
+   3,L,J
+   8,J
+   2,R,J
+  13,L,D,X
+#any%-start
+   1,R,J
+   7,R
+   1,R,J
+   8,R,D,X
+   1,S
+   1,D,J
+  34
+   2,R
+   7,R,K
+   4,R
+   6,R,D,X
+   1,R,J,G
+   1
+  11,R
+  40
+
+#lvl_a_02
+Read,../../StrawberryJamTAS/1_Beginner/seeing_is_believing.tas,lvl_a_02
+
+ChapterTime: 0:27.472(1616)

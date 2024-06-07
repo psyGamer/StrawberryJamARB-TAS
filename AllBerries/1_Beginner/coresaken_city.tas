@@ -1,0 +1,36 @@
+RecordCount: 6146
+
+console load StrawberryJam2021/1-Beginner/voliver9
+   1
+
+#Start
+  99
+
+#lvl_a-01
+   9,R
+  12,R,J
+  26,R
+#any%-start
+  15,L,D,X
+   1,L
+   1,G
+  11
+  11,G
+   7,D,G
+   1
+   1,R,D,J
+   5,R
+   2,R,J
+   3,R,K,G
+   1,K
+   5,R,K
+   1
+  10,R,U,X
+   1,J,G
+   9
+  40
+
+#lvl_a-02
+Read,../../StrawberryJamTAS/1_Beginner/coresaken_city.tas,lvl_a-02
+
+ChapterTime: 0:36.499(2147)

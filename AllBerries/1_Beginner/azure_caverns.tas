@@ -1,0 +1,39 @@
+RecordCount: 2483
+
+console load StrawberryJam2021/1-Beginner/cellularAutomaton
+   1
+
+#Start
+  36
+
+#lvl_01
+   4,L,J
+  15,R,U,X
+   2,J,G
+   1,K
+   1,J,G
+   2,L,J
+  14,L
+  10,R,D,X
+   5,L,J
+  17,L,D,X
+   1,L,J
+  11,L,K
+   1,L,J,G
+   1,K,G
+   4,L,K
+   1,R,K
+  14,L,U,X
+   1,L,J,G
+   3,R,J
+   4,L,J
+   7,L
+   6,L,J
+  14,U,X
+  40
+
+#lvl_02
+#any%-start
+Read,../../StrawberryJamTAS/1_Beginner/azure_caverns.tas,lvl_02
+
+ChapterTime: 0:21.556(1268)

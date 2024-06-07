@@ -1,0 +1,55 @@
+RecordCount: 4809
+
+console load StrawberryJam2021/1-Beginner/Quinnigan
+   1
+
+#Start
+ 106
+
+#lvl_q00
+   7,L,Z
+   1,R,J
+   3,R
+   1,R,J
+   3,R
+   1,R,J
+   1,R,K,G
+   9,R
+  10,R,J
+   2,R
+  15,R,D,X
+   1,R,J
+   1,R,K
+   6,R,J
+  40
+
+#lvl_q01
+   6,R,J
+   5,R
+   1,R,J
+   1,R
+   7,R,J
+   2,R
+#any%-start
+   5,U,X
+  43,R,C,G
+  42,R,X,G
+  33,R,C,G
+   1,R,J,G
+   2,L,J
+   3
+   4,R
+   5,R,Z
+   1,R,J
+   6,R
+   2,R,J
+   1,R
+   5,R,D,X
+   1,R,J,G
+   8,R
+  40
+
+#lvl_q02
+Read,../../StrawberryJamTAS/1_Beginner/rose_garden.tas,lvl_q02
+
+ChapterTime: 1:09.054(4062)

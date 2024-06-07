@@ -1,10 +1,79 @@
-RecordCount: 10475
+RecordCount: 10631
 
 console load StrawberryJam2021/2-Intermediate/Jems
    1
 
 #Start
-Read,../StrawberryJamTAS/2_Intermediate/in_filtration.tas,Start,lvl_btd-02
+#any%-start
+  82
+
+#lvl_btd-00
+   5,R
+   1,R,J
+  22,R
+   1,S
+   1,D,J
+  34
+### spinner cycle [btd-02 (2)]
+   2
+###
+   4,R
+   1,R,J
+  14,R
+  10,R,D,J
+   1,J
+   1,L,K,G
+   3,K
+   1,R,K
+   4,L,K
+   1,J
+   2,K,G
+  18,R,K
+   2,K
+   1,R,K
+   1,J
+  16,R,K,G
+   1,R,J,G
+   1,R,K,G
+   1,R
+   1
+   9,R
+   1,R,J
+  14,R
+   5,R,D,J
+  38,R,D
+  20,L,D
+  15,R,Z
+  14
+   9,L,J
+   7,L
+   1
+   1,L
+   1
+   1,J
+   1,K,G
+   6
+   1,R
+   1,R,J,G
+   1,R,K,G
+   5,R
+   1,R,K
+   1,R
+   1,R,K
+   4,R
+   5,R,D
+   7,R,J
+   5,R
+   2,R,J
+   1,L,J
+   1,K
+   1,J,G
+  10,R,J
+  13,R,Z
+   1,R,J
+  15,R
+   4,R,D
+  40
 
 #lvl_btd-02 (0)
    1,R,D
@@ -180,39 +249,54 @@ EndRepeat
   40
 
 #lvl_btd-02 (2)
-  11,R,D
-  15,L,D
-   5,R
-   1
-   2,L
-  31,R,G
-   3,D,G
-   3,G
-   1,U,G
-  23,G
-  18,R,G
-#any%-start
+   1,D
+  24,R,D
+   1,D
+  16,R,D
+   4
+  14,L
+   2,L,J
+  20,L,D
+  33,R,D
+   1,R
+   3,R,D
    1,R,J,G
-   2,R,K,G
-  11
-   3,R
-   2,R,D
-  10,R,D,J
-  24,J
-  15,U,X
-   2,L
-   1
-   1,L,J
-   2,J
-   1,L
-   1
-   1,K
+   1,R,K,G
    1,J,G
-   5
+  12,R
+   8
+   1,R
+   7
+   1,L
+   1,R,J
+  36,R
+   1,G
+  32,R,D
+  35,G
+   1,U,G
+   1
+StunPause
+   1,R,J,G
+   1,R
+EndStunPause
+   1,R
+   1,R,K,G
+   1,R,J,G
+StunPause
+   1,R,K,G
+   1,R
+EndStunPause
+   1,R,J,G
+   4,R,D,X
+StunPause
+   6,R,D,X
+EndStunPause
+   3,R,D,X
   40
 
-#lvl_btd-02a
-Read,../StrawberryJamTAS/2_Intermediate/in_filtration.tas,lvl_btd-02a,lvl_btd-05
+#lvl_btd-04
+#any%-start
+Read,../StrawberryJamTAS/2_Intermediate/in_filtration.tas,lvl_btd-04,lvl_btd-05
 
 #lvl_btd-05
    1,L,J,G
@@ -717,4 +801,4 @@ Read,../StrawberryJamTAS/2_Intermediate/in_filtration.tas,lvl_btd-30,lvl_btd-35
 #lvl_btd-42
 Read,../StrawberryJamTAS/2_Intermediate/in_filtration.tas,lvl_btd-42
 
-ChapterTime: 3:17.013(11589)
+ChapterTime: 3:13.137(11361)

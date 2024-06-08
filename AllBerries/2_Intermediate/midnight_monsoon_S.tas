@@ -1,5 +1,6 @@
-RecordCount:
+RecordCount: 5874
 
+#console evalcs Action<float, long> i1 = (float timeRate, long frames) =>{long num4 = Math.Abs(frames);bool flag = frames < 0;float num5 = 0.0166667f * timeRate * (flag ? (-1f) : 1f);for (long num6 = 0L; num6 < num4; num6++){((Level)Engine.Scene).TimeActive += num5;}}
 console load StrawberryJam2021/2-Intermediate/Luma
    1
 
@@ -7,12 +8,374 @@ console load StrawberryJam2021/2-Intermediate/Luma
  190
 
 #lvl_Intro
+   1,R,J
+  13,R,Z
+   5,R,J
+   4,R
+   2,R,J
+   3,R
+   1,R,K,G
+   1,R
+   1
+   6,R
+   1,R,J
+   3,R,K
+  19,R
+  30,R,K
    1,J
+   2,R,K
+   2,J
+  28,L,U,J,G
+  56,L,U,G
+   1,D,J
+   1,L,K,G
+   1,L,J,G
+   4,L,J
+   3,L
+   1
+   1,L
+   3
+   2,J
+   7
+   1,L
+   1,R
+   6,L,Z
+   3,R,J
+   1,J
+   7,R
+   1,R,K
+   5,R,D,X
+  14,R,K,G
+  57,R,U,J,G
+   1,R,G
+   1,R,U,G
+   1,R,J,G
+   5,R,D,G
+   1,R,G
+  10,R,D,G
+   1,L
+   7,R,D
+   5,R,J
+   5,R
+   3,R,K,G
+   2,R
+  12,R,J,G
+  21,R
+   5,R,D
+   1,L,D
+   3,F,
+   4,J,G
+   2,J
+   2
+   3,R
+  21,R,J,G
+   1,J,G
+   1,R,J,G
+   1,J,G
+   8,K,G
+   2,G
+   1,R,G
+   1,J,G
+  13,R,J,G
+   1,R,J
+   3,J
+   1,R,J
+  16,R,K
+   1,K
+   1,R,K
+   1,K
+  11,R,D,X
+   8,R,J
+   6,R
+   1,R,J
+   6,R,D
+  14,D
+  18,G
+   4,R,G
+   1,U,G
+  19,R,U,G
+   5,L,U,G
+   1,R
+   5,L
+  19,R,Z
+   1,L,J
+   2,R,J
+  49,R,D,G
+  24,R,J,G
+  12,R
+  11,L,D
+   9,R
+   5
+   1,R
+   1
+   1,R
+   1
+  11,R,D,J
+   1,R,K,G
+   5,R,J,G
+   1,R,K
+   6,R
+   1,R,J
+  10,R
+#any%-end
+   1,L,J
+  40
 
+#lvl_1
+   2,J
+   1
+  12,R,U,X
+   1,L,J,G
+  12,L,D
+   9,R,D
+   1,D
+   1,R,D
+   1,D
+   1,R,D
+   5,D
+  10,R,X
+  44,R,J
+  14,R,U,X
+  39,R,J,G
+   1,R
+   5,D
+   6,R,D
+   5,R
+   6
+   6,R,X
+   1,R,J
+  21,J
+   1,R,J
+   1,J
+   1,R,J
+  17,R,U,X
+  25,R,U,J,G
+   1,R
+  15,R,U,X
+   2,L
+  21,L,U,J,G
+   1,L
+   9,D
+  27,R,D
+   1,D
+   1,R,D
+   1,D
+   1,R,D
+   2,D
+   2,R,D
+#any%-start
+  13,R,D,G
+   9,R
+  11,L,D,X
+   4,R,J
+   4,R,K,G
+   8,R
+   7,R,J
+  40
 
+#lvl_2
+Read,../../StrawberryJamTAS/2_Intermediate/midnight_monsoon.tas,lvl_2,lvl_3
 
+#lvl_3
+   1,R,J
+   5,R
+   5,R,Z
+  10,R,J
+  11,R,D
+  34,R,G
+   2,G
+  20,L,D,G
+   2,L,G
+  49,R,G
+   1,L
+   6,J,G
+  14,R,X
+  34,D,G
+   3,R,D,G
+  12,R,J,G
+   1,R
+  13,R,U,X
+  20,R,G
+   8,R
+  15,R,Z
+  20,L,D
+   6,R,D
+   1,L
+   1
+  11,R
+  13,R,G
+   1,R,J,G
+  17,R,G
+   2,R,J,G
+   9,R,G
+   1,R,J,G
+  10,R,G
+   7
+  10,R
+   1
+   1,R
+   1
+   1,R
+   1
+   1,R
+   1,R,D,J
+   1,R,K,G
+   2,R,J,G
+   3,R
+   1
+   6,R
+   1
+   1,R,J,G
+   1,R,K,G
+   9,R
+   1,R,K
+   1,R
+   1,R,J
+   5,R
+   8,R,J,G
+   1,R
+  31,R,G
+   6,R,D,G
+  26,R,X
+  15,R,U,C
+   2,R,G
+   2,L,G
+   1,R
+   1,K,G
+   5
+   2,L
+  13,L,J
+  15,R,X
+  36,R
+   1,R,J
+   5
+  16,R,D
+   7,R,X
+  20,R,G
+  12,L,D,G
+#spinner cycle
+   0
+#
+  43,R,X
+  15,U,C
+   1,G
+   8,D
+   1,R,D
+   1,D
+   1,R,D
+   1,D
+   1,R,D
+   1,D
+  14,R,D
+   9,R
+  22,R,D
+StunPause
+   9,R
+SkipInput 3 1
+  15,R,Z
+   3,R
+SkipInput 3 1
+   9,L,D,X
+   2,R,J
+ENdStunPause
+  38,R,J
+   1,R,J,G
+   1,R,J
+   1,R,J,G
+   3,L,J
+   1,K
+  10,R,K
+   5,R
+   2,R,J
+   1,R
+   1,R,J
+   1
+   4,R
+   1
+   1,R,J,G
+   1,R,K,G
+   9,R
+   3,R,J
+   1,R,K,G
+  13,R
+   1,R,J
+   4,R
+  40
 
+#lvl_4
+   1,R,J
+   8,R,Z
+   5,R,J
+  18,J,G
+   3,K
+   1,L,K
+  11,K
+  17,D,X
+   1,L,J
+  14,L
+   1,L,J
+   2,L
+  28,L,G
+   3,G
+   1,D
+   1,N
+ 239
+ 150,D
+   9
+  14,R,U,Z
+#spinner unload cycle
+   1
+#
+  15,R,D,V
+  13,D
+  60,R,D
 
+#camera shenanigans makes this
+#current any% set of inputs
+#impossible here for some reason
+#+4f
+   6,D
+  13,D,AU
+   1,R,D,AU
+   4,D,AU
+  10,R,D,AU
+   6,D,AU
+   1,R,D,AU
+   3,D,AU
+   1,L,D,AU
+   5,AU
+   9,R,AU
+  16,R,D,AU
+   1,R,D
+   1,L,D
+   9,R,D
+   4,R,Z
+   2,R,J
+   2,R
+   1,R,J
+   1,R
+   1,R,J
+   5,R
+#   9,D
+#  15,D,AU
+#  10,R,D,AU
+#   6,D,AU
+#   1,R,D,AU
+#   5,D,AU
+#  25,R,D,AU
+#   2,L,D
+#   9,R,D
+#   4,R,Z
+#   2,R,J
+#   1,R
+#   2,R,J
+#   7,R
+#####
 
+   3,R,J
+  40
 
-ChapterTime: 
+#lvl_5
+Read,../../StrawberryJamTAS/2_Intermediate/midnight_monsoon.tas,lvl_5
+
+ChapterTime: 1:25.833(5049)

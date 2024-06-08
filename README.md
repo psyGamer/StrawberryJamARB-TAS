@@ -1,4 +1,4 @@
-# Strawberry Jam - All Red Berries TAS
+# Strawberry Jam - All (Red) Berries TAS
 
 You can't just have a mod called Strawberry Jam and then don't collect the strawberries!
 

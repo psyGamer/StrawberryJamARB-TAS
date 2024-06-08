@@ -1,0 +1,88 @@
+RecordCount: 6435
+
+console load StrawberryJam2021/2-Intermediate/GlowWoomii
+   1
+
+#Start
+ 190
+
+#lvl_startroom
+   6,R,Z
+   1,R,J
+   7,R
+   1,R,J
+   6,R,D,X
+   1,R,J
+   6,R
+   1
+   1,R,J
+   2,J
+   1,R,J
+  16,L,K
+   1,J
+   2,R,J
+   1,K
+   2,R,K
+   1,K
+   1,R,K
+  32,R,J
+#any%-end
+Repeat 6
+   7,R,G
+   1,R,J,G
+   1,R,J
+EndRepeat
+  27,R,G
+  14,R,J,G
+  17,R,D,X
+  40
+
+#lvl_r1
+   5,R,D
+  15,R,J
+  13,R,U,X
+  13,R,G
+   9,R
+  13,D
+   1
+   1,R,D
+  23,R
+  15,R,U,X
+  16,R,G
+   1,R,J,G
+   1,R,J
+  18,R,G
+   1,R,J,G
+  33,R,D
+Repeat,4
+   7,R,G
+   1,R,J,G
+   1,R,J
+EndRepeat
+   7,R,G
+   3,R,J,G
+   5,L,J
+   5,L
+   1,L,J
+   4,L
+  10,L,G
+   1,L,J,G
+   1,L,J
+Repeat,2
+   7,L,G
+   1,L,J,G
+   1,L,J
+EndRepeat
+   7,L,G
+  13,L,J,G
+  20,U,X
+  16,U,C
+#any%-start
+  64,R,X
+   8,R,U,Z
+  40
+
+#lvl_r2
+Read,../../StrawberryJamTAS/2_Intermediate/honeyzip_inc.tas,lvl_r2
+
+ChapterTime: 0:41.769(2457)

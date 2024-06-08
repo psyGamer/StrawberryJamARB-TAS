@@ -1,0 +1,109 @@
+RecordCount: 8354
+console load StrawberryJam2021/2-Intermediate/Ezel
+   1
+
+#Start
+  36
+
+#lvl_A-01
+   2,R,J
+  14,L,U,X
+   3,J,G
+   1,R,J
+   1,L,J
+   1,K,G
+   7,R
+  10,R,X
+   5,R,J
+  14,L,U,X
+   1,R,U
+   1,J,G
+   2,L,J
+   1,L,K,G
+   3,L,J,G
+   1,K,G
+   4,L,K
+   3,R,K
+   2,L,K
+#any%-start
+   1,R,K
+   2,J,G
+   7,R
+   3,L
+   4,L,D
+  11,R,D,X
+   3,R,J
+   3,J
+   1,R,J
+   1,R
+   7,R,D,X
+   1,R,J
+   3,R
+   1,R,J
+   3,R
+   9,R,D,J
+   1,J
+   1,R,J
+   1,K
+   1,J,G
+   1,L,J
+   1,L,K,G
+   1,L,J,G
+   3
+   4,L
+  13,R,Z
+   1,L,J
+   2
+  15,D,X
+   1,R
+   1,G
+   2,J
+   3
+   1,R,J,G
+   7,R
+   4,Z
+   1,R,J
+   7,R
+   1,R,J
+   6,R
+  15,L,D,X
+  11,L,D
+   4,L,J
+   4,L
+  15,D,X
+   2,R
+   7,R,J
+  10,R,D,X
+   6,L,J
+   4,J
+  14,R,U,Z
+   3,J
+   1,K
+   7,R
+   6,R,X
+   7,R,J
+   4,R
+   4
+   1,R
+  14,R,D,X
+   1,L,J
+   9,U,X
+  11,R,J
+   3,R,K,G
+   4,R
+   4,J
+   1,K
+   2,L,K
+   1,J,G
+   7
+   4,R
+  39,D
+   5,R,Z
+   1,R,J
+   2,R
+  40
+
+#lvl_A-02
+Read,../../StrawberryJamTAS/2_Intermediate/eat_girl.tas,lvl_A-02
+
+ChapterTime: 1:33.296(5488)

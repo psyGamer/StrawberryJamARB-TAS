@@ -1,4 +1,4 @@
-RecordCount: 1685
+RecordCount: 1692
 
 console load StrawberryJam2021/4-Expert/QuantumSpaceman
    1
@@ -57,6 +57,7 @@ Read,../StrawberryJamTAS/4_Expert/ethereal_ascension,Start,lvl_a-01
   13,R,X
   31,R,D,G
 #any%-end
+
   64,R,U,G
   19,U,G
    8,L
@@ -110,12 +111,10 @@ Read,../StrawberryJamTAS/4_Expert/ethereal_ascension,Start,lvl_a-01
 #lvl_a-02
    1
   72,O
-
 # Spinner cycle wait for berry 1 merged with existing any% wait here
-#   2
-   0
+#   1
+   2
 ###
-
    6,L,D,X
    1,R,J
    5,R
@@ -325,8 +324,6 @@ SkipInput 3 1
 EndStunPause
    9,R,J
   40
-
-
 
 Read,../StrawberryJamTAS/4_Expert/ethereal_ascension,lvl_a-08,lvl_a-07 (0)
 
@@ -627,4 +624,4 @@ Read,../StrawberryJamTAS/4_Expert/ethereal_ascension,lvl_a-07 (1),lvl_a-09
   15,U,X
  124
 
-ChapterTime: 2:54.403(10259)
+ChapterTime: 2:54.369(10257)

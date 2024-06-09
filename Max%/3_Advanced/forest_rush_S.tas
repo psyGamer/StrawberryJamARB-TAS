@@ -1,4 +1,4 @@
-RecordCount:
+RecordCount: 6747
 
 console load StrawberryJam2021/3-Advanced/mmm
    1
@@ -7,12 +7,48 @@ console load StrawberryJam2021/3-Advanced/mmm
   91
 
 #lvl_a00
-   1,J
+Read,../../StrawberryJamTAS/3_Advanced/forest_rush.tas,lvl_a00,lvl_a01
 
+#lvl_a01
+   1,L
+   2,R
+   5,R,D
+   1,R
+   1,R,J
+   1,R,K
+   5,R,D,X
+#any%-end
+   1,R,J,G
+  13,R
+   1,L,J
+  17,R,J
+  17,R,D,X
+   3,R
+   2,R,D
+   2,R
+   1,R,D
+   2,R
+   2,R,D
+   5,R
+   8,R,D,J
+  20,J
+   1,K
+   9,U,X
+  15,L,J
+  13,J
+   1,L,J
+#any%-start
+  12,R,K
+   5,R
+   3,R,J
+  12,R
+   2,R,J
+   9,R
+   1,R,J
+  10,R
+  40
 
+#lvl_a02
+Read,../../StrawberryJamTAS/3_Advanced/forest_rush.tas,lvl_a02
 
-
-
-
-
-ChapterTime: 
+ChapterTime: 1:02.203(3659)

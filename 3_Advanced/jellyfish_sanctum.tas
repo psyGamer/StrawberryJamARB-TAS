@@ -1,4 +1,4 @@
-RecordCount: 633
+RecordCount: 670
 
 console load StrawberryJam2021/3-Advanced/BlueXans
    1
@@ -68,16 +68,17 @@ Read, ../StrawberryJamTAS/3_Advanced/jellyfish_sanctum, Start, lvl_3
    2,R
 
 #lvl_3 (1)
-   7,R
-#any%-start
+   1,R
   14,R,Z
    1,R,J
    3,R
    1,R,J
    3,R
-  14,R,J
-   6,J
-  14,U,X
+  19,R,J
+   4,R
+  15,U,X
+
+#any%-start
    5,L,J
   13,L,G
   24,L,D,G
@@ -102,4 +103,4 @@ Read, ../StrawberryJamTAS/3_Advanced/jellyfish_sanctum, Start, lvl_3
 #lvl_reverseTutorial
 Read, ../StrawberryJamTAS/3_Advanced/jellyfish_sanctum, lvl_reverseTutorial
 
-ChapterTime: 0:54.502(3206)
+ChapterTime: 0:54.468(3204)

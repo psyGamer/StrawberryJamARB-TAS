@@ -3,6 +3,8 @@ RecordCount: 9918
 console load StrawberryJam2021/3-Advanced/Vamp
    1
 
+console flag SilverBerry 1
+
 #Start
   90
 

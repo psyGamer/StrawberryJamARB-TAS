@@ -3,6 +3,8 @@ RecordCount: 5061
 console load StrawberryJam2021/3-Advanced/hennyburgr
    1
 
+console flag hennyburgr_silverberry 1
+
 #Start
 #lvl_a_01
    9,L,J

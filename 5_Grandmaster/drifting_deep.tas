@@ -1,4 +1,4 @@
-RecordCount: 14848
+RecordCount: 14873
 
 console load StrawberryJam2021/5-Grandmaster/xlibiza
    1
@@ -339,16 +339,6 @@ Read,../StrawberryJamTAS/5_Grandmaster/drifting_deep.tas,lvl_a-04,lvl_a-06
   43,C
 
 #lvl_berry2
-
-
-
-
-
-
-
-
-
-
    1,S
    1,D,J
   69,O
@@ -361,48 +351,6 @@ Read,../StrawberryJamTAS/5_Grandmaster/drifting_deep.tas,lvl_a-04,lvl_a-06
    9,R,J
   14,R,Z
   11,R,U,X
-
-
-
-
-
-#w/o collecting berry
-#1:58.167(6951)
-
-
-
-#w/ collecting berry in a-06
-#1:58.286(6958)
-
-
-
-
-
-
-
-
-
-#   3,D,C
-#  49,L,X
-#  57,D,C
-#  15,D,X
-#  19,R,C
-#  12,R,U,X
-
-
-
-
-
-
-#1:58.677(6981)
-
-
-
-
-
-
-
-
   11,D,C
   16,R,X
   10,L,D,C
@@ -807,7 +755,7 @@ SkipInput 3 1
 EndStunPause
    3,R,U,Z
 #Spinner Cycle [a-08]
-   0
+   2
 ###
 #any%-start
   33,R,C
@@ -833,30 +781,29 @@ EndStunPause
    7,R
   15,R,X
    7,R
+   4,Z
+   1,R,J
+   6,R,K,G
+   5,R
    2,R,J
-  14,R,X
-   1,L,J
-  14,L,D,X
+   4,R
    1,R,J
-   6,R,D,X
-   5,R,J,G
-  11,R
-   1,R,J
-   8,R,U,Z
+   4,R
+   5,R,U,Z
   43
 
 #lvl_a-08 (0)
-   6,R
+   7,R,U,Z
    1,L,J,G
    1,R,J
-   4,J
-   3
-   1
-   1,L,J,G
-   8,R,J
-  20,R,D,X
+   5,R
+   1,R,J
+   2,R
+  21,R,Z
+   2,R,J
+  12,R,D,X
    4,R,J
-   1,R,K
+   2,R,K
   14,R,Z
    4,R,J
    6,R,K
@@ -1136,6 +1083,7 @@ EndStunPause
 
 #lvl_a-09
 Read,../StrawberryJamTAS/5_Grandmaster/drifting_deep.tas,lvl_a-09
+
 AnalogMode Ignore
 
-ChapterTime: 4:21.868(15404)
+ChapterTime: 4:21.562(15386)

@@ -1,4 +1,4 @@
-RecordCount:
+RecordCount: 5199
 
 console load StrawberryJam2021/3-Advanced/Meario
    1
@@ -7,12 +7,38 @@ console load StrawberryJam2021/3-Advanced/Meario
   91
 
 #lvl_a-01
-   1,J
+   5,L,Z
+   2,R,J
+   6,R
+   1
+   1
+  15,D,X
+   2,L,J
+   6,R,J
+  17,R
+  14,R,J
+#any%-start
+  12,L,U,X
+   4,R,G
+   1,R,J,G
+   1,R
+  10,R,X
+   8,R,J
+   9,R,K
+   7,R
+   7,R,J,G
+  13,R,X
+   4,J
+   8,K
+  14,L,X
+   4,R,J
+  12,R,Z
+   4,R,J
+  24,R,K
+   5,R,U,X
+  40
 
+#lvl_a-02
+Read,../../StrawberryJamTAS/3_Advanced/dusk_city.tas,lvl_a-02
 
-
-
-
-
-
-ChapterTime: 
+ChapterTime: 1:06.181(3893)

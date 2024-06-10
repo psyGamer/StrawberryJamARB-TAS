@@ -1,4 +1,4 @@
-RecordCount:
+RecordCount: 7214
 
 console load StrawberryJam2021/3-Advanced/Goldian
    1
@@ -6,13 +6,101 @@ console load StrawberryJam2021/3-Advanced/Goldian
 #Start
  190
 
+#Spinner Cycle [goldian-7]
+   2
+#####
+
 #lvl_start
+   4,Z
+   1,R,J
+   3,R
+   1,R,J
+   3,R
+   2,R,J
    1,J
+   2,R
+   1
+  14,U,X
+  13,R,J
+  11,R
+   4,Z
+   4,R,J
+   1,R
+   2,R,J
+   3,R
+   1,R,J
+  14,R,D,X
+   1,R,J
+   3,R
+   1,R,J
+   3,R
+  11,R,J
+   6,R,Z
+   1,R,J
+   7,R
+   1,R,J
+#any%-end
+  13,R,D,X
+   1,R,J
+   1,R
+  40
 
+#lvl_tutorial-1
+   6,R
+   1,R,J
+  15,R,U,X
+  17,D
+   9,L,D
+   2,L
+   4,R,Z
+   1,R,J
+   6,R
+  14,R,J
+   2,J
+   1,R,J
+#any%-start
+  13,U,X
+   1,R,J
+  13,R,G
+   9,R,J,G
+   3,J,G
+   4,R,J,G
+   7,R,K,G
+   5,R,G
+   9,R,J,G
+   5,R,G
+   1,R,J,G
+   3,R,J
+   5,R
+  10,R,J
 
+#be higher up
+  18,R
+   9,R,D
+   1,R
+#  18,R
+#  10,R,D
+#####
 
+   1,R,J,G
+   1,R,K,G
+  11,R
+  14,R,D,J
+   2,J
+   3,R,J
+   1,R,K
+  12,R,J
+   4,R
+   1,R,J,G
+   1,R,K,G
+  20,R
+   4,R,Z
+   1,R,J
+   7,R
+   3,R,J
+  40
 
+#lvl_goldian-1
+Read,../../StrawberryJamTAS/3_Advanced/superstructure.tas,lvl_goldian-1
 
-
-
-ChapterTime: 
+ChapterTime: 1:16.619(4507)

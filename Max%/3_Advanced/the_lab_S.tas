@@ -1,18 +1,49 @@
-RecordCount:
+RecordCount: 8592
 
 console load StrawberryJam2021/3-Advanced/RadleyMcTuneston
    1
 
 #Start
-  91
+Read,../../StrawberryJamTAS/3_Advanced/the_lab.tas,Start,lvl_start-03-Radley/Worldwaker2
 
-#lvl_start-01-Radley
+#lvl_start-03-Radley/Worldwaker2
+#any%-end
+  50,D
+  20,L,D
+  13,R,D,X
+   1,R,J
+   1
+   6,R
+   1,R,J
+  17,R,D,X
+   2,R
+   8,R,D,J
+   3,R
+   1,L
+  10,J,G
+  15,U,X
+   2
+#any%-start
+  11,R,X
    1,J
+  20,D
+  15,L,Z
+   1,L
+  12,U,X
+   3,J
+   2,R,J
+   1,R,K,G
+   3,R,J,G
+   1,R
+   1,R,J,G
+   1,R
+   1,R,K,G
+   8,R,Z
+   1,R,J
+   6,R
+  40
 
+#lvl_start-04-Radley (0)
+Read,../../StrawberryJamTAS/3_Advanced/the_lab.tas,lvl_start-04-Radley (0)
 
-
-
-
-
-
-ChapterTime: 
+ChapterTime: 1:27.788(5164)

@@ -1,4 +1,4 @@
-RecordCount: 990
+RecordCount: 1239
 
 console load StrawberryJam2021/1-Beginner/cellularAutomaton
    1
@@ -15,17 +15,15 @@ Read,../StrawberryJamTAS/1_Beginner/azure_caverns,Start,lvl_02
    7,R
    1,R,J
   17,R,K
-#any%-end
-  14,R,U,X
-   9
-   4,R
-   1,L
-  15,U,Z
-   5,R,J
-  16,R
-   8,R,X
+  15,U,X
+  17,R,U,C
+   2,R,J,G
+  20,R,D
+   5,D
+   3,R,D
+   9,R,D,X
    4,R,J
-   6,R
+   5,R
    8,R,D,X
    1,R,J
   40
@@ -37,46 +35,43 @@ Read,../StrawberryJamTAS/1_Beginner/azure_caverns,Start,lvl_02
    2,R,D
    2,R
    1,R,J
-   6,R,K
-  12,R,Z
-   1,R,J,G
-   1
-  11,R
-   1,R,J
-   5,D,X
-   1,R,J
+   5,R,K
    5,R
-   1,R,J
-   6
-  15,D,X
-   3,D
-   1,D
+   4,R,J
+   2,R
+   5,R,J
+   8,R,D,X
+   7,R,J
+   1,R
+  15,R,D,X
+   6,R,D
    1
+   5,L,D
   13,U,X
-   5,L,J
-   3,L
+   6,L,J
+   1,L
    5,L,Z
    1,L,J
-   6,L
+   2,L
+   3,L,K
+   3,L
    1,L,J
-  18,L
-  15,L,J
-  14,L,X
-   3,L,J,G
-   5,L
-   3,L,J
-   7,L,U,Z
+   5,L,D,X
+   1,L,J
+  12,L
+  14,L,D,X
+   1,L,J
+  14,L,U,X
+   4,L,J,G
+   3
+   6,L,U,Z
   40
 
 #lvl_02 (1)
-   6,R,U,Z
-   2,J,G
-   1
-   1,L,K,G
-   3,K
-   6,L,K
-  11,L
-  14,U,X
+   8,L,U,Z
+   3,L,K,G
+  16,L,U,X
+  13,U,C
   43
 
 #lvl_03
@@ -135,23 +130,24 @@ Read,../StrawberryJamTAS/1_Beginner/azure_caverns,Start,lvl_02
    7,U,G
    1,L
    1,L,J,G
-   1,L,K,G
+   1,K,G
   12,L,D,X
-   1,L,J,G
-   5,L,D
-   7,D
-   1,R,J
-  12,R
-   7,L,Z
-   1,R,J
-   1
-   2,R
+   1,J,G
+   1,D
+   4,L,D
+   6,D
+   6,L,Z
    1,R,J
    3,R
-  13,R,D,J
+   1,R,J
+   3,R
+  10,R,D,J
+   3,R
   15,R,D,X
    1,R
-   3,R,D
+   1,R,D
+   1,R
+
   14,R,Z
    1,R,J
    6,R
@@ -163,26 +159,26 @@ Read,../StrawberryJamTAS/1_Beginner/azure_caverns,Start,lvl_02
   15,R,U,X
    2,R
   15,R,U,C
-  39,R,D
-   3,R
+  37,R,D
+   2,R
+   2,R,D
+   1,R
    1,R,D
-   4,R,X
-  12,R,J
-   1,R,K,G
-   2,L,K
-   5,R,K
-   5,R,J,G
-#any%-start
-   8,R,Z
+   5,R,J
+  15,R,U,X
+   6,R,Z
    1,R,J
-   6,R
+   2,R,K,G
+   5
+   1,J
+   5,R
   20,R,J
   15,U,X
-   4,R
+   4
   14,U,X
   40
 
 #lvl_05
 Read, ../StrawberryJamTAS/1_Beginner/azure_caverns, lvl_05
 
-ChapterTime: 0:33.167(1951)
+ChapterTime: 0:32.453(1909)

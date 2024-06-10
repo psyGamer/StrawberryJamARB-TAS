@@ -1,4 +1,4 @@
-RecordCount:
+RecordCount: 5957
 
 console load StrawberryJam2021/3-Advanced/pugroy
    1
@@ -7,12 +7,88 @@ console load StrawberryJam2021/3-Advanced/pugroy
   76
 
 #lvl_BR-00
+#grabbing silver is +0f from any%
+   1,L,J
+  15,R,U,X
+   8,R,U,C
+   9
+   9,L,J
+  15,R,U,X
+  31,L,D,C
+   4,L,Z
+   1,L,J
+   6,L
+   5
+   1,G
+   1
+   2,G
+   2
+   2,G
+  14
+  14,L,Z
+#any%-start
+   5,R,J
+   5,R,D,X
+   1,R,J,G
+   3,R
+   1
+   2,R
+   1,R,J
+   4,R
+   9,R,J
+  11,R,D,X
+   3,R,J,G
    1,J
+   1
+   6,R
+   1,R,J
+   4,R,K,G
+   6,R,U,X
+   2,R,J,G
+   5,R,K,G
+   3,R,J,G
+   6,R,D,X
+   1,R,J
+  10,R
+   1,R,J
+   1,R
+  10,R,D,X
+   7,R
+  14,R,D,X
+   1,L,J
+   1,L
+   8,L,D,X
+   1,L,J
+  14,R
+   3,L
+  14,L,D,X
+   1,L,J
+  10,R,D,X
+   1,R,J
+   5,R,K,G
+   5,R,J,G
+   6,R
+  15,R,D,X
+   8,R,J
+   1,R
+   9,R,U,X
+  21,R,G
+   5,J,G
+   5,R,J,G
+   1,R
+  24,R,X
+  10,R,Z
+   1,R,J
+   4,R,K,G
+  11,R,U,X
+   1,R,J,G
+   3,R
+   6,R,D,X
+   1,R,J
+   9,R
+  40
 
+#lvl_BR-02
+Read,../../StrawberryJamTAS/3_Advanced/attack_of_the_clone.tas,lvl_BR-02
 
-
-
-
-
-
-ChapterTime: 
+ChapterTime: 1:05.212(3836)

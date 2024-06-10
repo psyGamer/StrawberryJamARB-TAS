@@ -1,16 +1,51 @@
-RecordCount:
+RecordCount: 5061
 
 console load StrawberryJam2021/3-Advanced/hennyburgr
    1
 
+console flag hennyburgr_silverberry 1
+
 #Start
 #lvl_a_01
+   9,L,J
+  10,U,X
+   1,L,J
+   1,L,K,G
+  17,L,D
+  12,R,D
+#any%-start
+  12,R,Z
+   8,J
+   1
+  14,R,U,X
+   3,R,J,G
    1,J
+   6,R,J
+   5,R
+   4,R,J
+  11,R
+  15,R,U,Z
+   2,R
+   8,L,G
+   1,G
+  10,R,D
+   5,D
+   2,R,D
+   1,D
+   1,R,D
+   1,R
+   1
+   4,D,X
+   1,L,J
+   6,L
+  18,L,J
+  15,U,X
+   5,L
+  14,U,C
+   4,R,J
+  40
 
+#lvl_a_02
+Read,../../StrawberryJamTAS/3_Advanced/lethal_laser_laboratory.tas,lvl_a_02
 
-
-
-
-
-
-ChapterTime: 
+ChapterTime: 0:37.009(2177)

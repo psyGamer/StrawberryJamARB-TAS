@@ -1,16 +1,115 @@
-RecordCount:
+RecordCount: 2733
 
 console load StrawberryJam2021/4-Expert/Stotch
    1
 
 #Start
 #lvl_s1
-   1,J
+   4,R
+  15,R,Z
+  17,R
+  15,R,U,X
+  24,R
+   9,U,G
+  12
+  15,R,X
+   6,R
+  15,R,X
+   6,R
+  14,U,G
+  15,R,X
+   1,R
+   2
+   2,R
+  14,U,C
+   1,L
+   7
+  46,U,G
+  12
+   7,R
+  15,R,D,X
+   7,R
+   5,R
+  15,R,X
+   3,R
+  15,R,X
+  13,R
+  15,R,X
+  14,R
+  15,R,U,X
+  11,R
+  15,R,U,X
+  28,R,D
+   4,X
+   1,R
+   1
+   1,R
+   1
+   1,R
+   5
+   1,L
+   2,R
+   1,L
+  11,G
+  26,U,G
+   1
+  15,R,D,X
+  10,R,D
+   5,L,D
+  40
 
+#lvl_s2
+  12,L,D
+   9,L,X
+   3
+   9,R
+   1
+   1,R
+   1
+  10,R
+   1
+   1,R
+   1
+  15,R,X
+   1
+  17,L
+  11,L,X
+  20,R
+  15,R,X
+   5,R
+  12,D
+Repeat 1
+   1,R,D
+   1,D
+EndRepeat
+   2,R,D
+   1,D
+   9,L,D,X
+   6,R
+  15,D,C
+   1
+   1,L
+  23,D,G
+  17,G
+   1,R
+  15,R,X
+  11,L
+  15,U,X
+  51,L,G
+   1
+  16,R,X
+   6,L
+  18,D,X
+   2,L,D
+   4,D
+   7,R,D
+   4,R
+  16,R,X
+  18,R,C
+   9,R,U,X
+  40
 
+#lvl_s3
+Read,../../StrawberryJamTAS/4_Expert/caper_cavortion.tas,lvl_s3
 
-
-
-
-
-ChapterTime: 
+ChapterTime: 1:07.643(3979)

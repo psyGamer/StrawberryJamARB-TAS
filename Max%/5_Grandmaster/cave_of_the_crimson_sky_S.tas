@@ -1,4 +1,4 @@
-RecordCount:
+RecordCount: 2983
 
 console load StrawberryJam2021/5-Grandmaster/RedBatNick
    1
@@ -6,13 +6,97 @@ console load StrawberryJam2021/5-Grandmaster/RedBatNick
 #Start
  190
 
+#Spinner Cycle [cotcs-4]
+   0
+#####
+
 #lvl_cotcs-0
+   2,J
+   7,R,J
    1,J
+   3,R,J
+  14,R,D,X
+   8,R,J
+   2,R
+   6,R,D,X
+   1,R,J,G
+  11,R
+   6,R,J
+   3,R
+  11,R,D,X
+   1,R,J,G
+   6,R
+  40
 
+#lvl_cotcs-1
+   2,R
+   1,R,K
+  11,R,D,J
+   5,R
+   1,J
+  13,R,U,X
+   1,J,G
+  29,D
+   1,R,D
+   1,R
+   1,D
+#any%-start
+   5,D,X
+   6
+   6,R
+  11,D,C
+   5,R
+   1
+   8,D,X
+   7
+  11,D,C
+  10,R
+   9
+  15,U,X
+   6,L
+  16,R
+  14,R,Z
+   5,R,J,G
+   3,R
+  15,R,D,X
+  10,R,D
+   1,R
+   2,L
+   6,L,D,X
+   2,K
+   5,L
+   3,L,K
+   1,L
+   1,R
+   1,G
+   4,J,G
+   5
+   4,K
+  10
+   1,G
+   5,J,G
+   5
+   5,J
+   5,L
+   6,R
+  20,R,D,J
+  13,R,D,X
+   7,R,J
+  11,U,X
+   9,R,J
+  20,R
+   9,D
+   1,R
+   1
+  15,R,X
+  15,U,C
+  10,R
+   4,R,Z
+   1,R,J
+   2,R
+  40
 
+#lvl_cotcs-2
+Read,../../StrawberryJamTAS/4_Grandmaster/cave_of_the_crimson_sky.tas,lvl_cotcs-2
 
-
-
-
-
-ChapterTime: 
+ChapterTime: 0:51.442(3026)

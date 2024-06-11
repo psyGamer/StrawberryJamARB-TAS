@@ -1,4 +1,4 @@
-RecordCount:
+RecordCount: 8724
 
 console load StrawberryJam2021/4-Expert/Yoshachobi7
    1
@@ -6,13 +6,136 @@ console load StrawberryJam2021/4-Expert/Yoshachobi7
 #Start
  190
 
+#Spinner Cycle [a3]
+   2
+#####
+
 #lvl_a0
+   4,L,J
    1,J
+  14,U,X
+  18,R
+  15,R,D,X
+  25,R,J
+  24,R,D
+  14,R,Z
+   1,R,J
+  14,R,D,X
+  12,R,J,G
+   6,R,J
+  31,R,K,G
+   1,K,G
+   2,R,K,G
+   1,R,K
+  15,R,X
+   2
+  30,R
+  15,R,D,X
+   2,D
+   1
+   1,D
+   1
+   1,D
+   5,L,Z
+   1,R,J
+   6,R
+   5,R,D,J
+  14,R,U,X
+  12,R,G
+  16,R,U,J,G
+   1,R,J,G
+   6,R,J
+   4,R
+   5
+   4,D
+   4
+   1,L
+   2
+   3,L
+   6,L,Z
+   1,R,J
+   8,R,K,G
+  12,R,U,X
+  55,R,U,J,G
+   1,R,D
+  18,R,U,X
+  17,R
+  15,R,D,C
+  31,R,J
+   1,J
+  15,R,X
+   4,R
+   5,L,D,X
+   1,R,J
+   7,R
+   1,R,J
+   2,R
+   7,R,D,X
+   1,R,K,G
+#any%-end
+  10,R
+   2
+   1,R,D,J
+   5,J
+   8,R,U,X
+  40
 
+#lvl_a1
+#from first puffer bounce onwards
+#inputs are more or less based off any%
+#but arent exactly the same
+#so it looks kinda silly
+   6,R,U,X
+   1,L,J,G
+  22,R,D
+  11,R,X
+  23,R,J
+  12,L,X
+  15,R,J
+  39,R,G
+   7,R
+   4,L
+   1,R
+  10,L,D,X
+   3,R,J
+   2,R
+   1,R,J
+   3,R
+   1,R,J
+  17,R,U,X
+  12,R,G
+  18,R,J,G
+  10,R,G
+   1,R
+  16,R,X
+  16,R
+  16,R,D,X
+   5,R,J
+   9,R
+   1,R,J
+   3,R
+  14,R,U,Z
+  28,R
+  26,R,U,J,G
+   1,R
+   3,R,D
+  13,L,D,X
+  31,R
+  27,R,G
+   1,R
+  14,R,X
+  50,R
+   2,R,D
+   1,D
+#any%-start
+  13,R,Z
+   2,R,J
+  14,R,D,X
+   4,R,J
+   8,R,U,X
+  40
 
+#lvl_a2
+Read,../../StrawberryJamTAS/4_Expert/polaris.tas,lvl_a2
 
-
-
-
-
-ChapterTime: 
+ChapterTime: 1:35.438(5614)

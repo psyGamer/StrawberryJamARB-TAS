@@ -1,4 +1,4 @@
-RecordCount:
+RecordCount: 6116
 
 console load StrawberryJam2021/5-Grandmaster/xplosives
    1
@@ -6,13 +6,61 @@ console load StrawberryJam2021/5-Grandmaster/xplosives
 #Start
   99
 
+#Spinner Cycle [a2]
+   2
+#####
+
 #lvl_a0
+  10,J
+   3,L,J
+  13,R,D,X
+   1,R,J
+   1,R
+  24,R,D,X
+   2,R,J
+   1,R
+   1
+#any%-start
+  11,R,D,X
+   1,R,J,G
+  13,R
+  31,R,J
+  18,R,X
+   6,R,G
+  12,U,G
+   7,J
+  13,R,D,X
+   1,L,J,G
+   1,K,G
+   1,L,J,G
+   1,L,K,G
+   2,L
+  30,R,D
+   3,R,J
+   9,J
+  18,R,D,X
+   2,R,J
+   1,K
+  14,U,Z
+   7,L,J
+   3,R,J
    1,J
+   1,K
+   1,R,K
+   1,R,J,G
+   4,R,K,G
+   1,R,J,G
+   7,R
+   2,R,J
+   4,R
+   4,R,D
+  15,L,D,X
+  14,R,D,C
+   2,R,J
+  11,R,D,X
+  40
 
+#lvl_a1
+Read,../../StrawberryJamTAS/5_Grandmaster/fractured_iridescence.tas,lvl_a1
 
-
-
-
-
-
-ChapterTime: 
+ChapterTime: 0:43.214(2542)

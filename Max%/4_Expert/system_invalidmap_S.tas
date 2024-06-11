@@ -1,18 +1,43 @@
-RecordCount:
+RecordCount: 1967
 
 console load StrawberryJam2021/4-Expert/Skunkynator
    1
 
 #Start
- 190
+Read,../../StrawberryJamTAS/4_Expert/system_invalidmap.tas,Start,lvl_a-2
 
-#lvl_a-0
-   1,J
+#any%-end
+#lvl_a-2
+  10,R,U,X
+   2,R
+   3
+   1,R
+   1
+   1,L,J
+   5,L
+   3,L,J
+   2,L
+   5,R
+  18,R,Z
+   4,R,J
+   1,R,K
+   5,R
+  17,R,D,X
+   3,R,J
+   9,R
+   2,R,J
+   4,R
+#any%-start
+  37,R,U,X
+   4,R,J
+  13,R,Z
+   1,R,J
+   7,R
+   1,R,J
+   8,R,D,X
+  40
 
+#lvl_a-3
+Read,../../StrawberryJamTAS/4_Expert/system_invalidmap.tas,lvl_a-3
 
-
-
-
-
-
-ChapterTime: 
+ChapterTime: 0:47.974(2822)

@@ -1,4 +1,4 @@
-RecordCount:
+RecordCount: 3389
 
 console load StrawberryJam2021/4-Expert/Scroogle
    1
@@ -7,12 +7,42 @@ console load StrawberryJam2021/4-Expert/Scroogle
  190
 
 #lvl_intro
+  12,L,X
+   6,R,J
    1,J
+   1,R,J
+   5,J
+  10,U,X
+#any%-start
+  30,L,J
+   6,K
+   1,L,J,G
+   1,R,J
+   4,L,J
+   1,K,G
+   6,L
+   1,R
+  17,R,J
+  15,U,X
+   2,R
+  15,L,K
+   3,J,G
+   9,R,J
+  15,U,X
+   7
+  12,R
+  15,L,U,Z
+   6,R,D,C
+   2,J,G
+   7
+   4,L,G
+   3,R
+   7,R,J
+  13,U,X
+  11,R,J
+  43
 
+#lvl_a-01
+Read,../../StrawberryJamTAS/4_Expert/mosaic_garden.tas,lvl_a-01
 
-
-
-
-
-
-ChapterTime: 
+ChapterTime: 0:32.164(1892)

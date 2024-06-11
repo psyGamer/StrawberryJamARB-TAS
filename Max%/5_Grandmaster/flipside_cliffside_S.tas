@@ -1,16 +1,89 @@
-RecordCount:
+RecordCount: 4026
 
 console load StrawberryJam2021/5-Grandmaster/tcookiem
    1
 
 #Start
 #lvl_Solitude
+  13,R,Z
+  10,R,J
+  10,R
+   1,R,J
+  13,R,D,X
+   1,R,J
+   4,R
+   1,R,J
+   2,R
+   1,R,D
+   5,R,J
    1,J
+   1,R,K,G
+   3
+   6,R
+   1,R,D,J
+  27,R,D,X
+   1,R,J
+   2,R,K,G
+   1,K
+   1,R,K
+   7,R,U,X
+   7,R,J,G
+   4,R,K,G
+#any%-end
+  12,R,J,G
+  12,R,D
+  13,L
+  16,R,X
+   4,R,J
+   7,R,Z
+  13,R,J
+   5,R
+   2,R,J
+   7,R
+#any%-start
+  23,R,X
+   4,R,J
+   3,R,K
+   1,K
+   2
+   8,R,D,X
+   1,R,J,G
+   3
+  11,R
+  12,R,J
+   5,R
+   2,R,J
+  15,R
+   1,L
+   1,J,G
+   6
+   1,J
+   1
+   2,R
+   1,R,J,G
+   2,R,K,G
+  14,R
+  21,R,X
+   4,R,J
+   9,R,K
+   1,K
+   1,R,K
+  15,R,D,X
+   6,R,D
+   2,R,J
+   2,J
+   1,R,J
+   3,J
+  12,R,U,X
+   4,R,J
+   1,R,K
+   1,R
+   7,R,D,X
+   1,R,J
+   3,R
+  40
 
+#lvl_Reach
+Read,../../StrawberryJamTAS/5_Grandmaster/flipside_cliffside.tas,lvl_Reach
 
-
-
-
-
-
-ChapterTime: 
+ChapterTime: 1:12.658(4274)

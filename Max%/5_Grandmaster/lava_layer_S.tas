@@ -1,4 +1,4 @@
-RecordCount:
+RecordCount: 6541
 
 console load StrawberryJam2021/5-Grandmaster/tobyaaa
    1
@@ -7,12 +7,178 @@ console load StrawberryJam2021/5-Grandmaster/tobyaaa
  190
 
 #lvl_Bill
+   1,S,N
+   1,D,J
+  72,O
+
+#Spinner Cycle [Jeremy]
+   1
+#####
+
+   4,R,Z
+   2,R,J
+   8,R
+   1,R,J
+   4,R,D,X
+   1,R,J
+   7,R
+   9,R,J
+  13,R,D,X
+   6,R,J
+  43
+
+#lvl_Carol
+   2,R,J
+   2,R
+   1,R,J
+#any%-start
+   1,R,K,G
+   3,R
+   1,R,N
+   8
+   4,Z
+   1,R,J
+  14
+  14,L,Z
+   3,R,J
+  15,R,D,X
+   1,R,D,J
+  12,R
+   5,R,D
+   7,R
+   5,R,X
+   1,R,J,G
    1,J
+   3,R,J
+   1,R
+  27
+   3,L,J
+   1,L
+   1,J,G
+   2
+   1,J
+   9,K
+   4,R,K
+  14,R,Z
+   1,R,J
+  12,R,D,X
+   4,R,J
+   4,R
+   1,R,J
+   5,R
+  15,R,Z
+  10,U,X
+   1,R,J
+   2,J
+   4,R,J
+   2,R
+   1,R,J,G
+   7,R
+   4,Z
+   4,R,J
+   1,R
+   1,R,J
+   2,J
+   1
+   1,J
+  43
 
+#lvl_Fred
+Read,../../StrawberryJamTAS/5_Grandmaster/lava_layer.tas,lvl_Fred,lvl_Jeremy
 
+#lvl_Jeremy
+  11,R
+   1,N
+   1,J
+  15,L
+  81
+   8,R
+  13,R,J
+   9,K,G
+   1,K
+   1,L,K
+   2,K
+   1,R,K
+  14,J
+   8,K,G
+   1,L,K
+   1,R,K
+  13,R,J,G
+  21,R,K,G
+   3,R
+  11,U,Z
+  15,R,J
+   8,R
+   7,R,J
+   2,J
+   7
+   2,R
+   2,R,J
+   5,R
+   1,R,J
+  10,R
+   1,L,J,G
+   6,R,J
+  13,J
+   3,L,J
+   1,J
+   1,L,J
+   2,J
+   1,L,J
+   1,K
+   1,R,J,G
+   6,L,J
+StunPause
+  20,L,J
+   3,J
+   1,L,K
+   1,J
+EndStunPause
+  24,R,J
+  16,U,Z
+  18,R,J
+   6,K,G
+   6,L,K
+   3,K
+   3,J,G
+   1,L,J
+   1,R,J
+   4,J
+   1,K
+  20,L,K
+   3,K
+   1,L,J,G
+   1,K
+   1,J,G
+   3,J
+   7
+   4,Z
+   1,R,J
+   4,R
+   2,R,D
+   1,R,D,J
+   4,R
+   5,R,J
+#close to get bhop from moveblock
+   6,R,J
+  14,U,X
+   6,R,J
+   8,R
+   1,R,J
+  12,R
 
+#Spinner Cycle [Kathy]
+   2
+#####
 
+   5,R,Z
+   1,R,J
+   7,R
+   1,R,J
+   1,R
+  43
 
+#lvl_Kathy
+Read,../../StrawberryJamTAS/5_Grandmaster/lava_layer.tas,lvl_Kathy
 
-
-ChapterTime: 
+ChapterTime: 0:57.188(3364)

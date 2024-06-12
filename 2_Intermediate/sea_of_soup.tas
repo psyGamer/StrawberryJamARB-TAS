@@ -1,4 +1,4 @@
-RecordCount: 3438
+RecordCount: 3660
 
 console load StrawberryJam2021/2-Intermediate/SpoopySoup
    1
@@ -110,11 +110,12 @@ endRepeat
    1,L,K,G
    1,L,J,G
    9,L
-   3,L,J
-   6,L
-   3,L,J
-   7,L
-   5,L,J
+   8,L,J
+   4,L
+   4,L,J
+   1,K
+   1,J
+   3,L
   13,L,U,X
   10,U,C
   13,L,X
@@ -163,10 +164,13 @@ endRepeat
   50,U,G
    7,L,J,G
    5,L
-  10,R
-  45,R,J
-  32,U,G
-  31,R,J,G
+  12,R
+  41,R,J
+  26,G
+   6,U,G
+  21,R,J,G
+   1
+   9,R
    5,R,D
    5,R,J
   15,L,J
@@ -230,10 +234,11 @@ endRepeat
   11,R,J,G
   19,R,D
    5,R,J
-  15,R
+  12,R
+   3,R,J
    1
    3,L,J,G
-  14,R,K
+  13,R,K
   40
   15,R,X
   12,L
@@ -283,7 +288,8 @@ endRepeat
   29,R,D
   36
   14,U,X
-  38,R,J
+  17,R,J
+  18,R,K
   53
   40
 
@@ -314,52 +320,40 @@ endRepeat
    1,R,J
   14,R
    1,R,J
-  27,R,D
+  21,R,D
+   4
+   4,D
    1,R,J
    1,R,K
    1,R,J
-   2,R,K
-   8,R
-   1
+   1,R,K
    1,R,J
-   3,R
+   1,R,K
+   1,R,J,G
+   9,R
   40
 
 #lvl_soup-6 (0)
-   9,R
-   1,R,K,G
-  11,R
+   2,R,J
+   8,R
    1,R,J
    5,R
-   1,R,J
-   1,R
    1,R,K,G
   14,R
    1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-   7,R
+  11,R
    1,S,N
    1,D,J
   34
-   7,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
+   3,R
    1,R,J
   14,R
    1,R,J
   18,R
    1,R,J
-  14,R
-   2,R,J
-   8,R
-  13,R,J
+   5,R
+  11,K,G
+   3,L,K
   41
   31,R
    1,R,J
@@ -405,12 +399,14 @@ endRepeat
 
 #lvl_soup-6 (1)
   20,R,D
-  27,D
+  23,D
+   2,L,D
+   2,D
   10,L,D
-  15,L
+  14,L
   34,L,U,X
 #spinner cycle
-   1
+   0
 ##
   15,D,C
   20,L,D
@@ -444,7 +440,6 @@ endRepeat
    2,D
    6,R,D
   11,D
-#5750
   50,R,U,X
   12,L
   35,L,D
@@ -477,5 +472,4 @@ EndRepeat
   15,D,X
  135,R
 
-ChapterTime: 1:44.278(6134)
-#6192
+ChapterTime: 1:42.289(6017)

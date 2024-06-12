@@ -1,4 +1,4 @@
-RecordCount:
+RecordCount: 7625
 
 console load StrawberryJam2021/5-Grandmaster/maya
    1
@@ -6,13 +6,212 @@ console load StrawberryJam2021/5-Grandmaster/maya
 #Start
  190
 
+#Spinner Cycle [Phase]
+   0
+#####
+
 #lvl_Insert Coin
-   1,J
+Read,../../StrawberryJamTAS/5_Grandmaster/pinball_purgatory.tas,lvl_Insert Coin,lvl_Tutorial
 
+#lvl_Tutorial
+   6,L,Z
+   1,R,J
+   7
+   4,L,J
+   1
+  15,R,U,X
+   1,R
+  14
+  18,L
+   2
+  14,L,X
+  21,R
+  15,U,X
+   2,R
+  19,L,U,X
+  42,R
+  11
+  15,R,U,X
+  19,R
+   1
+  15,U,Z
+   8,R
+   1
+   1,R
+   6,R,Z
+   1,R,J
+   7,R
+   1,R,J
+   5,R,D,X
+  16,R,J
+  14,R,U,X
+  13
+  10,U,X
+  22
+  15,U,X
+   6
+   4,R
+   4,R,Z
+   1,R,J
+   6,R
+   1,R,K
+   2,R,J
+   2,R
+  35,R,U,X
+   9,D
+   1,R,D
+   1,R
+   1,D
+   2,J
+   1,R,J
+  10,L,J
+  11,L,Z
+  29,R
+  15,R,D,X
+   1,R,J
+  10,R,D,X
+   1,R,J
+   7,R
+   1,R,D,J
+   7,R,U,X
+   1,R,J,G
+   1,R,K,G
+   1
+   1,R,J,G
+   7,R
+   1,R,J
+  15,R,D,X
+   3,R,D
+   5,R
+  27,R,J
+  14,R,D,X
+#any%-end
+  11,R,J,G
+  40
 
+#lvl_Ready?
+   5,R
+  12,L,D,X
+   1,R,J
+   6,R
+   1
+   1,R,D,J
+   6,R,D,X
+   5
+   6,R
+   6
+  15,U,X
+  36,R
+  10,R,D,X
+  18,R
+   2
+  11,R,U,X
+   6
+  15,L
+  15,L,D,X
+   8
+#any%-start
+  11,R
+  15,R,D,X
+   4,R,J
+  38,R
+#manip horizontal position
+  13
+   2,D
+   1,R,D
+#  13
+#   3,D
+#####
+  11,L,D,X
+  11
+  15,R,D,X
+  10,D
+   8
+   6,L
+  20,L,U,X
+  11
+  15,U,Z
+   2,R
+   8
+  12,R
+  15,R,D,X
+   1,R,J
+   6,R
+  17,R,D,J,X
+   5,R,J
+  40,R,K
+   1,K
+  15,U,Z
+   2,L
+  31,R
+  15,U,X
+   3,L
+   1
+   1,L
+  50,R
+  15,R,X
+  10,R
+   6,R,Z
+   1,R,J
+   7,R
+   1,R,J
+   8,R,D,X
+  40
 
+#lvl_Helix
+Read,../../StrawberryJamTAS/5_Grandmaster/pinball_purgatory.tas,lvl_Helix,lvl_Phase
 
+#lvl_Phase
+   4,R,J
+   8,R
+   2,R,J
+  11
+  15,U,X
+  16,L
+  30,R
+#gain height for bumper position
+   5,R,U,X
+  18,R
+  23,R,X
+   4,L
+   7,R
+StunPause
+  13,R
+SkipInput 3 1
+   8,R,D,X
+SkipInput 3
+  10,R,D,X
+   1,L,D
+   7,R,D
+   1,L,D
+EndStunPause
+#resync here might be improvable
+   2,R,D
+  16,R,Z
+  17
+  15,R,D,X
+  19,R
+  27,R,X
+  25,R
+  11,L,U,X
+  17,L
+  10,L,U,X
+  17,R
+  15,R,D,X
+  12,R,J
+   8,R
+  19,R,J
+  22,R,U,X
+   2
+#Spinner Cycle [Delta]
+   1
+#####
+   6,R,Z
+   1,R,J
+   7,R
+  40
 
+#lvl_Delta
+Read,../../StrawberryJamTAS/5_Grandmaster/pinball_purgatory.tas,lvl_Delta
 
-
-ChapterTime: 
+ChapterTime: 2:25.180(8540)

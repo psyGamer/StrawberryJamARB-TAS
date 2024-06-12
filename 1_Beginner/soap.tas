@@ -1,4 +1,4 @@
-RecordCount: 1469
+RecordCount: 1866
 
 console load StrawberryJam2021/1-Beginner/Circumplex
    1
@@ -7,7 +7,7 @@ console load StrawberryJam2021/1-Beginner/Circumplex
  104
 
 #SpinnerCycle [07]
-   1
+   0
 
 #lvl_01
 Read,../StrawberryJamTAS/1_Beginner/soap,lvl_01,lvl_04
@@ -79,11 +79,9 @@ Read,../StrawberryJamTAS/1_Beginner/soap,lvl_01,lvl_04
    5,R
    2,R,K
   14,R,D
-  45,R,D
-   1,D
-   2,R,D
+  32,D
+  16,R,D
   13,R,X
-   1,L,X
    1,L,J,G
    1,R,J
    5,R
@@ -98,7 +96,9 @@ Read,../StrawberryJamTAS/1_Beginner/soap,lvl_01,lvl_04
   77
    7,L,D,X
    1,L,J
-   7
+   3
+   1,K
+   3
    2,R,J
   40
 
@@ -152,19 +152,19 @@ Read,../StrawberryJamTAS/1_Beginner/soap,lvl_01,lvl_04
   21,R,D
   82,D
 #any%-end
-  15,R
-  23
-  14,L,D,X
-   4,L,J
-  14,L,D,X
+  21,D
+   3,R
+  14,R,D,X
    1,L,J
-  10,L,D,X
+  15,L,Z
+   7,L,J
+  15,L,D,X
+   3,L,D,J
   40
 
 #lvl_05b
-   4,L,D,X
   12,L,J
-  10,U,C
+   9,U,C
   33,L
    3
    8,D
@@ -187,7 +187,8 @@ Read,../StrawberryJamTAS/1_Beginner/soap,lvl_01,lvl_04
    1,L,K,G
    1,L,J,G
    1,L,K,G
-  40,L
+  18,L,D
+  22,L
   15,L,U,X
    7,L
   19,D
@@ -199,15 +200,19 @@ Read,../StrawberryJamTAS/1_Beginner/soap,lvl_01,lvl_04
 
 #lvl_05 (1)
    4,R
-  16,R,J
-  15,R,U,Z
-   9,R
-   7,R,Z
+  17,R,J
+   1,R
+   1,R,J
+   1,R
+   1,R,J
+  14,R,U,X
+   1,R,J,G
+  10,R
+   1,R,J
+  12,R,D,X
 #any%-start
    1,R,J
    7,R
-   1,R,J
-  14,R,D,X
    1,R,J
   14,R,D,X
    1,R,J
@@ -222,7 +227,7 @@ Read,../StrawberryJamTAS/1_Beginner/soap,lvl_06,lvl_08
   72,O
 #any%-end
 #SpinnerCycle [09]
-   2
+   0
 #
   15,L,J
    1,J
@@ -232,76 +237,69 @@ Read,../StrawberryJamTAS/1_Beginner/soap,lvl_06,lvl_08
 
 #lvl_07 (0)
    8,L
-   1,L,J,G
-   9,L,K,G
-  12,L,X
-   4,L,J
-   2,L
-   7,L,D,X
+   3,K,G
+   5,L,K
+   2,K
+  14,L,X
+   4,L,K
+   7,L,D,C
    1,L,J
-   2,L
+   1,L
   40
 
 #lvl_07b
-   5,L
-   1,L,J
-   5,L,D,X
-   1,L,J
-   7,L
-   8,L,J
-  12,U,X
+   6,L
+  18,L,D,J
+  11,U,X
   28,L
   10,R,D
    7,D
    1,R,D
-   3,D
-   9,L,D
    2,D
-   1
-   1,L,D
-   1,L
-
-   2,L,J,G
-   5,L
-   2,L,J
-  10,L
+   9,L,D
+   4,D
+   2,L,D
    1,L,J,G
-  15,L,K,G
-  15,L,X
-  10,L
-   9,G
+   1,L,K,G
+   5,L
+   1,L,K
+   2,L
+   6
+   5,L,X
+   1,L,K,G
+   1,K
+  26,L,K
+  12,R,J
   77
-   7,R,Z
+   4,R,Z
    1,R,J
    6,R
-   1,R,J
-   8,R,D,X
+   6,R,J
+   2,R
   40
 
 #lvl_07 (1)
-   6,R,D,X
-   1,R,J
-   3,R
-  15,D,X
+   1,R
+  15,R,D,X
+   8,R,D
   40
 
 #lvl_08 (1)
-  23,R,D
-  10,R,D,X
-   1,R,J
-  17,R,D
+   4,L,D
+   5,R,D
+   4,R
+   4,R,J,G
+  15,R,D,X
+   7,R
+  16,R,D
+  12,R,D,X
 #any%-start
-   1,L,D
-   6,D
-   2,L,D
-   4,D
-   4,R,D
   29,R
   14,R,Z
    1,L,J,G
-   1,R,J
+   3,R,J
    6,R
-  22,R,J
+  20,R,J
   15,U,X
   17,R
   11,D,X
@@ -344,103 +342,76 @@ Read,../StrawberryJamTAS/1_Beginner/soap,lvl_09,lvl_10
    8,D
    1,L,D
    6,R,D
-  13,R,D,X
+  14,R,D,X
    1,R,J
-   7,R
+   9,R,D,X
    1,R,J
-   7,R
-  15,D,X
-   8,R,D
-  18,D
-  15,L,X
-  18,L
-  39,R
-  10,R,D
+  13,R,D
+  40,L,D
+   6,D
+   5,L,D
+  18,L,U,Z
+   7,L,K,G
+   7,L
+   2,L
+   2
+  10,R
+  11,R,X
+   1,L,J,G
+  24,R,D
+  16,R,D,C
   15,R,X
   15,U,C
-  13,R
-  27,D
-  12,L
-  42,D
-  15,L,X
-   9,L
-  14,L,X
-   5
-  30,R
-   7,R,J
-   9,R
-   2,R,K
-  15,R,U,Z
-  11,U,X
-## +1f
-#   7,R,J
-#   1,R,K,G
-#  10,R
-#   4,R,Z
-#   5,R,J
-#   2,R
-#   1,R,K,G
-#   1,J,G
-#   7,R
-#   9,L,D
-#   4,L,Z
-#   1,L,J
-#   9,L
-#   1,L,J
-#  12,L,D,X
-#   1,L,J
-#   3,L
-#   1,L,J
-#   3,L
-#  13,L,J
-#  14,U,X
-#   8,J
-##
-   5,R,J
-   1,J
+  31,D
+  11,R,D
+  54,D
+  15,U,X
+   7,L
+  15,U,X
+   5,L
+  14,R,J
+   2,R,K,G
+   7,R
+   4,D,X
    1,R,J
-   1,R,J,G
-   1,R,K,G
-  12,R
-   4,R,Z
-   6,R,J
-   4,R
+   7,R
    1,R,J
    5,R
-  10,L,D,X
-   1,L,J
-   4,L
-  14,L,D,X
+   1,J
+   4
+   7,L,D,X
    1,L,J
    7,L
-  17,L,J
+   1,L,J
+  14,L,D,X
+   1,L,J
+   3,L
+   1,L,K
+   3,L
+  16,L,K
+   3,L,J,G
   14,U,X
-   4,L,J
-   2,J
-   1,R,K
+   3,R,J
+   1,R,K,G
+   1,J
   40
 
 #lvl_10 (1)
-   1,R,J
-   1,R
-   1,R,J,G
-   7,R
-   1
-   1
-   4,R,Z
-   1,R,J
+   8,R,J,G
+   6,R
+   3,R,D,J
    3,R
-   1,R,J
    2
-   1
-   3,L,J
-   1,L,K,G
-   8,L,J,G
-  11,L,Z
+   1,J
    1,R,J
-   7,R
-   1,R,D
-  26,R,J
+   1,L,K,G
+   1,L,J,G
+   5,L,K,G
+   1,J
+  14,R,D,X
+  19,R,J
+   1,L,K,G
+   4,R
 #any%-start
   17,R,X
   16,R,C
@@ -540,54 +511,53 @@ Read,../StrawberryJamTAS/1_Beginner/soap,lvl_09,lvl_10
   16,R
 #any%-end
    5,J
-   5,R,J
+   3,R,J
+   1,J
+   1,R,J
   15,U,X
    3
    1,R,J
    5,R
    1,R,G
-  24
-   3,D,J
-   1,L,J
-   4,R,J
-   1,R,K
-   1,R
+   6
+  14,L
+  15,R,U,Z
+   1,D,J
   15,U,X
   18,R,J
-   1,L,K
-  10,L,J
+  11,L,K
   40
 
 #lvl_11b
-   2,L
-   8
-   8,J,G
-   1
+   7,L
+   1,L,K,G
+   7,J
+   2
   15,U,X
    1
-  13,R
-  16,D
-   2
-   5,L,D
-   6,L
-   5,D
+   5,R,D
+  36,D
+
+   9,L
+   8,D,X
   40
 
 #lvl_11 (1)
-  49,L,D
-  39,D
-  14,R,D,X
-   1,R,J
-  14,R,D,X
-   9,R,D
+   1,S
+   1,D,J
+  69,O
+   6,R,Z
+   3,R,J
+   1,R
   40
 
 #lvl_heart
-   2,R,D
-  10,R,D,J
-  15,R,X
-   2,R
-   9,U,X
+   8,R
+   1,R,J
+   8,R,U,X
+   4,R,C
+  10,R,J
+   3,R
   24,R
   23,D
   44,R,U,Z
@@ -596,4 +566,4 @@ Read,../StrawberryJamTAS/1_Beginner/soap,lvl_09,lvl_10
   10
   83,R
 
-ChapterTime: 2:03.335(7255)
+ChapterTime: 2:01.533(7149)

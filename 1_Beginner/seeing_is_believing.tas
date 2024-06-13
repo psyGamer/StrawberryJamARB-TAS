@@ -1,4 +1,4 @@
-RecordCount: 845
+RecordCount: 939
 
 console load StrawberryJam2021/1-Beginner/NotYourBadeline
    1
@@ -9,62 +9,56 @@ Read,../StrawberryJamTAS/1_Beginner/seeing_is_believing,Start,lvl_a_08
 #lvl_a_08
    7,R,K
   18,R,D,X
-  11,R
-   2,R,D
+  13,R
   20,R,U,X
    2,K,G
-   6,R
-   1,L
-   4,R
-   4,D,X
+  18,R
+  14,L,D,X
    1,R,J
-   2,R,K,G
-   6,R
-   1
-   1,R,K
+   5,R,D,X
+   1,R,J,G
+   1,J
+   1,R
+   6,R,J
+   1,J
+   2,R
+   5,R,J
    2,R
   15,R,D,X
-   2,R
-   1,R,J
+   2,R,D
    1,R
-   5,R,J
-   3,R
-   1,R,D
-#any%-end
-  27,R,D,K
-   5,R,D,X
-   2,R,J,G
+   3,R,D
+  20,R,J
+   2,R
+   6,R,D,X
+   1,R,J,G
   12,R
    1,R,J
-   6,R
-   5,R,D,X
+   1
+   2,R
+   6,R,D,X
   40
 
 #lvl_a_09 (0)
-   9,R,D,X
+   8,R,D,X
    1,S
    1,D,J
   34
-   8,R,D
-  11,R
-  14,R,U,X
+  17,R,D
+  13,R,U,X
    1,L,J,G
    2,R,J
-   9,R
-   4,R,Z
-   1,R,J
-   4,R
+   8,R
+   2,R,J
   40
 
 #lvl_a_11
-   1,R
-   1,R,K
-   1,R
-   6,R,D,J
+   5,R,J
    3,J
-   4,R,J
-  13,R,D,X
-   2,R,K
+   1,J
+   3,R,J
+  14,R,D,X
+   1,L,J
    4,L,X
    9,L,J
   20,L,D
@@ -96,4 +90,4 @@ Repeat 12
 EndRepeat
    
 
-ChapterTime: 0:30.804(1812)
+ChapterTime: 0:30.787(1811)

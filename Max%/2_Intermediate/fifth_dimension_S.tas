@@ -1,16 +1,161 @@
-RecordCount:
+RecordCount: 3007
 
 console load StrawberryJam2021/2-Intermediate/Liero
    1
 
 #Start
 #lvl_A00
-   1,J
+   5,R,Z
+   1,R,J
+   7,R
+   1,R,J
+   2,R,K,G
+   1,K
+   1,R,K
+   9,R,U,X
+   4,R,J,G
+   2,J
+  14,R,U,C
+   1,J,G
+   2
+   1,K,G
+   7
+   1,R
+   1
+   2,R
+#any%-end
+  15,D,X
+  15,R,D,C
+   2,R,J
+  11,R,K,G
+   2,R
+  15,U,X
+   2,R
+  15,R,D,X
+  40
 
+#lvl_A01
+   3,R,D
+  14,R,D,X
+   2,R,J
+   3,R,K,G
+  29,R,J,G
+  15,R,U,X
+  13,R
+   2
+  15,L,C
+  19
+  11,D
+   1
+   7,D
+#any%-start
+   5,R,D
+  40
 
+#lvl_A02
+Read,../../StrawberryJamTAS/2_Intermediate/fifth_dimension.tas,lvl_A02,lvl_A09
 
+#lvl_A09
+  33,D
+   1
+   1,D
+   2
+  10,R,X
+  24,R,J
+##Spinner cycle
+   0
+##
+  12,U,X
+  36,R,J
+  15,R,X
+  18,R,D
+   2,R
+   2,R,J
+   4,R
+  10,L,Z
+   8,R,J
+   6,R,D,X
+StunPause
+   9,R
+SkipInput,3,1
+  15,R,D,X
+SkipInput,3,5
+   8,D
+SkipInput,3,1
+  11,D,X
+EndStunPause
+   4,D
+   5,L,D
+  40
 
+#lvl_A10
+   9,D
+   3
+   2,R
+   1,D
+  15,R,X
+  15,L,C
+  19,L
+  18,L,D
+  15,L,X
+   7,L,C
+  15,D,X
+   4,D
+  40
 
+#any%-end
+#lvl_A11
+  13,D
+   1,R,D
+   1,D
+   1,R,D
+   1,D
+  14,R,D
+  15,R,D,X
+  15,R,J
+  15,R,X
+   9,U,Z
+  39,R,J
+  17,R,D,X
+  13,D,C
+  18,L,X
+  19,R,C
+  35,U,X
+  10,U,C
+  15,R,J
+  11,R
+   1,R,J
+  18,R,D
+  25,R,X
+  15,L,C
+  21,D
+  15,R,X
+   5,R
+  14,D
+  19,R,X
+  10,U,C
+  15,R,J
+  37,R
+  10,U,X
+  12,L,J
+  31,L
+  13,L,D
+  19,L,X
+  15,U,C
+  22,L,X
+  15,U,C
+  16,L
+  15,L,Z
+  13,L
+  13,D,X
+  18,L,C
+  19,D,X
+  40
 
+#lvl_A12
+ 112,D
+   4,U,X
+  50,U
+  88,U,X
 
-ChapterTime: 
+ChapterTime: 1:03.138(3714)

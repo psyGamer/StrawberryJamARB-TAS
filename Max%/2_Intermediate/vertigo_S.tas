@@ -1,4 +1,4 @@
-RecordCount:
+RecordCount: 3072
 
 console load StrawberryJam2021/2-Intermediate/Evilleafy
    1
@@ -7,12 +7,289 @@ console load StrawberryJam2021/2-Intermediate/Evilleafy
   92
 
 #lvl_Evilleafy-00
+   5,L,J
+  12,L,D,X
+   2,R,J
+   3,R,K,G
+  12,R,J,G
+  21,R
+  15,R,X
+  17,R,D
+   2,R
+   6,R,Z
+   1,R,J
+   5,R,K,G
+   2,R
+  40
+
+#lvl_Evilleafy-01
+   4,R
+   2,R,K,G
+   7,R
+   1,R,J
+  10,R
+  18,R,U,Z
+   8,R,J
+   9,L,U,X
+  10,L,J,G
+   6,L
+   1,L,J
+   2,L
+   8,L
+  52,R
+   1
+  42,R,U,X
+   9,J,G
+   1
+   1,J,G
+   1
+   1,J,G
+   1
+   1,J,G
+   7,R
+   4,R,Z
+   1,R,J
+   2,R,K,G
+   6,R
+   1,R,J,G
+   9,R
+   2,R,J
+  40
+
+#lvl_Evilleafy-02
+   6,R,J
+  15,R,D,X
+   1,R,J
+   2,R,K,G
+   2,R
+  14,R,U,X
+   4,R,J,G
+   2,L,J
+   2,R,J
+   6,R
+   1
+   6,L,Z
+   1,R,J
+   7,R
+   1,R,J
+  24,R,U,X
+   1,R,U,J
+#any%-start
+  18,R,D,X
+  15,D,C
+  18,R,D,X
+  15,R,C
+  14,R,Z
+   2,R,J
+   1,R
+  15,R,D,X
+  12,R,D
+   1,R,J
+   3,R
+  11,R,D,X
+  40
+
+#lvl_Evilleafy-03a
+   4,R,D,X
+   4,R,D
+   1,D
+   7,R,D
+   1,D
+   3,R,D
+  14,R
+  18,R,X
+   2,R
+  15,R,C
+   3,R
+  15,R,D,X
+   2,R
+   2,R,D
+   3,R,U
+   2,U
+#any%-end
+  17,L,U
+  18,L,X
+  24,L,Z
+  41,L
+  21,L,X
+  15,L,U,C
+  10,L
+   6,L,D
+  21,R,D,X
+   4,R,D
+   1,R
+   1,R,D
+   1,R
+   4,R,Z
+   4,R,J
+   2,R,K,G
+   4,R,J,G
+  40
+
+#lvl_Evilleafy-04a
+   7,R,J
    1,J
+   1,R,J
+   1,J
+  14,U,Z
+  59,R,J
+   2,R,K,G
+   3,L,K
+   3,R,K
+   1,R,J,G
+   2,R,K,G
+   5,R
+   1,R,J
+  12,R
+   6
+   4,R
+  28,R,J
+   2,J
+   1,R,J
+  14,U,X
+  27,L,J
+   1,J
+   1,L,J
+   2,J
+  22,L,U,X
+  25,L,U,C
+  14,R,J
+  15,D,X
+   3,R
+  30,R,J
+  12,K,G
+   5,J,G
+   1,L,K
+  11,L,J
+   1,J
+  16,D,X
+  44,L,J
+  34,L,U,X
+   1,L,J,G
+   3,J
+   3,R,J
+   5,L,J
+   7,L
+   5,L,J
+  15,U,X
+  40
 
+#lvl_Evilleafy-06
+#any%-start
+Read,../../StrawberryJamTAS/2_Intermediate/vertigo.tas,lvl_Evilleafy-06,lvl_Evilleafy-04
 
+#lvl_Evilleafy-04
+   1,J
+   5
+   5,L
+   4,D,X
+   3,R,J
+   1,R,K,G
+  10,R
+   8,R,J
+  17,R
+  24,R,Z
+  18,R,U,C
+   5,R
+#any%-end
+   6,U,X
+  46,R,J
+  17,R,X
+  32,R,D
+  15,R,Z
+  15,R,X
+   8,R,D
+  12,D
+   1,R
+   1
+   1,R
+   1
+   1,R,D
+   6,L,Z
+   1,R,J
+   6,R
+   2,R,J
+   4,R,K,G
+   7,R
+   4,R,J
+  40
 
+#lvl_Evilleafy-08b
+   1,J
+   4,R,J
+  15,R,D,X
+   1,D
+   7,R,J
+   1,R
+   3
+   1,R
+   1,R,J
+  18,R,U,Z
+   1,R
+   5,U,X
+  10,L,J
+   2,R,J
+  17,R
+  15,R,Z
+   9,R
+   9,D
+  24,R,J
+   5,R,J
+   2,J
+   9,K,G
+   1,L,K
+  14,R,J,G
+   1,R,K,G
+   5,R,J,G
+   9,R
+   1,R,J
+  27,R,D
+   6,R
+   1,R,D
+   2,R
+  13,R,X
+   7,R,J
+   5,R,Z
+   1,R,J
+   6,R
+  40
 
+#lvl_Evilleafy-09
+  11,R,J
+   5,R
+   1,J
+   1,R,J
+   1,J
+  15,U,X
+#any%-start
+  45,R,J
+  34,R,X
+   2
+   4,J,G
+   2,L,J
+   9,L,K
+  15,D,X
+  26,L,J
+  12,D,X
+  37,L,J
+  15,L,D,Z
+  15,L
+  12,L,J,G
+  15,L,K,G
+  11,L,J,G
+   2,K,G
+   2,L,K
+   1,K
+  15,D,X
+  11,L,J
+   5,R,J
+  15,D,X
+   3,L
+   4,R,J
+   3,R
+  40
 
+#lvl_Evilleafy-10
+Read,../../StrawberryJamTAS/2_Intermediate/vertigo.tas,lvl_Evilleafy-10
 
-
-ChapterTime: 
+ChapterTime: 0:46.597(2741)

@@ -1,21 +1,199 @@
-RecordCount:
+RecordCount: 4653
 
 console load StrawberryJam2021/3-Advanced/Tortoise
    1
 
 #Start
- 300
+#lvl_0b
+ 146
+  40
 
 #lvl_0
+ 114
    1,S
    1,D,J
   34
+   5,L,J
    1,J
+   1,L,J
+   1,J
+  15,R,K
+  15,D,X
+   6,L,D,C
+   1,R,J
+   3,R
+   1,R,J
+   3,R
+   1,R,J
+  15,R,D,X
+   6,R
+  20,R,D
+   2,D
+   7
+  10,L,J
+#any%-start
+  11,R,D,X
+   2,R,J
+   2,K,G
+  10,R,Z
 
+#lvl_1
+Read,../../StrawberryJamTAS/3_Advanced/javas_crypt.tas,lvl_1,lvl_4
 
+#lvl_4
+   2,R,J
+   1,R,K,G
+   5,R
+   1,R,J
+   7,R
+   3
+  15,U,Z
+  15,L,J
+   3,L
+   1,K
+   2,L,K
+   1,L
+   1,J
+   5,L
+   9
+   6,L
+   2,D
+   2,L
+   3,L,D
+   4,L,Z
+   1,L,J
+  13,L
+   1,R
+   1
+   1,L,D
+   1,D
+   1,L,D
+   3,D
+   4,R,D
+   2,R
+   2,R,D
+   4,Z
+   1,R,J
+   6,R
+   5,R,J
+  15,L,D,X
+  15,D,C
+  15,L,X
+  12,D,C
+   3,R,J
+   7,R,D,X
+   1,L,J
+   4,L
+   2,L,D,J
+   8,U,X
+   7,R,J
+  13,R
+   4,R,X
+   1,J
+   9
+   1,L,J
+   3,R
+  12,D
+  14,L,D,C
+   1,R,J
+  15,R,Z
+   1,R,D,J
+   5,R
+  24,R,K
+  15,R,Z
+   2,R
+   2,J
+   6,L,K
+  12,U,X
+  10,R,J
+   3
+   1,K,G
+   9,L,J
+   6,K,G
+   1
+  12,R,J
+   1,K,G
+   1
+   1,J
+   2,L,J
+  18,R,J
+   1,R
+   1,R,K,G
+   9,R,J,G
+   5,R
+  25,R,J
+  15,R,D
+  15,L,D,X
+  12,L,D
+   5,R,D
+   1,D
+   4,R,D
+   5,U,X
+   1,R,J
+#any%-end
+  31,R,D
+   1,D
+   7,J
+   1,K
+   3,J,G
+   1,L,J
+   2,J
+   1,L,J
+  77
+  15,R,X
+   1
+  16,R
+  39,L,J
+   1,K,G
+   7
+   7,G
+   2,L,J,G
+  11,L
+   3
+   8,L
+   1
+#any%-start
+  14,R,X
+  10,R,J
+  11,U,Z
+  13,R,J
+  11,R,X
+   3,R,J
+   1,L,J
+   2,J
+   6,L,J
+  15,U,X
+  15,L,J
+  18,L
+   5
+   3,R,J
+   1,R
+  10,L,D,X
+   7,L,J
+  17,L,X
+   1,R,J
+   1,R,K
+   3,R
+  15,R,X
+  13,R
+   4,R,X
+   3,J
+   4,R,D
+  28,D
+  12,L,D
+   3,D
+   4,Z
+  17,L,J
+  14,U,X
+   1,R,J
+   2,R,K,G
+   2,R
+  11,R,D,X
+   1,L,J
+   2,L
+   1,L,K,G
 
+#lvl_5
+Read,../../StrawberryJamTAS/3_Advanced/javas_crypt.tas,lvl_5
 
-
-
-
-ChapterTime: 
+ChapterTime: 0:52.020(3060)

@@ -1,16 +1,299 @@
-RecordCount:
+RecordCount: 12173
 
 console load StrawberryJam2021/4-Expert/Vina
    1
 
 #Start
 #lvl_Vina-00
+  10,R,D,X
+   2,R,J
    1,J
+   3,R,J
+  15,R,D,X
+   1,R,J
+   5,R,K,G
+   7,R
+   4,R,J
+   7,R,D,X
+   7,R,J,G
+   5,R
+   3,R,J
+   8,R
+   8,R,J
+   8,J
+   9,U,X
+  14,R,J
+  11
+#Spinner Cycle [Vina-05]
+   2
+#####
+   1,J
+   2
+  10,R,X
+  19,J
+  18,U,X
+  16,R
+  15,R,U,X
+  16,R
+#any%-end
+   2,R,J
+  10,R,X
+   2,R,J
+   3,K,G
+   1
+   1,L
+  11,U,X
+   1,L,J
+   1,L,K,G
+  26,L,D
+   6,L,Z
+   1,R,J
+   7,R
+   1,R,J
+   6,R,D,X
+   2,R,J,G
+   1,R,K
+   2,R,J
+   5,R
+   2,R,J
+   6,R
+   1,R,J
+   1,R
+  40
 
+#lvl_Vina-01
+   4,R
+   2,R,J
+  19,R,K,G
+   1,J
+  10,L,J
+#any%-start
+  15,R,U,Z
+   2,J
+   1,L,K,G
+  10,L,J,G
+   1,K,G
+   5,L
+   1
+   1,R
+   9,R,J
+   7,R
+  21,R,U,X
+  37,R
+  12,R,Z
+  16,R,J
+   2,J
+   1
+  18,R,U,X
+   1,L
+  15,U,C
+   6,L
+  15,L,X
+  15,R,C
+   4
+   6,R
+  15,R,Z
+   2,R
+  14,L,U,X
+  55,R
+  15,R,Z
+   8,R
+   4,Z
+   1,R,J
+   4,R,K,G
+   1,R
+   2,R,J,G
+  11,R
+   1,R,J
+   1,R,K
+   8,R
+  40
 
+#lvl_Vina-02
+Read,../../StrawberryJamTAS/4_Expert/madeline_the_bubble.tas,lvl_Vina-02,lvl_Vina-05
 
+#lvl_Vina-05
+   3,R
+   1,R,J
+   1,R
+   7,L,J
+  15,R,D,X
+   1,L
+   6,L,J
+   5,L
+  10,L,K
+   4,L
+   2
+   1,L
+   5
+   3,R
+   1
+  18,R,U,X
+  15,L,D,C
+   8,R,X
+  30,R,J
+  15,R,U,X
+   3
+   1,R
+   8
+   1,R
+   2
+   1,R
+   5
+   1,R
+  29,L
+   7
+   3,L
+   1,L,D
+   1,D
+  21,U,X
+  11
+   9,U,Z
+   2,L
+   2
+   1,L
+   7
+   1,R
+StunPause
+   4,L
+EndStunPause
+  17,L
+  15,R,U,X
+   6
+  12,L
+  19,L,U,X
+  38,R
+  15,R,U,Z
+#any%-end
+#maybe the strat works without
+#the puffer?
+  15,L,U,X
+  13,L,C
+  27,R
+  38,R,X
+  30,R,U,Z
+  31,R,U,V
+   3
+   1,R
+   1,R,G
+   3,R,J,G
+  19,R
+  13,R,D
+   4,R,Z
+   1,R,J
+   3,R
+   1,R,J
+   3,R
+   5,R,J
+  13,R,U,X
+   1,L,U
+   3,J,G
+   3,R,J
+   4,L,J
+   4,K
+   1,L,J,G
+   2,L,K,G
+   1,J
+   3,K,G
+  16,R,K
+   1,R
+  14,U,X
+  40
 
+#lvl_Vina-06
+   9,R,J
+   2,R
+  14,U,X
+  18,R,J
+   1,R,K,G
+   2,L,K
+   3,R,K
+   7,R
+  12,U,X
+   5,L,J
+   9,L
+   1,L,J
+   2,L
+   1
+#+4f Pufferfish cycle
+   4
+#####
+#any%-start
+  13,L,Z
+  11,L,J
+  15,L
+   5,L,D
+   1,G
+  21,L,X
+  23,R,C
+   1,J
+  18,L
+  17,L,X
+  10,J
+   9,L,J
+  15,U,X
+   1
+  13,R
+  11,L,J
+   5,L
+   2,L,J
+   6,L
+   6,R
+  10,D
+  26,R,D
+   1
+   2,R
+   2
+   1,R
+  15,R,X
+  21
+  39,R
+  15,R,U,Z
+   1
+  19,U,X
+   5,R
+   1
+  13,R,D,X
+  23,L,J
+  18,L,U,Z
+  15,L,U,C
+  19,L,U,X
+  38,R
+  15,U,X
+  35,R,J
+   7,J
 
+#this hits bubble a frame earlier
+#or something?
+   2,D
+   2
+   1,D
+   6
+#   6,D
+#   6
+#####
 
+   7,R
+   7
+   4,R
+   2
+   1,R
+  15,R,U,Z
+  49,R
+  24,R,U,X
+   6,J
+   1
+   7,R,Z
+   1,R,J
+   1,R,K,G
+   1,R
+   4,R,J,G
+   7,R
+   7,R,J
+   6,R,D,X
+  40
 
-ChapterTime: 
+#lvl_Vina-07
+Read,../../StrawberryJamTAS/4_Expert/madeline_the_bubble.tas,lvl_Vina-07
+
+ChapterTime: 1:51.112(6536)

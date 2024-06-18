@@ -1,4 +1,4 @@
-RecordCount: 5039
+RecordCount: 5112
 
 console load StrawberryJam2021/5-Grandmaster/Hydro
    1
@@ -396,66 +396,41 @@ EndRepeat
    1,R,J
    8,R,K
   27,R
-  19,R,D
+  16,R
+   3,R,D
   77
-#SpinnerCycle [Third Movement (0)]
-   0
-#
-   7,L,Z
-   1,L,J
-   6,L
-   1,L,J
-   9,L,D,X
-   1,L,J
-   4,L
-  40
-
-#lvl_B3 (1)
-  21,L,D
-  24,R,D
-  11,R,Z
-  10,R,J
-  13,R,D,X
-#any%-start
+   6,L,D,X
    1,R,J
+   5,R,K,G
+   6,R
+  12,R,J
+   3,J
+   4
+  15,D,X
+   1,R,N
+  62
+   1,O
+  42
   40
-
-#lvl_Third Movement (0)
-Read,../StrawberryJamTAS/5_Grandmaster/shattersong,lvl_Third Movement,lvl_Welcome Again
 
 #lvl_Welcome Again.
-#any%-end
-   5,D
-  10,L,D,X
-#SpinnerCycle [C1]
-   0,L,D,X
-#
-   1,R,J
-   4,R
-  15,R,D,X
-  12,R,D
-   1,R,J
-  14,R,D,X
-# If we could exit to the left
-# it would save quite a bit
-   1,R,J
-  14,R,U,X
+  24,R,D
+  10,R,X
+   5,R,J
+  12,R,U,X
    1,R,J,G
    2,R,K,G
    1,R,J,G
-   3,R,K,G
    7,R
-   5,R,J
-  14,R,U,X
-   1,R,J,G
-   2,L,J
-   3,R,J
+   8,R,J
+  15,R,U,X
+   2,R,J,G
    7,R
    2,R,J
   12,U,X
   40
 
-#lvl_Third Movement (1)
+#lvl_Third Movement
   13,J
    9,L,J
   15,L,U,X
@@ -1060,4 +1035,4 @@ Repeat 45
    1,L,D
 Endrepeat
 
-ChapterTime: 2:52.703(10159)
+ChapterTime: 2:47.501(9853)

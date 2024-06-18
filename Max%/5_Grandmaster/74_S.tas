@@ -1,4 +1,4 @@
-RecordCount:
+RecordCount: 7417
 
 console load StrawberryJam2021/5-Grandmaster/fishtank
    1
@@ -6,13 +6,367 @@ console load StrawberryJam2021/5-Grandmaster/fishtank
 #Start
  190
 
-#lvl_Overgrown Footpath
+#lvl_Overgrown Footpath (0)
+   2,L
+  12,L,J
    1,J
+   1,K
+   9,L,J
+   5,L
+   1,L,J
+   1,L
+   1,L,J,G
+   5,L,K,G
+   6,L
+   1,L,J
+  40
 
+#lvl_Filler Room
+   3,L,J
+   1,L
+   1,L,J
+  19,L
+   2
+   1,L
+   1,R,J
+   1,R,K,G
+   1,R,J,G
+  15,R,K,G
+   1,R,J,G
+   1,L,J
+   1,R,J
+  15,R
+   1,R,D,J
+  40
 
+#lvl_Overgrown Footpath (1)
+   9,R,J
+   1,L,J
+   1,K,G
+   1,R,K
+   2,L,K
+   6,L,J,G
+   1,R,J
+   4,L,J
+   1,K,G
+   4,L,K
+   1,K
+   2,L,K
+#not any% inputs but the same strat
+#with minor changes
+   1,R,K
+   4,L,K
+   8,J,G
+   2,L,J
+   1,J
+   1,R,J
+   1,L,J
+   1,L,K,G
+   1,R,K
+   7,K
+   1,R,K
+   1,K
+   4,R,K
+   1,L,K
+  11,J,G
+   1,R,J
+   1,L,J
+   4,K,G
+   1,R,K
+   1,L
+   1,L,J,G
+   1,R,J
+  10,L,J
+   2,L
+   5
+   4,R,J
+   1,J
+   6,R,J
+   1,J
+   1,K
+   6,L,K
+   4
+   1,R,J,G
+   2,L,J
+   1,K
+   2,L,K
+   9,K
+   5
+   1,J
+  10
+#any%-start
+#(for real this time)
+   6,R
+  13,R,D
+   2,D
+   2
+   1,D
+   1
+  19,R,J
+   1,L,J
+   1,K
+   2,J,G
+   7,R,J
+   4,R,K
+   2,L,J,G
+   9,K,G
+   1,R,K
+   1,J
+   1,K
+   3,R,K
+   1,K
+   3,R,K
+   2,K
+  10,J
+   5,L
+   3,L,J
+   7,L
+   1,J
+  26,L,J
+   9,L
+   1,L,K,G
+   1,J,G
+  10,L,J
+   2,R,J
+   5,R,K
+   6,R,J
+  28,R
+  38,R,D
+   9,R,J
+   9,R
+   1,R,J
+  14,R
+   9,R,D
+  15,R,J
+   1,J
+   1,R,K
+  17,R
+   1
+   2,R,J
+   8,J
+   4,R,K
+  33,R,J
+   1,R,G
+   2,R,J,G
+  18,R
+   1
+  10,R
+   4,R,D
+  20,R,J
+  15,R,K
+  27,R,J
+  25,R
+   1,R,J
+   1,R,K,G
+   1,R,J,G
+   6,R
+   1,R,J
+   1,R,K,G
+   1,R
+   1
+   8,R
+   1,R,J
+   9,R
+  40
 
+#lvl_Calling (Bad Reception)
+Read,../../StrawberryJamTAS/5_Grandmaster/74.tas,lvl_Calling (Bad Reception),lvl_Nakaniwa Adventure
 
+#lvl_Nakaniwa Adventure
+  14,R
+   1,R,J
+  21,R,D
+   4,R,J
+  23,R,D
+   4,D
+repeat,9
+   1,R
+   1,D
+endrepeat
+#any%-end
+ 133,D
+   1,R,G
+   1,R,J,G
+  13,R,D
+   1,R,J
+  14,R
+   1,R,J
+  30,R,D
+   1,R,J
+  18,R,D
+   1,R,J
+  17,R
+   2,R,D,J
+  40
 
+#lvl_Sewers
+   6,R,J
+   3,L,J
+   1,L,K,G
+   1,R,K
+   1,K
+   3,R,K
+   1,K
+   1,J
+  11,R,J
+   1
+   6,R
+   8,R,J
+  15,R
+   3,R,J
+   8,R,J
+   1,J
+   1,R,J
+   1,J
+   1,R,J
+   3,L,J
+   1,K
+   2,J,G
+   5,R,J
+   2,R
+   1
+  17,R
+#any%-start
+   4,R,D
+   4,R,J
+   6,J
+   1,R,J
+   2,L,K,G
+   1,R,K
+   1,K
+   1,R,K
+   1,K
+   1,R,K
+   1,K
+   2,R,K
+   1,L,K
+   1,J,G
+   1,R,J
+   1,L,K,G
+   9,K
+   4,L,K
+   1,K
+  10,L,J
+   7,L
+   3,L,J
+   8,L
+   2,J
+   2,L,J
+   5,J
+   4,K,G
+   3,L,K
+   1,K
+   3,L,K
+   1,R,K
+#+1f subpixel
+   6,R,J
+  21,R
+   2,R,D
+   7,D
+   1,R,D
+   1
+   1,D
+  18,R,J
+   9,R
+   1,L
+   7,J,G
+   4,L,J
+   3,R,J
+   4,K
+  11,R,J,G
+   1,K,G
+   1,L,K
+   1,R,K
+   1,J,G
+   1,L,J
+  12,J
+   4,R,K
+  10,K
+  12,J
+   1,K
+   4,R,K
+   3,K
+   9,J
+   2,R,J
+   1,J
+   1,K
+   1,R,K
+   1,K
+   6,R,K
+   1,J
+   2,R,J
+   2,L,J
+   1,K
+   1,J,G
+   3,R
+   1,L
+   1,J
+   1,K,G
+   1
+   3,R
+   1,R,K
+  31,R
+  10,R,J,G
+  38,R,D
+   5,R
+   2
+   1,J
+   2
+  12,R,D
+   1,R,J,G
+   1,R,K,G
+  29,R,D
+   3,D
+   1,R
+  19,R,J
+   1,L,J
+   4,K
+   2,J,G
+   1,R
+   1,R,K
+   6,R
+   2,R,J
+  12,R,D
+  25,D
+   1,F,170.4
+   1,F,161.9
+   1,F,152
+   1,F,140.6
+   2,R
+repeat,7
+   1,D
+   1,R
+endrepeat
+  17,R
+   1,F,82.8
+   1,F,75.5
+   1,F,68
+   1,F,60
+   1,F,56.4
+repeat,9
+   1,R
+   1,U
+endrepeat
+   1,F,47.5
+  10,U
+   1,L
+   1,U
+   1,L
+   1,U
+   1,F,9.6
+   1,F,14
+   1,F,24
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K,G
+   4,R,J,G
+   1,R,K
+   1,R,J
+   2,R
+  40
 
+#lvl_Swimming
+Read,../../StrawberryJamTAS/5_Grandmaster/74.tas,lvl_Swimming
 
-ChapterTime: 
+ChapterTime: 1:07.133(3949)

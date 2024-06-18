@@ -1,18 +1,163 @@
-RecordCount:
+#by Lmjacks & TheRoboMan
+RecordCount: 5667
 
 console load StrawberryJam2021/5-Grandmaster/DeathKontrol
    1
 
 #Start
-  61
+Read,../../StrawberryJamTAS/5_Grandmaster/cycle_madness_b-side.tas,Start,lvl_1
 
-#lvl_0
+#lvl_1
+#any%-end
+   2,R,U,X
    1,J
+   3,L,K,G
+   2,R,K
+  15,R,U,X
+  15,R,U,C
+  17,R,X
+  18,R,C
+  15,R,D,X
+  15,R,D,C
+#any%-start
+  13,R,D,X
+   1,R,J
+   1,R
+   9,R,D,X
+  40
 
+#lvl_2 (0)
+Read,../../StrawberryJamTAS/5_Grandmaster/cycle_madness_b-side.tas,lvl_2 (0),lvl_68a (0)
 
+#lvl_68a (0)
+   1,R,D
+   5,L,D
+  16,L,D,X
+   1,L,J
+   1,L
+  14,L,D,X
+#any%-end
+ 103
+  14,L,U,X
+   2,L,J,G
+   9,L
+   5,L,Z
+   3,L,J
+   6,L
+   1,L,J
+   3,L
+#any%-start
+  15,D,X
+   2,L,D
+   9,R,D
+   1,D
+   2,R,D
+   2,D
+   1,R,D
+   4,Z
+   1,R,J
+   7,R
+   7,R,J
+   1,R
+  14,R,D,X
+  40
 
+#lvl_2 (1)
+Read,../../StrawberryJamTAS/5_Grandmaster/cycle_madness_b-side.tas,lvl_2 (1),lvl_4a
 
+#lvl_4a
+   2,R,U,Z
+   1,L
+   6,J,G
+   1,R,K,G
+  11,R,D,X
+   9,R,J
+   5,R,D,X
+#any%-end
+ 103
+  13,R,D,X
+   3,R,J
+   1,R
+   3,R,J,G
+#any%-start
+  14,R,U,X
+   1,R,J,G
+   1,L
+   6,R
+   2,R,J
+  15,U,X
+  40
 
+#lvl_3
+Read,../../StrawberryJamTAS/5_Grandmaster/cycle_madness_b-side.tas,lvl_3 (1),lvl_68a (1)
 
+#lvl_68a (1)
+  10,L,D,X
+   1,L
+  12,L,D,C
+#any%-end
+ 103
+  10,L,D,X
+   5,L,J
+  10,L,D,X
+   1,L,J
+  17,D
+  10,L,D
+#any%-start
+   2,R,D
+  40
 
-ChapterTime: 
+#lvl_2 (2)
+  14,D
+  23,L,D
+  11,L,Z
+   1,L,J
+   7,L
+   2,L,J
+#any%-end
+  15,L,D,X
+  20,R,D
+   4,R,Z
+   1,R,J
+   6,R
+  16,R,J
+  15,U,X
+   3,R,J,G
+   1,R,K,G
+   1,K
+   3,L,K
+   5,R,K
+   7,R
+   4,J
+   7,R,J
+  16,U,X
+   6,L,J
+  16,L
+  15,L,D,X
+  13,R
+  15,L,D,C
+   7,L,D,X
+   1,L,J
+   3
+   3,L
+   1,L,J
+  14,L,Z
+#any%-start
+   1,R,J
+   6,R,D,X
+   1,R,J,G
+  12,R
+   1,R,J
+  14,R
+  10,R,D,J
+   3,R
+   2,R,K,G
+   1,K
+   1,R,K
+  14,U,X
+  40
+
+#lvl_68a (2)
+Read,../../StrawberryJamTAS/5_Grandmaster/cycle_madness_b-side.tas,lvl_68a (2)
+
+ChapterTime: 1:45.111(6183)

@@ -1,16 +1,172 @@
-RecordCount:
+RecordCount: 5638
 
 console load StrawberryJam2021/5-Grandmaster/tofu
    1
 
 #Start
+#Spinner Cycle [Veranda]
+   2
+#####
+
 #lvl_Atrium
+   5,L
+   1,L,J
+  14,L
+   1,L,J
+  14,L
+   1,L,J
+  14,L
+  25,L,J
+   5,K
+   2
+  14,L,D,X
    1,J
+   3,R
+  15,R,U,X
+  15,R,G
+  10,R
+   1,R,J
+   2,R
+  12,R,U,Z
+   1,R,J,G
+   1,L,J
+   4,J
+  11,U,X
+   5,R,J
+   2,R
+   1
+#any%-start
+  11,R,D,X
+  15,R,G
+   1
+   1,R,D,J
+  10,R,D,X
+  13,R,G
+  15,R,D,X
+   1,R
+   1,R,D,J
+  12,R,U,X
+  80,R,U,G
+   1,L
+  21,R
+   1
+   7,R,J
+  14,U,X
+  17,J
+  40
 
+#lvl_Veranda
+   1,K
+  10,R,K
+  14,U,X
+   9,R,J
+   5,R,D,X
+  19,R,U,J,G
+   2,R,G
+   1,L
+   4,R,J
+   9,R,U,X
+StunPause
+   4,R,U,X
+   2,J,G
+   6,R,D
+EndStunPause
+   5,R,D
+#any%-end
+#Spinner Cycle [Pier]
+   2
+#####
+   1,J
+   1,K
+   1,J
+  11,L,J
+  12,R,U,X
+   1,R,J,G
+   7,R
+   6,R,Z
+   1,R,J
+   7,R
+   1,R,J
+  15,R,D,X
+  15,D,C
+   5,D
+   7,R,D
+   1,D
+   8,L,D
+  40
 
+#lvl_Pier
+  10,L,D
+   1,L
+  10,L,D
+   1,R,J
+  45,R
+Repeat,5
+   1,R,J
+  14,R
+EndRepeat
+   1,R,J
+  15,R
+   1,R,J
+   7,R,X
+#any%-start
+  12,R,J
+  11,U,X
+   4,R,J
+  16,R,X
+  13,R,G
+   1,R
+   1,R,J
+   7,R,D,X
+  13,R,G
+  20,R,D
+   9,R,Z
+  17,R,J,G
+  16,R,U,Z
+  11,R,J,G
+   9,R
+   1,R,D,J
+  13,R,D,X
+  13,J,G
+   2,R,D,J
+   1,R
+   4,R,K
+   1,R
+StunPause
+   2,R
+SkipInput,3,1
+   5,R,U,X
+   1
+SkipInput,3,1
+   4,L,J,G
+EndStunPause
+   3,R
+   2
+   3,J
+  51,R,G
+   4,R,D,G
+   4,R,G
+   2,R,D,G
+   2,G
+   1,D,G
+   2,G
+   1,L
+  14,R,U,X
+   1,J,G
+   3
+   6,R
+   3,R,D
+StunPause
+   1,R,D
+   4,R,J
+   2,J
+EndStunPause
+   3
+  15,R,D,X
+   1,R,D
+  40
 
+#lvl_Backstreet
+Read,../../StrawberryJamTAS/5_Grandmaster/nelumbo.tas,lvl_Backstreet
 
-
-
-
-ChapterTime: 
+ChapterTime: 0:58.157(3421)

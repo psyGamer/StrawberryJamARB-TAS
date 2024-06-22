@@ -1,4 +1,4 @@
-RecordCount:
+RecordCount: 10420
 
 console load StrawberryJam2021/2-Intermediate/thebreadstick1
    1
@@ -6,13 +6,341 @@ console load StrawberryJam2021/2-Intermediate/thebreadstick1
 #Start
   91
 
+#lightning cycle [a-007]
+   1
+#####
+
 #lvl_a-001
+   4,X
+   5,J
+   9
+  11,L,D,X
+   1,R,J
+   3,R
+   1,R,J
+   3,R
+  11,R,J
+   2,R,K,G
+  19,R,J,G
+  16,U,X
+   7,L,J,G
+   1,L
+  10,L,Z
+   1,L,J
+   5,K,G
+   1
+   1,K,G
+   2
+   5,L,C
+   7,L,K,G
+   1,K
+   2,L,K
+#any%-end
+   2,L,J,G
    1,J
+   1,L,J
+  15,L,U,X
+  39,L,D
+   2,L,J
+  12,J
+#any%-start
+  16,L,U,X
+   1,R
+   3,L,J,G
+   1
+  15,U,X
+   2,L
+  18
+   1,J
+  16,R,J
+  21,R,U,X
+   9,R,U,C
+  18,R
+  15,D,X
+   9,L,D
+   5,L,X
+   4,L,K,G
+   1,K
+   5
+   4,L
+   1,L,K
+   8,L
+   5,R,V
+   1,R,K
+   4,R
+   8,R,K
+   1,K
+   7,R,U,X
+  40
 
+#lvl_a-002
+Read,../../StrawberryJamTAS/2_Intermediate/construction_conundrum.tas,lvl_a-002,lvl_a-008 (0)
 
+#lvl_a-008
+   1,R,J
+   5,R
+   1,R,K
+   2,R
+   5,R,J
+  18,R,U,X
+   7,R,C
+   6,R,J,G
+   2
+  15,R,D,X
+   5,D
+   2,R
+   1,R,D
+   2,R
+   4,R,Z
+   1,R,J
+   6,R
+   3,R,J
+   4,R
+  14,R,U,X
+   1,R,J,G
+   9,R
+   1,R,J
+   9,R
+  13,R,U,Z
+   1,J
+   5,R
+  15,R,C
+  13,R,X
+   1,R,J,G
+#any%-end
+  49,D
+   7,R,D
+   3,R
+   1,R,D
+   4,L,Z
+   1,L,J
+   6,L
+   2,L,J
+   5,L
+   2,L,J
+   1,L
+   1,L,J
+   8,L
+  14,L,X
+   7,L,J,G
+  17,L
+  14,L,D,X
+   1,L,J,G
+   1,J
+   5,L
+   2,L,J
+   1,L
+   1
+   1,L,J
+   3,L,K,G
+   1,L
+  12,L,J,G
+   7,L
+  11,L,D,X
+   1,L,J
+   4,L
+  15,L,D,X
+   2,L
+  13,L,J,G
+   1,R,J
+   7,K,G
+  22,L,U,X
+   9,R,J
+   2,K
+   1,J
+   1,K,G
+   3,L,K
+   7,L
+   4,X
+  13,D,X
+   1
+  18,R,D
+   1,D
+   1,R,G
+   3,R,J,G
+  11,R
+  15,U,Z
+  14,R,U,X
+  11,J,G
+   1,R,J
+   7,R,K
+   2,K
+   1,R,K
+   1,R
+   1,R,J,G
+  12,R,K,G
+   9,R
+   1,R,J
+  30,R
+   2
+   2,R
+   4,R,J
+   1,R
+   1,R,K,G
+  10,R,J,G
+  25,R
+   4,R,D
+  10,R,J
+  12,R,K
+   5,R
+   3,R,J
+   1,J
+   1,R,K,G
+   4,L,K
+   1,K
+  20,L,J
+  18,R
+  11
+  28,R,D
+   1
+   1,R
+   1
+   2,R
+   1,R,J
+   1,R,K,G
+  26,R,J,G
+   1,R
+   4,K,G
+   1,L,K
+   1,L,J
+  12,L,K
+  18,R
+   3
+  15,R
+   1
+   1,R,J
+   1,R,K,G
+   1,R,J,G
+   8,R
+   1,R,J
+   1,R
+   1,R,J
+   4,R
+  10,R,J
+   5,R
+   4,R,J
+   1,R
+   1,R,J
+   1,R
+   1,R,K,G
+   1,R,J,G
+   3,R
+   7
+   1,R
+   1
+   1,R
+   2
+   5,R
+  10,R,J
+   3,R,K
+  27,R
+   2
+   2,R
+   1,R,J,G
+   4,R,K,G
+   9,R
+   1,R,J
+   6,R,D
+  13,L,D
+   6,D
+   8,R,D
+   2
+  10,R
+   3,R,D
+   1,R
+  10,R,D
+   7,L,D
+  40
 
+#lvl_a-005
+   6,L,D
+   7,D
+   4,R,Z
+   1,R,J
+   7,R
+   4,R,J
+   2,R
+   5,R,D,X
+  40
 
+#lvl_a-009
+  10,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+   4,R
+#any%-start
+  14,D,X
+  40
 
+#lvl_a-010
+   2,D
+#Lightning cycle [a-010]
+   2,L,G
+#####
+  12,L,D,X
+   1,L,J
+   4,L
+   1,L,J
+   2,L
+   7
+  15,R,D,X
+   8,R
+  13,R,D
+  15,R,U,Z
+   7,R
+   2
+   2,L,J,G
+Repeat,3
+   1,R,J
+   1,J
+EndRepeat
+  10,K
+   5,R,K
+   4
+  15,R,X
+   2,R,D
+   3,D
+   1,R,D
+  13,D
+  21,L,D
+   9,D
+  15,R,D
+   5,R,J
+   5,R
+   1,R,J
+  11,R,K
+   1,R
+  15,R,D,X
+   1,D
+StunPause
+  38,R,D
+EndStunPause
+  19,D
+   4
+   1,L
+   1,D
+  19,L,D
+   1,L
+  27,L,D
+  12,L
+  15,L,X
+  16,L
+  15,L,D,X
+  19,L
+   2,L,D
+   4,J
+  20,L,U,X
+   1
+  19,U,C
+   6,R
+   2
+  15,R,D,X
+  15,D,C
+   4,D
+  40
 
+#lvl_a-012
+Read,../../StrawberryJamTAS/2_Intermediate/construction_conundrum.tas,lvl_a-012
 
-ChapterTime: 
+ChapterTime: 1:35.846(5638)

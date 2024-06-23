@@ -226,6 +226,7 @@ Read,2_Intermediate/temple_of_a_thousand_skies_S0,Start
    1,O
   32
 
+#silver run gets b-06 berry
 Read,2_Intermediate_Lobby/int_17-17,Start
 Read,../StrawberryJamTAS/EnterLevel,Start
 Read,2_Intermediate/temple_of_a_thousand_skies_S1,Start
@@ -245,9 +246,15 @@ Read,2_Intermediate/square_the_circle_S,Start
    1,O
   32
 
+#Getting Rainbow
+Read,2_Intermediate_Lobby/int_18-0,Start
+Read,2_Intermediate_Lobby/int_0-Rainbow,Start
+
 #Raspberry Roots
 #Intermediate Heartside
-Read,../StrawberryJamTAS/2_Intermediate_Lobby/int_18-19,Start
+Read,2_Intermediate_Lobby/int_0-A,Start
+Read,2_Intermediate_Lobby/int_A-E,Start
+Read,2_Intermediate_Lobby/int_E-19,Start
 Read,../StrawberryJamTAS/EnterHeartside,Start
 Read,../StrawberryJamTAS/2_Intermediate/intermediate_heartside,Start
    1,Q
@@ -257,4 +264,4 @@ Read,2_Intermediate/intermediate_heartside_G,Start
   61
    1,O
 
-FileTime: 1:06:11.472(233616)
+FileTime: 1:06:26.942(234526)

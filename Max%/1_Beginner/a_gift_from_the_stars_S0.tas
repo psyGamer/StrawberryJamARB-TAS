@@ -1,18 +1,31 @@
-RecordCount:
+RecordCount: 3922
 
 console load StrawberryJam2021/1-Beginner/HankyMueller
    1
 
 #Start
-  69
+#first berry is collected
+#in silver run
+Read,../../StrawberryJamTAS/1_Beginner/a_gift_from_the_stars,Start,lvl_Waiting Room
 
-#lvl_Intro A
-   1,J
+#lvl_Waiting Room (0)
+#any%-end
+#ARB-start
+Read,../../1_Beginner/a_gift_from_the_stars,lvl_Waiting Room (0),lvl_Timestop Intro (1)
 
+#lvl_Timestop Intro
+#any%-start
+   1,S
+   1,D,J
+  69,O
+#Spinner Cycle [Staircase]
+   2
+#####
+   4,Z
+   1,R,J
+  40
 
+#lvl_Timestop Intro Again
+Read,../../1_Beginner/a_gift_from_the_stars,lvl_Timestop Intro Again
 
-
-
-
-
-ChapterTime: 
+ChapterTime: 1:38.260(5780)

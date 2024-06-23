@@ -1,0 +1,260 @@
+#This file was made based off the files in the IL folder.
+Unsafe
+#This will wipe the debug save!
+#Uncomment at your own peril.
+console clrsav
+console load StrawberryJam2021/0-Lobbies/2-Intermediate
+EnforceMaingame
+   1
+
+#Start
+#Frosted Fragments
+Read,../StrawberryJamTAS/2_Intermediate_Lobby/int_0-1,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,../2_Intermediate/frosted_fragments,Start
+   1,O
+  32
+
+Read,2_Intermediate_Lobby/int_1-1,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,2_Intermediate/frosted_fragments_S,Start
+   1,O
+  32
+
+#Low-G Botany
+Read,../StrawberryJamTAS/2_Intermediate_Lobby/int_1-2,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,../2_Intermediate/low-g_botany,Start
+   1,O
+  32
+
+Read,2_Intermediate_Lobby/int_2-2,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,2_Intermediate/low-g_botany_S,Start
+   1,O
+  32
+
+#Pointless Machines
+Read,../StrawberryJamTAS/2_Intermediate_Lobby/int_2-3,Start
+Read,../StrawberryJamTAS/EnterPostcard,Start
+Read,../2_Intermediate/pointless_machines,Start
+   1,O
+  32
+
+#pointless machines any%
+#inputs picks up silver
+Read,2_Intermediate_Lobby/int_3-3,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,../StrawberryJamTAS/2_Intermediate/pointless_machines,Start
+   1,O
+  32
+
+#Deep Blue
+Read,../StrawberryJamTAS/2_Intermediate_Lobby/int_3-4,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,../2_Intermediate/deep_blue,Start
+   1,O
+  32
+
+Read,2_Intermediate_Lobby/int_4-4,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,2_Intermediate/deep_blue_S,Start
+   1,O
+  32
+
+#Midnight Monsoon
+Read,../StrawberryJamTAS/2_Intermediate_Lobby/int_4-5,Start
+Read,../StrawberryJamTAS/EnterPostcard,Start
+Read,../2_Intermediate/midnight_monsoon,Start
+   1,O
+  32
+
+Read,2_Intermediate_Lobby/int_5-5,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,2_Intermediate/midnight_monsoon_S,Start
+   1,O
+  32
+
+#Pufferfish Transportation Co.
+Read,../StrawberryJamTAS/2_Intermediate_Lobby/int_5-6,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,../2_Intermediate/pufferfish_transportation,Start
+   1,O
+  32
+
+Read,2_Intermediate_Lobby/int_6-6,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,2_Intermediate/pufferfish_transportation_S,Start
+   1,O
+  32
+
+#Supernautica
+Read,../StrawberryJamTAS/2_Intermediate_Lobby/unused/int_6-8,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,../2_Intermediate/supernautica,Start
+   1,O
+  32
+
+Read,2_Intermediate_Lobby/int_8-8warpTo9,Start
+Read,2_Intermediate/supernautica_S,Start
+   1,O
+  32
+
+#Fifth Dimension
+Read,../StrawberryJamTAS/2_Intermediate_Lobby/int_8-9fromwarp,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,../StrawberryJamTAS/2_Intermediate/fifth_dimension,Start
+   1,O
+  32
+
+Read,../StrawberryJamTAS/2_Intermediate_Lobby/int_8-9fromwarp,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,2_Intermediate/fifth_dimension_S,Start
+   1,O
+  32
+
+#Sleeping Under Stars
+Read,../StrawberryJamTAS/2_Intermediate_Lobby/int_9-7,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,../2_Intermediate/sleeping_under_stars,Start
+   1,O
+  32
+
+Read,2_Intermediate_Lobby/int_7-7,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,2_Intermediate/sleeping_under_stars_S,Start
+   1,O
+  32
+
+#Honeyzip Inc.
+Read,../StrawberryJamTAS/2_Intermediate_Lobby/int_7-10,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,../2_Intermediate/honeyzip_inc,Start
+   1,O
+  32
+
+Read,2_Intermediate_Lobby/int_10-10,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,2_Intermediate/honeyzip_inc_S,Start
+   1,O
+  32
+
+#Vertigo
+Read,../StrawberryJamTAS/2_Intermediate_Lobby/int_10-11,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,../StrawberryJamTAS/2_Intermediate/vertigo,Start
+   1,O
+  32
+
+Read,2_Intermediate_Lobby/int_11-11,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,2_Intermediate/vertigo_S,Start
+   1,O
+  32
+
+#The Tower
+Read,../StrawberryJamTAS/2_Intermediate_Lobby/int_11-14,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,../2_Intermediate/the_tower,Start
+   1,O
+  32
+
+Read,2_Intermediate_Lobby/int_14-14,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,2_Intermediate/the_tower_S,Start
+   1,O
+  32
+
+#Sea of Soup
+Read,../StrawberryJamTAS/2_Intermediate_Lobby/int_14-12,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,../2_Intermediate/sea_of_soup,Start
+   1,O
+  32
+
+Read,2_Intermediate_Lobby/int_12-12,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,2_Intermediate/sea_of_soup_S,Start
+   1,O
+  32
+
+#In Filtration
+Read,../StrawberryJamTAS/2_Intermediate_Lobby/int_12-13,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,../2_Intermediate/in_filtration,Start
+   1,O
+  32
+
+Read,2_Intermediate_Lobby/int_13-13,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,2_Intermediate/in_filtration_S,Start
+   1,O
+  32
+
+#Construction Conundrum
+Read,../StrawberryJamTAS/2_Intermediate_Lobby/int_13-16,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,../2_Intermediate/construction_conundrum,Start
+   1,O
+  32
+
+Read,2_Intermediate_Lobby/int_16-16,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,2_Intermediate/construction_conundrum_S,Start
+   1,O
+  32
+
+#EAT GIRL
+Read,../StrawberryJamTAS/2_Intermediate_Lobby/int_16-15,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,../2_Intermediate/eat_girl,Start
+   1,O
+  32
+
+Read,2_Intermediate_Lobby/int_15-15,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,2_Intermediate/eat_girl_S,Start
+   1,O
+  32
+
+#Temple of a Thousand Skies
+#First TOATS run gets every berry
+#except the b-06 berry
+Read,../StrawberryJamTAS/2_Intermediate_Lobby/int_15-17,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,2_Intermediate/temple_of_a_thousand_skies_S0,Start
+   1,O
+  32
+
+Read,2_Intermediate_Lobby/int_17-17,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,2_Intermediate/temple_of_a_thousand_skies_S1,Start
+   1,O
+  32
+
+#Square the Circle
+Read,../StrawberryJamTAS/2_Intermediate_Lobby/int_17-18,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,../2_Intermediate/square_the_circle,Start
+   1,O
+  32
+
+Read,2_Intermediate_Lobby/int_18-18,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,2_Intermediate/square_the_circle_S,Start
+   1,O
+  32
+
+#Raspberry Roots
+#Intermediate Heartside
+Read,../StrawberryJamTAS/2_Intermediate_Lobby/int_18-19,Start
+Read,../StrawberryJamTAS/EnterHeartside,Start
+Read,../StrawberryJamTAS/2_Intermediate/intermediate_heartside,Start
+   1,Q
+  32,J
+
+Read,2_Intermediate/intermediate_heartside_G,Start
+  61
+   1,O
+
+FileTime: 1:06:11.506(233618)

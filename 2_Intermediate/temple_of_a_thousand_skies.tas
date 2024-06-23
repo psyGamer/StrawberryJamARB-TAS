@@ -185,9 +185,9 @@ Read, ../StrawberryJamTAS/2_Intermediate/temple_of_a_thousand_skies, lvl_b-02 (2
 
 #lvl_b-07
 Read, ../StrawberryJamTAS/2_Intermediate/temple_of_a_thousand_skies, lvl_b-07, spinner cycle
-#spinner cycle [b-06]
+#Spinner Cycle [b-06]
    2
-##
+#####
    4,R,Z
    1,R,J
    8,D

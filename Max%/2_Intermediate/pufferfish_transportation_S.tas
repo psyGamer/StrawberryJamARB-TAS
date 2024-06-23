@@ -1,4 +1,4 @@
-RecordCount:
+RecordCount: 9612
 
 console load StrawberryJam2021/2-Intermediate/Rocketguy2
    1
@@ -6,13 +6,210 @@ console load StrawberryJam2021/2-Intermediate/Rocketguy2
 #Start
   76
 
+#Spinner Cycle [RG2-1]
+   1
+#####
+
 #lvl_RG2-0
+#+4f waiting for ability to pause
+   4
+#####
+   4,R,Z
+   2,R,J
+   8,R
+   1,R,J
+   4,R,D,X
+   1,R,J
+   7,R
+   9,R,J
+   1,S
+   1,D,J
+  34
+  10,R,D,X
+   1,R,J
+   5,R
+  14,R,D,X
+   1,R,J
+  12,R,D,X
+  40
+
+#lvl_RG2-1
+   2,R,D,X
+   1,R,J
+   5,R,D,X
+   1,S,N
+   1,D,J
+  34
    1,J
+   8,R,J
+   1,J
+   1,R,J
+#any%-start
+  14,L
+  10,L,X
+  27,R
+  10,D,G
+   1,G
+   1,D,G
+  12,G
+   1,R,J,G
+   2,R,K,G
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+   1,K,G
+   4,R,D
+  15,D
+   6
+   2,R
+   8,R,U,Z
+StunPause
+   2
+   2,J
+   2,R,J
+EndStunPause
+   5,R,J
+   3,R
+   1
+  16,R,D,X
+   1,R,J
+  40
 
+#lvl_RG2-2
+Read,../../StrawberryJamTAS/2_Intermediate/pufferfish_transportation.tas,lvl_RG2-2,lvl_RG2-4
 
+#lvl_RG2-4
+#Spinner Cycle [RG2-8]
+   0
+#####
+  15,R,J
+  10,R,X
+ 108
+   1,R
+  10,R,Z
+   1,R,J
+   8,R
+  15,D,X
+  10,R,D
+  99
+   5,R,J
+  42,R,K
+  15,R,U,X
+  21,R
+   8,R,X
+   8,R,J
+   5,R
+  12,R,J
+  18,R,X
+   4,R
+  15,R,X
+  12,R
+  15,R,J
+  15,R,X
+  22,R,D
+   1,R
+   9,R,D
+  39,R,J
+  15,R,U,X
+  27,L
+  18,U,X
+  31,R,D
+  21,R,D,X
+ 169
+   1,R,J
+   4,R,Z
+   1,R,J
+   9,R
+   1,R,J
+   8,R,Z
+   1,R,J
+   4,R
+  40
 
+#lvl_RG2-5
+Read,../../StrawberryJamTAS/2_Intermediate/pufferfish_transportation.tas,lvl_RG2-5,lvl_RG2-8
 
+#lvl_RG2-8
+   1,R,N
+   2
+   1,S
+   1,D,J
+  34
+#+5f do things
+  15,L,Z
+   4,L,V
+#  11,L,Z
+#####
+   1,R,J
+   2
+   5,R
+   1,R,J
+   2,R
+  15,R,X
+  12,R,D
+   1,R,G
+  10,R,D
+   7,D,AR,ML
+   5,AR,ML
+   1,AR
+   9,D,AR,ML
+   1,S,N
+   1,J
+   8
+   2,R,J,G
+  11,AR
+  16,R,D,G
+   5,R,G
+   1,R,D,G
+   9,R,G
+   1,S,N
+   1,J
+   8
+   2,R,J,G
+   1,S,N
+   1,J
+   8
+   2,R,K,G
+   1,S,N
+   1,J
+   8
+   2,R,J,G
+   1,S,N
+   1,J
+   8
+   2,R,K,G
+   1,S,N
+   1,J
+   8
+   2,R,J,G
+   1,S,N
+   1,J
+   8
+   2,R,K,G
+   1,S,N
+   1,J
+   8
+   2,R,J,G
+   1,S,N
+   1,J
+   8
+   2,R,K,G
+   1,R,J,G
+   1,R,K,G
+   6,R,J,G
+StunPause
+   1,R,J,G
+SkipInput,3,1
+   7,R,U,Z
+EndStunpause
+   7,R,U,Z
+  11,R
+   2
+  40
 
+#lvl_RG2-9
+Read,../../StrawberryJamTAS/2_Intermediate/pufferfish_transportation.tas,lvl_RG2-9
 
-
-ChapterTime: 
+ChapterTime: 0:53.771(3163)

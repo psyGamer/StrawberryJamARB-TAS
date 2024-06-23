@@ -1,4 +1,4 @@
-RecordCount:
+RecordCount: 6928
 
 console load StrawberryJam2021/2-Intermediate/Ice
    1
@@ -7,12 +7,177 @@ console load StrawberryJam2021/2-Intermediate/Ice
  190
 
 #lvl_a-01
+Read,../../StrawberryJamTAS/2_Intermediate/temple_of_a_thousand_skies.tas,lvl_a-01,lvl_a-02
+
+#lvl_a-02
+  10,R,D,X
+   1,R,J,G
+#any%-end
+   1,R
+   1
+   7,R
+  10,R,J
+   4,R
+   8,R,D,X
+   1,R,J,G
+   9,R
+   1,R,J
+   4,R
+   1,R,J
+   2,R
+  14,L,X
+   3,L,J
+  12,U,X
+#any%-start
+ 106,U,C
+   5,U,X
+  40
+
+#lvl_a-03
+Read,../../StrawberryJamTAS/2_Intermediate/temple_of_a_thousand_skies.tas,lvl_a-03,lvl_b-05 (0)
+
+#lvl_b-05 (0)
+  15,L,D,X
+   3,L,J
+   3,L
+   1
+  16,L,D,X
+   1,L
+   5,L,D
+  16,L,D,X
+  27,L
+   4,L,J
+   1,L,K
+  25,L,D,X
+   2,L,D,J
+   4,L
+  14,L,U,X
+   1,L,J,G
+  10,L
+   1,L,J
+   9,J
+  15,L,U,X
+   9,R
+   5,R,J
+  14,U,X
+   8,L,J
+   3,R,J
+   2,J
+   1,R,J
+   1,L,K,G
+   1,L,J,G
+   1,L,K,G
+  10,L
+#Spinner Cycle [b-07]
+   0
+#####
+   8,L,J
+  38,U,X
+  40
+
+#lvl_b-07
+  12
+   1,R
+   1
+  10,L,D,X
+   3,J
+   3,L,K,G
+   1,K
+   2,L,K
+   1,L,J,G
+  12,L,K,G
+  15,L,D,X
+   5,L,K
+  11,L
+  15,L,X
+   8,L
+  11
+  20,J
+   1,L,J
+   2,R,J
+   2,L,G
+  12,L,J,G
+   7,L
+   7,L,U,G
+   1,R,J
+  12,R,K
+  16,R
+   1,R,J
+  19,R,D
+  15,R,X
+  23,R,D
+  14,R,Z
+  45,R,J
+  14,R,X
+  10,R,J
+  15,R
+  28,R,G
+   1,D,G
+   1,G
+   1,D,G
+   1,G
+   1,D,G
+   1,G
    1,J
+   1,L,J
+   1,L
+   1,K
+   6,U,X
+  12,L,J
+StunPause
+  16,L,J
+   2,J
+   1,K
+   3,R,K
+EndStunPause
+   1,R,K
+  17,L,K
+   1,L,G
+  13,L,J,G
+  13,L,K,G
+  13,L,J,G
+  13,L,K,G
+   1,R,J
+  12,R,K
+   4,J
+   9,K
+   7,R
+   4,R,Z
+   1,R,J
+   7,R
+   3,R,J
+#any%-end
+  15,U,X
+  85,D
+#Spinner Cycle [b-06]
+   0,D
+#####
+  41,D,X
+  65,D
+  25,L,D
+  10,R,D,X
+   5,L,J
+  11,L
+  14,L,Z
+   1,L,J
+   5,L
+   1,L,J
+   9,L
+  19,D,X
+  40
 
+#lvl_b-05 (1)
+#any%-start
+Read,../../StrawberryJamTAS/2_Intermediate/temple_of_a_thousand_skies.tas,lvl_b-05 (1),lvl_b-06
 
+#lvl_b-06
+#any%-end
+#ARB-start
+Read,../../2_Intermediate/temple_of_a_thousand_skies.tas,lvl_b-06,lvl_b-05 (1)
 
+#lvl_b-05 (2)
+#ARB-end
+#any%-start
+Read,../../StrawberryJamTAS/2_Intermediate/temple_of_a_thousand_skies.tas,lvl_b-05 (2)
 
-
-
-
-ChapterTime: 
+ChapterTime: 2:05.392(7376)

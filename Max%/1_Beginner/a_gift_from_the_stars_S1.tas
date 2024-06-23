@@ -1,4 +1,4 @@
-RecordCount:
+RecordCount: 11522
 
 console load StrawberryJam2021/1-Beginner/HankyMueller
    1
@@ -7,12 +7,715 @@ console load StrawberryJam2021/1-Beginner/HankyMueller
   69
 
 #lvl_Intro A
+Read,../../StrawberryJamTAS/1_Beginner/a_gift_from_the_stars.tas,lvl_Intro A,lvl_Intro B
+
+#lvl_Intro B
+   7,L,J
+   4,L
+  15,L,U,X
+  22,L
+#any%-end
+  12,L,J,G
+  12,L,K,G
+  19,R,J
+  15,U,X
+  18,R
+  15,U,X
+#ARB-end
+  34,R
+  12,R,D
+   1,R
+  29,R,D
+   1,L,D
+   1,R,D
+   1,L,D
+   1,L
+   6,L,D
+   5,L
+   1,L,J
+  17,L
+   1,L,J
+  15,L
+   1,L,J
+   7,L
+   2,L,J
+   1,L
+   1,L,J
+   4,L
+   1,L,J
+   5,L
+   2,L,J
+   1,L
+#ARB-start
+  30,L
+   6,L,J
+   5,L
+   1,L,K
+#any%-start
+   1,L,J,G
+   1,L,K,G
+   9,L
+   1,L,J
+  14,L
+  25,L,J
+   2,L
+  14,L,U,X
+  11,L,J,G
+   2
+  15,U,X
+   5,L
+   1,L,J,G
+   1,L,K,G
+   1,L,J,G
+  13,L
+   1,L,J
+   3,L
+  40
+
+
+
+
+
+
+
+
+
+
+
+
+#   7,L,J
+#   4,L
+#any%-end
+#  15,L,U,X
+#  15,U,C
+#  15,U,X
+#   1,R,J,G
+#   8,R,G
+#   1,R,J,G
+#   3,L,J
+#   5,R,J
+#   1,R,K,G
+#   1,R,J,G
+#  58,R,D
+#  12,R,J
+#   4,R
+#  18,L
+#   1,L,J
+#  17,L
+#   1,L,J
+#  14,L
+#   1,L,J
+#  14,L
+#   2,L,J
+#   7,L
+#  26,L
+#   2
+#   2,L
+#   7,L,J
+#   3,L
+#any%-start
+#   1,L,J,G
+#   1,L,K,G
+#   9,L
+#   1,L,J
+#  14,L
+#  25,L,J
+#   2,L
+#  14,L,U,X
+#  11,L,J,G
+#   2
+#  15,U,X
+#   5,L
+#   1,L,J,G
+#   1,L,K,G
+#   1,L,J,G
+#  13,L
+#   1,L,J
+#   3,L
+#  40
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#lvl_Double Vision (0)
+   6,L,D,X
+   2,L,J
+  13,L
+  11
+  34,L,U,X
+  15,R,D
+   5,R
+   1,R,D
+  15,R
+   2,R,D
+   1,R
+  26,L
+  26,L,U,C
+  15,U,X
+  28,L,D
+   9,D
+   5,R,D,X
+   6,L,J
+  17,L,D
+   1,D
+   3
+  28,L,Z
+   1,L,J,G
+   1,L,K,G
+   1,K
+   5,L
+   1,L,K
+   2,L
+   2,L,K
+   2,L
+   1,L,J,G
+   4,L,K,G
+   1,S
+   1,D,J
+  34
+   9,L
+   2,L,K
+   7,L
+   5,L,D
    1,J
+  16,D
+  13,R,D
+  40
 
+#lvl_Waiting Room (0)
+  12,R
+  14,R,D
+   5,D
+  16,R,D
+   1,D
+   3,R,D
+#any%-end
+#ARB-start
+   8,L,D
+  23,L
+  40
 
+#lvl_Timestop Intro (0)
+Read,../../1_Beginner/a_gift_from_the_stars.tas,lvl_Timestop Intro (0),lvl_Shuffle
 
+#lvl_Shuffle
+   7,R
+  11,R,J,G
+   3,K
+#ARB-end
+  12,R,Z
+   4,L,J
+   3,L
+   1,L,J
+   3,L
+   1,L,J
+  23,L,D
+   1,L,J
+   5,L
+   2,L,J
+   1,L
+  18,L,J
+  12,U,X
+  31,L,J
+   2,J
+   1,K,G
+   1,R,K
+  12,L,K
+  15,U,X
+   1,R
+   1
+   1,R
+   2
+   1,R,J
+  17,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+  11,R
+   1,R,J,G
+  15,R,K,G
+  12,R,J,G
+   4,K,G
+  40
 
+#lvl_Double Vision (1)
+   1,L
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+  13,R
+   2,R,J
+   5,R
+   1,R,J
+   3,R
+  16,L
+  12,J,G
+   6,K,G
+  14,L,Z
+   1,R,J
+   6,R
+  11,R,J
+  20,R,D
+   6,L,D
+   7,R,D
+   6,L,D
+   1,L
+   1,L,D
+   3,L
+   1,R
+   3,R,J,G
+  15,R
+   1
+   3,R,J
+   1,R
+  37,R,X
+  32,L
+   2
+   4
+   9,R
+  15,U,X
+  15,R,U,C
+  47,R,D
+  15,R,X
+  19,R
+  15,R,U,X
+  47,R,D
+  14,R
+   1,R,D
+   1,R,J
+   1,R,K,G
+   2,R,J,G
+   1,J
+   7,R
+   4,R,J,G
+   7,R
+   1,R,J
+   1,R
+   2,R,J
+   9,R
+   1,L,J
+  12,L,D
+   4,D
+  14,R,D
+  40
 
+#lvl_Waiting Room (1)
+  12,R
+  14,R,D
+   5,D
+  16,R,D
+   1,D
+   3,R,D
+   8,L,D
+  23,L
+  40
 
+#lvl_Timestop Intro (1)
+  30,L
+   6,L,D
+  15,L,Z
+   2,L
+   5
+   1,R,J,G
+   5,J
+   3,L,J
+  81,L
+   1,R,J
+   7,R
+   7
+   1,J
+  13
+   1,R
+   1,J
+  14
+   1,J
+  14
+  17
+  17,J
+   1
+   1,J
+  13,U,Z
+   1,R,J
+   1,R,K,G
+  16,D
+  12,L,D
+   1,D
+   9,L,D
+   1,L,J
+  14,L
+  42,L,J
+  44,L,D
+   8,L
+   3
+  51,R,D
+  50,R,D
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+  18,R
+   1
+   1,R
+   1
+   3,R,J
+   1,R,K,G
+  13,R,J,G
+  15,R,U,X
+  33,R,D
+#(Weird Placement but it's fine)
+#Spinner Cycle [Staircase]
+   0,D
+#####
+  14,R,D,X
+   1,R,J
+   7,R
+   4,R,J
+  13,R
+  11
+   2,J
+   1,K,G
+   1,L,K
+  14,R,J,G
+   1,R,K,G
+   1,R,J,G
+   4,R
+   1,R,J
+  15,R,D
+  40
 
-ChapterTime: 
+#lvl_Timestop Intro Again
+   8,R,D,X
+   1,R,J
+  10,R
+   1,R,J
+   8,R
+#any%-start
+   1,G
+  62
+  15,R,X
+   1,J
+   1,K
+  15,L
+   6,J
+   6,L
+   3,L,J
+   3,L
+   3
+   1,L
+  14,L,X
+   1,R,J
+   4
+   6,R
+   3,F,
+   1,R,J
+  17,R,D
+   2,D
+   1,R,D,J
+   1,R,D,K
+   1,R,D,J
+   1,R,D,K
+   3,R,D,J
+  10,R
+  16,L
+   4,J,G
+   1
+   1,R
+  26,R
+   1
+   9,R
+   9,L,D,X
+   1,R,J
+  29,R
+  14,R,U,X
+   1,L,J,G
+   1,R,J
+   2,R
+   1
+   2,R
+   2,R,J
+  14,R,D
+   7,L,D
+   5,J,G
+   1,R,J
+   5,L,Z
+   1,L,J,G
+   1,J
+   5,L,J
+   5,L
+   4,L,J
+   1,J
+   4,L,J
+  34,L
+  15,L,X
+  24,L,D
+  15,L,D,X
+  11,L,D
+   2,L,J
+   3,L
+   3,L,J,G
+   1,L,K,G
+   9,L
+   2,L,K
+   1,L
+   1,L,J
+   4,L
+   1,J,G
+   5,L
+  10,R
+   1,R,J
+   5,R
+   1,R,J
+  12,R
+   1,R,J
+  14,R
+   1,R,J
+   9,R
+   2,R,J
+  10,R
+  10,R,J
+   1,J
+   1,R,K,G
+   1,R,J,G
+   5,R
+   1,R,K
+   4,R
+   1,R,K
+  12,R,D
+   1,R,J
+  14,R
+   4,R,J
+   3,R
+   1
+  21,R,D
+   8,L,D
+   3,L
+   1,D
+   1,L
+   8,L,Z
+   1,L,J
+  11,L
+   8,L,J
+   5,L
+  10,L,K
+  13,L
+   2,L,D,J
+   1,L,K,G
+   1,J,G
+   7,L
+   1,L,K
+   2,L
+   1,R
+   1
+   3,L
+   3,R
+   2,R,D
+   1,R
+  40
+
+#lvl_Stepping Stone
+Read,../../StrawberryJamTAS/1_Beginner/a_gift_from_the_stars.tas,lvl_Stepping Stone,lvl_Staircase
+
+#lvl_Staircase
+  14,L,D
+   6,L,D,X
+   4,L,J
+   2,L
+   1,L,J
+  13,L
+   2,L,D
+   2,R,D
+   3,D
+   8,R,D
+   1,D
+#any%-end
+  11,R,D
+   9,R
+   1,R,D
+   1,R,G
+   9,R,J,G
+  10,U,Z
+  15,R,J
+   5,R
+   1
+   1,R
+   2
+   1,R
+   2,L
+   8
+   8,L,D
+   1
+   4,D
+   4,L
+   1,R,D
+   7,R
+  97,R,G
+   1,U,G
+   1,R
+   4,R,J,G
+   2,R,K,G
+   1,R,J,G
+   4,R,K,G
+   7,R
+   8,R,D,J
+   5,R
+   3,R,J
+  25,R,D
+   1,J
+  16,R,D
+  39,L,D
+   1,L,J
+  14,L
+   1,L,J
+  18,L
+   1,L,J
+   5,L
+   1,L,J
+   7,L
+   6,R
+  19,L
+  46,L,U,X
+  28,L,C
+   1,L,D,J
+   1
+  13,L
+   1,L,D,J
+  14,L
+   1,L,J
+   1,L,K,G
+   1,L,J,G
+   7,L
+   4,L
+  19,R
+   1,J
+  14,R,K,G
+  10,L,J
+   1,L
+  12,R,K
+   7,R
+   1,J
+   3,L,J
+   1,R
+  19,L
+   1,L,J
+  17,L,D
+  38,R,D
+  10,R,J
+  15,R
+  26,R,U,Z
+  39,R,D
+  29,R,D,X
+   1,R,J,G
+   1,R,K,G
+  11,R
+   1,R,D,J
+   1,R
+   1
+   6,R
+   1,R,J,G
+  13,R
+   1,R,J
+   6,R
+   1,R,J
+   2,R,K,G
+   7,R
+   4
+  11,L
+   1
+   1,J
+   3,K,G
+   9,R,K
+   1,R,J,G
+   3,L,J
+   7,R,J
+   5,R,K,G
+   1,R
+   2,R,J,G
+   1,J
+   3,L,J
+   5,R,J
+   7,R
+   1,R,J
+   7,L,J
+   9,L
+   2,L,J
+   8,L
+   1,L,D
+   1,L
+   4,L,D
+   2,L,J
+   5,L
+   4,L,J
+   7,L
+   1
+   1,L,J,G
+   1,L,K,G
+  11,L
+   6,L,J
+   7,L
+#2/3 stun
+StunPause
+   2,L
+   1,L,J
+  11,L,D
+   1,L
+   1,L,D
+SkipInput 3 1
+   4,L,Z
+   1,L,J
+   7,L
+  10,L,D,J
+   2,L,K,G
+   1,K
+   2,L,K
+   4,L,J,G
+   2,L,K,G
+   6,L
+EndStunPause
+  18,L,D
+  12,L,J
+  15,L,D,X
+   6,R,D
+  15,L,D,X
+  21,L,D
+  14,R,D
+  40
+
+#lvl_End
+   4,R,D
+  12,R
+   2,L
+   8,L,D
+#any%-start
+  14,L,D,X
+   5,L,J
+  15,L,D,X
+   1,L,J
+  18,L
+   6,L,J
+   9,L
+   2,L,J
+  11,L
+   1,N
+ 154
+
+#lvl_End Cabin
+   4
+  10,R,X
+ 135
+
+ChapterTime: 1:52.472(6616)

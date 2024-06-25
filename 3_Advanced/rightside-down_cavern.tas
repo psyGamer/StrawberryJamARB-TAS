@@ -1,4 +1,4 @@
-RecordCount: 9901
+RecordCount: 9982
 
 console load StrawberryJam2021/3-Advanced/Vamp
    1
@@ -8,6 +8,7 @@ console load StrawberryJam2021/3-Advanced/Vamp
 
 #Spinner Cycle [Vamp_6]
    0
+#####
 
 #lvl_intro_SJ
    5,R,Z
@@ -89,16 +90,6 @@ EndRepeat
    1,R,U
   10,U
 #any%-start
-
-
-
-
-
-
-
-
-
-
   16,L,U
    3,U
    3
@@ -131,57 +122,6 @@ EndRepeat
    2,R,J
    5,R,K,G
   40
-
-
-
-
-
-
-
-
-
-
-
-#  16,L,U
-#   3,U
-#   3
-#   7,U
-#  14,R,U
-#  15,R,U,X
-#  15,L,U,C
-#  14,U
-#   3
-#   2,U
-#   1,R,U
-#   1,U
-#   9,R,U
-#   8,U
-#   6
-#  15,R,Z
-#  10,R
-#  14,R,U,X
-#   5,R,J
-#  15,R,U,X
-#   1,R
-#  27,R,J
-#   1,R
-#   7,L
-#   5,L,U
-#   1,L
-#   4,R,Z
-#   1,R,J
-#   6,R
-#   1,R,J
-#   6,R,K,G
-#  40
-
-
-
-
-
-
-
-
 
 #lvl_Vamp_2
 Read,../StrawberryJamTAS/3_Advanced/rightside-down_cavern.tas, lvl_Vamp_2, lvl_Vamp_6
@@ -226,73 +166,64 @@ Read,../StrawberryJamTAS/3_Advanced/rightside-down_cavern.tas, lvl_Vamp_2, lvl_V
    5,R
    4,R,J
    5,K,G
-   6,R,K
+   5,R,K
+   1,R
 #any%-start
   15,R,D,X
   16,R
-   1,R,J
-   1,R
-   1,K
-   8,L
-   3,R
-  13,R,Z
-   1,R,J
+  10,R,X
+   2,L,J
    1,L
-  15,R,U,X
+   1
    1,L
-   1,R,J
-   1,L,J
-   6,R,J
+   3
+  12,R,Z
+   3,R,J
+  17,R,U,X
+   8,R,U,J
    6,R,K,G
   15,R,U,X
-  16,R,J
-   5,R,U,J
-   4,R,K
-   5,R
-   4,R,J
-  12,R
-  15,R,X
-   7,R
-   2,L
-   1,R
-   4,J
-   3,K,G
-   7,R,J
-  15,D,X
+   5,R,U
+  10,R,J
 #any%-end
-   2,R
+   3,R,U,J
+   2,R,U
+  26,R,K
+  12,R,U
+   2
+   1,U
+   1,R,J,G
+   1,L,J
+   9,R,J
+  15,D,X
+   1,R
 StunPause
-   4,R
+   6,R
    1
-   3,R
+   2,R
    4,J
    1,R,J
 SkipInput 3 1
   15,D,X
-   1,R,J
 EndStunPause
    5,R,J
-  27,R,U
-   7,U
-   1
-   1,L
-   1
-   1,L
-   1,U
-   2
-   4,R,Z
+   9,R
+   1,R,J
+  11,R,U
+  19,U
+   5,R,Z
 #any%-start
    1,R,J
-   7,R
+   6,R
+   3,R,J
+   8,R,U,X
+   2,R,J,G
+   5,R
    1,R,J
-   2,R
-   6,R,U,X
-   1,R,J,G
-   1,L,J
-   7,R,J
+   3,R
   40
 
 #lvl_Vamp_7
 Read,../StrawberryJamTAS/3_Advanced/rightside-down_cavern.tas, lvl_Vamp_7
 
-ChapterTime: 1:08.952(4056)
+ChapterTime: 1:08.527(4031)

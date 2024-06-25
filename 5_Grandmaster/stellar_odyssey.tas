@@ -1,4 +1,4 @@
-RecordCount: 4365
+RecordCount: 4369
 
 console load StrawberryJam2021/5-Grandmaster/Ecl1psed
    1
@@ -228,9 +228,10 @@ Read,../StrawberryJamTAS/5_Grandmaster/stellar_odyssey,Start,lvl_a-03 (0)
   40
 
 #lvl_a-03b
+   1,R,Z
   10,L,D,X
-### spinner cycle [a-03b]
-   1,L,D,X
+#Spinner Cycle [a-03b]
+   0,L,D,X
 ###
    4,R,J
 StunPause

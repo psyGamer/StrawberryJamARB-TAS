@@ -1,4 +1,4 @@
-RecordCount: 3739
+RecordCount: 3744
 
 set Language english
 console load StrawberryJam2021/3-Advanced/Oppen
@@ -560,11 +560,11 @@ console load StrawberryJam2021/3-Advanced/Oppen
    1,O
    1
    1,O
-  79
+  85
    1,O
   27
   15,L,C
-  26
+  30
    6,R
   10,R,Z
    1,R,J
@@ -584,4 +584,4 @@ console load StrawberryJam2021/3-Advanced/Oppen
   13,L,U,Z
  135,L,G
 
-ChapterTime: 1:04.464(3792)
+ChapterTime: 1:04.379(3787)

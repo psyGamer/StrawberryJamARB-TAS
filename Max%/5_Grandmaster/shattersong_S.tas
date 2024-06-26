@@ -6,10 +6,14 @@
 #- intermission rooms
 #- reduce stun pauses
 
-RecordCount: 5536
+RecordCount: 5542
+
+Set,SaveData.Instance.CheatMode,true
 
 console load StrawberryJam2021/5-Grandmaster/Hydro
    1
+
+console flag Hydro_silverberry 1
 
 #Start
  190
@@ -294,4 +298,4 @@ EndStunPause
 #lvl_Welcome Again
 Read,../../StrawberryJamTAS/5_Grandmaster/shattersong.tas,lvl_Welcome Again
 
-ChapterTime: 0:57.681(3393)
+ChapterTime: 0:57.443(3379)

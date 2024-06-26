@@ -1,4 +1,4 @@
-RecordCount: 41223
+RecordCount: 41224
 
 console load StrawberryJam2021/5-Grandmaster/ZZ-HeartSide
    1
@@ -141,12 +141,145 @@ console load StrawberryJam2021/5-Grandmaster/ZZ-HeartSide
   40,J
 
 #lvl_a2_17-Todd
-Read,../../StrawberryJamTAS/5_Grandmaster/grandmaster_heartside.tas,lvl_a2_17-Todd,lvl_d3_07-Maya
+Read,../../StrawberryJamTAS/5_Grandmaster/grandmaster_heartside.tas,lvl_a2_17-Todd,lvl_d2_08-Aiden
+
+#lvl_d2_08-Aiden
+#any%-end
+  98
+   6,R,D,C
+   1,R,J
+   7,R
+   1,R,J
+   9,R,D,X
+  13,G
+   9,R,J,G
+   6,R,G
+   7,R,K,G
+   6,R,G
+   1
+  18,R,U,Z
+   7
+  11,U,C
+  13,G
+  13,L,G
+  27,R,D,G
+  27,D,G
+  21,R,G
+  26,D,G
+   8,L,D,G
+  15,D,G
+   2,L,D,G
+   6,D,G
+#any%-start
+   1,D
+  14,R,D,X
+   1,L,J
+   8,L,D,X
+  17,L,J,G
+  29,L,K,G
+   1,R,K
+   4,L,K
+  13,L,U,Z
+   7,L,J,G
+   1,J
+   1,R,K,G
+   7,L,K
+   5,L
+   1,L,J
+   4,L
+   1,J,G
+   5,L,J
+   2,L
+   7,R
+   1,R,J
+   8,R
+   5,R,J
+  41,R
+  17,R,J
+   1,R,K,G
+   1,R,J,G
+   3
+   4,R
+   4
+  18,R,J
+  41,R
+   1,R,D
+   1,D
+   4,R,Z
+   1,R,J
+   8,R
+   1
+   1,L,J
+  13,G
+   1,J,G
+   1,K,G
+  16,R,K,G
+   2,K,G
+   1,J,G
+   3,L,J,G
+   1,R,J
+  14,U,X
+  24,L,G
+   1,D
+  10,U,X
+  14,G
+   8,L,G
+  43,R,G
+   1,R
+  14,R,Z
+  18,R,D
+   9,R
+   5
+  21,G
+   8,L,G
+   2,G
+  45,R,D,G
+   2,D,G
+   4,R,D,G
+   2
+   6,L
+  15,L,U,X
+  20,R,D,C
+   2,D
+   1,R,J
+   1,R,K
+   1,J
+   1
+   2,R
+  13,G
+  30,D,G
+   1,G
+   1,R,D,G
+   1,R,G
+   1,R
+  23,R,Z
+   1,J,G
+   5
+   1,R
+   2
+   1,L
+   1,L,K
+   4,L
+   7,L,Z
+   1,R,J
+   5,R
+   1,R,D,J
+   1,R
+   6,R,D,X
+  13,G
+  31,R,J,G
+   1,R
+  15,L,D,X
+   5,R,D
+   8,D,X
+#any%-end
+ 187
 
 #if you want to just see a white
 #void in this room, you can turn off
 #simplified graphics in the any% file
 #lvl_d3_07-Maya
+#any%-start
 Read,../../StrawberryJamTAS/5_Grandmaster/grandmaster_heartside.tas,lvl_d3_07-Maya,lvl_f2_02-Soloiini
 
 #lvl_f2_02-Soloiini
@@ -399,8 +532,8 @@ endrepeat
   11,R,K,G
    5,R
    2
-#Spinner Cycle for flag 1
-   0
+#Spinner Cycle [Flag 1]
+   1
 #####
    8,R,Z
    1,R,J
@@ -419,4 +552,4 @@ endrepeat
 #lvl_f3_01-Hydro
 Read,../../StrawberryJamTAS/5_Grandmaster/grandmaster_heartside.tas,lvl_f3_01-Hydro
 
-ChapterTime: 7:09.522(25266)
+ChapterTime: 7:09.471(25263)

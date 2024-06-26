@@ -1,0 +1,261 @@
+#This file was made based off the files in the GL folder.
+Unsafe
+Set,SpeedrunClock,2
+#This will wipe the debug save!
+#Uncomment at your own peril.
+console clrsav
+console load StrawberryJam2021/0-Lobbies/5-Grandmaster
+EnforceMaingame
+   1
+
+#Start
+#Flipside Cliffside
+Read,../StrawberryJamTAS/5_Grandmaster_Lobby/gm_0-18,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,../5_Grandmaster/flipside_cliffside,Start
+   1,O
+  32
+
+Read,5_Grandmaster_Lobby/gm_18-18,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,5_Grandmaster/flipside_cliffside_S,Start
+   1,O
+  32
+
+#Fractured Iridescence
+Read,../StrawberryJamTAS/5_Grandmaster_Lobby/gm_18-10,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,../StrawberryJamTAS/5_Grandmaster/fractured_iridescence,Start
+   1,O
+  32
+
+Read,5_Grandmaster_Lobby/gm_10-10,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,5_Grandmaster/fractured_iridescence_S,Start
+   1,O
+  32
+
+#Belly of the Beast
+Read,../StrawberryJamTAS/5_Grandmaster_Lobby/gm_10-11,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,../StrawberryJamTAS/5_Grandmaster/belly_of_the_beast,Start
+   1,O
+  32
+
+Read,5_Grandmaster_Lobby/gm_11-11,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,5_Grandmaster/belly_of_the_beast_S,Start
+   1,O
+  32
+
+#World Abyss
+Read,../StrawberryJamTAS/5_Grandmaster_Lobby/gm_11-12,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,../StrawberryJamTAS/5_Grandmaster/world_abyss,Start
+   1,O
+  32
+
+Read,5_Grandmaster_Lobby/gm_12-12,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,5_Grandmaster/world_abyss_S,Start
+   1,O
+  32
+
+#The Solar Express
+Read,../StrawberryJamTAS/5_Grandmaster_Lobby/gm_12-13,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,../5_Grandmaster/the_solar_express,Start
+   1,O
+  32
+
+Read,5_Grandmaster_Lobby/gm_13-13,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,5_Grandmaster/the_solar_express_S,Start
+   1,O
+  32
+
+#Drifting Deep
+Read,../StrawberryJamTAS/5_Grandmaster_Lobby/gm_13-14,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,../5_Grandmaster/drifting_deep,Start
+   1,O
+  32
+
+Read,5_Grandmaster_Lobby/gm_14-14,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,5_Grandmaster/drifting_deep_S,Start
+   1,O
+  32
+
+#Summit
+Read,../StrawberryJamTAS/5_Grandmaster_Lobby/gm_14-15,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,../5_Grandmaster/summit,Start
+   1,O
+  32
+
+Read,5_Grandmaster_Lobby/gm_15-15,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,5_Grandmaster/summit_S,Start
+   1,O
+  32
+
+#kevintechspam.bin
+Read,../StrawberryJamTAS/5_Grandmaster_Lobby/gm_15-17,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,../StrawberryJamTAS/5_Grandmaster/kevintechspam,Start
+   1,O
+  32
+
+Read,5_Grandmaster_Lobby/gm_17-17,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,5_Grandmaster/kevintechspam_S,Start
+   1,O
+  32
+
+#Ivory
+Read,../StrawberryJamTAS/5_Grandmaster_Lobby/gm_17-16,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,../5_Grandmaster/ivory,Start
+   1,O
+  32
+
+Read,5_Grandmaster_Lobby/gm_16-16,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,5_Grandmaster/ivory_S,Start
+   1,O
+  32
+
+#Lava Layer
+Read,../StrawberryJamTAS/5_Grandmaster_Lobby/gm_16-0,Start
+Read,../StrawberryJamTAS/5_Grandmaster_Lobby/gm_0-2,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,../5_Grandmaster/lava_layer,Start
+   1,O
+  32
+
+Read,5_Grandmaster_Lobby/gm_2-2,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,5_Grandmaster/lava_layer_S,Start
+   1,O
+  32
+
+#Superluminary
+Read,../StrawberryJamTAS/5_Grandmaster_Lobby/gm_2-3,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,../5_Grandmaster/superluminary,Start
+   1,O
+  32
+
+Read,5_Grandmaster_Lobby/gm_3-3,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,5_Grandmaster/superluminary_S,Start
+   1,O
+  32
+
+#Cave of the Crimson Sky
+Read,../StrawberryJamTAS/5_Grandmaster_Lobby/gm_3-1,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,../5_Grandmaster/cave_of_the_crimson_sky,Start
+   1,O
+  32
+
+Read,5_Grandmaster_Lobby/gm_1-1,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,5_Grandmaster/cave_of_the_crimson_sky_S,Start
+   1,O
+  32
+
+#Pinball Purgatory
+Read,../StrawberryJamTAS/5_Grandmaster_Lobby/gm_1-4,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,../5_Grandmaster/pinball_purgatory,Start
+   1,O
+  32
+
+Read,5_Grandmaster_Lobby/gm_4-4,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,5_Grandmaster/pinball_purgatory,Start
+   1,O
+  32
+
+#Shattersong
+Read,../StrawberryJamTAS/5_Grandmaster_Lobby/gm_4-5,Start
+Read,../StrawberryJamTAS/EnterPostcard,Start
+Read,../5_Grandmaster/shattersong,Start
+   1,O
+  32
+
+Read,5_Grandmaster_Lobby/gm_5-5,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,5_Grandmaster/shattersong_S,Start
+   1,O
+  32
+
+#Nelumbo
+Read,../StrawberryJamTAS/5_Grandmaster_Lobby/gm_5-6,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,../5_Grandmaster/nelumbo,Start
+   1,O
+  32
+
+Read,5_Grandmaster_Lobby/gm_6-6,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,5_Grandmaster/nelumbo_S,Start
+   1,O
+  32
+
+#Stellar Odyssey
+Read,../StrawberryJamTAS/5_Grandmaster_Lobby/gm_6-7,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,5_Grandmaster/stellar_odyssey_S0,Start
+   1,O
+  32
+
+Read,5_Grandmaster_Lobby/gm_7-7,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,5_Grandmaster/stellar_odyssey_S1,Start
+   1,O
+  32
+
+#74
+Read,../StrawberryJamTAS/5_Grandmaster_Lobby/gm_7-8,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,../5_Grandmaster/74,Start
+   1,O
+  32
+
+Read,5_Grandmaster_Lobby/gm_8-8,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,5_Grandmaster/74_S,Start
+   1,O
+  32
+
+#Cycle Madness B-Side
+Read,../StrawberryJamTAS/5_Grandmaster_Lobby/gm_8-9,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,../5_Grandmaster/cycle_madness_b-side,Start
+   1,O
+  32
+
+Read,5_Grandmaster_Lobby/gm_9-9,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,5_Grandmaster/cycle_madness_b-side_S,Start
+   1,O
+  32
+
+#Getting Rainbow
+#+
+#Passionfruit Pantheon
+#Grandmaster Heartside
+Read,5_Grandmaster_Lobby/gm_9-Rainbow-19,Start
+Read,../StrawberryJamTAS/EnterHeartside,Start
+Read,../StrawberryJamTAS/5_Grandmaster/grandmaster_heartside,Start
+   1,Q
+  32,J
+
+Read,5_Grandmaster/grandmaster_heartside_G,Start
+  61
+   1,O
+
+FileTime: 1:23:55.009(296177)

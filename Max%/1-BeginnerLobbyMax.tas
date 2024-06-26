@@ -1,0 +1,301 @@
+#This file was made based off the files in the BL folder.
+Unsafe
+#This will wipe the debug save!
+#Uncomment at your own peril.
+console clrsav
+console load StrawberryJam2021/0-Lobbies/1-Beginner
+EnforceMaingame
+   1
+
+#Start
+#Loopy Lagoon
+Read,../StrawberryJamTAS/1_Beginner_Lobby/beg_0-1,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,../1_Beginner/loopy_lagoon,Start
+   1,O
+  32
+
+Read,1_Beginner_Lobby/beg_1-1,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,1_Beginner/loopy_lagoon_S,Start
+   1,O
+  32
+
+#Forest Path
+Read,../StrawberryJamTAS/1_Beginner_Lobby/beg_1-11,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,../1_Beginner/forest_path,Start
+   1,O
+  32
+
+Read,1_Beginner_Lobby/beg_11-11,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,1_Beginner/forest_path_S,Start
+   1,O
+  32
+
+#Azure Caverns
+Read,../StrawberryJamTAS/1_Beginner_Lobby/beg_11-12,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,../1_Beginner/azure_caverns,Start
+   1,O
+  32
+
+Read,1_Beginner_Lobby/beg_12-12,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,1_Beginner/azure_caverns_S,Start
+   1,O
+  32
+
+#If My "Driveway" almost did you in...
+Read,../StrawberryJamTAS/1_Beginner_Lobby/beg_12-10,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,../1_Beginner/if_my_driveway,Start
+   1,O
+  32
+
+Read,1_Beginner_Lobby/beg_10-10,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,1_Beginner/if_my_driveway_S,Start
+   1,O
+  32
+
+#Treehive
+Read,../StrawberryJamTAS/1_Beginner_Lobby/beg_10-9,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,../1_Beginner/treehive,Start
+   1,O
+  32
+
+Read,1_Beginner_Lobby/beg_9-9,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,1_Beginner/treehive_S,Start
+   1,O
+  32
+
+#Rose Garden
+Read,../StrawberryJamTAS/1_Beginner_Lobby/beg_9-8,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,../StrawberryJamTAS/1_Beginner/rose_garden,Start
+   1,O
+  32
+
+Read,1_Beginner_Lobby/beg_8-8,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,1_Beginner/rose_garden_S,Start
+   1,O
+  32
+
+#Collapsing Skyline
+Read,../StrawberryJamTAS/1_Beginner_Lobby/beg_8-2,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,../1_Beginner/collapsing_skyline,Start
+   1,O
+  32
+
+Read,1_Beginner_Lobby/beg_2-2,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,1_Beginner/collapsing_skyline_S,Start
+   1,O
+  32
+
+#Over the City
+Read,../StrawberryJamTAS/1_Beginner_Lobby/beg_2-3,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,../1_Beginner/over_the_city,Start
+   1,O
+  32
+
+Read,1_Beginner_Lobby/beg_3-3,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,1_Beginner/over_the_city_S,Start
+   1,O
+  32
+
+#Switchtube Vista
+Read,../StrawberryJamTAS/1_Beginner_Lobby/beg_3-4,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,../1_Beginner/switchtube_vista,Start
+   1,O
+  32
+
+Read,1_Beginner_Lobby/beg_4-4,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,1_Beginner/switchtube_vista_S,Start
+   1,O
+  32
+
+#A Gift from the Stars
+Read,../StrawberryJamTAS/1_Beginner_Lobby/beg_4-5,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,1_Beginner/a_gift_from_the_stars_S0,Start
+   1,O
+  32
+
+Read,1_Beginner_Lobby/beg_5-5,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,1_Beginner/a_gift_from_the_stars_S1,Start
+   1,O
+  32
+
+#Troposphere
+Read,../StrawberryJamTAS/1_Beginner_Lobby/beg_5-6,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,../1_Beginner/troposphere,Start
+   1,O
+  32
+
+Read,1_Beginner_Lobby/beg_6-6,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,1_Beginner/troposphere_S,Start
+   1,O
+  32
+
+#Potential for Anything
+Read,../StrawberryJamTAS/1_Beginner_Lobby/beg_6-7,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,../1_Beginner/potential_for_anything,Start
+   1,O
+  32
+
+Read,1_Beginner_Lobby/beg_7-7,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,1_Beginner/potential_for_anything_S,Start
+   1,O
+  32
+
+#The Squeeze
+Read,../StrawberryJamTAS/1_Beginner_Lobby/beg_7-13,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,../1_Beginner/the_squeeze,Start
+   1,O
+  32
+
+Read,1_Beginner_Lobby/beg_13-13,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,1_Beginner/the_squeeze_S,Start
+   1,O
+  32
+
+#Strawberry Orchard
+Read,../StrawberryJamTAS/1_Beginner_Lobby/beg_13-14,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,../1_Beginner/strawberry_orchard,Start
+   1,O
+  32
+
+Read,1_Beginner_Lobby/beg_14-14,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,1_Beginner/strawberry_orchard_S,Start
+   1,O
+  32
+
+#Paint
+Read,../StrawberryJamTAS/1_Beginner_Lobby/beg_14-15,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,../1_Beginner/paint,Start
+   1,O
+  32
+
+Read,1_Beginner_Lobby/beg_15-15,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,1_Beginner/paint_S,Start
+   1,O
+  32
+
+#Coresaken City
+Read,../StrawberryJamTAS/1_Beginner_Lobby/beg_15-16,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,../1_Beginner/coresaken_city,Start
+   1,O
+  32
+
+Read,1_Beginner_Lobby/beg_16-16,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,1_Beginner/coresaken_city_S,Start
+   1,O
+  32
+
+#Dropzle
+Read,../StrawberryJamTAS/1_Beginner_Lobby/beg_16-17,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,../1_Beginner/dropzle,Start
+   1,O
+  32
+
+Read,1_Beginner_Lobby/beg_17-17,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,1_Beginner/dropzle_S,Start
+   1,O
+  32
+
+#Soap
+Read,1_Beginner_Lobby/beg_17-18alt,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,../1_Beginner/soap,Start
+   1,O
+  32
+
+Read,1_Beginner_Lobby/beg_18-18,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,1_Beginner/soap_S,Start
+   1,O
+  32
+
+#Seeing is Believing
+Read,../StrawberryJamTAS/1_Beginner_Lobby/beg_18-19,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,../1_Beginner/seeing_is_believing,Start
+   1,O
+  32
+
+Read,1_Beginner_Lobby/beg_19-19,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,1_Beginner/seeing_is_believing_S,Start
+   1,O
+  32
+
+#Cassette Cliffs
+Read,../StrawberryJamTAS/1_Beginner_Lobby/beg_19-20,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,../1_Beginner/cassette_cliffs,Start
+   1,O
+  32
+
+Read,1_Beginner_Lobby/beg_20-20,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,1_Beginner/cassette_cliffs_S,Start
+   1,O
+  32
+
+#Midnight Spire
+Read,../StrawberryJamTAS/1_Beginner_Lobby/beg_20-21,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,../1_Beginner/midnight_spire,Start
+   1,O
+  32
+
+Read,1_Beginner_Lobby/beg_21-21,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,1_Beginner/midnight_spire_S,Start
+   1,O
+  32
+
+#Getting Rainbow
+Read,1_Beginner_Lobby/beg_21-0,Start
+Read,1_Beginner_Lobby/beg_0-Rainbow-B,Start
+
+#Blueberry Bay
+#Beginner Heartside
+Read,1_Beginner_Lobby/beg_B-D,Start
+Read,../StrawberryJamTAS/1_Beginner_Lobby/beg_D-22,Start
+Read,../StrawberryJamTAS/EnterHeartSide,Start
+Read,../StrawberryJamTAS/1_Beginner/beginner_heartside,Start
+   1,Q
+  32,J
+
+Read,1_Beginner/beginner_heartside_G,Start
+  61
+   1,O
+
+FileTime: 1:05:01.687(229511)

@@ -1,4 +1,4 @@
-RecordCount: 9052
+RecordCount: 9053
 
 console load StrawberryJam2021/4-Expert/fonda1515
    1
@@ -459,23 +459,35 @@ Read,../StrawberryJamTAS/4_Expert/clockwork.tas,lvl_a-08,lvl_a-09
 
 #lvl_a-09 (0)
   69
-  10,R,Z
+   4,R,Z
+   1,R,J
+   3
+   1,J
+   3
    3,R,J
-   2,J
   14,R,U,X
-  20,R,J,G
-   9,K,G
-   7,R
-  10,R,X
-   5,R,J
-  10,R,U,X
+   1,J,G
+   6
+   3,R
+   1,R,D,J
+   1,R
+   2
+  14,R,U,X
+   1,R,K,G
+   9,R
+   1,R,J
+   1,R
+  12,R,U,X
    1,R,J,G
    9,R
-   6,R,D,X
    1,R,J
-   7,R
-  19,R,J
-  13,U,X
+   7,R,D,X
+   1,R,J
+   3,R
+   1,R,J
+   3,R
+  14,R,J
+  14,U,X
   38
   15,U,X
   15,L,C
@@ -513,32 +525,42 @@ Read,../StrawberryJamTAS/4_Expert/clockwork.tas,lvl_a-08,lvl_a-09
   29,R,D
   15,R,X
   14,R,C
-  26,R,J
+  22,R,J
+   2,J
+   1,R,J
+   1,J
   12,U,X
-  16,R,J
-   7,R
-   3,R,J
-  24,R
+   2,R,J
+   6,R
+   1,R,J,G
+   5,R,K,G
+   5,R
+   1,R,J
+  15,R,D
   10,D,X
    5,R
-  15,D,X
+  15,D,C
+   8,D,X
+   7,R
+  15,D,C
+  10,D,X
+   5,R
+  11,D,C
+   4,R
+  13,D,X
+   2,R
   15,D,C
   15,D,X
-  15,D,C
-  15,D,X
-  15,D,C
-  15,D,X
-  21,D,C
-  56,R
+  62,R,D
   19,R,X
   15,R,C
-   7,R,U,X
-  29,R
-  13,U,X
-  29,R
+   9,R,U,Z
+  28,R
+  12,U,X
+  30,R
   13,U,Z
   23,R
-  17,R,U,X
+  15,R,U,X
   45
   15,U,X
   31
@@ -554,14 +576,12 @@ Read,../StrawberryJamTAS/4_Expert/clockwork.tas,lvl_a-08,lvl_a-09
   20,D
    4,R,D
    1,D
- 116,R,D
-  10,R,D
+ 126,R,D
   23,R,D,X
    3,R
   10
    1,R
-  53,D
- 146,D
+ 199,D
   18,J
   17,U,X
 #any%-end
@@ -690,4 +710,4 @@ Read,../StrawberryJamTAS/4_Expert/clockwork.tas,lvl_a-08,lvl_a-09
    1,R,J
   57,R
 
-ChapterTime: 4:17.584(15152)
+ChapterTime: 4:16.853(15109)

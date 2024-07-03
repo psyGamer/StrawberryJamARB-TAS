@@ -1,10 +1,67 @@
-RecordCount: 861
+RecordCount: 872
 
 console load StrawberryJam2021/1-Beginner/Jadeturtle
    1
 
 #Start
-Read,../StrawberryJamTAS/1_Beginner/strawberry_orchard,Start,lvl_a-02y
+Read,../StrawberryJamTAS/1_Beginner/strawberry_orchard,Start,lvl_a-01z
+
+#lvl_a-01z
+   2,R,J,G
+   5,R,G
+   1,R,J,G
+   1,R,G
+   1,R,J,G
+   4,R,G
+   4,R,J,G
+   1,R,J
+  42,R,U,X
+   1,R
+   4,Z
+   4,R,J
+   3,R
+  14,R,G
+   7,G
+   5
+   3,R
+  10,R,D,X
+   4,R,J
+   1,R
+   7,R,J
+   7,R
+  15,R,U,Z
+   1
+   1,L
+   2,L,J,G
+   1,L
+   4
+   3,L
+   1
+   5,R,X
+#any%-end
+#old any% inputs for
+#the rest of this room
+#and for the next room
+  28,R,D,G
+   1,R,J,G
+   3,R,G
+   1,R,J
+  14,L,D,X
+   1,R,J
+   5,R,D,X
+   1,R,J,G
+  14,R
+   1,R,J
+   7,R,D,X
+  13,R,G
+   6,R,K,G
+   9,R,G
+  10,R,K,G
+   1,R,J,G
+  14,R,G
+   1,R,J,G
+   3,R,G
+  40
 
 #lvl_a-02y
   11,R,G
@@ -23,7 +80,6 @@ Read,../StrawberryJamTAS/1_Beginner/strawberry_orchard,Start,lvl_a-02y
   29,R
   11,U,C
   14,R,J
-#any%-end
    6,R
    5
   10,R,D,X

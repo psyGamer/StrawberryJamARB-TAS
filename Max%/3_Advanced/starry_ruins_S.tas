@@ -1,4 +1,4 @@
-RecordCount: 5865
+RecordCount: 5896
 
 console load StrawberryJam2021/3-Advanced/Indecx
    1
@@ -6,14 +6,16 @@ console load StrawberryJam2021/3-Advanced/Indecx
 #Start
  190
 
-#Spinner cycle [8]
-   0
+#Spinner cycle [lvl_8]
+   1
+#####
 
 #lvl_1
    8,J
    5,R,J
   13,R,D,X
-#any%-start
+#based off old
+#any% inputs for lvl_1 ~ lvl_2
    9,R,J
   15,R,D,X
    2,R
@@ -22,6 +24,24 @@ console load StrawberryJam2021/3-Advanced/Indecx
   40
 
 #lvl_2
-Read,../../StrawberryJamTAS/3_Advanced/starry_ruins.tas,lvl_2
+   4,R
+   1
+  12,R,U,X
+   1,K,G
+  39,D
+   1
+   7,R
+   1
+   4,R
+#any%-start
+  15,U,X
+  10,R
+  14,R,Z
+   1,R,J
+  14,R,D,X
+  40
 
-ChapterTime: 0:41.174(2422)
+#lvl_3
+Read,../../StrawberryJamTAS/3_Advanced/starry_ruins.tas,lvl_3
+
+ChapterTime: 0:40.698(2394)

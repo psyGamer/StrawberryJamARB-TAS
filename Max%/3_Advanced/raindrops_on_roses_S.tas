@@ -1,5 +1,5 @@
 #By Kataiser
-RecordCount: 7716
+RecordCount: 7717
 
 console load StrawberryJam2021/3-Advanced/Worldwaker2
    1
@@ -65,8 +65,9 @@ Read,../../StrawberryJamTAS/3_Advanced/raindrops_on_roses.tas,lvl_2 (0),lvl_2 (1
   11,R,K
   12,R,J,G
    7,R
-#spinner cycle
+#Spinner Cycle [lvl_6]
    1
+#####
   15,U,X
   18,R,J
    1,R,K,G
@@ -80,7 +81,7 @@ Read,../../StrawberryJamTAS/3_Advanced/raindrops_on_roses.tas,lvl_2 (0),lvl_2 (1
 Read,../../StrawberryJamTAS/3_Advanced/raindrops_on_roses.tas,lvl_6,lvl_7
 
 #lvl_7
-  11,R,U,X
+   8,R,U,X
   10,R,J,G
   11,R
   14,R,U,X
@@ -162,7 +163,7 @@ Repeat 3
    2
 EndRepeat
   12
-#
+#####
    3,L
    6,L,J
   14,R,D,X
@@ -204,9 +205,9 @@ EndRepeat
    1,L
   10,L,K,G
    7,L
-#spinner cycle
+#Spinner Cycle [lvl_7]
    2
-#
+#####
    6,L,D,X
    1,R,J,G
   13,R,K,G
@@ -258,7 +259,6 @@ EndStunPause
   43
 
 #lvl_8
-#didn't test right route
 Read,../../StrawberryJamTAS/3_Advanced/raindrops_on_roses.tas,lvl_8
 
-ChapterTime: 1:34.044(5532)
+ChapterTime: 1:33.517(5501)

@@ -1,4 +1,4 @@
-RecordCount: 9982
+RecordCount: 9985
 
 console load StrawberryJam2021/3-Advanced/Vamp
    1
@@ -209,9 +209,29 @@ EndStunPause
    5,R,J
    9,R
    1,R,J
+
+#Spinner Cycle [Vamp_8]
+
+#+0f:
   11,R,U
   19,U
    5,R,Z
+###
+
+#+1f:
+#   9,R,U
+#  21,U
+#   6,R,Z
+###
+
+#+2f:
+#   7,R,U
+#  23,U
+#   7,R,Z
+###
+
+#####
+
 #any%-start
    1,R,J
    6,R
@@ -226,4 +246,4 @@ EndStunPause
 #lvl_Vamp_7
 Read,../StrawberryJamTAS/3_Advanced/rightside-down_cavern.tas, lvl_Vamp_7
 
-ChapterTime: 1:08.017(4001)
+ChapterTime: 1:07.847(3991)

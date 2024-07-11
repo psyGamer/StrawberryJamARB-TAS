@@ -248,12 +248,11 @@ Read,2_Intermediate/square_the_circle_S,Start
 
 #Getting Rainbow
 Read,2_Intermediate_Lobby/int_18-0,Start
-Read,2_Intermediate_Lobby/int_0-Rainbow,Start
+Read,2_Intermediate_Lobby/int_0-Rainbow-B,Start
 
 #Raspberry Roots
 #Intermediate Heartside
-Read,2_Intermediate_Lobby/int_0-A,Start
-Read,2_Intermediate_Lobby/int_A-E,Start
+Read,2_Intermediate_Lobby/int_B-E,Start
 Read,2_Intermediate_Lobby/int_E-19,Start
 Read,../StrawberryJamTAS/EnterHeartside,Start
 Read,../StrawberryJamTAS/2_Intermediate/intermediate_heartside,Start
@@ -264,4 +263,4 @@ Read,2_Intermediate/intermediate_heartside_G,Start
   61
    1,O
 
-FileTime: 1:06:26.908(234524)
+FileTime: 1:06:22.607(234271)

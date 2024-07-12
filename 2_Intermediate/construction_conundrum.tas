@@ -1,4 +1,4 @@
-RecordCount: 558
+RecordCount: 990
 
 console load StrawberryJam2021/2-Intermediate/thebreadstick1
    1
@@ -13,67 +13,96 @@ console load StrawberryJam2021/2-Intermediate/thebreadstick1
   40
 
 #lvl_a-000
-  12,L
-   1,L,J
    1,L
-  15,U,X
-   2,L
-   1
-   1,L
+   2,L,J
+   6,L
    1,J
-  20,L,J
+   1,J
+   2,L
+  15,U,Z
+   1,L
+  14,L,J
+   1,L
+   1
+   5,L
    1,L,K,G
    1,L,J,G
-   5,L
-   3,L,J
-  26,L,D
-  18,L,X
-   1
-  15,L,C
-  11,L
-  12,L,U,Z
-   1,R
-   5,J,G
-   6,L,J
+  35,L,D
   15,L,X
-  16,L,D
-  15,L,C
-  23,L
-   6,L,X
-   2,L,J,G
-   7,R
-  27,L,D
+  14,L
+  15,L,X
+  14,L,D
+  14,L,X
+   4,L,J,G
+  21,L,K,G
+   1,L
+  11,L
+   3
+#next like second of gameplay is not at all optimized
+#all good though
+   8,L,X
+   1,L,K,G
+   1,L
+   5
+   2,L
+   2
+   8,L
+  14,L,D
   19,L
-  15,L,U,X
-  24,L
-   2,L,J,G
+  15,L,U,Z
+  27,L
+   1,L,K,G
    7,L
   14
   15,R,U,X
-   1,R
-   3,L,J,G
-  11,J
+   1,L,K,G
+   2,L,J,G
+   1,R,J
+   1,L,J
+   1,R,J
+   1,L,J
+   1,R,J
+   1,L,J
+   1,R,J
+   1,L,J
+   1,R,J
+   1,K
+   1
    5,L,X
-   3,L,J,G
+   1,L,K,G
    6,L
-   8,L,J
-  16,L
-  15,D,X
-  30,L
-  15,L,U,X
-  75
+   1,L,J
+   2,L
+   7
+   1,L
+   1
+  15,L,U,Z
+   5,R,K,G
+   8,R
+   2
+   9,L,Z
+   1,L,J
+  25,L,D
+   8,L
+   4,L,D
+   1,L
+   1,L,D
+   1,L
+   1,L,K,G
+  13
    1,Q
    1,J
   31
-#0:10.064(592)
+#0:08.789(517)
 
 
 #lvl_a-001 (1)
   91
-
 #lightning cycle
    1
 #
+
+#any% start
    4,X
    5,J
    9
@@ -135,128 +164,90 @@ console load StrawberryJam2021/2-Intermediate/thebreadstick1
   40
 
 #lvl_a-002
-read,../StrawberryJamTas/2_Intermediate/construction_conundrum,lvl_a-002,lvl_a-005 (2)
+read,../StrawberryJamTas/2_Intermediate/construction_conundrum,lvl_a-002,lvl_a-008 (1)
+
+#lvl_a-008 (2)
+ 257
+  36
+  10,D,X
+  40
 
 #any%-end
+#lvl_a-005 (2)
+  14,L,D
+#lightning cycle
+   2
+#
+   4,L,D,X
+   1,R,K
+   3,R
+   1,R,K
+   3,R
+   7,R,J
+   6,R,D,X
+  40
+
 #lvl_a-005
-  20,R,D
-   7,R,Z
+   9,R,D,X
+   3,R,D,J
+  15,R,D,X
+   1,R,J
+   3,R
+   8,R,D,X
+   1,R,J,G
+   7,R
+   1,R,J
+   3,R
+   5,R,J
   40
 
 #lvl_a-009 (0)
-   7,R,Z
-   5,R,J
+   3,R,J
+   2,R
   15,R,D,X
-   2,R,J
-   7,R
-   9,R,D,X
+  15,R,J
+  14,R,U,X
    1,R,J,G
-  11,R
-   1,R,J
-   7,R
-  40
-
-#lvl_a-011
-   7,R
-  34,R,J
-  15,R,D,X
-   2,R,D
-   1,R,J
-  14,R
-   1,R,J
-   3,R
-   7,U,X
-  14,L
-  10,L,X
-   8,J
-   3,L,J
-  15,U,X
-   4
-  10,R,X
-   4,R,J,G
-   4,R,K,G
-   4,K,G
+   1,J
+   3,R,J
+   5,R
+   2,R,J
+  28,R
+   1
+   2,R
+   1,R,D
    2,R,J,G
-  14,R,Z
-  61,R,J
-  14,R,X
-   6,R,J,G
-   8,R,Z
-   1,R,J
    7,R
-   1,R,J
-   9,R,D,X
-   1,R,J
-   7,R
-  11,R,D,J
-   9,R,D,J
-  14,R
-  15,U,X
-   4,R
-  15
-  15,U,X
-  21,L,J
-  10,L,Z
-  53,R,J
-  15,R,X
-  14,R,D,C
-  20,R,J
-  15,R,U,X
-   6,R
-  15,R,X
-  18,L
-  15,L,X
-  10,L
-  15,L,C
-  27,R
-   6,L,Z
-   1,R,J
-   7,R
-  10,R,J
+   8,R,J
+   2,R
   15,R,D,X
-  12,R
-  19,R,X
-   9
-   1,L
-  15,D,X
-   1,L
-   1,D
-   1,L,D
-   1,D
-   1,L,D
-  15,D,X
-   2,D
-   7,L,D,C
-  22,L
-  15,L,X
-   3,L
-  14,L,D,X
-   1,L,J
-  15,L,D,X
-   1,L
-  11,L,Z
-   8,L,J
-  12,L,X
-   6,L
+  16,R,J
+  14,U,X
+   4,R
+  14
   15,U,X
-  11,L
-  15,L,C
-  15,L,D,X
-   2,L,D
-   6,L,X
+  19,L,J
+   2,R,J
+  10,L,Z
+  11,R,J
+  30,R
+   5,R,D
+  16,R,X
+   3
+  14,R,D,C
    1,L,J
-   7,L
-   1,L,J
-   1,L
-  15,L,D,X
-   1,L
-  10,U,C
-  12,L
-  15,L,X
-  15,L,D,C
+   9,L,D,X
+   8,L,J
+StunPause
+   3,L,J
+  13,L
+   5,L,K,G
+   2,L
+SkipInput 3 1
+  12,L,D,X
+EndStunPause
   21,L,D
-  15,L,U,X
-  87
+  76
    6,L,Z
    1,L,J
    7,L
@@ -279,7 +270,6 @@ read,../StrawberryJamTas/2_Intermediate/construction_conundrum,lvl_a-002,lvl_a-0
 
 #lightning cycle [a-010]
    1,L,G
-
   12,L,D,X
    1,L,J
    4,L
@@ -343,5 +333,4 @@ endstunpause
 #lvl_a-012
 read,../StrawberryJamTas/2_Intermediate/construction_conundrum,lvl_a-012
 
-ChapterTime: 1:47.848(6344)
-FileTime: 2:01.618(7154)
+FileTime: 1:53.679(6687)

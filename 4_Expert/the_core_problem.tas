@@ -1,4 +1,4 @@
-RecordCount: 2209
+RecordCount: 2210
 
 console load StrawberryJam2021/4-Expert/Banana23
    1
@@ -477,10 +477,10 @@ Read,../StrawberryJamTAS/4_Expert/the_core_problem.tas, lvl_a-07, lvl_a-09
    3,L,D
   17,R,D
   13,R,D,X
-   1,R,D,X
   40
 
 #lvl_a-09b
+   1,R,D,X
    1,R,J
   14,R
    2,R,J

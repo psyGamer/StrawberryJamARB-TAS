@@ -1,0 +1,25 @@
+console load StrawberryJam2021/0-Lobbies/2-Intermediate 4144 1504
+   1
+
+#Start
+  36
+   4,L,Z
+   1,L,J
+  14,L
+   1,N
+   1,L,X
+#+5f on normal activation
+  20
+   1,J
+  30
+#+30f to reach spawnpoint
+  29
+   4,L,Z
+#
+   1,L,J
+   4,L,K
+   4,L
+   2,L,J
+  39,L,D,X
+
+#0:02.465(145)

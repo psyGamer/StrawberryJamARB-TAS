@@ -1,4 +1,4 @@
-RecordCount: 5855
+RecordCount: 5869
 
 console load StrawberryJam2021/4-Expert/Moladan
    1
@@ -220,6 +220,172 @@ EndStunPause
   40
 
 #lvl_a-03
-Read,../../StrawberryJamTAS/4_Expert/time_trouble.tas,lvl_a-03
+Read,../../StrawberryJamTAS/4_Expert/time_trouble.tas,lvl_a-03,lvl_a-06
 
-ChapterTime: 1:14.358(4374)
+#lvl_a-06
+   2,R,J
+   5,R
+   4,R,J
+   9,U,X
+   1,J
+   2,L,J
+  10,J
+  18,U,X
+  14,L,D,C
+  30,L,J
+   1,J
+  14,R,D,X
+  10,R,J
+  15,R,D,X
+   5,R,D
+  14,L,D
+  23,L,X
+  15,D,C
+  12,R
+  14,R,D,X
+   1,R,J
+  16,R,D,X
+   3,R,J
+   7,R,D,X
+   1,L,J,G
+  27,R,D
+  15,D,X
+  29,D
+   2,L,D
+   1,D
+  11,L
+  18,R
+  20,D
+   1
+   3,L
+   7,L,D
+  11,R,D
+  13,R,D,X
+   1,L,J
+   1,L
+   7,R,D,X
+   1,R,J,G
+   8,R
+   2
+   2,R
+   7,R,Z
+   1,R,J
+  10,R,K
+   9,R
+   1,R,K
+   3,R
+  34,L,D
+   3,R,D
+  18,L,D,X
+   1,J
+  15,D,X
+   2,R
+#Lightning Cycle [a-07]
+   1
+#####
+   4,R,Z
+   1,R,J
+   3,R
+   1,R,J
+   3,R
+  12,R,J
+  15,R,D,X
+   6,R,J
+   2,R,K,G
+  13,R,J,G
+   9,R,D,X
+  40
+
+#lvl_a-07
+   6,R,D,X
+   1,R,J
+  14,R,U,X
+   1,R,J,G
+  11,R
+  15,R,D,J,X
+   4,D,J
+   9,D
+  18,D,X
+  12
+  15,U,X
+  15,U,C
+   2
+  10,R,J
+  12,R
+   2,R,J
+   8,R,D
+  22,D
+  16,R,D
+   3,D
+  10,R,D,X
+   6,R,J
+   8,R
+   6
+   4,X
+  11,D,X
+  15,R,C
+  14
+   3,D
+   3,R,D
+  33,D
+   1,L,D
+  27,J,G
+  15
+  10,K,G
+  23
+  11,J,G
+   1,R,J
+   2,R
+   7
+  11
+  18,R,X
+  15,U,C
+   6,L
+  15,U,X
+   7,L
+  18,J
+  17,L,U,X
+  12,J,G
+   7,K,G
+  12,L,D,X
+   4,R,J
+  15,R,D,X
+
+#+11f
+#have to deal with drift
+#but stun is still possible
+   1,S,N
+  10,O
+   2,R
+StunPause
+   3,R
+  10,R,J
+EndStunPause
+  17,R,J
+#  15,R,D,X
+#   1,R
+#StunPause
+#   4,R
+#   9,R,J
+#EndStunPause
+#  18,R,J
+#####
+
+   9,R
+   5,R,D
+   1,R
+  23,R,X
+   2,R,J
+   7,R,Z
+   1,R,J
+   6,R
+   3,R,J
+  15,R,D,X
+   1,R,J
+  13,R
+  40
+
+#lvl_a-08
+Read,../../StrawberryJamTAS/4_Expert/time_trouble.tas,lvl_a-08
+
+ChapterTime: 1:13.661(4333)

@@ -141,18 +141,15 @@ Read,2_Intermediate/the_tower_S,Start
   32
 
 #Sea of Soup
-#First run gets only the dashless
-#berry, while silver run gets
-#everything else using dashes
 Read,../StrawberryJamTAS/2_Intermediate_Lobby/int_14-12,Start
 Read,../StrawberryJamTAS/EnterLevel,Start
-Read,2_Intermediate/sea_of_soup_S0,Start
+Read,../2_Intermediate/sea_of_soup,Start
    1,O
   32
 
 Read,2_Intermediate_Lobby/int_12-12,Start
 Read,../StrawberryJamTAS/EnterLevel,Start
-Read,2_Intermediate/sea_of_soup_S1,Start
+Read,2_Intermediate/sea_of_soup_S,Start
    1,O
   32
 

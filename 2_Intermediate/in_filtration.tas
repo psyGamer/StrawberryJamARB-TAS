@@ -1,4 +1,4 @@
-RecordCount: 10631
+RecordCount: 10834
 
 console load StrawberryJam2021/2-Intermediate/Jems
    1
@@ -121,52 +121,53 @@ console load StrawberryJam2021/2-Intermediate/Jems
    1,R,J
   12,R
    8
-  21,R
-   8
-  15,R,Z
-  14
-  11,D
-  39
-   7,D
-   5,R,D
-# bottleneck is the laser here
-# if we can stall enough to pass it
-# high up after the first bounce,
-# that saves time
-   1
-  16,R
-  15,R,U,X
-  13,R
-   9
-  12,D
-   1,S
-   1,D,O
-  34
-   6,D
-   7,L,D
-   6,L
-Repeat,8
-   1,L,J
-  14,L
-EndRepeat
-   8,L,J
-   9,L,K
-   8,G
-   1,J,G
-   8
-  12,J
-   9,L,G
-   6,L,K,G
-   2,L
-  15,L,J,G
-   1,K,G
-   1,R,J
-  12,R,K
    7,R
-   4,R,J
-   8,J
-   7,K,G
+  22
+  15,R,Z
+  29,L
+   1,R,J
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+   6,R
+   1,R,J
+   3,R
+   2
+  17
+  18,R,D
+   1,D
+   1,R,D
+   2,D
+   1,R,D
+   1,D
+  12,R,D
+  15,R,Z
+   3,R
+   1,S
+   1,D,J
+  34
+   2,R
+   1,O
+  71
+  10,R
+  12,L,D
+   1,D
+   2,L,D
+   2,L,J,G
+   3,R,J
+   4,L,J
+  12,L,K,G
+   8,J,G
+   1,L,J
    1,J
+   1,L,J
+   1,R,J
+  14,L,K,G
+   1,J,G
+   1,R,J
+  11,R,K
+  11,R,J
+   1,K
   40
 
 #lvl_btd-02 (1)
@@ -193,54 +194,35 @@ EndRepeat
 #lvl_btd-02c
    1,L
    1,R
-  10,J,G
-   1,L,J
-   1,R,K,G
+  12,J
+  12,R,K,G
+   5,R,J,G
+   7
+  29,R,U,G
    1,R,J,G
-   8,R,G
-  12,J,G
-   8,G
-   9,J,G
-   7,K,G
-  11,R
-  27
-   1,R
-   1
-  17,L,J
-  11,K,G
-   1,R,K
-  22,L,J,G
-   2,J
+  26,K,G
+   3,R,G
+  11,J
    1,L,J
-  22,R,K
-   1,G
-  11,J,G
-   1
-  10,K,G
-   3,R
-   1,L,J
-   7,L
-   7,L,J
-  10,L
-  32
-   1,R
-   1
-   6,L
-   5,L,D
-   1,L,J
-   3,R,J
-   5,R,K,G
-Repeat,4
-   1,L,K
    1,K
-EndRepeat
+   9,J
+   7,L,J
+  12,L,K,G
+   6
+   1,R
+   8,L,K,G
+  11,L
+   3
+   3,L
+   4,L,J
    3,L,K
    1,R,K
-   7,J,G
-   1,R,J
-   1,R,K,G
-  13,R
-  11,R,J
+   1,J,G
+   1,K
+  20,R,K
+   1,R,J,G
+  14,R
+   7,R,J
   19,R
   77
    1,L,J
@@ -801,4 +783,4 @@ Read,../StrawberryJamTAS/2_Intermediate/in_filtration.tas,lvl_btd-30,lvl_btd-35
 #lvl_btd-42
 Read,../StrawberryJamTAS/2_Intermediate/in_filtration.tas,lvl_btd-42
 
-ChapterTime: 3:13.137(11361)
+ChapterTime: 3:09.414(11142)

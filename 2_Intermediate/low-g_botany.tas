@@ -1,59 +1,91 @@
-RecordCount: 5294
+RecordCount: 5444
 
 console load StrawberryJam2021/2-Intermediate/marlin
    1
 
 #Start
 #lvl_1
-Read,../StrawberryJamTAS/2_Intermediate/low-g_botany.tas,Start,lvl_5
+Read,../StrawberryJamTAS/2_Intermediate/low-g_botany.tas,Start,lvl_4
 
-#lvl_5 (0)
-   8,R,K
+#lvl_4 (0)
+   1,R,K
   15,R,D,X
-#any%-end
-
-   8,R,J
-   1,J
-  33,R,J
-   1,K,G
-   2,L,K
-  23,L,J
-  15,U,X
-   1,R,J,G
-  19,R
-   8,R,J
-  14,R
-   1
-   9,L,K
-   9,J
-   3
-  10,R,Z
-  24,L,J
-  18,L,D,X
-   5,D
-   1,L,D
+   2,L
+   3,R
+  14,L,X
+  12,R,J
+  34,R
+  15,R,D,X
+   3,R,D
+  15,D,X
+  20,D
+   2,L,D
    1,D
-  61,L,D
-  10,L,J
+   1,L,D
+  17,D
+  14,R,Z
+   6,R,J
+  12,R
+   8,R,K
+   1,R
+  11,R,K
+  10
+  15,U,X
   15,L
-   2,L,J
-  14,L
+   2
+   1,J,G
+   2,R,J
+  59,R
+  24,R,U,X
+  15,R,C
+  26,R,D
+   5,R
+  15,R,X
+   2,R
+  11,R,U,C
+   1,R,J,G
+  14,R
+   2,R,J
+  15,D,X
+  12
+  20,R
+  36,R,X
+   4,Z
+#any% end
+   7,R,J
+   1,K,G
+   4,K
   40
 
-#lvl_4
-  10,L
-  26,L,J
-   5,L
+#lvl_5 (0)
+   6,R,J
+   5,R
+  15,R,D,X
+   4,D,C
+   1,L,J
+   8
+   3,L
+   9,L,D,J
+   6,L,U,X
+
+#lvl_4 (1)
+  40
+   7,L,U
+   1,R,U
+   4,J,G
+   1,L,J
+   1,L
   15,U,X
-  10,U,C
-   7,L,J
-   6,L
+   2,L
+   8,L,J
+   4,L
+   1
    1,K,G
    1,R
   18,L
-   1,R
    1,L
-   1,L,J
+   1,R
+   1,R,J
   15,D,X
   41,R,D
    1,R,J
@@ -170,33 +202,32 @@ Read,../StrawberryJamTAS/2_Intermediate/low-g_botany.tas,lvl_5b,lvl_6
    1,R,K
    3,R
   10,R,Z
-  16,R,J
-  13,U,Z
+  10,R,J
+   6,R
+  16,U,X
+   5,L,C
 #any%-end
-  18,R
-   1
-  22,R
-   1
-   1,R
-  11,J,G
-  10,R,Z
-  12,R,J
-   5,R
-   5,R,J
-  37,R
+   6,L
+   9,R,J
+  14,R,U,X
+   5,J,G
+  10,R
+  24
+  12,R
   12,L,Z
    3,L,J
    6,L,D,X
    1,R,J,G
   36,L,J
-  15,L,K,G
-   1,R,J
-  20,R,K
-  10,R,J,G
+   2,L,K,G
+  15,L,J,G
+   1,R,K
+  20,R,J
+   9,R,K,G
   40
 
 #any%-start
 #lvl_7
 Read,../StrawberryJamTAS/2_Intermediate/low-g_botany.tas,lvl_7
 
-ChapterTime: 1:35.693(5629)
+ChapterTime: 1:29.981(5293)

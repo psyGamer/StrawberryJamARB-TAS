@@ -1,0 +1,181 @@
+RecordCount: 4440
+
+console load StrawberryJam2021/2-Intermediate/SpoopySoup
+   1
+
+#Start
+ 190
+
+#lvl_soup-1
+   5,R,Z
+   1,R,J
+   1,R
+   1,R,J
+   1,R,K,G
+   9,R
+   2,R,J
+   5,R
+   1,R,J
+   4,R
+   1,R,J
+   8,R
+   7,R,J,G
+  23,R,X
+  12,L,D,C
+   1,R,J
+   5,R,K,G
+   2,R,J,G
+  11,R
+   1,R,J
+   5,R
+   2,R,J
+  21,R
+   4,R,D
+   1,R
+   1,R,J
+   1,R,K,G
+   9,R
+   1,R,J
+   4,R
+#any%-end
+   2,R,J,G
+   5,R
+   9,R,K,G
+
+#lvl_soup-2
+   2,K
+  15,R,K
+   1,R,J,G
+   1,L,J
+   1,R,J
+   5,J
+   1,K,G
+   8,R,K
+  12,R,D,X
+   1,R,J
+  28,R,D
+   2,R,J
+   8,R
+   2,R,D
+   8,R,Z
+  31,R,J
+  20,R,U,C
+  14,R,Z
+   7,R,J
+  18,R
+   3,R,D
+   1,R
+   1,R,J,G
+   9,R
+   9,R,J
+   5,R
+   2,R,J
+  15,R
+   7,R,Z
+  10,R,J
+   1,R
+   1,R,J
+   2,R
+   1,R,J,G
+   9,R
+   1,R,J
+  39,R,D
+  13,R,X
+  15,U,C
+  10,R
+  41
+  30,R,D
+  10,D
+  23,R,U,X
+#any%-start
+  51,R,D,C
+  79
+  18,R,D,X
+  15,R,C
+  40
+
+#lvl_soup-3
+Read,../../StrawberryJamTAS/2_Intermediate/sea_of_soup.tas,lvl_soup-3,lvl_soup-7
+
+#lvl_soup-7
+  34,R,D
+  26,R,C
+# spinner cycle
+   0
+##
+  19,U,X
+   2,L,J
+   2,D
+   6,R,D
+  11,D
+   7,L,D
+   1,L
+   1
+   1,L
+   1,L,D
+  15,L,Z
+  15,R,D,X
+# if the spinner cycle is 0
+# use strat 1
+# if the spinner cycle is 1
+# use strat 2
+
+# strat 1 start
+   2,R,D
+   3,D
+   4,R,D
+   3,R
+  10,R,D
+   9,D
+   1,R,D
+  18,D
+   1,L,D
+   1,D
+   1,R,D
+   3,D
+   4,R,D
+  14,D
+# strat 1 end
+
+# strat 2 start
+#   2,R,D
+#   3,D
+#   4,R,D
+#   3,R
+#  10,R,D
+#  28,D
+#   1,R,D
+#   2,D
+#   1,L,D
+#   4,D
+#   4,R,D
+#  12,D
+# strat 2 end
+
+  50,R,U,X
+  12,L
+  35,L,D
+  11,L,D,X
+  31,L,D,C
+   9,R,Z
+   7,R,J
+   1,R
+   1,R,J
+  10,L
+  19,L,D
+   4,D
+   3,R,D
+   8,R,Z
+   7,R,J
+   6,R
+   1,L
+   3,R
+   5,L
+   1,L,D
+   2,L
+  33,L,D
+  66,F,206.6
+   4,X
+ 135
+
+ChapterTime: 0:53.873(3169)

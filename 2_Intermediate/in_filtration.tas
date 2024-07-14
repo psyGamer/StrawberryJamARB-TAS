@@ -1,4 +1,4 @@
-RecordCount: 10834
+RecordCount: 10838
 
 console load StrawberryJam2021/2-Intermediate/Jems
    1
@@ -15,7 +15,7 @@ console load StrawberryJam2021/2-Intermediate/Jems
    1,D,J
   34
 ### spinner cycle [btd-02 (2)]
-   2
+   0
 ###
    4,R
    1,R,J
@@ -146,9 +146,10 @@ console load StrawberryJam2021/2-Intermediate/Jems
    1,S
    1,D,J
   34
-   2,R
+   1,S
+   1,D,J
    1,O
-  71
+  68
   10,R
   12,L,D
    1,D
@@ -783,4 +784,4 @@ Read,../StrawberryJamTAS/2_Intermediate/in_filtration.tas,lvl_btd-30,lvl_btd-35
 #lvl_btd-42
 Read,../StrawberryJamTAS/2_Intermediate/in_filtration.tas,lvl_btd-42
 
-ChapterTime: 3:09.414(11142)
+ChapterTime: 3:09.380(11140)

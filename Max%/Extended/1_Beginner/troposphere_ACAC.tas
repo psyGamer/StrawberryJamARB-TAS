@@ -1,18 +1,27 @@
-RecordCount:
+RecordCount: 4557
 
 console load StrawberryJam2021/1-Beginner/Eclipse
    1
 
 #Start
- 190
+Read,../../../StrawberryJamTAS/1_Beginner/troposphere.tas,Start,lvl_c_03_end
 
-#lvl_a_01
-   1,J
+#lvl_c_03_end
+#any%-end
+  11,R
+   9,R,D,X
+   1,R,J
+   7,R
+   2,R,J
+   5
+   1,N
+ 130
+   4,L,Z
+   1,L,J
+  12,L
+   6,L,J
+ 153,U,X
+  14,U,C
+ 135
 
-
-
-
-
-
-
-ChapterTime: 
+ChapterTime: 1:47.168(6304)

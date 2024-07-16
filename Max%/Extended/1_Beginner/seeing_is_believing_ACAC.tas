@@ -1,4 +1,5 @@
-RecordCount:
+#draft by Vamp
+RecordCount: 2115
 
 console load StrawberryJam2021/1-Beginner/NotYourBadeline
    1
@@ -7,12 +8,152 @@ console load StrawberryJam2021/1-Beginner/NotYourBadeline
   88
 
 #lvl_a_01
+  13,L,Z
+   1,R,J
+   3,R
+   1,R,J
+   3,R
+   2,R,J
+   8,R,U,X
+   1,S
+   1,D,J
+  34
+#can skip hitting NYB
+#and still get the darkness
+  22,R
+   1,R,J,G
+  13,R
+   4,R,Z
+   1,R,J
+   2,R
+  40
+
+#lvl_a_02
+   5,R
+   4,R,J
+   1,R,K,G
+   1,K
+   6,R,K
+   9,R,X
+   3,R,J,G
+   7,R
+   1,R,J
+   1
+   5,R
+   2,R,J
+   2,R
+  14,R,U,X
+   1,R,J,G
+   9,R
+   4,R,J
+   4,R
+  10,R,D,X
+   1,R,J,G
+  11,R
+   1
+   1,R,J
    1,J
+  40
 
+#lvl_a_03
+   1,J
+  15
+   7,R,D
+   1,D
+   3,L,D
+   8,R,D
+   1,R
+   1
+   2,R
+   1
+#any%-start
+  10,R,U,Z
+   1,L,J,G
+   1,L,K,G
+   7,L
+  10,L,X
+#any%-end
+   6,R,J
+   3,R
+  13,R,U,X
+   2,R,J,G
+   7,R
+   9,R,J
+   9,R,Z
+   1,R,J
+   7,R
+  11,R,D,J
+  40
 
+#lvl_a_04 (0)
+   3,R,D,J
+  10,U,X
+  40
 
+#lvl_a_10
+   1,R,J
+   1,R
+   1,R,J,G
+   8,R
+   6,R,D,X
+   1,R,J
+   3,R
+   1,S
+   1,D,J
+  34
+   1,R,J
+   3,R
+   6,R,J
+  12,U,X
+  44
+  16,R,D,X
+  14,D
+   1,J
+  10
+  10,D,X
+  40
 
+#lvl_a_04 (1)
+   6,R,D
+  10,R,D,X
+   1,R,J
+  10,R
+   3,L
+   6,D
+#any%-start
+   2,L,D
+   4,L,K
+  28,L,D,X
+   2,D
+   1,L,D
+   9,R,V
+  11,R,K
 
+#be lower to touch ground
+   5,R
+   2,R,J
+#   4,R
+#   1,R,K
+#   1,R
+#   1,R,K
+#####
 
+   6,R
+   1,K
+   1,R,K
+   1,K
+  10,U,X
+  10,L
+  15,U,X
+   1,L
+  16,R,C
+   4,D,X
+   1,R,J
+   7,R
+  12,R,D,K
+  40
 
-ChapterTime: one 
+#lvl_a-05
+Read,../../../StrawberryJamTAS/1_Beginner/seeing_is_believing.tas,lvl_a-05
+
+ChapterTime: 0:31.467(1851)

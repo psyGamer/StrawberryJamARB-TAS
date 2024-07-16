@@ -1,0 +1,10 @@
+Note: Change file extension to .md
+
+This subproject is for 2 related categories. The first is called All Cats and All Challenges, or ACAC for short. It involves beating every level in SJ while also petting every cat and playing every secret challenge room. More info on these two criteria can be found here:
+
+All Cats - All Cats is done is by adding in petting every single cat in the mod. Sometimes they're hidden behind a secret difficult challenge or alternate route, sometimes they're more or less out in the open and free to pet.
+<br>All Challenges - There are a lot of hidden bonus rooms or challenges in SJ that don't reward Madeline with a berry, and are often marked as being optional extra rooms and having a higher difficulty than the rest of the map but using the maps mechanics. Sometimes these reward with a cat, but often times they don't. Nonetheless, it feels wrong to not include them despite that.
+
+These both change the routing for levels and lobbies, so it should be an interesting TAS to figure out.
+
+The second category is called Max% Extended, or Max% + All Cats All Challenges, which is the above category while also getting the maximum berry count, which includes the various red, silver, golden, and rainbow berries (see the Max% portion of this project for more information). A lot of rerouting needs to be done in order to fit ACAC into 2 distinct runs per level, the ARB run and the Silver/Golden run, in Max% Extended. On top of that, lobby routing has to consider both the various cats, as well as the Rainbow berry.

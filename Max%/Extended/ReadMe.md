@@ -1,5 +1,3 @@
-Note: Change file extension to .md
-
 This subproject is for 2 related categories. The first is called All Cats and All Challenges, or ACAC for short. It involves beating every level in SJ while also petting every cat and playing every secret challenge room. More info on these two criteria can be found here:
 
 All Cats - All Cats is done is by adding in petting every single cat in the mod. Sometimes they're hidden behind a secret difficult challenge or alternate route, sometimes they're more or less out in the open and free to pet.

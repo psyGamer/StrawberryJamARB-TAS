@@ -1,18 +1,90 @@
-RecordCount:
+RecordCount: 448
 
 console load StrawberryJam2021/2-Intermediate/Dooshii
    1
 
 #Start
  106
-
+# spinner cycle
+   0
 #lvl_a1
+   6,L,Z
+   1,R,J
+   1,R
+StunPause
+   6,R
+   6,R,J
+   9,J
+SkipInput 3 1
+  15,U,X
+   2
+   3,J
+   1,L,J
+   3,J
+   4,R,J
+   8,R
+   3
+SkipInput 3 1
+   4,X
+   1,R,J
+   1,R
+EndStunPause
+  10,R
+   3
+   1,X
+ 129
+# any% spinner cycle
+   1
+   4,Z
+   6,L,J
+   1,L
+   1,L,J
+   5,L
+   4
+   1,R
+   3
+  12,D
+  18,R,D
+  15,R,C
+  15,R,X
+
+# any%
+  15,R,C
+   2
+   4,R,Z
+   7,R,J
+   5,R
+   3,R,J
+   2,R
+  15,R,D,X
+  15,R,C
+   4,Z
+   7,R,J
+   1,R,K,G
+   1,R,J,G
+   2,R,K,G
+  29,R,J,G
+  11,R,U,X
+   6,J,G
+  13,R,Z
+   7,R,J
+   3,R,K,G
+   7,R
+   2,R,J
    1,J
+   1,R,J
+  10,R,D,X
+   4
+   1,R,J
+   1,R
+   1,R,J
+   1,R
+   9,R,J
+  21,R,U,Z
+  15,U,X
+  13,L,U,C
+  43
 
+Read, ../../../StrawberryJamTAS/2_Intermediate/frosted_fragments, lvl_a2v2
 
-
-
-
-
-
-ChapterTime: 
+ChapterTime: 1:41.286(5958)

@@ -1,16 +1,258 @@
-RecordCount:
+RecordCount: 753
 
 console load StrawberryJam2021/2-Intermediate/LegS
    1
 
 #Start
-#lvl_LegS-0
+Read, ../../../StrawberryJamTAS/2_Intermediate/supernautica, Start, lvl_LegS-3
+
+#lvl_LegS-3
+   3,L,D,X
+   1,L,J
+   6,L,U,X
+  49
+   7,R,Z
+   1,L,J
+   5
+   4,L
+  11,L,J
+  18,L
+  15,L,X
+  46
+   1,L,J
+   8,L,K
+   2,L
+  10,L,X
+  21,L,U,G
+   1,R
+  10,L
+   6,L,D
+   5,L
+   1,L,D
+   4,L,Z
+   1,L,J
+   6,L
+  11,L,J
+  14,L,U,Z
+ 139
+# any%-end
+   1,L,K
+   6,L
+  15,D,X
+   3,L,D
+  15,L,Z
+   6,L,V
+   1,L,K
+   2,L
+  40
+
+#lvl_LegS-Intermediate
+   5,L
+   1,L,K
+   6,L,D,X
+   1,S
+   1,D,O
+  34
+   4,L
+   1,L,K
+   4,L
+  15,D,X
+  28
+  11,K
+  13,U,K,G
+   8,U,G
+Repeat 7
+   1,D,K
+  22,U,K,G
+EndRepeat
+   1,D,K
+  21,U,G
+   1,D
+  15,U,X
+  10
+   7,L,Z
+   1,L,K
+   7,L
+   1,L,K
+  15,L,D,X
+   2,G
+   3,K,G
+   1,R,K
    1,J
+  24,L,J
+   2,K,G
+   1,R,K
+   1,J
+  24,L,J
+  11,L,K,G
+  21,L
+  10,L,K
+  17,L
+   1
+   5,L,D
+   9,L,K,G
+  15,L
+   5,R
+   8,L,K
+  19,L
+  21,L,K,G
+   1,L
+   1,L,K
+   7,L
+   5,L,K,G
+  17,L
+  36,L,K
+   2,K
+  11,L,J,G
+   5,L
+   2,L,K
+  13,L
+   9,L,K
+  20,U,Z
+  26,R,J
+   9,K,G
+   4
+  14,R,U,X
+  23,L,K
+
+  15,L,D,X
+   5,L
+   2,L,K
+  15,L,D,X
+   2,L
+  16,L,K
+  15,R,X
+  14,R
+   5,R,D
+   7,L,D
+   4,Z
+   1,R,K
+   0,R
+   7
+   1,X
+ 129
+   1,S
+   1,D,O
+  34
+   1,S
+   1,D,O
+   1,J
+  69
+   4,R,Z
+   1,R,K
+   7,R
+  14,R,K
+  14,R,Z
+   1,R,K
+  14,R,D,X
+  40
+
+#lvl_LegS-4
+   1,R,K
+  14,R,D,X
+  14,R,K
+  15,R,U,X
+  33
+# any%-start
+   1,R,J
+   7,R,Z
+  23,R,J
+   6,R
+  13,R,G
+   5,R,U,J,G
+   3,R,U,G
+   6,L
+  18,R,D
+  11,R,X
+  62,R,G
+   1,R,J,G
+   1,R
+   1,R,J
+   7,R
+   1,G
+   2,R,J
+   7,J,G
+  12,L,K
+   7,K
+   5,R,X
+  76,R,U,J,G
+  16,R
+   2,R,K,G
+  12,J,G
+   5
+   2,J
+   4
+  10,R,Z
+  88
+   4,U,X
+  40
+
+Read, ../../../StrawberryJamTAS/2_Intermediate/supernautica, lvl_LegS-B2, lvl_LegS-6
+#lvl_LegS-6
+   5
+   2,J,G
+   2,L,J
+   1,J
+   3,L,J
+  14,L,X
+   1,R,N
+  24
+   1,S
+   1,D,O
+  34
+# Spinner unload cycle
+   6
+   5,J,AR
+   9,R,J
+  15,U,X
+   5,R
+  49,R,U,G
+   1,R,D
+   6,R
+   1,S,N
+   9,O
+  12,J
+  22,R,G
+   1,D
+   4,R
+   6
+  10,U,Z
+  21,R,G
+   1,R,D
+  25,R
+  14,L,Z
+   1,S,N
+   9,O
+   3,R,J
+   5,R,D,Z
+  13,R,G
+   1,S,N
+   9,O
+  57,R,J,G
+   1,R,U,G
+   1
+   7,R
+  14,R,U,Z
+  21,R,G
+  13,R
+   1,Z
+   3,R,J,Z
+   4,R,J
+  43,R,G
+  12,R,D,G
+   2,R,G
+   1,S,N
+   9,O
+   9,R,J,G
+  29,J,G
+   6,D
+  16,U,X
+  30,U,G
+  28,R,U,G
+   8,U,G
+  40
+
+Read, ../../../StrawberryJamTAS/2_Intermediate/supernautica, lvl_LegS-7
 
 
-
-
-
-
-
-ChapterTime: 
+ChapterTime: 1:09.955(4115)

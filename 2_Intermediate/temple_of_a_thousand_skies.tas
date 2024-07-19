@@ -1,4 +1,4 @@
-RecordCount: 3694
+RecordCount: 3836
 
 console load StrawberryJam2021/2-Intermediate/Ice
    1
@@ -19,36 +19,33 @@ Read, ../StrawberryJamTAS/2_Intermediate/temple_of_a_thousand_skies, Start, lvl_
    4,R,J
   59,U,C
    6
-   3,R
+   2,R
+   1
   66,D,X
-  26,L,U,C
+  22,L,U,C
+   1,J
 #any%-end
-  41,D
-   2,L,D
-   2,D
-   1,L,D
-   1,D
-  12,L,D
-  26,L
+  40,D
+   8,L,D
+  19,L
   15,L,X
-  17,L
+  28,L
    4,L,Z
-   5,L,J
+   1,L,J
+   4,L
   19
   77
-   1,L,J
-  11,L
-  38,D,X
-   2,L,D
+  15,L,X
+  36,D,C
+   3,L,D
   14,L,D,C
-   2,L,J
-   5,L
+   1,L,J
+   2,L
   40
 
 #lvl_b-02 (0)
-   1,L,J
   11,L,D
-  46,D,X
+  48,D,X
 #any%-start
   42,D,C
    3,R,D
@@ -107,9 +104,10 @@ Read, ../StrawberryJamTAS/2_Intermediate/temple_of_a_thousand_skies, Start, lvl_
   15,L,D,X
    1,L,J
   10,L,D,X
-   6,L,J
-  19,L,D
-  14,L,Z
+   8,L,J
+  15,L,D,X
+   8,L,D
+  10,L,U,C
   19
   77
    4,R,Z
@@ -242,30 +240,27 @@ endstunpause
    4,L,Z
    1,L,J
    4,L
-#can save 1f subpixel
-  11,L,X
-  31,U,C
+  15,L,X
+  26,U,C
   10
-  20,J
-   9,U,X
-  11,J
-   7
-  15
-  24,D
-  21,R,D
-   2,R
+  12,L
+   9,L,J
+  20,R,K
+   2,J
    1
+  15,D,X
+  23,D
+  17,R,D
    1,R,J,G
    7,R,K,G
-   4,R,D,X
-  10,R
+  14,R,Z
   33,R,J
   38,R,U,G
    1,R,J,G
-  11,L,J
-   5,J
-   1,L,J
-   1,J
+   1,K
+   1,R,J,G
+   6,L,J
+   9,R,J
    9,R,Z
   33,U,X
   10,R,Z
@@ -298,19 +293,17 @@ Read, ../StrawberryJamTAS/2_Intermediate/temple_of_a_thousand_skies, lvl_b-05 (2
    5,R,Z
    1,R,J
    7,R
-   4,R,J
-   5,R
-   2,R,J
-   7,R
-   7,R,D,X
+  11,R,J
+   2,R
+  14,R,D,X
    1,R,J
-   7,R
-   1,R,J
-   1,J
-   1
    4,R
+   1,R,K
+   2,R
    1,R,J
-   5,R
+   4,R
+   4
+   1,R
    7,L,D,X
    1,L,J
    7,L
@@ -328,4 +321,4 @@ Read, ../StrawberryJamTAS/2_Intermediate/temple_of_a_thousand_skies, lvl_b-05 (2
 #lvl_c-02
 Read, ../StrawberryJamTAS/2_Intermediate/temple_of_a_thousand_skies, lvl_c-02
 
-ChapterTime: 2:09.540(7620)
+ChapterTime: 2:09.047(7591)

@@ -1,4 +1,4 @@
-RecordCount: 10651
+RecordCount: 11080
 
 console load StrawberryJam2021/3-Advanced/Nic
    1
@@ -336,24 +336,24 @@ EndStunPause
    4,R,D
    2,R,J
    2,R
-  18,R,D,X
-  12,D,C
+  15,R,D,X
+   6,D
+   6,L,D
   40
 
 #lvl_04-a (1)
-   4,D
-  37,R,D
-   4,R,Z
-   1,R,J
-   5,R
-  10,D
+   4,L,D
+  16,R,D
+   1,R
+  28,R,D,X
+   1,L,D
+   3,D
    5,L,Z
 #Spinner Cycle [06-b]
-#may affect key cycle in the
-#next room, use alt stun if the
-#normal one isn't possible
+#will probably affect key cycle
+#in the next room 
    1,L,Z
-###
+#####
    1,R,J
    2
    1,R
@@ -383,7 +383,7 @@ EndStunPause
 #any%-start
   15,D,X
 #key cycle 1
-  90
+  92
 #  97
 ###
   14,L,Z
@@ -417,11 +417,11 @@ EndStunPause
    1
    1,J
    2
-#+9f MoonBlock Cycle Wait
-Repeat,3
+#+7f MoonBlock Cycle Wait
    1,J
    1,K
-EndRepeat
+   1,J
+   1,K
    1,J
    1,K
    1
@@ -524,7 +524,7 @@ EndRepeat
   20,R
    1,S
    1,D,J
-  34,O
+  34
    8,R
    1
    1,L
@@ -556,37 +556,37 @@ EndRepeat
   26,R,K,G
   17,U,X
   12,R,J,G
-  24,R
-   1,R,J
-  15,J
-  11,K,G
-   2,L,K
-  21,R,J,G
-  11,K,G
-   1
-   1,L
-   1
-   1,L
-   1
-#any%-start
-#yes these look weird in the
-#normal tas too. dont look at me
-   1,K
-   2,J,G
-  14,L,J
-  11,L,K,G
-   1,J
-   2,K,G
-   1,K
-   5,R,K
-   1,K
-   3
+  11,R
+   2,L
+  11,R
+   9,R,J
+   1,K,G
+   1,L,K
+  15,R,K
+   3,R,J,G
+   2,L,J
+   8,R,J
   15,U,X
-   4,L
-  20,L,J
+   2,R
+   2
+   1,L
+  12,L,J
+  24,R,J
+  10,K,G
+   1,R,K
+   1,J,G
+   1,L,J
+   1,K
+   4,L,J
+  12,L,K
+  12,J,G
+   6,K,G
   40
 
-#lvl_06-a(0)
+
+
+#lvl_06-a (0)
+#any%-start
   10,R,J
    2,L,K
   15,U,X
@@ -639,57 +639,46 @@ EndRepeat
    1,R,K,G
 #any%-end
   12,R,J,G
-   9,R
-   5
+  14,R
   15,R,X
-   3
-   1,R
-   1,J,G
-   8,R,K,G
+   2,R
+   1
+   1,R,J,G
+   7,R,K,G
    6,R
-   6,R,D,J
-  16,R,D,X
-   4,R,J
-   7,J
+   3,R,J
+  15,R,D,X
+  12,R,J
   10,R,Z
-   2,R,J
-   4,R,K,G
-  11,R,Z
    1,R,J
-  12,R
-   1,L
-  13,D
    1,J
-  13,R
-   6,D
-   1,R,D
-  11,D
-  17,L,Z
-  11,L,D
-   2,D
-   1,L,D
-   2,D
-   5
-   1,L,J
-  15,L
-   7,D
-   1,L,D
-   3,D
-   4,L,D
+   1,R,K,G
+   3,K
+  10,R,Z
+   1,R,J
+   1
+   1,J
+   1
+   1,J
+  13,D
+  14,R,D
+  12,L,D
+  15,L,X
+  21,L,D
    1,D
-   9,L,D
-   7,D
    1,L,D
-   2,D
+   1,D
    1,L,D
-   2,D
+  10,D
+  10,L,D
+   4,D
    1,L,D
-   2,D
-  23,R,D,X
+  11,R,D
+  20,R,D,X
   18,R,U,C
   15,R,Z
-  14,L,D
-  13,D
+   1,R
+  25,D
   10,R,Z
    5,L,J
   15,L,D,X
@@ -703,21 +692,21 @@ EndRepeat
    9,J
   15,L,D,X
   10,L,D,C
-   5,L,J
-  10,L,U,X
-   3,L,J,G
-   8,L
-  12,L,J
-   6,L
-   4,L,J
-   1,L
+   8,L,J
+   5,K,G
+   1,R,K
    1,J
+   1,K
+   4,R,K
+  10,L,X
    1,L,J
-   1
+  10,J
+   1,L,J
+   1,J
   15,U,X
    2
    8,L,J
-  12,J
+  13,J
    1,R,K,G
    3,L,K
    3,R,K
@@ -727,9 +716,11 @@ EndRepeat
    6,K
   24,L
    3
-   8,L,J,G
-   2,R,J
-   2,R
+   2,L,J,G
+   1,J
+   1,L,J
+   2,J
+   3,R,J
    1,L,K,G
    3,R,K
    1,K
@@ -741,21 +732,20 @@ EndRepeat
    1,K
    1,R,K
    1,K
-   1,R,K
-   1,K
-  10,J
-   6,R,J
-  12,R,K,G
-   5,R
-   4,R,J
-   9,R
+   1,J
+  23,L,J
+   1,L
+   1,L,J
+   3,R,K
+   8,R
+  31,R,J,G
   15,U,X
-   4,R
-   4,L,J
-  11,J
+   2,R
+   5,L,J
+   9,J
    3,K
    1,R,K
-   1,R,J,G
+   2,R,J,G
    1,L,J
   11,L,K
   12,R,J,G
@@ -770,72 +760,48 @@ EndRepeat
   10,R,J
   24,R
    1,R,D
+#Different moonblock cycles
+#means a different strat
    5,L,Z
    1,R,J
    6,R
    1,R,J
    2,R
+   6,R,D,X
+   1,R,J,G
+   1,R,K,G
+   1,R
+   1,R,J,G
+   1,R,K,G
+   7,R
+  21,R,J
    5,R,D,X
    1,R,J,G
-   1,R,K,G
-   1,R
-   1,R,J,G
-   1,R,K,G
-   8,R
-  13,R,J
-#Different moonblock cycles
-#means a different strat
-   5,R,D,X
-   1,R,J,G
-   1,R,K,G
-   1,R
-   2,R,J,G
-   1,J
+   2,R,K,G
+   4,R,J,G
+   5,R
    1,R,J
-   1,J
-   1,R,J
-   1
-   1,R
-   1
    2,R
-   2
-   1,J
-  15,R,D,X
-   2,D
-   1
-   1,L,J
-   1,R,J
-  40,J
+   2,R,J
+  17,R,D,X
+   1,L,D,J
+   2,J
+  40
 
 #lvl_06-b
-   3,R,J
-
-#Base stun:
+   3,J
+   1
    2,R
 StunPause
-   1
-   1,R
 SkipInput 3 1
   15,R,D,X
    7,R,D
 EndStunPause
    5,R,D
-#+0f, start stun one frame earlier
-#just in case its needed
-#   1,R
-#StunPause
-#   1,R
-#   1
-#   1,R
-#SkipInput 3 1
-#  15,R,D,X
-#   7,R,D
-#EndStunPause
-#   5,R,D
-#####
-
-  17,R
-   4
+   1
+   2,R,D
+  11,R
+   6
   12,J,G
   11,K,G
    1,L,K
@@ -845,14 +811,18 @@ EndStunPause
    9,K
    7,R
   10,R,Z
-   5,R,J
-   1,K,G
+   1,R,J
+   2,K,G
    1,L,K
-  10,R,K
+   7,R,K
+   1,K
    1,J,G
+   3,L,J
+   1,J
    1,L,J
-   3,R,J
-  18,R,K,G
+   1,J
+   2,R,J
+  15,R,K,G
   12,L,J
   11,K,G
    1,R,K
@@ -908,7 +878,7 @@ EndStunPause
   40
 #####
 
-#lvl_06-a(1)
+#lvl_06-a (1)
    6,L,D,X
    1,L,J
    9,L,U,X
@@ -932,8 +902,9 @@ EndStunPause
    1,D,G
    1,G
 #key cycle 2
-  75
-###
+  50
+#  71
+#####
    7,D,J
    5
    3,J
@@ -957,4 +928,4 @@ EndStunPause
 #lvl_07-a
 Read,../StrawberryJamTAS/3_Advanced/undergrowth.tas,lvl_07-a
 
-ChapterTime: 2:08.129(7537)
+ChapterTime: 2:06.735(7455)

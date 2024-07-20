@@ -1,4 +1,4 @@
-RecordCount: 10739
+RecordCount: 10750
 
 console load StrawberryJam2021/3-Advanced/Nic
    1
@@ -221,142 +221,19 @@ Read,../../StrawberryJamTAS/3_Advanced/undergrowth.tas,lvl_02-a,lvl_04-a
   40
 
 #lvl_04-s1
-   3,R,J
-   1,L,J
-   4,R,J
-   3,R
-  10,R,X
-   6,R,J
-   8,J
-   5,K,G
-   6,R,K
-   1,L,K
-  16,U,X
-  26,L,J
-   1,L,K,G
-   1,K
-   3,R,K
-   7,L,K
-   1,L,J,G
-   5,L
-   3,L,J
-   5,L
-   1,J
-   6
-   3,L
-   1,L,J
-  10,L
-   3,L,D
-   1,D
-  10,L,J,G
-   5,L
-   3,L,J
-   1,L,K
-   9,L,J
-   9,L
-   2,L,J
-  15,L
-   3,L,D
-   1,D
-   1,L,J
-   3,L,K
-   9,L
-   1,L,J
-  11,L
-   1,L,D
-   1,L
-   2,L,D
-   1,J
-   2,L,J
-  10,J
-   1,R,K,G
-   2,K
-   1
-   1,J
-   2,L
-   3,L,J,G
-  18,L,D
-   1,R,D
-   1,L,D
-  19,L
-   1,L,J,G
-   9,L
-   1,L,J
-  11,L,D
-  12,L,J
-   5,L
-   1,L,J
-   1,L
-   1,J
-   1
-   1,L
-   1,L,K,G
-   1,L,J,G
-  28,L,D
-   1,D
-   1
-   1,D
-   1
-   1,L
-   1
-  10,L,Z
-   1,L,J
-   5
-   1,L
-  15,L,Z
-   7,R,J
-   3,R
-  15,R,D,X
-   6,R,J
-  14,R,X
-   2,R,J
-   5,R
-   1,R,J
-   2,R
-   1,R,J
-  14,R,D,X
-  20,R
-   1,R,J,G
-  22,D
-   1,R,J
-   3,R,K
-   2,R
-   1,R,J
-  14,R,D
-   1,R
-   1
-   1,R,J,G
-   1,R
-   1
-   1,R
-   3
-   1,R
-   9,L,Z
-   1,R,J
-   1
-   6,R
-   2,R,J
-  10,R,U,X
-  13,R,J,G
-   3,R
-   4,R,D
-   2,R,J
-   2,R
-  18,R,D,X
-  12,D,C
-  40
+Read,../../3_Advanced/undergrowth.tas,lvl_04-s1,lvl_04-a (1)
 
 #lvl_04-a (1)
-   4,D
-  37,R,D
-   4,R,Z
-   1,R,J
-   5,R
-  10,D
+   4,L,D
+  16,R,D
+   1,R
+  28,R,D,X
+   1,L,D
+   3,D
    5,L,Z
 #Spinner Cycle [06-b]
-#may affect key cycle in the
-#next room
+#will probably affect key cycle
+#in the next room 
    2,L,Z
 #####
    1,R,J
@@ -389,8 +266,8 @@ Read,../../StrawberryJamTAS/3_Advanced/undergrowth.tas,lvl_02-a,lvl_04-a
 #any%-start
   15,D,X
 #key cycle 1
-  90
-###
+  92
+#####
   14,L,Z
    1,R,J
    7,R,U,Z
@@ -422,11 +299,13 @@ Read,../../StrawberryJamTAS/3_Advanced/undergrowth.tas,lvl_02-a,lvl_04-a
    1
    1,J
    2
-#+9f moonblock cycle
-Repeat,4
+#+7f moonblock cycle
    1,J
    1,K
-EndRepeat
+   1,J
+   1,K
+   1,J
+   1,K
    1
 #####
   13,R,U,Z
@@ -447,4 +326,4 @@ EndRepeat
 #lvl_05-a
 Read,../../StrawberryJamTAS/3_Advanced/undergrowth.tas,lvl_05-a
 
-ChapterTime: 1:38.736(5808)
+ChapterTime: 1:38.583(5799)

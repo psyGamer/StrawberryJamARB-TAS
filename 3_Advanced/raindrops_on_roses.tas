@@ -1,4 +1,4 @@
-RecordCount: 10889
+RecordCount: 11432
 
 console load StrawberryJam2021/3-Advanced/Worldwaker2
    1
@@ -1278,34 +1278,44 @@ EndStunPause
    7,J,G
    1,L,K,G
   11,R,K,G
-  19
-  38,L,D
-  12,D
-   1,R,D
+   5
+   8,L,D
+   9,D
+  10,L,Z
+   1,R,J
+   4,R
+  14,R,D,X
+  32,R,J,G
+   3,R,D,J,G
+   3,J,G
+   1
+   8,L,J
+  15,U,X
+   5,L
+  20,J
+   5,L,J
+   1,L,K,G
+   1,R,K
+   7,L
 #any%-start
-  10,R,X
-  14,L,J
-  29,L,G
+  10,L,X
+  11,L,J
+  30,L,U,J,G
+   1,L,K,G
+   3,L,K
+   1,K
+   1,J,G
+   1,R,J
+   8,L,J
+   1,L,K,G
+   3,L,K
    1,L
-  14,U,X
-  15,L,J
-   4
-  33,G
-   4,J,G
-   1,R,G
-  15,R,K,G
-   3,R,J,G
-   7,R
-  12,J
-  10,R,X
-  11,R,J
-  30,R,J,G
-   1,R,K,G
-   3,L,K,G
-   3,R,K,G
-   1,R,J,G
-  12,R,K,G
-  17,R,U,X
- 135,R,D
+   1,L,J,G
+  11,L,J
+  15,L,U,X
 
-ChapterTime: 3:43.193(13129)
+ 121,L,D
+   1,L,Z
+  13,L,J
+
+ChapterTime: 3:41.952(13056)

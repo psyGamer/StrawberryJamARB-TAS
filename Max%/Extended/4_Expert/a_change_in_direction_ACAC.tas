@@ -1,4 +1,4 @@
-RecordCount:
+RecordCount: 10356
 
 console load StrawberryJam2021/4-Expert/Agent
    1
@@ -6,13 +6,196 @@ console load StrawberryJam2021/4-Expert/Agent
 #Start
   96
 
-#lvl_Agent_00
+#Spinner cycle [Agent_01]
+   0
+#####
+
+#lvl_Agent_00 (0)
+  10,L,J
+   2,J
+   9,K,G
+   1,L,J,G
+   2,R,J
+   3,J
+  11,L,J
+  12,L,Z
+  40
+
+#lvl_Ru_and_AV_and_Zucchini_Are_Cool
+   3,L,Z
+  10,L,D,X
+   1,L,J
+   4
+  15,L,D,X
+   3,D
+   1,L,D
+  14,L,U,X
+   1,L,J,G
+   1,K,G
+  11,L,K
+  10,L
+   1,L,J
+  14,L,D,X
+   1,L,J
+  14,L,D,X
+   1,L,J
+  11,L,D,X
+  72,O
+   6,R,Z
+   1,R,J
+   7,R
+   1,R,J
+  14,R,D,X
+   1,R,J
+   6,R,D,X
+  40
+
+#lvl_Agent_00 (1)
+   6,R,D,X
+   3,R,J
+   6,R,D,X
+   1,R,J
+   7,R
+   1,R,J
+  14,R,D,X
+   1,R,J
+   2
+   1,R
+   1
+   2,R
+  11,L,X
+  11,R,J
+  15,R
+#any%-start
+  16,U,X
+  11,R,J
+  24,R
+   5
+   8,R,D
+   5,D
+   4
+  10,L,X
+  27,R,J
+  16,U,Z
+   2,J
+  16,R,J
+   1,R,K,G
+   7,R
+   4,R,Z
+   7,R,J
+  14,R,D
+   1,L,J
+   6
+   2,R,K
+   7,R
+  14,L,Z
+   1,R,J
+   6,R,D,X
+   1,R,J,G
+   1,R,K,G
+   3,R,J,G
+  11,R
+   5,R,J
+   6,R
+  10,L,D,X
+  22,R,J
+  14,U,X
    1,J
+   7,R,J
+  31,R
+  13,G
+   1,J,G
+  25,L
+   2
+   1,L
+   2
+   5,D
+  14,L,X
+   1,R,J
+   8,R,D,X
+   1,R,J,G
+   1,R,K,G
+   6,R
+   1,R,K
+   1,R
+   3,R,J
+   5,R
+  13,R,U,X
+   1,R,J,G
+  18,R
+   5,R,D
+   3,D
+   2,L,D
+   1,L
+   5,L,D
+   7,L,Z
+   8,L,J
+  10,L
+   2
+   1,R,J
+  13,R
+  18
+   1,R
+   1
+   1,R
+  10,R,Z
+   1,L,J
+  10,L
+  27,L,J
+  15,U,X
+   1,L
+   1
+  18,L,J
+   5,L,K,G
+   1
+   6,R
+  13,U,X
+  40
 
+#lvl_Agent_00a
+Read,../../../StrawberryJamTAS/4_Expert/a_change_in_direction.tas,lvl_Agent_00a,lvl_Agent_04
 
+#lvl_Agent_04
+   3,L,D,X
+   1,L,J
+  14,L,D,X
+   1,L,J
+  27,L,U,X
+   4,L,J
+   4,L,Z
+   1,L,J
+  10,L
+   5,L,D,X
+   1,L,J
+   3,L
+   1,L,K
+   3,L
+  17,L,J
+  27,L,U,X
+   4,R,Z
+   5,R,J
+   2,R
+   1,R,K
+  15,R,D
+  23,D
+   1,R,D
+   7,R
+   3
+  20,U,X
+   9,L
+  21,U,Z
+   6
+  15,U,X
+   7,R
+   3
+#Spinner cycle [Agent_06]
+   1
+#####
+  14,U,X
+   7,R,J
+  40
 
+#lvl_Agent_05
+Read,../../../StrawberryJamTAS/4_Expert/a_change_in_direction.tas,lvl_Agent_05
 
-
-
-
-ChapterTime: 
+ChapterTime: 0:54.978(3234)

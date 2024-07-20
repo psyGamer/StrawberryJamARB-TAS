@@ -1,0 +1,56 @@
+#Start
+Unsafe
+#From Debug
+Read map
+
+Read Overworld/1-beg0-beggym
+  20
+   1,J
+  30
+   1,J
+  45
+
+Read Gyms/1-beginner_gym
+  45
+
+Read Overworld/2-library-intgym
+  20
+   1,J
+  30
+   1,J
+  45
+
+Read Gyms/2-intermediate_gym
+  45
+
+Read Overworld/3-library-advgym
+  20
+   1,J
+  30
+   1,J
+  45
+
+Read Gyms/3-advanced_gym
+  45
+
+Read Overworld/4-library-expgym
+  20
+   1,J
+  30
+   1,J
+  45
+
+Read Gyms/4-expert_gym
+  45
+
+Read Overworld/5-library-gmgym
+  20
+   1,J
+  30
+   1,J
+  45
+
+read Gyms/5-grandmaster_gym
+  45
+
+FileTime: 7:09.199(25247)

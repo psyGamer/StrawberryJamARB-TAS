@@ -1,0 +1,21 @@
+# StrawberryJam2021
+# https://gamebanana.com/mods/424541
+
+RecordCount: 9
+
+console load StrawberryJam2021/0-Gyms/0-Prologue
+   1
+
+#Start
+
+  36
+   6,L,Z
+   1,L,J
+   7,L
+   1,J
+  14,L,D,X
+   1,L,J
+   7,L
+   1,N
+
+#0:00.544(32)

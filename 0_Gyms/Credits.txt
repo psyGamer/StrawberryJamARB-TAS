@@ -1,0 +1,15 @@
+These files are all copied directly from Mr. Wolf / Emma's github repository with her permission.
+So far the library hasn't been drafted, but when it does, it will go here, so thats why the placeholder file exists.
+
+These are the people who have worked on the 5 Gym TASes:
+Emma / Mr. Wolf
+abiteofdata
+Daniella
+Arti
+Sashabell
+Asl
+Pansear
+Kalobi
+Mildu
+
+If this list is missing someone, please let us know in the Strawberry Jam ARB + Max% server.

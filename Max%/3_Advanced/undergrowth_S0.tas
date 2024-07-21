@@ -1,4 +1,4 @@
-RecordCount: 10158
+RecordCount: 10166
 
 console load StrawberryJam2021/3-Advanced/Nic
    1
@@ -112,7 +112,7 @@ Read,../../3_Advanced/undergrowth.tas,Start,lvl_04-a (0)
    3,L,J
    5,L,K,G
 #Spinner Cycle [06-b]
-   1
+   0
 #####
    1,S
    1,D,J
@@ -128,6 +128,273 @@ Read,../../StrawberryJamTAS/3_Advanced/undergrowth.tas,lvl_03-a (1),lvl_05-a
 #lvl_05-a
 #any%-end
 #ARB-start
-Read,../../3_Advanced/undergrowth.tas,lvl_05-a
+Read,../../3_Advanced/undergrowth.tas,lvl_05-a,lvl_06-a (0)
 
-ChapterTime: 1:53.288(6664)
+#lvl_06-a (0)
+#any%-start
+  10,R,J
+   2,L,K
+  15,U,X
+   3
+  10,J
+  15,R,J
+   4,K,G
+  15,R
+  14,U,X
+  11,R,J
+   1,J
+   1,K
+   2,J,G
+   4,L,J
+   1,L,K,G
+   3,L,J,G
+   7,L
+  13,L,J
+  15,U,X
+   2
+   8,L,J
+  12,J
+   1,R,K,G
+   3,L,K
+   3,R,K
+   2,R,J,G
+  15,R,K,G
+  12,R,J,G
+   6,K
+  24,L
+   3
+  10,L,J,G
+   4,R,J,G
+   1,L,K,G
+   3,R,K
+   1,K
+   1,R,K
+   1,K
+   1,R,K
+   1,K
+   1,R,K
+   1,K
+   1,R,K
+   1,K
+   1,R,K
+   8,J
+   2,R,J
+   1,J
+#any%-end
+   3,R,J
+   1,R,K,G
+   1,R,J,G
+   3
+   5,R
+   1,R,J
+   2,R
+   3
+  21,R,J
+  15,R,Z
+   4,D,C
+   1,R,J
+   7,R
+   1
+   5,R,D
+   1,R
+  11,R,Z
+   1,R,J,G
+   4,L,J
+   7,R
+  10,R,Z
+   1,R,J
+   6,R,K,G
+   3,R
+  14,D
+  13,R,D
+  17,L,D
+  31,L,X
+  10,L,D
+   7,D
+  10,L,D
+  23,R,D
+  24,R,X
+  15,R,Z
+   1,R,D
+  28,L,D
+   4,D,X
+   1,L,J
+   7,L
+   3,L,J
+  32,L
+#This file removes the Spinner
+#Cycle here, because theres' already
+#a great place for it earlier
+#+2f here for moon cycle
+  31
+#####
+   9,J
+  15,L,D,X
+  10,L,D,C
+   8,L,J
+   5,K,G
+   1,R,K
+   1,J
+   1,K
+   4,R,K
+  10,L,X
+   1,L,J
+  10,J
+   1,L,J
+   1,J
+  15,U,X
+   2
+   8,L,J
+  13,J
+   1,R,K,G
+   3,L,K
+   3,R,K
+   2,R,J,G
+  15,R,K,G
+  12,R,J,G
+   6,K
+  24,L
+   3
+   2,L,J,G
+   1,J
+   1,L,J
+   2,J
+   2,R,J
+   1,R
+   1,L,K,G
+   3,R,K
+   1,K
+   1,R,K
+   1,K
+   1,R,K
+   1,K
+   1,R,K
+   1,K
+   1,R,K
+   1,K
+   1,J
+  23,L,J
+   1,L
+   1,L,J
+   3,R,K
+   8,R
+   1,R,J,G
+  11,R,K,G
+  15,R
+  15,U,X
+   2,R
+   5,L,J
+   9,J
+   3,K
+   1,R,K
+   2,R,J,G
+   1,L,J
+  11,L,K
+  12,R,J,G
+   1,K
+   2,J,G
+  10,L,J
+   5,K,G
+   1,R,K
+  11,L,J,G
+   1,K
+   2,J,G
+  10,R,J
+  19,R
+   5
+   1,D
+#Different moonblock cycles
+#means a different strat
+   5,L,Z
+   1,R,J
+   5
+   1,R
+   5,R,J
+  12,R,Z
+   1,R,J
+   1,R
+   3,R,J
+   3,R
+  12,R,U,X
+   1,R,J,G
+   1,R,K,G
+   1,R
+   1,R,J,G
+   4,R,K,G
+   7,R
+   1,R,J
+  17,R,D,X
+   2,R,D,J
+  40
+
+#lvl_06-b
+#2/3 stun
+   1,R,J
+StunPause
+   1,R,J
+   6,J
+   1,R,J
+   4,R
+SkipInput 3 1
+  14,U,X
+   1,L,J
+EndStunPause
+#   1,R,J
+#StunPause
+#   1,R,J
+#   6,J
+#   1,R,J
+#   4,R
+#SkipInput 3 1
+#  14,U,X
+#   1,L,J
+#EndStunPause
+#####
+   7,R
+  10,D
+   1,L,D
+   1,D
+   1,L,D
+   6,D
+   2
+  15,L
+   2,L,D
+   2,D
+   1,J,G
+   6,L
+   2,R
+   1,D
+  30
+   1,D
+   1,L,D
+   5,D
+   6,R,D
+   4,R
+   4,R,D
+   1,D
+   1,R
+  11,L,Z
+  31,R,J
+  15,R,U,X
+  14,R
+  12,R,J,G
+  12,R,K,G
+   4,R,J,G
+   9,K
+   7,R
+  26,D
+   1,S
+   1,D,J
+  72,O
+   4,L,Z
+   1,L,J
+   3,L
+   1,L,K
+   3,L
+   1,L,D,J
+  43
+
+#lvl_06-a (1)
+Read,../../3_Advanced/undergrowth.tas,lvl_06-a (1)
+
+ChapterTime: 1:49.123(6419)

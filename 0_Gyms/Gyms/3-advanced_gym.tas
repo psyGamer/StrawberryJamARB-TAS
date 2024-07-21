@@ -6,8 +6,10 @@ RecordCount: 1872
 console load StrawberryJam2021/0-Gyms/3-Advanced
    1
 
-#lvl_1-hub (0)
+#Start
   36
+
+#lvl_1-hub (0)
    6,L,Z
    1,L,J
    7,L

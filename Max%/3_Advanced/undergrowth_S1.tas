@@ -1,4 +1,4 @@
-RecordCount: 10750
+RecordCount: 10758
 
 console load StrawberryJam2021/3-Advanced/Nic
    1
@@ -205,18 +205,16 @@ Read,../../StrawberryJamTAS/3_Advanced/undergrowth.tas,lvl_02-a,lvl_04-a
    3
    2,R
    2
-   5,R,J
-   4,K,G
-   4,L,K
-   1,L
+  12,R,J
+  14,L,K
   15,U,X
-  30,L,J
-  11,K,G
-   1,R,K
-   1,L,J,G
-   1,L,K,G
-  10,K
-   7
+  17,K
+   5,J
+   8,L,K
+   1,L,K
+   4,R,J,G
+   2
+   5,L
    9,U,X
   40
 
@@ -266,7 +264,7 @@ Read,../../3_Advanced/undergrowth.tas,lvl_04-s1,lvl_04-a (1)
 #any%-start
   15,D,X
 #key cycle 1
-  92
+  94
 #####
   14,L,Z
    1,R,J
@@ -299,9 +297,7 @@ Read,../../3_Advanced/undergrowth.tas,lvl_04-s1,lvl_04-a (1)
    1
    1,J
    2
-#+7f moonblock cycle
-   1,J
-   1,K
+#+5f Moonblock Cycle Wait
    1,J
    1,K
    1,J
@@ -326,4 +322,6 @@ Read,../../3_Advanced/undergrowth.tas,lvl_04-s1,lvl_04-a (1)
 #lvl_05-a
 Read,../../StrawberryJamTAS/3_Advanced/undergrowth.tas,lvl_05-a
 
-ChapterTime: 1:38.583(5799)
+ChapterTime: 1:37.053(5709)
+
+#ChapterTime: 1:38.583(5799)

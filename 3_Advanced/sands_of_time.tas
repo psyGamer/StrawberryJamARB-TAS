@@ -3,10 +3,10 @@ RecordCount: 926
 console load StrawberryJam2021/3-Advanced/astraxel
    1
 
-#spinner cycle
-   2
-
 #Start
+#Spinner Cycle [mini-hearth (0)]
+   2
+#####
 read,../StrawberryJamTAS/3_Advanced/sands_of_time,Start,lvl_a-06
 
 #lvl_a-06 (0)
@@ -306,5 +306,3 @@ EndStunPause
  135
 
 ChapterTime: 1:21.396(4788)
-
-#ChapterTime: 1:24.422(4966)

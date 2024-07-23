@@ -1,4 +1,4 @@
-RecordCount: 23742
+RecordCount: 23750
 
 console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
    1
@@ -7,7 +7,7 @@ console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
   36
 
 #Spinner Cycle [Flag 24]
-   1
+   0
 #####
 
 #lvl_Start
@@ -28,14 +28,17 @@ console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
   12,R,J
   15,R,D,X
    1,R,J
-  12,R,U,C
+   4,R,U,C
+
+#lvl_heartside_oppen_intro
+   8,R,U,C
 #any%-end
    5,R,J,G
    1,K,G
    2,R,K
   40
 
-#lvl_heartside_oppen_a
+#lvl_heartside_oppen_a (0)
    2,R,K
    1,L,K
   11,R,U,X
@@ -48,7 +51,10 @@ console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
   12,R,J
    5,R
    9,R,J
-  11,R
+   4,R
+
+#lvl_heartside_oppen_b
+   7,R
    5
   15,D,X
    8,D
@@ -61,7 +67,10 @@ console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
    1,L,D
    2,D
   14,R,Z
-  24,R,J
+   3,R,J
+
+#lvl_heartside_oppen_a (1)
+  21,R,J
   15,U,X
    5,R
   31,R,J
@@ -151,28 +160,89 @@ console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
    1,R,J
   49,R,J,G
    1,R
+
+
+
+
+
+
+
+
+
+
+
   14,U,X
   20,L,J
-   1,L,K,G
-   1,R,K
-   4,L
+   1,K,G
+   1,K
+   5,L
+   1,L,J
+   2,J
+   1,L,J
+   6,R,J
    6,R
    3
-   2,R
-   1,R,J
-   8,R
-   2,R,J
-   2,R
-  15,R,Z
-  60,R,G
-   6,R,D,G
-   1,R
+   2,D
+  13,R,X
+  46,R,U,J,G
+   1,R,K,G
+  11,R
    6,R,Z
    1,R,J
    7,R
    1,R,J
-  14,R,D,X
+  10,R,D,X
 #any%-end
+
+
+
+
+
+
+
+#Set,Invincible,True
+#StunPauseMode Simulate
+
+
+
+
+
+
+
+#  14,U,X
+#  20,L,J
+#   1,L,K,G
+#   1,R,K
+#   4,L
+#   6,R
+#   3
+#   2,R
+#   1,R,J
+#   8,R
+#   2,R,J
+#   2,R
+#  15,R,Z
+#  60,R,G
+#   6,R,D,G
+#   1,R
+#   6,R,Z
+#   1,R,J
+#   7,R
+#   1,R,J
+#  14,R,D,X
+#any%-end
+
+
+
+
+
+
+
+
+
+
+
+
    1,R,J
    7,R
    1,R,J
@@ -225,6 +295,46 @@ EndStunPause
    1,R,J
    9,R,D,X
   40
+
+
+
+
+
+
+
+#Improved
+#actually done, no invincibility
+#0:26.690(1570)
+
+
+
+
+
+
+
+
+
+#"Improved"
+#+1f spinner cycle, but
+#doesnt actually stun, uses
+#invincibility to compare
+#0:26.707(1571)
+
+
+
+
+
+
+
+
+#Original
+#+1f spinner cycle
+#0:26.996(1588)
+
+
+
+
+
 
 #lvl_heartside_TiltTheStars
 #any%-start
@@ -463,4 +573,4 @@ Read,../../StrawberryJamTAS/3_Advanced/advanced_heartside.tas,lvl_heartside_blue
 #lvl_heartside_Goldian
 Read,../../StrawberryJamTAS/3_Advanced/advanced_heartside.tas,lvl_heartside_Goldian
 
-ChapterTime: 4:53.522(17266)
+ChapterTime: 4:53.216(17248)

@@ -1,4 +1,4 @@
-RecordCount: 6112
+RecordCount: 6118
 
 console load StrawberryJam2021/2-Intermediate/Arphimigon
    1
@@ -312,6 +312,7 @@ Repeat 8
    1,L,G
    1
 EndRepeat
+   2
 #Repeat 8
 #   1,R,G
 #   1
@@ -337,7 +338,7 @@ EndRepeat
   13,R,J
   16,L,D
 #wait for less time
-  12,D
+  11,D
 #   6,D
 #Repeat 2
 #   6
@@ -370,4 +371,4 @@ EndRepeat
 #lvl_b_01
 Read,../../StrawberryJamTAS/2_Intermediate/sleeping_under_stars.tas,lvl_b_01
 
-ChapterTime: 1:55.719(6807)
+ChapterTime: 1:55.617(6801)

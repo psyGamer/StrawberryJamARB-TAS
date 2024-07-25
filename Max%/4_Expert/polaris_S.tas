@@ -1,4 +1,4 @@
-RecordCount: 8724
+RecordCount: 8741
 
 console load StrawberryJam2021/4-Expert/Yoshachobi7
    1
@@ -110,25 +110,23 @@ console load StrawberryJam2021/4-Expert/Yoshachobi7
   16,R,X
   16,R
   16,R,D,X
-   5,R,J
-   9,R
-   1,R,J
-   3,R
-  14,R,U,Z
-  28,R
-  26,R,U,J,G
-   1,R
-   3,R,D
-  13,L,D,X
-  31,R
-  27,R,G
-   1,R
-  14,R,X
-  50,R
-   2,R,D
-   1,D
+   2,R,J
+   5,R
+   3,R,J
+   6,R
+  14,R,U,X
+  25,R
+  13,R,G
+  15,G
+   2,R,D,G
+   4,D,G
+   1,R,D,G
+   1,D,G
 #any%-start
-  13,R,Z
+  62,R,G
+   1,R
+  53,R,X
+  14,R,Z
    2,R,J
   14,R,D,X
    4,R,J
@@ -138,4 +136,4 @@ console load StrawberryJam2021/4-Expert/Yoshachobi7
 #lvl_a2
 Read,../../StrawberryJamTAS/4_Expert/polaris.tas,lvl_a2
 
-ChapterTime: 1:35.438(5614)
+ChapterTime: 1:32.786(5458)

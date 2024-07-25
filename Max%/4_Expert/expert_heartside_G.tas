@@ -307,9 +307,9 @@ Read,../../StrawberryJamTAS/4_Expert/expert_heartside.tas,lvl_b00_intro,lvl_b03_
   19,D
   21,R,D
   12,R,Z
-## Spinner cycle [b04_powerav]
+#Spinner Cycle [b04_powerav]
    2
-##
+#####
   45,R,X
   15,U,C
    1,L
@@ -352,9 +352,9 @@ Read,../../StrawberryJamTAS/4_Expert/expert_heartside.tas,lvl_b04_powerav,lvl_d0
    2,R
    1,R,J,G
    7,R
-## Lightning cycle [d02_lethargicdoggo]
+#Lightning Cycle [d02_lethargicdoggo]
    1
-##
+#####
    4,R,X
   16,R,J
    1,K,G
@@ -471,4 +471,4 @@ Read,../../StrawberryJamTAS/4_Expert/expert_heartside.tas,lvl_b04_powerav,lvl_d0
 #lvl_d02_lethargicdoggo
 Read,../../StrawberryJamTAS/4_Expert/expert_heartside.tas,lvl_d02_lethargicdoggo
 
-ChapterTime: 7:39.255(27015)
+ChapterTime: 7:38.575(26975)

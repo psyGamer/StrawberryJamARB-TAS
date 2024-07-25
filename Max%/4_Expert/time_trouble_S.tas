@@ -1,4 +1,4 @@
-RecordCount: 5869
+RecordCount: 5870
 
 console load StrawberryJam2021/4-Expert/Moladan
    1
@@ -372,20 +372,24 @@ EndStunPause
 #####
 
    9,R
-   5,R,D
-   1,R
-  23,R,X
-   2,R,J
-   7,R,Z
-   1,R,J
+   4,R,D
+   2,R
+  15,R,X
    6,R
+   2
+   4,R,Z
+   2,R,J
+   1,R,K,G
+   1,R
+   1
+   7,R
    3,R,J
   15,R,D,X
    1,R,J
-  13,R
+  11,R
   40
 
 #lvl_a-08
 Read,../../StrawberryJamTAS/4_Expert/time_trouble.tas,lvl_a-08
 
-ChapterTime: 1:13.661(4333)
+ChapterTime: 1:13.576(4328)

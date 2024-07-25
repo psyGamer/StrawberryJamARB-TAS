@@ -1,4 +1,4 @@
-RecordCount: 15118
+RecordCount: 16538
 
 console load StrawberryJam2021/3-Advanced/Worldwaker2
    1
@@ -18,7 +18,7 @@ console load StrawberryJam2021/3-Advanced/Worldwaker2
 
 #lvl_1 (0)
 #spinner cycle
-   0
+   2
 
 #any%-start
    7,R,J
@@ -65,6 +65,7 @@ console load StrawberryJam2021/3-Advanced/Worldwaker2
    1,L
    1,J,G
    6,L
+
    1,R
    1,R,D
   18,R,J
@@ -74,18 +75,14 @@ console load StrawberryJam2021/3-Advanced/Worldwaker2
   10,L,K,G
    2,L
    1,J
-  15,L,Z
-   1,R,D
-  10,R,Z
+   5,L,Z
    1,R,J
    4,R
-  16,R,G
-   2,R,K,G
-   6,R,J,G
-  18,R,D,G
+  21,R,G
+   4,R,K,G
+   1,R,J,G
+  19,R,D,G
   12,R,G
-   1,R,D,G
-   1,R
   14,R,U,X
    2,J,G
    6,R
@@ -101,6 +98,7 @@ console load StrawberryJam2021/3-Advanced/Worldwaker2
    3,R
   15,R,Z
   21,R,D
+
    7,R,J
   15,U,X
    2
@@ -129,7 +127,6 @@ console load StrawberryJam2021/3-Advanced/Worldwaker2
   32,R,G
    8,R,J,G
    7,R
-#any%-end
    7,U,X
    1,G
   49,L,G
@@ -140,24 +137,42 @@ console load StrawberryJam2021/3-Advanced/Worldwaker2
   40
 
 #lvl_2B
-  14,L,D
-  10,R,D,X
-   1,R,J
-   9,K,G
-   8,R,U,X
+## Old strat +3f
+#  14,L,D
+#  10,R,D,X
+#   1,R,J
+#   9,K,G
+#   8,R,U,X
+#  40
+  12,D
+   1,L,D
+   3,D
+  10,R,X
+   5,R,J
+   7,R,U,X
   40
 
 #lvl_2 (1)
-   5,R,U,X
-   1,R,J,G
-   2,K,G
-   4,R
+   6,R,U,X
+   3,J,G
+   5,R
    1,L
   15,R,D,X
-  10,D
-   5
-   1,D
+  15,L,D
    1
+#0:16.762(986)
+#   5,R,U,X
+#   1,R,J,G
+#   2,K,G
+#   4,R
+#   1,L
+#  15,R,D,X
+#  10,D
+#   5
+#   1,D
+#   1
+#0:16.813(989)
+
 #any% start
   14,R,D,X
    1,R,J
@@ -169,6 +184,7 @@ console load StrawberryJam2021/3-Advanced/Worldwaker2
   62,R,D,G
   13,R,D
 #any%-end
+
    9,J
    1
   15,D,X
@@ -1221,6 +1237,7 @@ EndStunPause
   40
  
 #lvl_8
+
    1,J
    1,S
    1,D,J
@@ -1271,7 +1288,6 @@ EndStunPause
    1,L,K,G
    1,R,K
    7,L
- 
 #any%-start
   10,L,X
   11,L,J
@@ -1291,4 +1307,5 @@ EndStunPause
  121,L,D
    1,L,Z
   13,L,J
-ChapterTime: 3:17.574(11622)
+
+ChapterTime: 3:17.268(11604)

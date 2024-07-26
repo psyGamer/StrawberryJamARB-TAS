@@ -1,4 +1,4 @@
-RecordCount: 16538
+RecordCount: 16680
 
 console load StrawberryJam2021/3-Advanced/Worldwaker2
    1
@@ -18,7 +18,7 @@ console load StrawberryJam2021/3-Advanced/Worldwaker2
 
 #lvl_1 (0)
 #spinner cycle
-   2
+   0
 
 #any%-start
    7,R,J
@@ -56,19 +56,15 @@ console load StrawberryJam2021/3-Advanced/Worldwaker2
    1,R
    1
    1,L,J,G
-   6,R,K
-   1,K
-   5
+   7,R,K
+   4,R
   15,U,X
   20,L
-   9,L,J
-   1,L
+  10,L,U,X
    1,J,G
    6,L
-
    1,R
-   1,R,D
-  18,R,J
+  19,R,D,J
    1,L,K,G
    1,J,G
    1,R,J
@@ -98,7 +94,6 @@ console load StrawberryJam2021/3-Advanced/Worldwaker2
    3,R
   15,R,Z
   21,R,D
-
    7,R,J
   15,U,X
    2
@@ -184,7 +179,6 @@ console load StrawberryJam2021/3-Advanced/Worldwaker2
   62,R,D,G
   13,R,D
 #any%-end
-
    9,J
    1
   15,D,X
@@ -397,10 +391,10 @@ Read,../StrawberryJamTAS/3_Advanced/raindrops_on_roses,lvl_3,lvl_2 (1)
    1,L,K,G
    6,L,K
   14,U,Z
-   8,J
+  24,R,J
    1,R,K,G
-  11,R,K
-  12,R,J,G
+   4,L,K
+   1,R,J,G
    7,R
   13,U,X
    3,R,J
@@ -514,7 +508,7 @@ Read,../StrawberryJamTAS/3_Advanced/raindrops_on_roses,lvl_3,lvl_2 (1)
    1,D,J
   69,O
 #spinner cycle
-   0
+   2
 #
    3,R,J
    6,R
@@ -1004,41 +998,41 @@ EndStunPause
 
 #lvl_7
    7,R,G
-   4,R,K,G
-   7,R,G
-   2,R,J,G
+  14,R,K,G
+   5,K
+   3,R,K
+  13,U,X
+  24,G
+   9
+   2,L
    1,R,G
-   1,R,J,G
-   2,R,G
-   1,R
-  13,R,U,X
+   1,L,D
+  30,R
+   2
    1,J,G
-   3,R
-  18,L,G
-  11,L,K,G
-   1,L,K
-  15,R,U,X
-   6,R
-   1,J,G
-   6,J
-   4
-   3,L
-   1,L,G
-   9,D
-  16,L,D
-  46,D
-  10,R
-  18,R,D,J
-  15,R,D
-  20,D
+   1,J
+   7,R
+   4,L
+  14,L,D
+   7,R,D
+  24,R
+   1,R,D
+   2,R,J,G
+  16,R,D
+  19,D
+   1
+   1,D
+   1
   18,L,D
-   4
-   1,L
+   2,D
+   1,L,D
+   2,L
+   2
   15,R,Z
   18,L,D
    7,L
-   5,R
-   6,R,D
+   6,R
+   5,R,D
    1,L,K
    1,J,G
    7,R,J
@@ -1086,36 +1080,40 @@ EndStunPause
    9,R,J
    1,S
    1,D,J
-  69,O
-  10,R,X
-  18,L,J
-   1,J
-   2
-  15,R,U,X
-   8,R
+  69,G,O
+#more grab holding
+  10,R,X,G
+  21,L,J,G
+  15,U,X,G
+   1,L,G
+   1,J,G
+  23,R,J,G
+   1,K,G
+   1,L,K,G
    1,R,J,G
-   2,R
+   6,R,K,G
    1,R,J,G
-   5
-   2,R
- 
+  13,R,K,G
+   8,R,X
 #any%-start
-   4,X
-   1,R,J
+   2,R,J,G
    5,R
    1,R,J
-  50,R,U,J,G
-  54,U,G
-  40,R,U,G
-   1,L,J,G
-  25,L,U,K,G
-  36,U,G
-   5,R,U,G
-   1,R
-   1,R,J,G
-   3,L
-   4
-   5,R
+   1,R,K,G
+   1,R,K
+  79,R,U,K,G
+   2,U,K,G
+   1,K
+  15,U,X
+   1
+   1,L
+  16,L,J
+  22,L,J,G
+   2,R,J,G
+   3,R,J
+   1,R,K,G
+   2,R,J,G
+   7,R
   10,R,X
   11,R,J
   15,U,X
@@ -1131,7 +1129,8 @@ EndStunPause
   15,L
    5,D
    1,L
-  54
+#key cycle
+  68
    3,L
    6,L,J
   14,R,D,X
@@ -1182,7 +1181,7 @@ EndStunPause
    6,K
    7,L
 #spinner cycle
-   1
+   0
 ##
   14,L,Z
    1,R,J
@@ -1308,4 +1307,4 @@ EndStunPause
    1,L,Z
   13,L,J
 
-ChapterTime: 3:17.268(11604)
+ChapterTime: 3:16.146(11538)

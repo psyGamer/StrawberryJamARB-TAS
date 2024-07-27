@@ -1,4 +1,4 @@
-RecordCount: 23750
+RecordCount: 23755
 
 console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
    1
@@ -264,16 +264,15 @@ EndStunPause
    9,R,K,G
 
 #Spinner Cycle [Flag 23]
-
 #+0f
-   9,J,G
-   1,R,J
+#   9,J,G
+#   1,R,J
 ###
 
 #+1f
-#   5,J,G
-#   5,G
-#   1,R
+   5,J,G
+   5,G
+   1,R
 ###
 
 #+2f
@@ -296,63 +295,26 @@ EndStunPause
    9,R,D,X
   40
 
-
-
-
-
-
-
-#Improved
-#actually done, no invincibility
-#0:26.690(1570)
-
-
-
-
-
-
-
-
-
-#"Improved"
-#+1f spinner cycle, but
-#doesnt actually stun, uses
-#invincibility to compare
-#0:26.707(1571)
-
-
-
-
-
-
-
-
-#Original
-#+1f spinner cycle
-#0:26.996(1588)
-
-
-
-
-
-
 #lvl_heartside_TiltTheStars
 #any%-start
-Read,../../StrawberryJamTAS/3_Advanced/advanced_heartside.tas,lvl_heartside_TiltTheStars,lvl_heartside_Galaksyz
 
+Read,../../StrawberryJamTAS/3_Advanced/advanced_heartside.tas,lvl_heartside_TiltTheStars,lvl_heartside_Galaksyz
 #lvl_heartside_Galaksyz
-  12,R,J
-  15,R,D,X
+   9,R,J
+  16,R,D,X
    4,R,J
+   2,R
   15,R,D,X
 #this depends on spinner cycle
 #only 1 cycle works
-  19,R
+   9,R
+   9,R,D
    1,R,J
-   5,R
-   1,R,J
-  17,R
-   2
+   9,R
+   2,R,J
+  11,R
+   1,R,D
+   2,D
    7,R,U,Z
    1,L
    3,J,G
@@ -371,7 +333,7 @@ Read,../../StrawberryJamTAS/3_Advanced/advanced_heartside.tas,lvl_heartside_Tilt
   12,L,U,Z
    1
 #Spinner Cycle [Flag 20]
-   2
+   0
 #####
   89,R,C
   17,R,U
@@ -573,4 +535,4 @@ Read,../../StrawberryJamTAS/3_Advanced/advanced_heartside.tas,lvl_heartside_blue
 #lvl_heartside_Goldian
 Read,../../StrawberryJamTAS/3_Advanced/advanced_heartside.tas,lvl_heartside_Goldian
 
-ChapterTime: 4:53.216(17248)
+ChapterTime: 4:52.434(17202)

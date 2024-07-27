@@ -289,7 +289,7 @@ Read,1_Beginner_Lobby/beg_0-Rainbow-B,Start
 #Beginner Heartside
 Read,1_Beginner_Lobby/beg_B-D,Start
 Read,../StrawberryJamTAS/1_Beginner_Lobby/beg_D-22,Start
-Read,../StrawberryJamTAS/EnterHeartSide,Start
+Read,../StrawberryJamTAS/EnterHeartside,Start
 Read,../StrawberryJamTAS/1_Beginner/beginner_heartside,Start
    1,Q
   32,J

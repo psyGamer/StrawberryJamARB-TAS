@@ -201,7 +201,7 @@ read,../StrawberryJamTAS/2_Intermediate/midnight_monsoon,Start,lvl_2
   40
 
 #lvl_3
-read,../StrawberryJamTas/2_Intermediate/midnight_monsoon,lvl_3,spinner cycle
+read,../StrawberryJamTAS/2_Intermediate/midnight_monsoon,lvl_3,spinner cycle
 #spinner cycle
    2
 ##
@@ -252,7 +252,7 @@ ENdStunPause
   40
 
 #lvl_4
-read,../StrawberryJamTas/2_Intermediate/midnight_monsoon,lvl_4,lvl_5
+read,../StrawberryJamTAS/2_Intermediate/midnight_monsoon,lvl_4,lvl_5
 
 #lvl_5 (0)
   12,R,J
@@ -385,7 +385,7 @@ read,../StrawberryJamTas/2_Intermediate/midnight_monsoon,lvl_4,lvl_5
 #lvl_6
    1,R
 #any%-start
-read,../StrawberryJamTas/2_Intermediate/midnight_monsoon,lvl_6,lvl_outro
+read,../StrawberryJamTAS/2_Intermediate/midnight_monsoon,lvl_6,lvl_outro
 
 #lvl_outro (0)
    3,R

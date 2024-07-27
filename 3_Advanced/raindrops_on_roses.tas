@@ -1,4 +1,4 @@
-RecordCount: 16680
+RecordCount: 16824
 
 console load StrawberryJam2021/3-Advanced/Worldwaker2
    1
@@ -502,13 +502,14 @@ Read,../StrawberryJamTAS/3_Advanced/raindrops_on_roses,lvl_3,lvl_2 (1)
    1,L,K,G
    5,R,K
    7,R,D
-   4,R,D
-  18,L,D
+  15,D,X
+   3,R,D
+   6,L,D
    1,S
    1,D,J
   69,O
 #spinner cycle
-   2
+   0
 #
    3,R,J
    6,R
@@ -731,35 +732,35 @@ EndStunPause
    2,L
    7,L,Z
    1,L,J
-  60,L,G
-  13,L,D,G
-   1,L,G
-   1,G
-   1
-  14,L,Z
-   1,R,J
-
-#any%-start
-  10,R,X
-   1,L,J
-  15,J
-  32,U,J,G
-   2,R,U,J,G
-   1,U,J,G
-   1
+  50,L,G
+   1,L,D,G
+   2,L,G
+   4,L,D,G
+   8,L,G
+   7,L,D,G
+  11,L,U,G
    1,L
+#any%-start
+  10,R,C
+   1,L,J
+  14,J
+  29,U,J,G
+   6,R,U,J,G
+   2
    1,L,G
 #spinner cycle
-   0,G
+   1,G
 #
    8,J,G
    1,R,J
    1,R,K
   19,R,J
-  80,R,U,J,G
+  69,R,U,J,G
+   1,U,J,G
+  10,R,U,J,G
   65,L,U,G
-   7,L
    1
+   7,L
    1
   15,U,X
   14,L,U,G
@@ -821,28 +822,33 @@ EndRepeat
   33,G
    6,L
    1,L,J
-   8,L,Z
+
+  14,L,D,Z
    1,L,J
-   6,L
-  23,L,J
-  14,U,X
-  29,R,U,J,G
-   4,L,U,J,G
    1,L
-   1,L,J,G
-  11,L,J
-  14,K
-  11,L,X
-   1,L,J,G
    1,L,J
+   7,L
+   1,L,K,G
+  22,L,K
+  12,U,X
+  13,R,J
+   5,J
+  24,L,J,G
+   4,R,J,G
+   1,L,J,G
+   1,K,G
+   1,R,K
+   7,J
+   8,L,X
+   2,L,J,G
+   1,J
   33,L,G
   41,L,D
    1,D
-  13,R,D
-  18,L,D
-  21,R,D
-   2,R
-   1,R,J
+  12,R,D
+  16,L,D
+  22,R,D
+   2,D
   10,L,X
   14,L,J
    3,J
@@ -1272,20 +1278,15 @@ EndStunPause
    8,L,D
    9,D
   10,L,Z
-   1,R,J
-   4,R
-  14,R,D,X
-  32,R,J,G
-   3,R,D,J,G
-   3,J,G
-   1
-   8,L,J
+  10,R,J
+  27,R
+  18,R,X
+  14,J
   15,U,X
-   5,L
+   3,R
   20,J
-   5,L,J
+   3,L,J
    1,L,K,G
-   1,R,K
    7,L
 #any%-start
   10,L,X
@@ -1307,4 +1308,4 @@ EndStunPause
    1,L,Z
   13,L,J
 
-ChapterTime: 3:16.146(11538)
+ChapterTime: 3:15.959(11527)

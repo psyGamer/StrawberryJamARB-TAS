@@ -164,7 +164,7 @@ console load StrawberryJam2021/2-Intermediate/thebreadstick1
   40
 
 #lvl_a-002
-read,../StrawberryJamTas/2_Intermediate/construction_conundrum,lvl_a-002,lvl_a-008 (1)
+read,../StrawberryJamTAS/2_Intermediate/construction_conundrum,lvl_a-002,lvl_a-008 (1)
 
 #lvl_a-008 (2)
  257
@@ -331,6 +331,6 @@ endstunpause
   40
 
 #lvl_a-012
-read,../StrawberryJamTas/2_Intermediate/construction_conundrum,lvl_a-012
+read,../StrawberryJamTAS/2_Intermediate/construction_conundrum,lvl_a-012
 
 FileTime: 1:53.679(6687)

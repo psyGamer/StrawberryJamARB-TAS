@@ -4,7 +4,7 @@ console load StrawberryJam2021/2-Intermediate/Luma
    1
 
 #Start
-read,../StrawberryJamTas/2_Intermediate/midnight_monsoon,Start,lvl_2
+read,../StrawberryJamTAS/2_Intermediate/midnight_monsoon,Start,lvl_2
 
 #lvl_2 (0)
    1,J

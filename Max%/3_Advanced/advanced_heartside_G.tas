@@ -1,4 +1,4 @@
-RecordCount: 23755
+RecordCount: 23759
 
 console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
    1
@@ -160,17 +160,6 @@ console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
    1,R,J
   49,R,J,G
    1,R
-
-
-
-
-
-
-
-
-
-
-
   14,U,X
   20,L,J
    1,K,G
@@ -193,56 +182,6 @@ console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
    1,R,J
   10,R,D,X
 #any%-end
-
-
-
-
-
-
-
-#Set,Invincible,True
-#StunPauseMode Simulate
-
-
-
-
-
-
-
-#  14,U,X
-#  20,L,J
-#   1,L,K,G
-#   1,R,K
-#   4,L
-#   6,R
-#   3
-#   2,R
-#   1,R,J
-#   8,R
-#   2,R,J
-#   2,R
-#  15,R,Z
-#  60,R,G
-#   6,R,D,G
-#   1,R
-#   6,R,Z
-#   1,R,J
-#   7,R
-#   1,R,J
-#  14,R,D,X
-#any%-end
-
-
-
-
-
-
-
-
-
-
-
-
    1,R,J
    7,R
    1,R,J
@@ -282,7 +221,6 @@ EndStunPause
 ###
 
 #####
-
 
    5,R,Z
    1,R,J
@@ -356,15 +294,15 @@ Read,../../StrawberryJamTAS/3_Advanced/advanced_heartside.tas,lvl_heartside_mmm,
 #lvl_heartside_Tortoise
 #the banger flags keep coming
    3,R
-  14,R,D
+  13,R,D
    5,D,X
 #any%-end
  110
 #wait for cycle
  113
+   5,R,Z
 #idk if there is a faster strat
 #and i dont feel like looking for one
-   4,R,Z
 #any%-start
    1,R,J
    1,R
@@ -451,7 +389,7 @@ Read,../../StrawberryJamTAS/3_Advanced/advanced_heartside.tas,lvl_heartside_mmm,
   13,R
   10,R,X
 #Spinner Cycle [Flag 12]
-   1,R,X
+   0,R,X
 #####
    8,L,J
   18,U,X
@@ -535,4 +473,4 @@ Read,../../StrawberryJamTAS/3_Advanced/advanced_heartside.tas,lvl_heartside_blue
 #lvl_heartside_Goldian
 Read,../../StrawberryJamTAS/3_Advanced/advanced_heartside.tas,lvl_heartside_Goldian
 
-ChapterTime: 4:52.434(17202)
+ChapterTime: 4:52.077(17181)

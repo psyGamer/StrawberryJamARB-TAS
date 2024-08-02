@@ -1,18 +1,108 @@
-RecordCount:
+RecordCount: 6913
+
+#bottlenecks in each room can depend on
+#theo in the clear pipe or Madeline,
+#so it's important to know what to optimize
+#comments posted throughout
 
 console load StrawberryJam2021/1-Beginner/Jadeturtle
    1
 
 #Start
-  69
+Read,../../../StrawberryJamTAS/1_Beginner/strawberry_orchard.tas,Start,lvl_a-08z
 
-#lvl_a-00
-   1,J
+#lvl_a-08z
+  12,R,G
+   9,R,D,G
+   1,R
+   4,R,D
+##theo here
+   9,R,G
+   2,R,D
+  15,R,D,X
+  27,R
+  14,R,U,X
+  53,R,J,G
+   5,J,G
+   1
+   5,L
+  15,R,X
+  14,R,U,C
+  56,R,G
+   1,R,D,G
+   1,R,G
+   8,R,D,G
+   1,D,G
+   1,G
+   1,D,G
+   1,D
+   7,L,Z
+   1,R,J
+  13,R,J,G
+   1,R,G
+#any%-end
+   9,R,K,G
+   9,R,G
+   1,R,J,G
+  20,R
+  14,R,Z
+   1,R,J
+   6,R
+   1,N
+   2,R
+ 138
+  15,U,C
+  12,L,J,G
+   7,L
+   6,R,Z
+   1,L,J
+   1,L
+   1,L,J
+   6,L
+   5,L,D,X
+   1,R,J
+  17,R,J,G
+   9,R,K,G
+  40
 
+#lvl_a-09z
+   1,R,K,G
+  15,R,G
+  18,R,G
+   1,D
+  11,U,X
+  22,R,G
+#any%-start
+  22,L,G
+  15,R,G
+   1,D
+  11,U,X
+  25,G
+  29,L,G
+  18,R,G
+   1
+  12,L,U,Z
+  36,R,G
+   1,R
+  14,R,U,X
+  35,R,G
+  20,L,G
+   1,L
+  11,L,D,X
+   5,L
+  15,L,U,C
+  92
+   7,R,D,X
+   1,R,J
+   7,R
+   1,R,J
+   8,R,D,X
+  13,G
+   1,R,J,G
+  11,R,G
+  40
 
+#lvl_a-11z
+Read,../../../StrawberryJamTAS/1_Beginner/strawberry_orchard.tas,lvl_a-11z
 
-
-
-
-
-ChapterTime: 
+ChapterTime: 1:11.944(4232)

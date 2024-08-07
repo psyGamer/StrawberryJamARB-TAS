@@ -6,7 +6,7 @@ console load StrawberryJam2021/4-Expert/hivemindsrule
 #Start
 Read, ../StrawberryJamTAS/4_Expert/plasma_reactor, Start, lvl_a8
 
-#lvl_a8(0)
+#lvl_a8 (0)
    2,R,J
    3,R
   15,R,D,X
@@ -126,7 +126,7 @@ Read, ../StrawberryJamTAS/4_Expert/plasma_reactor, Start, lvl_a8
   15,R,D
   40
 
-#lvl_a8(1)
+#lvl_a8 (1)
   38,R,D
    9,D
    6,R,Z

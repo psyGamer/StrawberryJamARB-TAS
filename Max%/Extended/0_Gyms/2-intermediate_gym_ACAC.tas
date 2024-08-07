@@ -10,10 +10,13 @@ console load StrawberryJam2021/0-Gyms/2-Intermediate
 Read,../../../0_Gyms/Gyms/2-intermediate_gym.tas,Start,lvl_1-hub (7)
 
 #lvl_1-hub
+
+MidwayChapterTime: 1:09.445(4085)
+
 #any%-end
    1,S
    1,U,J
    1,O
   32
 
-FileTime: 1:11.485(4205)
+#FileTime: 1:11.485(4205)

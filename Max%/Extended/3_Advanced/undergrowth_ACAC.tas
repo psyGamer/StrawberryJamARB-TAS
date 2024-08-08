@@ -1,4 +1,4 @@
-RecordCount: 11258
+RecordCount: 11291
 
 console load StrawberryJam2021/3-Advanced/Nic
    1
@@ -107,7 +107,7 @@ Read,../../../StrawberryJamTAS/3_Advanced/undergrowth.tas,Start,lvl_04-a
    3,L,J
    5,L,K,G
 #Spinner Cycle [06-b]
-   1
+   0
 #####
    1,S
    1,D,J
@@ -169,63 +169,53 @@ Read,../../../StrawberryJamTAS/3_Advanced/undergrowth.tas,lvl_03-a (1),lvl_06-a 
    8,J
    2,R,J
    1,J
-   3,R,J
-   1,R,K,G
-  12,R,J,G
 #any%-end
 #ARB-Start
-  14,R
-  15,R,X
-   2,R
-   1
-   1,R,J,G
-   7,R,K,G
-   6,R
    3,R,J
-  15,R,D,X
-  12,R,J
-  10,R,Z
-   1,R,J
-   1,J
    1,R,K,G
-   3,K
+   1,R,J,G
+   3
+   5,R
+   1,R,J
+   2,R
+   3
+  21,R,J
+  15,R,Z
+   4,D,C
+   1,R,J
+   7,R
+   1
+   5,R,D
+   1,R
+  11,R,Z
+   1,R,J,G
+   4,L,J
+   7,R
   10,R,Z
    1,R,J
-   1
-   1,J
-   1
-   1,J
-  13,D
-  14,R,D
-  12,L,D
-  15,L,X
-  21,L,D
-   1,D
-   1,L,D
-   1,D
-   1,L,D
-  10,D
+   6,R,K,G
+   3,R
+  14,D
+  13,R,D
+  17,L,D
+  31,L,X
   10,L,D
-   4,D
-   1,L,D
-  11,R,D
-  20,R,D,X
-  18,R,U,C
+   7,D
+  10,L,D
+  23,R,D
+  24,R,X
   15,R,Z
 #ARB-end
-   5,R
-  18,L,D
+   1,R,D
+  18,D
+   1,L,D
    1,D
-   2,L,D
+   1,L,D
    1,L,J
   14,L,D,X
    1,L,J
-   1
-  15,D,X
-   1,R,D
-   1,D
-   1,R,D
-   1,D
+   1,L
+  19,D,X
    2,R,D,J
    3,R
    2,R,J
@@ -595,4 +585,4 @@ EndStunPause
 #key cycle should sync here
 Read,../../../StrawberryJamTAS/3_Advanced/undergrowth.tas,lvl_06-a (1)
 
-ChapterTime: 1:52.625(6625)
+ChapterTime: 1:52.472(6616)

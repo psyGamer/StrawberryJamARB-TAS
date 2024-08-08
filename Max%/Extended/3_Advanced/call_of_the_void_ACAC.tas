@@ -1,4 +1,4 @@
-RecordCount: 6182
+RecordCount: 6188
 
 console load StrawberryJam2021/3-Advanced/Viv
    1
@@ -451,8 +451,8 @@ Read,../../../StrawberryJamTAS/3_Advanced/call_of_the_void.tas,Start,lvl_vivEnd
   29,R,D,X
   54,L,C
    6,G
-  23,D,G
-  14,L,Z
+  24,D,G
+  13,L,Z
    1,L,J
    2,L
    1,L,J
@@ -572,6 +572,9 @@ Read,../../../StrawberryJamTAS/3_Advanced/call_of_the_void.tas,Start,lvl_vivEnd
   10,D,J
   23,R,K,G
   15,D,X
+#Spinner Cycle [vivBonus]
+   0
+#####
   10,L,C
    8,R,J
   10,R,X

@@ -7,8 +7,16 @@ console load StrawberryJam2021/0-Gyms/3-Advanced
    1
 
 #Start
-  36
+Read,../../../0_Gyms/Gyms/3-advanced_gym.tas,Start,lvl_1-hub (8)
 
 #lvl_1-hub
 
-FileTime:
+MidwayChapterTime: 1:13.389(4317)
+
+#any%-end
+   1,S
+   1,U,J
+   1,O
+  32
+
+#FileTime: 1:14.919(4407)

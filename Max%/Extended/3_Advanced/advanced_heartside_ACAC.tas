@@ -1,14 +1,12 @@
-RecordCount: 280
+RecordCount: 331
 
 console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
    1
-
 
 #Start
 Read,../../../StrawberryJamTAS/3_Advanced/advanced_heartside.tas,Start,lvl_heartside_Worldwaker2
 
 #lvl_heartside_Worldwaker2
-
    8,R,D,X
    1,R,J
   14,R,D,X
@@ -105,17 +103,13 @@ Read,../../../StrawberryJamTAS/3_Advanced/advanced_heartside.tas,Start,lvl_heart
    1
    1,N
  129
-
 #any%-start
    1,S
    1,D,J
   69,O
-
-#spinner cycle - bee berserk (changed from any%)
-#   1
-   0
-##
-
+#Spinner Cycle [Flag 23]
+   1
+#####
    2,R,J
   11,R,Z
    5,R,J
@@ -197,13 +191,11 @@ Read,../../../StrawberryJamTAS/3_Advanced/advanced_heartside.tas,lvl_heartside_T
   11,R,K
   25,R,J
   15,R,D,X
-   5,R
-
 #any%-end
-  23,R,D,J
-   6
+   6,R
+  28,R,D,J
   16,U,Z
-Repeat 11
+Repeat 9
    1,K,G
    1,L,K
    1,R,K
@@ -211,11 +203,19 @@ Repeat 11
    1,L,J
    1,R,J
 EndRepeat
-   1,R,J
    1,R,K,G
+   1,L,K
+   1,K
+   1,L,K
+   4,K
+   1,R,J,G
+   2,R,K,G
+   1,K
+   3,R,K
+   1,J
+   1,K
+   9,R,K
    4,R
-  12,R,J
-   3,R
    1,N
  130
   15,L,Z
@@ -241,7 +241,6 @@ Repeat 12
    1,D
    1
 EndRepeat
-
 #any%-start
   10,L,Z
    1,R,J
@@ -309,5 +308,4 @@ EndRepeat
   12,U,X
  135
 
-
-ChapterTime: 4:57.330(17490)
+ChapterTime: 4:56.140(17420)

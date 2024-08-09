@@ -1,16 +1,16 @@
-RecordCount: 6360
+RecordCount: 6361
 console load StrawberryJam2021/0-Gyms/4-Expert
    1
 
 #Start
-  36
+Read,../../../0_Gyms/Gyms/4-expert_gym.tas,Start,lvl_1-hub (8)
 
 #lvl_1-hub
 
+MidwayChapterTime: 1:23.776(4928)
 
-
-
-
-
-
-FileTime:
+#any%-end
+   1,S
+   1,U,J
+   1,O
+  32

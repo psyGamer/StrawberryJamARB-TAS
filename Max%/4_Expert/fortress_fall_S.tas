@@ -1,10 +1,17 @@
-RecordCount: 5824
+RecordCount: 5826
 
 console load StrawberryJam2021/4-Expert/Aspar
    1
 
 #Start
-Read,../../StrawberryJamTAS/4_Expert/fortress_fall.tas,Start,lvl_00-intro-cutscene
+  61
+
+#Spinner Cycle [06-crossroad]
+   2
+#####
+
+#lvl_00-intro
+Read,../../StrawberryJamTAS/4_Expert/fortress_fall.tas,lvl_00-intro,lvl_00-intro-cutscene
 
 #lvl_00-intro-cutscene
 #any%-end
@@ -76,4 +83,4 @@ EndStunPause
 #lvl_09
 Read,../../StrawberryJamTAS/4_Expert/fortress_fall.tas,lvl_09
 
-ChapterTime: 1:12.284(4252)
+ChapterTime: 1:10.312(4136)

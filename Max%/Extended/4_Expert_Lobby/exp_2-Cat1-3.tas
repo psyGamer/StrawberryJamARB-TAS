@@ -38,17 +38,18 @@ console load StrawberryJam2021/0-Lobbies/4-Expert 1976 -1616
   12,R,X
    2,R,J,G
   36,R
-   7,R,J
-   4,R
-  15,R,U,X
-  26,R
+   1,R,J
+  11,R
+  16,R,U,X
+   1,R,J,G
+  20,R
+   1,J
   14,R,Z
   10,R,J
   10,R
   15,R,X
   16,R,D
   12,D
-
   14,R,Z
   29,R,J
   15,R,U,X
@@ -61,10 +62,11 @@ console load StrawberryJam2021/0-Lobbies/4-Expert 1976 -1616
    2,R
    4,R,J,G
   12,R
-   8,R,J,Z
+   4,R,Z
+   4,R,J
    1,S
-   1,D,O
- 106
+   1,D,J
+  72,O
    5,L,Z
    2,L,J
   78,L,D
@@ -74,7 +76,8 @@ console load StrawberryJam2021/0-Lobbies/4-Expert 1976 -1616
   19,L,D
   68,D
   33,L,D
-   5,L,J,Z
+   4,L,Z
+   1,L,J
   18,L
    1,L,J
   14,L,D,X
@@ -89,26 +92,24 @@ console load StrawberryJam2021/0-Lobbies/4-Expert 1976 -1616
    5,L,Z
    1,L,J
    7,L
-   1,L,J
+   2,L,J
   15,L,U,X
-  30,R,D
-
-   5,R,J,Z
+  29,R,D
+   4,R,Z
+   1,R,J
    7,R
    1,R,J
    9,R
   15,D,X
   28,R,D
  114,D
-
   64,L,U,X
    9,U,C
-   1,J
-
-  32,R,D
-   0,D
+   4,J
+  29,R,D
   41,L,D
-   5,L,J,Z
+   4,L,Z
+   1,L,J
    7,L
    1,L,J
    3,L
@@ -116,14 +117,19 @@ console load StrawberryJam2021/0-Lobbies/4-Expert 1976 -1616
    1,L,J
   14,L,D,X
    1,L,J
-  14,L,D,X
+   1,L,K,G
+   1,L
+  10,L,D,X
    1,L,J
-   5,L,D,X
-   7,L,J
-   3,L,K,G
-   8,L
-   3,L,K
+   5,L
    3,L,J
+   1,L
+   2,L,J,G
+   5,L
+   1,L,J
+   2,L
+   2,L,J
+   1,J
    1,R,J
   10,L,J
   14,U,X
@@ -141,53 +147,74 @@ console load StrawberryJam2021/0-Lobbies/4-Expert 1976 -1616
   17,U,X
   14,L,J
   11,L
-   5,L,J,Z
-   7,L
+   4,L,Z
+   2,L,J
+   1,L
+   2,L,J
+   6,L
    1,L,J
-   4,L
-  16,D,X
-  15,U,C
-  11,R
-   5,R,Z
-   3,R,J
-   7,R,D
-  33,D
-   5,R,J,Z
-  35,R,D
-  25,L,D
-   8,D
-   1,N
- 126
-   1,D
+   1,L
+  15,D,X
+  11,U,C
+   2,R,J
+   1,K,G
+   3,R
    1
-   1,D,J
+   3,R
+   4,R,Z
+   3,R,J
+   1,R
+   2,R,J
+   8,R
+  13,R,D
+   1,L,D
+  10,R,D
+  14,R,D,X
+   1,R,J
+  15,R,D,X
+  40,L,D
+   9,D
+   1,N
+ 125
+   1,D
+   1,J,F,180
   71
   14,L,U,C
    4,L,J,G
    9,L,K,G
    3,L
    7,L,J,G
-  11,L,K,G
-  16,L
+  10,L,K,G
+   8,L
+   1,L,J
+   7,L
   14,L,D,X
    1,L,J
   15,L,D,X
    7,L,D
    1,L,J
   15,L,D,X
-  26,L
-  25,L,J
-   9,L,U,X
+  20,L
+   5,L,D
+   5,L,J
+   8,L
+   3,L,J
+   4,L
+  14,L,U,X
    1,L,J,G
-  14,L
-   6,L,J
-  10,U,X
-  16,L,J
-  17,L
+   9,L
+   1,L,J
+   3,L
+   5,L,J
+  11,U,X
+  20,L,J
+   1,L,K,G
+  12,L
   13,U,X
   31,L,J
    6,L
-   5,L,J,Z
+   4,L,Z
+   1,L,J
   23
    2,L
   28,L,D
@@ -199,15 +226,17 @@ console load StrawberryJam2021/0-Lobbies/4-Expert 1976 -1616
   15,D,X
   15,D
   35,L,D
-  11,R,J,Z
+   4,R,Z
+   7,R,J
    3,R
    3
   18,R,D,X
   15,R,D,C
-  18,R,X
-  27
-   0,R
-  15,R,X
+   6,R,X
+   4,R,J
+  24,D
+   1,R,D
+  15,R,D,X
   10,R,C
    5,R,J
   11,R,U,Z
@@ -220,38 +249,38 @@ console load StrawberryJam2021/0-Lobbies/4-Expert 1976 -1616
   10,R,X
    5,R,J
   17,U,X
-  22,R,J
+  15,R,J
+   2,L,J
+   5,R,J
    4,R
-   7,R,Z
-   1,R,J
-   7,R
-   1,R,J
-  10,R,X
-   6,R,J
-  10,L,K
-   4,L,J,G
-   7,L
-   6,L,Z
+   4,R,Z
+   2,R,J
+   8,R
+  11,R,D,J
+   3,K
+   7,J
+   7,L,Z
    1,L,J
-   7,L
-   9,L,J
-  15,L
-   5
- 132,N
+   6,L
+   9,L,D,J
+  18,L,D
+   2,R,D
+   1,D
+   1,N
+ 129
    1,S
    1,D,J
   72,O
 #Rng_Start
    0
 #Rng_End
-
-   5,R,J,Z
+   4,R,Z
+   1,R,J
   12,R
    7,R,J
   14,R,X
    1,R,J,G
   31,R
-
   10,R,D
    2,R,J
   44,R,D,X
@@ -261,14 +290,10 @@ console load StrawberryJam2021/0-Lobbies/4-Expert 1976 -1616
   12,J
    1,R
   12,R,J
-  10,R,K,Z
-   4,R,J,G
-   9,R
+   4,R,Z
+   6,R,J
+   4,R,K,G
+   4,R
    1,N
-   
 
-
-
-
-   
-#0:52.445(3085)
+#0:50.966(2998)

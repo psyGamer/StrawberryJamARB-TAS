@@ -1,0 +1,242 @@
+#IMPORTANT NOTE:
+#THIS FILE WILL ONLY WORK IF YOU
+#RESTART THE ENTIRE GAME BEFORE
+#PLAYING IT!!!!!
+#YOU HAVE BEEN WARNED!!!!!
+
+#This file was made based off the files in the EL folder.
+Unsafe
+#This will wipe the debug save!
+#Uncomment at your own peril.
+console clrsav
+console load StrawberryJam2021/0-Lobbies/4-Expert
+EnforceMaingame
+   1
+
+#Start
+#Expert Gym
+Read,4_Expert_Lobby/exp_0-Gym,Start
+Read,../../StrawberryJamTAS/EnterLevel,Start
+Read,0_Gyms/4-expert_gym_ACAC.tas,Start
+
+#Madeline the Bubble
+Read,4_Expert_Lobby/exp_Gym-1,Start
+Read,../../StrawberryJamTAS/EnterLevel,Start
+Read,../../StrawberryJamTAS/4_Expert/madeline_the_bubble,Start
+   1,O
+  32
+
+#Pet Madeline: The Bubble Cat
+Read,4_Expert_Lobby/exp_1-Cat2-2,Start
+
+#Clockwork
+Read,../../StrawberryJamTAS/EnterLevel,Start
+Read,4_Expert/clockwork_ACAC,Start
+   1,O
+  32
+
+#Pet Adventure Cat
+Read,4_Expert_Lobby/exp_2-Cat1-3,Start,Rng_Start
+#Rng_Start
+   1
+#Rng_End
+Read,4_Expert_Lobby/exp_2-Cat1-3,Rng_End
+
+#Ethereal Ascension
+Read,../../StrawberryJamTAS/EnterLevel,Start
+Read,4_Expert/ethereal_ascension_ACAC,Start
+   1,O
+  32
+
+#Meaningless Contraptions
+Read,../../StrawberryJamTAS/4_Expert_Lobby/exp_3-4,Start
+Read,../../StrawberryJamTAS/EnterLevel,Start
+Read,4_Expert/meaningless_contraptions_ACAC,Start
+   1,O
+  32
+
+#Skyline Usurper
+Read,../../StrawberryJamTAS/4_Expert_Lobby/exp_4-5,Start
+Read,../../StrawberryJamTAS/EnterLevel,Start
+Read,../../StrawberryJamTAS/4_Expert/skyline_usurper,Start
+   1,O
+  32
+
+#Hypnagogia
+Read,../../StrawberryJamTAS/4_Expert_Lobby/exp_5-6,Start
+Read,../../StrawberryJamTAS/EnterLevel,Start
+Read,4_Expert/hypnagogia_ACAC,Start
+   1,O
+  32
+
+#The Core Problem
+Read,../../StrawberryJamTAS/4_Expert_Lobby/exp_6-7,Start
+Read,../../StrawberryJamTAS/EnterLevel,Start
+Read,../../StrawberryJamTAS/4_Expert/the_core_problem,Start
+   1,O
+  32
+
+#Vinculum
+Read,../../StrawberryJamTAS/4_Expert_Lobby/exp_7-8,Start
+Read,../../StrawberryJamTAS/EnterLevel,Start
+Read,4_Expert/vinculum_ACAC,Start
+   1,O
+  32
+
+#Subway Neon
+Read,../../StrawberryJamTAS/4_Expert_Lobby/exp_8-9,Start
+Read,../../StrawberryJamTAS/EnterLevel,Start
+Read,../../StrawberryJamTAS/4_Expert/subway_neon,Start
+   1,O
+  32
+
+#Golden Alleyway
+Read,../../StrawberryJamTAS/4_Expert_Lobby/exp_9-11,Start
+Read,../../StrawberryJamTAS/EnterPostcard,Start
+Read,../../StrawberryJamTAS/4_Expert/golden_alleyway,Start
+   1,O
+  32
+
+#A Change in Direction
+Read,../../StrawberryJamTAS/4_Expert_Lobby/exp_11-13,Start
+Read,../../StrawberryJamTAS/EnterLevel,Start
+Read,4_Expert/a_change_in_direction_ACAC,Start
+   1,O
+  32
+
+#System.InvalidMapException
+Read,../../StrawberryJamTAS/4_Expert_Lobby/exp_13-12,Start
+Read,../../StrawberryJamTAS/EnterLevel,Start
+Read,../../StrawberryJamTAS/4_Expert/system_invalidmap,Start
+   1,O
+  32
+
+#Overgrown Linn
+Read,../../StrawberryJamTAS/4_Expert_Lobby/exp_12-10,Start
+Read,../../StrawberryJamTAS/EnterLevel,Start
+Read,4_Expert/overgrown_linn_ACAC,Start
+   1,O
+  32
+
+#Floating Point
+Read,../../StrawberryJamTAS/4_Expert_Lobby/exp_10-18,Start
+Read,../../StrawberryJamTAS/EnterLevel,Start
+Read,../../StrawberryJamTAS/4_Expert/floating_point,Start
+   1,O
+  32
+
+#Caper Cavortion
+Read,../../StrawberryJamTAS/4_Expert_Lobby/exp_18-17,Start
+Read,../../StrawberryJamTAS/EnterLevel,Start
+Read,4_Expert/caper_cavortion_ACAC,Start
+   1,O
+  32
+
+#Hydroshock
+Read,../../StrawberryJamTAS/4_Expert_Lobby/exp_17-16,Start
+Read,../../StrawberryJamTAS/EnterLevel,Start
+Read,4_Expert/hydroshock_ACAC,Start
+   1,O
+  32
+
+#Time Trouble
+Read,../../StrawberryJamTAS/4_Expert_Lobby/exp_16-22,Start
+Read,../../StrawberryJamTAS/EnterLevel,Start
+Read,../../StrawberryJamTAS/4_Expert/time_trouble,Start
+   1,O
+  32
+
+#Lunar Pagoda
+Read,../../StrawberryJamTAS/4_Expert_Lobby/exp_22-23,Start
+Read,../../StrawberryJamTAS/EnterLevel,Start
+Read,../../StrawberryJamTAS/4_Expert/lunar_pagoda,Start
+   1,O
+  32
+
+#Plasma Reactor
+Read,../../StrawberryJamTAS/4_Expert_Lobby/exp_23-24,Start
+Read,../../StrawberryJamTAS/EnterLevel,Start
+Read,4_Expert/plasma_reactor_ACAC,Start
+   1,O
+  32
+
+#Narrow Hollow
+Read,../../StrawberryJamTAS/4_Expert_Lobby/exp_24-21,Start
+Read,../../StrawberryJamTAS/EnterLevel,Start
+Read,../../StrawberryJamTAS/4_Expert/narrow_hollow,Start
+   1,O
+  32
+
+#Storm Runner
+Read,../../StrawberryJamTAS/4_Expert_Lobby/exp_21-19,Start
+Read,../../StrawberryJamTAS/EnterLevel,Start
+Read,../../StrawberryJamTAS/4_Expert/storm_runner,Start
+   1,O
+  32
+
+#Fortress Fall
+Read,../../StrawberryJamTAS/4_Expert_Lobby/exp_19-20,Start
+Read,../../StrawberryJamTAS/EnterLevel,Start
+Read,../../StrawberryJamTAS/4_Expert/fortress_fall,Start
+   1,O
+  32
+
+#Summit Down-Side
+Read,../../StrawberryJamTAS/4_Expert_Lobby/exp_20-25,Start
+Read,../../StrawberryJamTAS/EnterLevel,Start
+Read,4_Expert/summit_down-side_ACAC,Start
+   1,O
+  32
+
+#Psychokinetic
+Read,../../StrawberryJamTAS/4_Expert_Lobby/exp_25-26,Start
+Read,../../StrawberryJamTAS/EnterLevel,Start
+Read,4_Expert/psychokinetic_ACAC,Start
+   1,O
+  32
+
+#Garden of Khu'tara
+Read,../../StrawberryJamTAS/4_Expert_Lobby/exp_26-27Warp,Start
+Read,../../StrawberryJamTAS/EnterLevel,Start
+Read,4_Expert/garden_of_khutara_ACAC,Start
+   1,O
+  32
+
+#Polaris
+Read,../../StrawberryJamTAS/4_Expert_Lobby/exp_27-28fromwarp,Start
+Read,../../StrawberryJamTAS/EnterLevel,Start
+Read,../../StrawberryJamTAS/4_Expert/polaris,Start
+   1,O
+  32
+
+#Chromatic Complex
+Read,../../StrawberryJamTAS/4_Expert_Lobby/exp_28-29,Start
+Read,../../StrawberryJamTAS/EnterLevel,Start
+Read,../../StrawberryJamTAS/4_Expert/chromatic_complex,Start
+   1,O
+  32
+
+#Flying Battery
+Read,../../StrawberryJamTAS/4_Expert_Lobby/exp_29-0,Start
+Read,../../StrawberryJamTAS/4_Expert_Lobby/exp_0-14,Start
+Read,../../StrawberryJamTAS/EnterLevel,Start
+Read,../../StrawberryJamTAS/4_Expert/flying_battery,Start
+   1,O
+  32
+
+#Mosaic Garden
+Read,../../StrawberryJamTAS/4_Expert_Lobby/exp_14-15,Start
+Read,../../StrawberryJamTAS/EnterLevel,Start
+Read,4_Expert/mosaic_garden_ACAC,Start
+   1,O
+  32
+
+#Starfruit Supernova
+#Expert Heartside
+Read,../../StrawberryJamTAS/4_Expert_Lobby/exp_15-30,Start
+Read,../../StrawberryJamTAS/EnterHeartside,Start
+Read,4_Expert/expert_heartside_ACAC,Start
+  61
+   1,O
+
+FileTime: 57:03.902(201406)

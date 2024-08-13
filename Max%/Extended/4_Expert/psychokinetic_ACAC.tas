@@ -1,4 +1,4 @@
-RecordCount: 3124
+RecordCount: 3148
 
 console load StrawberryJam2021/4-Expert/Cabob
    1
@@ -7,7 +7,7 @@ console load StrawberryJam2021/4-Expert/Cabob
  190
 
 #Spinner Cycle [a-01]
-   2
+   1
 #####
 
 #lvl_a-start (0)
@@ -180,15 +180,16 @@ EndRepeat
    5
    1,O
   27
-  10,L,Z
-#any%-start
+  10,R,D,X
    1,R,J
    1,R,K
    1,R,J
    1,R,K
    1,R,J
-   4,R,K
-   3,R
+   1,R,K
+   3,K
+   1
+   2,R
    8,R,D,X
    1,R,J,G
    1,R,K
@@ -359,20 +360,21 @@ EndRepeat
 Read,../../../4_Expert/psychokinetic, lvl_a-03 (0),lvl_a-02 (1)
 
 #lvl_a-02 (2)
-   2,L,K
-  10,L
-   8,L,D,X
-#Spinner Cycle [a-06]
-   0,L,D,X
-#####
+   1,L,J
+   2,L
 #any%-start
+  11,L,D,X
+#Spinner Cycle [a-06]
+   2,L,D,X
+#####
    1,R,J
    1,R,K
    1,R,J
    1,R,K
    1,R,J
-   1,R,K,G
-   4,R,J
+   1,R,K
+   2,R
+   1
   40
 
 #lvl_a-03 (1)
@@ -529,11 +531,12 @@ Read,../../../StrawberryJamTAS/4_Expert/psychokinetic, lvl_a-03, lvl_a-06
   27,D
    2,R,D
    6,L,Z
-#any%-start
-#ARB-start
    1,R,J
    7,R
    4,R,J
+#based off old any% inputs
+#because i feel like the other
+#route would be slower
   15,R,D,X
    1,R,J
    1,R,K
@@ -546,11 +549,73 @@ Read,../../../StrawberryJamTAS/4_Expert/psychokinetic, lvl_a-03, lvl_a-06
   40
 
 #lvl_a-07
-Read,../../../StrawberryJamTAS/4_Expert/psychokinetic, lvl_a-07, lvl_a-08
+   6,R
+   3
+   1,R,J
+  20,R,U,X
+  20,R,D,C
+   1
+  15,R,D,X
+   1,R,J
+  14,R,U,C
+   4,R,J
+   9,R,K
+   2,R
+   5,R,J,G
+  19,R,U,Z
+   4,R,J
+   7,R,K
+  10,R,D,X
+   4,L,J
+   4,L,K
+  20,L,U,X
+   1,L,J
+  22,L,U,X
+   1
+   1,R,K
+  13,L,D,X
+   4,L,J
+  10,L,K
+  18
+  15,D
+   1
+   1,D
+   5,R
+   1,L,J
+   1,L,K
+   6
+  40
 
 #lvl_a-08 (0)
-#any%-end
-Read,../../../4_Expert/psychokinetic,lvl_a-08 (0),lvl_a-08x
+   3,K
+   7
+   5,D
+   4,L,J
+   4,R,J
+#ARB-start
+  19,R,U,X
+   4,R,J
+   4,R,K
+   4,R
+  18,R,D,X
+   4,R,D
+   1,R,J
+  15,R,U,Z
+   4,R,J
+   5,R
+   1,R,J
+   3,R
+#be much further left
+   1,R,J
+   2,J
+   9
+   1,R
+#   3,R,J
+#   5,R
+#   5
+#####
+  37,U,X
+  40
 
 #lvl_a-08x
   11,R
@@ -565,7 +630,7 @@ Read,../../../4_Expert/psychokinetic,lvl_a-08 (0),lvl_a-08x
    3,R,J,G
    7,R
 #Spinner cycle [a-08x]
-   1
+   0
 #####
 #rip ape 3
   14,R,D,X
@@ -725,4 +790,4 @@ Read,../../../4_Expert/psychokinetic,lvl_a-08 (1),lvl_a-end (1)
   13,U,X
  135,D
 
-ChapterTime: 2:10.407(7671)
+ChapterTime: 2:10.254(7662)

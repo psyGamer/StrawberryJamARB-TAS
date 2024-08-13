@@ -1,4 +1,4 @@
-RecordCount: 1463
+RecordCount: 1464
 
 console load StrawberryJam2021/5-Grandmaster/alisticious
    1
@@ -197,7 +197,7 @@ Read,../StrawberryJamTAS/5_Grandmaster/superluminary.tas,lvl_a-00,lvl_a-03
   40
 
 #lvl_b-04b
-   5
+   6
    5,U,X
    8,U
    2,R,U

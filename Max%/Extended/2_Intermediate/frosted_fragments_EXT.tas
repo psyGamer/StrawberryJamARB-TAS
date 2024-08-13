@@ -1,18 +1,230 @@
-RecordCount:
+RecordCount: 510
 
 console load StrawberryJam2021/2-Intermediate/Dooshii
    1
 
 #Start
- 106
-
 #lvl_a1
+Read,frosted_fragments_ACAC.tas,Start,lvl_a2v2
+
+#lvl_a2v2
+Read, ../../../StrawberryJamTAS/2_Intermediate/frosted_fragments.tas, lvl_a2v2,lvl_a3v2
+
+#lvl_a3v2
+   1
+  72,O
+   7,R,J
+  15,R,U,X
+   5,U,C
+  12,L
+  15,R,U,C
+   2,R
+   7,R,D,X
+   1,R,J
+   7,R
+   8,R,X
+   1,R,J
+   1,R,K,G
+   1,R,K
+   1,K,G
+   3
+  15,R,Z
+  17,D
+  13,R,D
+   1,R
+  15,R,D
+   3,R
+   1,R,D
+   2,R
+   1,R,J,G
+  15,R,K,G
+   3,J,G
+   7,R
+  10,R,J
+   1,K,G
+   1,R
+   5,R,Z
+   1,R,J
+   6,R
+   2,R,J
+   1,R
+  13,R,U,X
+   1,K,G
    1,J
+   1,K
+   5,L,K
+   2,L
+   3
+   4,N
+  15,R,D,X
+   1,L,D
+   3,R,D
+   4,D
+   1,L
+   5,R,D,X
+   1,R,J
+  29,D
+  15,R,X
+   9,R,U,C
+   3,R
+  14,U,X
+  14,R
+  17,U,X
+   6,L,J,G
+   2
+   1,J,G
+   7,L
+  10,L,Z
+   1,R,J
+   3,D
+  21,R,D
+   1,D
+  16,R,D
+   4,R
+   9,R,Z
+  26,R
+  15,R,X
+  24,R,C
+  14,U,X
+#Spinner Cycle [a4v2]
+   0
+#####
+  15,U,C
+   1,R
+  15,R,U,X
+   3,R
+   1
+   1,R
+   1,J
+  21,R,J
+   2,R
+   1
+   1,R
+   1,R,K,G
+  13,R
+  14,L,D,X
+   1,R,J
+   5,R,D,X
+   1,R,J,G
+  13,R
+   1,R,J
+   5,R,D,X
+  40,J
 
+#lvl_a4v2
+Read, ../../../StrawberryJamTAS/2_Intermediate/frosted_fragments.tas, lvl_a4v2 (0),lvl_a6v2
 
+#lvl_a6v2 (0)
+Read, ../../../2_Intermediate/frosted_fragments.tas,lvl_a6v2 (0),lvl_a_10v2 (0)
 
+#lvl_a_10v2
+   1,R,J
+  10,R
+   4,Z
+   1,R,J
+   3,R
+   1,R,J
+   3,R
+  11,R,J
+   1,R,K,G
+   6
+   1,L
+   1,R,J,G
+   8,U,X
+   3
+   3,L
+  12,L,J
+   1
+   2,L,K,G
+   7,L
+  14,L,Z
+   1,R,J
+   1
+   6,R
+   6,R,D,J
+   2,R
+   1,K,G
+   1,L,K
+   1,R,K
+   1,J,G
+   1,L,J
+   1,L,K,G
+   1,L,J,G
+   2,L
+  13,L,U,X
+   7,L,J,G
+  15,L,X
+   8,L,Z
+  15,L,X
+   1,G
+   1,L,J,G
+   2,L,K,G
+   1,L,K
+   1,K
+   1,L,K
+  16,U,Z
+   3,J
+  11,R
+   6,R,J
+   5,J
+  15,U,X
+  15,J
+   4
+#+2f: weird camera
+#change exact positioning for
+#6f bhop subpx when using a different
+#spinner cycle
+   5,R
+   2
+#Spinner Cycle [a_10v2]
+   2
+#####
+   6,R,J
+  15,D,X
+   3,D
+StunPause
+   6,D
+   9,R,D
+   1
+   1,R
+   2
+   1,R
+   1,D
+SkipInput 3 1
+   4,L,Z
+   1,L,J
+   6,L
+   8,L,D,J
+   3,L
+EndStunPause
+#   8,R
+#   8,G
+#  15,D,X
+#StunPause
+#   6,D
+#  12,R,D
+#   3,D
+#SkipInput 3 1
+#   4,L,Z
+#   1,L,J
+#   6,L
+#   8,L,D,J
+#   3,L
+#EndStunPause
+#####
+   2,L
+   2,L,K
+  15,L,U,X
+  24,L,D
+#Spinner Cycle [r_01v2]
+   0
+#####
+   4,L,Z
+   1,L,J
+   3,L
+  40
 
+#lvl_r_01v2
+Read, ../../../2_Intermediate/frosted_fragments.tas,lvl_r_01v2
 
-
-
-ChapterTime: 
+ChapterTime: 2:06.667(7451)

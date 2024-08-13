@@ -1,4 +1,4 @@
-RecordCount:
+RecordCount: 2071
 
 console load StrawberryJam2021/5-Grandmaster/alisticious
    1
@@ -7,12 +7,12 @@ console load StrawberryJam2021/5-Grandmaster/alisticious
   86
 
 #lvl_a-00
-   1,J
+Read,../../../5_Grandmaster/superluminary.tas,lvl_a-00,lvl_b-05a
 
+#lvl_b-05a
+Read,../../../StrawberryJamTAS/5_Grandmaster/superluminary.tas,lvl_b-05a,lvl_a-05c
 
+#lvl_a-05c
+Read,superluminary_ACAC.tas,lvl_a-05c
 
-
-
-
-
-ChapterTime: 
+ChapterTime: 1:57.759(6927)

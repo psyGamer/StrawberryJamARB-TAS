@@ -1,18 +1,41 @@
-RecordCount:
+#draft by Vamp
+RecordCount: 2118
 
 console load StrawberryJam2021/1-Beginner/NotYourBadeline
    1
 
 #Start
-  88
+Read,seeing_is_believing_ACAC.tas,Start,lvl_a-05
 
-#lvl_a_01
+#lvl_a-05
+Read,../../../StrawberryJamTAS/1_Beginner/seeing_is_believing.tas,lvl_a-05,lvl_a_08
+
+#lvl_a_08
+Read,../../../1_Beginner/seeing_is_believing.tas,lvl_a_08,lvl_a_11
+
+#lvl_a_11
+   2,R,J
+#+36f: skip cutscene exclusive to
+#single player mode
+   1,S
+   1,D,J
+  34
+#####
+   3,R,J
+   3,J
    1,J
+   3,R,J
+  14,R,D,X
+   1,L,J
+   4,L,X
+   9,L,J
+  20,L,D
+   4,L,Z
+   1,L,J
+   5,L
+  40
 
+#lvl_a_09
+Read,../../../1_Beginner/seeing_is_believing.tas,lvl_a_09 (1)
 
-
-
-
-
-
-ChapterTime: 
+ChapterTime: 0:35.632(2096)

@@ -1,12 +1,15 @@
-RecordCount: 448
+RecordCount: 460
 
 console load StrawberryJam2021/2-Intermediate/Dooshii
    1
 
 #Start
  106
-# spinner cycle
+
+#Spinner Cycle [a1]
    0
+#####
+
 #lvl_a1
    6,L,Z
    1,R,J
@@ -26,15 +29,12 @@ SkipInput 3 1
    3
 SkipInput 3 1
    4,X
-   1,R,J
-   1,R
 EndStunPause
-  10,R
+   1,R,J
+  11,R
    3
    1,X
- 129
-# any% spinner cycle
-   1
+ 130
    4,Z
    6,L,J
    1,L
@@ -47,8 +47,7 @@ EndStunPause
   18,R,D
   15,R,C
   15,R,X
-
-# any%
+#any%-start
   15,R,C
    2
    4,R,Z
@@ -85,6 +84,111 @@ EndStunPause
   13,L,U,C
   43
 
-Read, ../../../StrawberryJamTAS/2_Intermediate/frosted_fragments, lvl_a2v2
+#lvl_a2v2
+Read, ../../../StrawberryJamTAS/2_Intermediate/frosted_fragments.tas, lvl_a2v2,lvl_a3v2
 
-ChapterTime: 1:41.286(5958)
+#lvl_a3v2
+   1
+  72,O
+   7,R,J
+  15,R,U,X
+   5,U,C
+  12,L
+  15,R,U,C
+   2,R
+   7,R,D,X
+   1,R,J
+   7,R
+   8,R,X
+   1,R,J
+   1,R,K,G
+   1,R,K
+   1,K,G
+   3
+  15,R,Z
+  17,D
+  13,R,D
+   1,R
+  15,R,D
+   3,R
+   1,R,D
+   2,R
+   1,R,J,G
+  15,R,K,G
+   3,J,G
+   7,R
+  10,R,J
+   1,K,G
+   1,R
+   5,R,Z
+   1,R,J
+   6,R
+   2,R,J
+   1,R
+  13,R,U,X
+   1,K,G
+   1,J
+   1,K
+   5,L,K
+   2,L
+   3
+   4,N
+  15,R,D,X
+   1,L,D
+   3,R,D
+   4,D
+   1,L
+   5,R,D,X
+   1,R,J
+  29,D
+  15,R,X
+   9,R,U,C
+   3,R
+  14,U,X
+  14,R
+  17,U,X
+   6,L,J,G
+   2
+   1,J,G
+   7,L
+  10,L,Z
+   1,R,J
+   3,D
+  21,R,D
+   1,D
+  16,R,D
+   4,R
+   9,R,Z
+  26,R
+  15,R,X
+  24,R,C
+  14,U,X
+#Spinner Cycle [a4v2]
+   0
+#####
+  15,U,C
+   1,R
+  15,R,U,X
+   3,R
+   1
+   1,R
+   1,J
+  21,R,J
+   2,R
+   1
+   1,R
+   1,R,K,G
+  13,R
+  14,L,D,X
+   1,R,J
+   5,R,D,X
+   1,R,J,G
+  13,R
+   1,R,J
+   5,R,D,X
+  40,J
+
+#lvl_a4v2
+Read, ../../../StrawberryJamTAS/2_Intermediate/frosted_fragments.tas, lvl_a4v2 (0)
+
+ChapterTime: 1:41.065(5945)

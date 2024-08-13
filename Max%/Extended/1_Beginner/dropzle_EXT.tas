@@ -1,21 +1,33 @@
-RecordCount:
+RecordCount: 2852
 
 console load StrawberryJam2021/1-Beginner/Owen-Shirrell
    1
 
 #Start
- 110
+Read,../../../1_Beginner/dropzle.tas,Start,lvl_10 - Downfall
 
-#lvl_00 - Overpass
-   1,S
-   1,D,J
-  34
-   1,J
+#lvl_10 - Downfall (0)
+#any%-end
+   7,L,D
+   4,L,Z
+  13,L,J
+  15,L,U,Z
+   6,U,X
+  40
 
+#lvl_secret
+   1,R,J,G
+   2,J
+   9
+  40
 
+#lvl_10 - Downfall (1)
+  15,L,D,X
+  15,D,C
+   2,L,D
+   5,D
+  18,D,X
+  37,U,C
+  98
 
-
-
-
-
-ChapterTime: 
+ChapterTime: 1:15.735(4455)

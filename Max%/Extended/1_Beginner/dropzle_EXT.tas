@@ -1,4 +1,4 @@
-RecordCount: 2852
+RecordCount: 2853
 
 console load StrawberryJam2021/1-Beginner/Owen-Shirrell
    1
@@ -6,28 +6,9 @@ console load StrawberryJam2021/1-Beginner/Owen-Shirrell
 #Start
 Read,../../../1_Beginner/dropzle.tas,Start,lvl_10 - Downfall
 
-#lvl_10 - Downfall (0)
-#any%-end
-   7,L,D
-   4,L,Z
-  13,L,J
-  15,L,U,Z
-   6,U,X
-  40
-
-#lvl_secret
-   1,R,J,G
-   2,J
-   9
-  40
-
-#lvl_10 - Downfall (1)
-  15,L,D,X
-  15,D,C
-   2,L,D
-   5,D
-  18,D,X
-  37,U,C
-  98
+#lvl_10 - Downfall
+#ARB-end
+#ACAC-start
+Read,dropzle_ACAC.tas,lvl_10 - Downfall (0)
 
 ChapterTime: 1:15.735(4455)

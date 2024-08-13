@@ -1,4 +1,4 @@
-RecordCount: 897
+RecordCount: 902
 
 console load StrawberryJam2021/1-Beginner/Jadeturtle
    1
@@ -384,38 +384,48 @@ Read,../StrawberryJamTAS/1_Beginner/strawberry_orchard,Start,lvl_a-01z
    4,R,D
 #any%-start
   15,R,D,X
-  15,R
-  12,R
+  27,R
   14,R,U,X
-  58,R,J,G
-   7
-  13,R,X
-  10,R
-  28,R,G
-   1,R
-  12,R,D
-   8,D
-   2
-  10,L,Z
-   7,R,J
-  14,R,U,X
-  12,R,J,G
-  28,R,D,G
-   2,R,G
-   6,D,G
-   1,R
+  53,R,J,G
+   5,J,G
    1
-   1,L,J
-   4,R,Z
+   5,L
+  15,R,X
+  14,R,U,C
+  56,R,G
+   1,R,D,G
+   1,R,G
+#manip for 6f bhop subpx
+   7,R,D,G
+   1,R,G
+   1,D,G
+   2,G
+   1,D
+#   8,R,D,G
+#   1,D,G
+#   1,G
+#   1,D,G
+#   1,D
+#####
+   7,L,Z
    1,R,J
-   7,R
+  13,R,J,G
+   1,R,G
+  12,R,K,G
+   5,R,G
+   7,R,K,G
+   1,R
+   5,L,Z
    1,R,J
-   5,R,K,G
-   2,R,J,G
-   1,J
-   8,R,D,J,X
-  13,J,G
-   5,R,J,G
+   3,R
+   1,R,J
+   3,R
+   1,R,J
+   4,R,K,G
+   1,R,J,G
+   3,J
+   8,R,D,X
+  18,R,J,G
    2,R,K,G
   40
 
@@ -574,4 +584,4 @@ Read,../StrawberryJamTAS/1_Beginner/strawberry_orchard,lvl_a-09z,lvl_a-11z
 #lvl_a-13z
 Read,../StrawberryJamTAS/1_Beginner/strawberry_orchard,lvl_a-13z
 
-ChapterTime: 1:37.903(5759)
+ChapterTime: 1:37.733(5749)

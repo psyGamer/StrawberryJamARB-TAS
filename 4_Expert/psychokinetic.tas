@@ -1,4 +1,4 @@
-RecordCount: 1888
+RecordCount: 1920
 
 console load StrawberryJam2021/4-Expert/Cabob
    1
@@ -7,7 +7,7 @@ console load StrawberryJam2021/4-Expert/Cabob
  190
 
 #Spinner Cycle
-   0
+   1
 #####
 
 #lvl_a-start
@@ -142,56 +142,53 @@ Read, ../StrawberryJamTAS/4_Expert/psychokinetic, lvl_a-start, lvl_a-02
   12,L,J,G
    2,L,K,G
    5,L,Z
-   4,L,J
-   1,L
    1,L,J
+   6,L
   40
 
 #lvl_a-02 (1)
-   2,L,K
-  10,L
-   8,L,D,X
-#Spinner Cycle [a-06]
-   1,L,D,X
-#####
+   1,L,J
+   2,L
 #any%-start
+  11,L,D,X
+#Spinner Cycle [a-06]
+   0,L,D,X
+#####
    1,R,J
    1,R,K
    1,R,J
    1,R,K
    1,R,J
-   1,R,K,G
-   4,R,J
+   1,R,K
+   2,R
+   1
   40
 
 #lvl_a-03 (2)
 Read, ../StrawberryJamTAS/4_Expert/psychokinetic, lvl_a-03, lvl_a-08
 
 #lvl_a-08 (0)
-   1
-   1,K
+   3,K
    7
-   1,D
-   4
-   1,L,J
-   6,R,J
-   2,R
+   5,D
+   6,L,J
+   2,R,J
   19,R,U,X
    4,R,J
-   3,R,K
-   5,R
+   4,R,K
+   4,R
   18,R,D,X
+#any%-end
    4,R,D
    1,R,J
-   3,R
-  13,R,U,Z
-#any%-end
+  15,R,U,Z
    4,R,J
-   1,R,K
-   9,R
+   5,R
    1,R,J
-   2,R
-   9
+   3,R
+   3,R,J
+   5,R
+   5
   37,U,X
   40
 
@@ -208,7 +205,7 @@ Read, ../StrawberryJamTAS/4_Expert/psychokinetic, lvl_a-03, lvl_a-08
    3,R,J,G
    7,R
 #Spinner cycle [a-08x]
-   2
+   1
 #####
   14,R,D,X
    6,R,J
@@ -430,4 +427,4 @@ Repeat 13
    1,J
 EndRepeat
 
-ChapterTime: 1:11.655(4215)
+ChapterTime: 1:11.298(4194)

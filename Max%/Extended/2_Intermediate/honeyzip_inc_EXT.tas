@@ -1,18 +1,203 @@
-RecordCount:
+RecordCount: 6968
 
 console load StrawberryJam2021/2-Intermediate/GlowWoomii
    1
 
 #Start
- 190
+Read,honeyzip_inc_ACAC.tas,Start,lvl_r6 (1)
 
-#lvl_startroom
+#lvl_r6
+#ACAC-end
+#ARB-start
+Read,../../../2_Intermediate/honeyzip_inc.tas,lvl_r6 (0),lvl_r4
+
+#lvl_r4
+#ACAC-start
+#ARB-end
+Read,honeyzip_inc_ACAC.tas,lvl_r4,lvl_rhub (4)
+
+#lvl_rhub
+#ARB-start
+Read,../../../2_Intermediate/honeyzip_inc.tas,lvl_rhub (1),lvl_r9
+
+#lvl_r9
+#any%-end
+  11,L
+  15,D,X
+   9,L,Z
+   2,L,J
+   2,L,K,G
+  11,L
+   7,L,J
+  15,L,X
+#Adjust for key cycle
+  36
+#  11
+#####
+  14,L,Z
+  11,R,J
+  15,R,D,X
+   2,D
+   1,R,J
+  14,R,D,X
+   1,L,J
+   8,L,D,X
+   1,L,J
+   5,L
+   1,L,K
+   1,L
+   4,L,J
+  12,L,K,G
+   4,L
+  15,U,X
+  17,R,J
+  11,R,K,G
+   7,R
+#any%-start
+   8,R,J
+   1,R
+   3,R,J,G
+   5,R,Z
+   1,R,J
+   6,R
+   5,R,J
+   2,R
+  15,R,D,X
+  15,D
+  13,L,D,X
+   2,R,J
+  15,R,D,X
+   9,R,D
+  12,R,J
+   7,R,G
+  11,R
+  15,R,Z
+  10,R,D
+  23,L,U,X
+  26,G
+   2
+   1,L,J,G
+   7,K,G
+  14,R,U,X
+  18,R,C
+  14,R,G
+  16,R,J,G
+  15,R,U,X
+   1
+  14,J,G
+   4,R,K,G
+   1,J,G
+   6,R
+  13,L
+   1,R
+  12,R,D
+   1,R
+   2,R,D
+  15,R,Z
+   8,L
+   8,L,G
+   1,L,J,G
+  24,L,D
+  42,R,X
+  16,R,G
+  10,R,J,G
+   7,R
+   1,G
+   2,J,G
+  15,U,X
+   6,L
+   4,R
+  12,R,J
+   4,R,X
+#any%-end
+   9,R,G
+  33,R,D
+  14,R,D,X
+   1,R,J
+  15,R,D,X
+   7,R,D
+   6,R,J
+  40
+
+#lvl_r9sb
+Read,../../../2_Intermediate/honeyzip_inc.tas,lvl_r9sb,lvl_endroom
+
+#lvl_endroom (0)
+#ARB-end
+  28,U
+  10,L,U,Z
    1,J
+   1,K
+   4,L,K
+   1,J
+   1,K
+   1,L,K
+   1,K
+   1,L,K
+   9,J
+   3,L,J
+  40
 
+#lvl_endroomsecret
+#ACAC-start
+   5,L
+   1,L,J,G
+   1,L,K,G
+   4,L
+   4,L,Z
+   1,L,J
+   3,L
+   1,L,J
+   3,L
+   3,L,J
+   2,L,K,G
+   4,R,Z
+   1,R,J
+  12
+  15,D,X
+#Key Cycle
+  63
+#  81
+#####
+   1,L
+   1,L,J
+   4,L,Z
+   1,L,J
+   3,L
+   1,L,J
+   3,L
+   1,L,J
+   5,L,K,G
+  10,L,D,X
+   1,L,J
+   7,L
+   5,L,J
+   5,L
+   2,L,J
+   3,L
+   1,L,J
+  14,L,U,X
+   1,L,J,G
+   7,L
+  13,L,Z
+   1,R,J
+   1,R
+  22,R,D,X
+   5,R,J
+   9,R,D,X
+   1,R,J,G
+   5
+   6,R
+   4,R,J
+   1,R,K,G
+  13,R
+  12,D,X
+  40
 
+#lvl_endroom (1)
+   3,D,X
+  24,D
+   4,U,X
+ 135,U
 
-
-
-
-
-ChapterTime: 
+ChapterTime: 1:53.305(6665)

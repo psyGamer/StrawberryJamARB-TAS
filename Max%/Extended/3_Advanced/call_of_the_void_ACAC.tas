@@ -1,4 +1,4 @@
-RecordCount: 6188
+RecordCount: 6238
 
 console load StrawberryJam2021/3-Advanced/Viv
    1
@@ -290,35 +290,25 @@ Read,../../../StrawberryJamTAS/3_Advanced/call_of_the_void.tas,Start,lvl_vivEnd
    1,G
    1
    6,G
-  73,D,G
-   1,J
-   1,L,K
-  12,L,X
-  40
+  72,D,G
+   1,N
+   6,J
+  11,R,D,X
+   4,L,J
+   6,L,X
+  40,X
 
-#lvl_viv3x (0)
-   3,L,X
- 211,L,C
-  40
+#lvl_viv3x
+ 107,L,X
+  40,X
 
-#lvl_viv3 (0)
-  13,L
-  14,R,X
-  40
-
-#lvl_viv3x (1)
-   1,R,X
-   5,L,C
-  40
-
-#lvl_viv3 (1)
-  10,L,C
-  24,L
-  91,U,X
+#lvl_viv3
+  19,L,X
+  91,U,C
   11,L,J
    6,G
   22,D,G
-   7,R
+   8,R
    5,R,D
   12,R,J
   19,R
@@ -392,16 +382,22 @@ Read,../../../StrawberryJamTAS/3_Advanced/call_of_the_void.tas,Start,lvl_vivEnd
  292,L
    6,G
   72,D,G
-  86
-  73,L
-  32,R,U,X
+  34
+   1,L
+   1
+   7,L
+  68,L,D
+  29,R,U,X
+   1,G
   12,J,G
    8,J
    2,L,K
   24,L,X
   45,L,D,C
   31,L,X
-  69,G
+  65,G
+   2,D,G
+   2,G
    1,D,G
    1,G
   10,D,G
@@ -505,6 +501,7 @@ Read,../../../StrawberryJamTAS/3_Advanced/call_of_the_void.tas,Start,lvl_vivEnd
    1,J
    1,K,G
    6,L
+#cutscene is skipped in any%
    1,S
    1,D,J
   34
@@ -573,8 +570,10 @@ Read,../../../StrawberryJamTAS/3_Advanced/call_of_the_void.tas,Start,lvl_vivEnd
   23,R,K,G
   15,D,X
 #Spinner Cycle [vivBonus]
-   0
+   1
 #####
+#End Cycle [vivBonus]
+#^this label is here for max% extended
   10,L,C
    8,R,J
   10,R,X
@@ -675,4 +674,4 @@ EndStunPause
   13,L,U,C
  135,L,D
 
-ChapterTime: 4:36.777(16281)
+ChapterTime: 4:32.289(16017)

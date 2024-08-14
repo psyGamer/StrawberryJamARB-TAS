@@ -374,7 +374,9 @@ EndRepeat
    4,U,X
   40
 
+#lvl_LegS-B2
 Read, ../../../StrawberryJamTAS/2_Intermediate/supernautica, lvl_LegS-B2, lvl_LegS-6
+
 #lvl_LegS-6
    5
    2,J,G
@@ -439,7 +441,7 @@ Read, ../../../StrawberryJamTAS/2_Intermediate/supernautica, lvl_LegS-B2, lvl_Le
    8,U,G
   40
 
+#lvl_LegS-7
 Read, ../../../StrawberryJamTAS/2_Intermediate/supernautica, lvl_LegS-7
-
 
 ChapterTime: 1:39.756(5868)

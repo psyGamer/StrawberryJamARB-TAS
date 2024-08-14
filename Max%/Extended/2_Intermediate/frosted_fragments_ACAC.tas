@@ -1,4 +1,4 @@
-RecordCount: 460
+RecordCount: 645
 
 console load StrawberryJam2021/2-Intermediate/Dooshii
    1
@@ -189,6 +189,170 @@ Read, ../../../StrawberryJamTAS/2_Intermediate/frosted_fragments.tas, lvl_a2v2,l
   40,J
 
 #lvl_a4v2
-Read, ../../../StrawberryJamTAS/2_Intermediate/frosted_fragments.tas, lvl_a4v2 (0)
+Read, ../../../StrawberryJamTAS/2_Intermediate/frosted_fragments.tas, lvl_a4v2 (0),lvl_a6v2
 
-ChapterTime: 1:41.065(5945)
+#lvl_a6v2 (0)
+  11
+   6,J,G
+   1
+   1,J,G
+   1
+   5,L,Z
+#any%-end
+   1,L,J
+   5,L
+   1,L,G
+   4
+  12,L,J
+   7,L
+   6,L,G
+   1,U,G
+   1,L
+   1,L,J,G
+   1,L,K,G
+   6,L,J,G
+  12,L,K,G
+  21,L,D
+  18,L,U,X
+  14,U,C
+   6,L
+  15,L,X
+  20,L,D
+  25,L
+  32,L,X
+   4,L,Z
+   1,L,J
+   7,L
+   1,G
+   1
+   2,G
+  22
+   4,R,Z
+   1,R,J
+   6,R
+  30,R,J
+   1,K
+  21,L,D
+   1,D
+   6
+Repeat,15
+   1,G
+   1
+EndRepeat
+   2,G
+   5,J,G
+   4,L,J
+   7,L
+  56,G
+   9,U,G
+   1,L
+   1,L,J,G
+   1,L,K,G
+   9,L,J,G
+  15,L,D,X
+   4,L,J
+   4,L,K,G
+   4,L,J,G
+   3,L,K,G
+  14,L,U,X
+  39,L,J,G
+  11,L,D,X
+  40
+
+#lvl_a_how
+   3,L,D,X
+   1,L,J
+   7,L
+  12,L,J
+  15,L,D,X
+   3,L
+   1
+   1,N
+  35
+   1,O
+Repeat,3
+   5
+   1,O
+   1,J
+EndRepeat
+   5
+   1,O
+  27
+   6,R,Z
+   1,R,J
+   7,R
+   1,R,J
+   7,R,D,X
+   1,R,J
+   7,R
+   1,R,D,J
+   3,R
+   5,R,D,X
+   1,R,J,G
+  11,R
+   3,R,J
+  40
+
+#lvl_a6v2 (1)
+   1,S
+   1,D,J
+  69,O
+   6,R,Z
+   1,L,J
+   8,L,D
+#any%-start
+   3,L,D,J
+   1,R,J
+   1,K
+  16,R,J,G
+   7,K,G
+   1,J
+  10,L,J
+  15,L,U,Z
+  12
+   1,R,J,G
+   1
+   1,R,J,G
+   3,J
+   1,L,J
+   1,J
+   1,L
+   1,R
+   1,K,G
+   3,L,K
+   1,K
+   1,L,K
+  11,R,K
+   1
+   1,R
+   7,L,U,Z
+  17,L
+   8,R,U,X
+   1,J,G
+   2
+   3,J,G
+   3
+   1,R
+   1
+   1,R
+   1
+   1,R
+   1,L
+   4,L,Z
+   1,R,J
+   4,R
+   1,R,J
+   1,R
+   1,R,J
+   1,J
+  23,R,J
+  14,R,Z
+   1,R,J
+  11,R,D,X
+   1,R,J
+  40
+
+#lvl_pushupv2
+Read, ../../../StrawberryJamTAS/2_Intermediate/frosted_fragments.tas,lvl_pushupv2
+
+ChapterTime: 1:55.277(6781)

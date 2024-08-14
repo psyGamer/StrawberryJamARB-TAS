@@ -172,7 +172,8 @@ EndRepeat
    1,R,J
   15,R,D,X
   16,R,D
-#wait
+#Cycle Wait [b1]
+#^label used for max% extended
   15,D,X
   15,D,C
   15,D,X

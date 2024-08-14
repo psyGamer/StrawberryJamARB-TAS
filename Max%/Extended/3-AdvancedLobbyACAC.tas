@@ -102,7 +102,7 @@ Read,../../StrawberryJamTAS/3_Advanced/starry_ruins,Start
 #Synapse
 Read,../../StrawberryJamTAS/3_Advanced_Lobby/adv_4-7,Start
 Read,../../StrawberryJamTAS/EnterLevel,Start
-Read,../../StrawberryJamTAS/3_Advanced/synapse,Start
+Read,3_Advanced/synapse_ACAC,Start
    1,O
   32
 
@@ -200,4 +200,4 @@ Read,3_Advanced/advanced_heartside_ACAC,Start
   61
    1,O
 
-FileTime: 42:46.473(150969)
+FileTime: 42:53.545(151385)

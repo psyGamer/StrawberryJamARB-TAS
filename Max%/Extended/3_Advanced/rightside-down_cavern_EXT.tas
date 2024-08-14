@@ -1,18 +1,29 @@
-RecordCount:
+RecordCount: 11883
 
 console load StrawberryJam2021/3-Advanced/Vamp
    1
 
 #Start
-  90
+Read,../../../3_Advanced/rightside-down_cavern.tas,Start,Spinner Cycle [Vamp_8]
 
-#lvl_intro_SJ
-   1,J
+#this is where the Spinner Cycle
+#for Vamp_8 is placed in ARB, but
+#that isn't needed, so the rest of
+#this room is optimal
+  11,R,U
+  19,U
+   5,R,Z
+   1,R,J
+   6,R
+   3,R,J
+   8,R,U,X
+   2,R,J,G
+   5,R
+   1,R,J
+   3,R
+  40
 
+#lvl_Vamp_7
+Read,rightside-down_cavern_ACAC.tas,lvl_Vamp_7
 
-
-
-
-
-
-ChapterTime: 
+ChapterTime: 1:14.154(4362)

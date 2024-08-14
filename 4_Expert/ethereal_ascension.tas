@@ -9,7 +9,7 @@ Read,../StrawberryJamTAS/4_Expert/ethereal_ascension,Start,lvl_a-01
 
 #lvl_a-01
 
-# Intended berry route; skips a retry but warps back to the wrong spawnpoint
+#Intended berry route; skips a retry but warps back to the wrong spawnpoint
 #   2,R
 #   1,R,J
 #   6,R,D,X
@@ -34,7 +34,7 @@ Read,../StrawberryJamTAS/4_Expert/ethereal_ascension,Start,lvl_a-01
 #  38,R,U,G
 #   1,U
 #  96
-
+#####
 
    2,R
    1,R,J
@@ -57,7 +57,6 @@ Read,../StrawberryJamTAS/4_Expert/ethereal_ascension,Start,lvl_a-01
   13,R,X
   31,R,D,G
 #any%-end
-
   64,R,U,G
   19,U,G
    8,L
@@ -69,7 +68,7 @@ Read,../StrawberryJamTAS/4_Expert/ethereal_ascension,Start,lvl_a-01
   15,R,Z
   16,L,D
   96
-# wouldn't need to retry if double dash respawned
+#wouldn't need to retry if double dash respawned
    1,S
    1,D,J
   69,O
@@ -106,7 +105,6 @@ Read,../StrawberryJamTAS/4_Expert/ethereal_ascension,Start,lvl_a-01
 #any%-start
   21,R,Z
   40
-
 
 #lvl_a-02
    1
@@ -167,7 +165,6 @@ EndStunPause
    1,L,J
   10,R,D,X
 #any%-end
-
    3,R,J
   23,R
   14,R,U,X
@@ -188,7 +185,6 @@ EndStunPause
    1,R
   14,L,Z
   96
-
 #any%-start
    1,L,J
   10,R,D,X
@@ -213,7 +209,6 @@ EndStunPause
 #lvl_a-04
 Read,../StrawberryJamTAS/4_Expert/ethereal_ascension,lvl_a-04,lvl_a-05b
 
-
 #lvl_a-05b
    1,S
    1,D,J
@@ -232,7 +227,6 @@ Read,../StrawberryJamTAS/4_Expert/ethereal_ascension,lvl_a-04,lvl_a-05b
   11,R,X
   74,R,U,G
 #any%-end
-
   10,R,U,G
    6,R,G
    1,D
@@ -270,18 +264,14 @@ Read,../StrawberryJamTAS/4_Expert/ethereal_ascension,lvl_a-04,lvl_a-05b
   14,L,D,G
    1,R
   13,L
-
-
 #any%-start
    1,S
    1,D,J
   69,O
-
 # Spinner cycle wait for berry 3 merged with existing any% wait here
 #   2
    1
 ##
-
    2,R
    1,R,J
   25,R,D
@@ -325,6 +315,7 @@ EndStunPause
    9,R,J
   40
 
+#lvl_a-08
 Read,../StrawberryJamTAS/4_Expert/ethereal_ascension,lvl_a-08,lvl_a-07 (0)
 
 #lvl_a-07 (0)
@@ -350,7 +341,6 @@ Read,../StrawberryJamTAS/4_Expert/ethereal_ascension,lvl_a-08,lvl_a-07 (0)
   23,L
   15,R,X
 #any%-end
-
    1
   13,G
   20,R,G
@@ -457,7 +447,6 @@ Read,../StrawberryJamTAS/4_Expert/ethereal_ascension,lvl_a-08,lvl_a-07 (0)
    4,R,D
   15,R,Z
   16,D,X
-
 #any%-start
   40
 
@@ -470,7 +459,6 @@ Read,../StrawberryJamTAS/4_Expert/ethereal_ascension,lvl_a-07 (1),lvl_a-09
    1,R
   14,D,X
 #any%-end
-
   16,D
   11,R,D
   14,R
@@ -557,7 +545,6 @@ Read,../StrawberryJamTAS/4_Expert/ethereal_ascension,lvl_a-07 (1),lvl_a-09
   14,R,Z
    1,R,J
    7,R,D,X
-
 #any%-start
    5,R,D,X
    1,R,J

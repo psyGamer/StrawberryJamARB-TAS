@@ -1,4 +1,4 @@
-RecordCount: 510
+RecordCount: 516
 
 console load StrawberryJam2021/2-Intermediate/Dooshii
    1
@@ -115,7 +115,76 @@ Read, ../../../StrawberryJamTAS/2_Intermediate/frosted_fragments.tas, lvl_a2v2,l
 Read, ../../../StrawberryJamTAS/2_Intermediate/frosted_fragments.tas, lvl_a4v2 (0),lvl_a6v2
 
 #lvl_a6v2 (0)
-Read, ../../../2_Intermediate/frosted_fragments.tas,lvl_a6v2 (0),lvl_a_10v2 (0)
+Read,frosted_fragments_ACAC.tas,lvl_a6v2 (0),lvl_a6v2 (1)
+
+#lvl_a6v2 (1)
+   1,S
+   1,D,J
+  69,O
+   6,R,Z
+   1,L,J
+   8,L,D
+#any%-start
+#ARB-start
+   3,L,D,J
+   1,R,J
+   1,K
+  16,R,J,G
+   7,K,G
+   1,J
+  10,L,J
+  15,L,U,Z
+  12
+   1,R,J,G
+   1
+   1,R,J,G
+   3,J
+   1,L,J
+   1,J
+   1,L
+   1,R
+   1,K,G
+   3,L,K
+   1,K
+   1,L,K
+  11,R,K
+   1
+   1,R
+   7,L,U,Z
+  17,L
+   8,R,U,X
+   1,J,G
+   2
+   3,J,G
+   3
+   1,R
+   1
+   1,R
+   1
+   1,R
+   1,L
+   4,L,Z
+   1,R,J
+   4,R
+   1,R,J
+   1,R
+   1,R,J
+   1,J
+  23,R,J
+#any%-end
+  15,R,X
+  14,J
+  15,U,X
+   3
+  22,L,J
+  15,L,U,X
+   6,L
+  10,U,Z
+  11,R,J
+  40
+
+#lvl_r_00v2
+Read, ../../../2_Intermediate/frosted_fragments.tas,lvl_r_00v2,lvl_a_10v2 (0)
 
 #lvl_a_10v2
    1,R,J
@@ -170,26 +239,27 @@ Read, ../../../2_Intermediate/frosted_fragments.tas,lvl_a6v2 (0),lvl_a_10v2 (0)
   15,U,X
   15,J
    4
-#+2f: weird camera
-#change exact positioning for
-#6f bhop subpx when using a different
-#spinner cycle
+#+2f (not incl. spinner cycle):
+#weird camera; change exact
+#vertical positioning for 6f
+#bhop subpx when using a
+#different spinner cycle
    5,R
    2
 #Spinner Cycle [a_10v2]
-   2
+   1
 #####
-   6,R,J
+   1,R,J
+   5,J
   15,D,X
    3,D
 StunPause
    6,D
    9,R,D
-   1
-   1,R
+   2,R
    2
-   1,R
-   1,D
+   1,R,D
+   1
 SkipInput 3 1
    4,L,Z
    1,L,J
@@ -227,4 +297,4 @@ EndStunPause
 #lvl_r_01v2
 Read, ../../../2_Intermediate/frosted_fragments.tas,lvl_r_01v2
 
-ChapterTime: 2:06.667(7451)
+ChapterTime: 2:20.862(8286)

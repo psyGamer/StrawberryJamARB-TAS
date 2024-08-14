@@ -1,4 +1,4 @@
-RecordCount: 10817
+RecordCount: 10844
 
 console load StrawberryJam2021/1-Beginner/HankyMueller
    1
@@ -355,16 +355,14 @@ endstunpause
    1,R,J
   14,R
    1,J
-  86
-   1,L
-   1
-  12,R
-   1,R,J
-   1,R,K,G
-   6,R,J,G
-   5,R
-   1,R,J
-  22,R,D
+  91
+  14,R,Z
+   3,R,J
+   3,R
+   3
+   1,J
+   3
+  10,D
    1,N
   62
    1,O
@@ -393,4 +391,4 @@ endstunpause
   10,R,X
  135
 
-ChapterTime: 1:36.662(5686)
+ChapterTime: 1:36.475(5675)

@@ -1,21 +1,19 @@
-RecordCount:
+RecordCount: 6240
 
 console load StrawberryJam2021/3-Advanced/Viv
    1
 
 #Start
- 110
+Read,../../../3_Advanced/call_of_the_void.tas,Start,lvl_vivEnd (0)
 
-#lvl_viv0
-   1,S
-   1,D,J
-  34
-   1,J
+#lvl_vivEnd
+#Starting VTOC inadvertantly
+#gets the last berrry
+Read,call_of_the_void_ACAC.tas,lvl_vivEnd (0),Spinner Cycle [vivBonus]
+#Spinner Cycle [vivBonus]
+   1
+#####
+#End Cycle [vivBonus]
+Read,call_of_the_void_ACAC.tas,End Cycle [vivBonus]
 
-
-
-
-
-
-
-ChapterTime: 
+ChapterTime: 5:12.120(18360)

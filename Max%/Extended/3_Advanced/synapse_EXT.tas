@@ -1,33 +1,158 @@
-RecordCount:
+RecordCount: 15993
 
 console load StrawberryJam2021/3-Advanced/MousseMoose
    1
 
 #Start
- 264
+Read,synapse.tas,Start,Cycle Wait [b1]
 
-#lvl_intro_fall
-   5,F,91
+#Cycle Wait [b1]
+#(slightly) different wait than ACAC
+  15,D,X
+  15,D,C
+  15,D,X
+   5
+#####
+   6,R,Z
    1,R,J
-   1,R,K
+   7,R
    1,R,J
-   1,R,K
+  12,R,D,X
+#any%-start
+  35
+  13,L,Z
+
+#lvl_b1 (0)
+Read,../../../3_Advanced/synapse.tas,lvl_b1 (0),lvl_b1 (1)
+
+#lvl_b1 (1)
+   8,R,D,X
    1,R,J
-   1,R,K
+   5,R
+   2
+#Wait For Cycles
+#(much longer than ARB wait)
+Repeat,3
+  15,D,C
+  15,D,V
+EndRepeat
+  16
+#####
+   4,R,Z
+#any%-start
+   1,R,J
+   7,R
+   2,R,D
+   7,R,J
+   6,R
+  15,U,X
+  15,L
+   1,J
+   1,L,J
+   7,R,J
+   1,J
+   2,R,J
+   1,L,J
+   1,K
+   3,J,G
    3,R,J
-   1,R,K,G
-   6,R,D,X
-   1,S
-   1,D,J
-  34
-   1,R,K
-  14,R
+   5,R
+  15,U,Z
+   1,L
+  18,J
+   1,K,G
+   1
+   1,K,G
+   1
+   1,L,K,G
+   1,R
+   6,L
+   4,Z
+   2,L,J
+   2
+   2,J
+   5
+   4,L,Z
+   1,L,J
+   6,L
+   4,L,J
+  12,L,Z
+   3,R,J
+  15,D,C
+  15,D,X
+   6,R,J
+   1,J
+   7
+  14,L,Z
    1,R,J
-  40
+   1,J
+   5,R,J
+   2,R
+   1,R,J
+   1,R
+   1,R,J
+   1,R
+   6,R,J,G
+   1,J
+  15,U,X
+   1
+  18,U,C
+   2
+  15,U,X
+   2,L
+   2
+   1,L
+   1
+   4,L
+  10,L,J
+  15,U,X
+   1,L
+   1,L,J,G
+   1,L,K,G
+   4,L
+   1
+   1,L
+   1,L,J
+   7,L
+   5,L,J
+   6,J
+   1,L,J
+   1,J
+  18,U,X
+  10,U,C
+StunPause
+   3,U
+skipinput 3
+   5,U
+   8,R
+skipinput 3 1
+  15,U,Z
+   2,R
+   3,L
+EndStunPause
+  14,L,K
+   1,L
+  10,L,K
+   1,J
+  19,R,J
+   2,R
+   1
+   1,R
+   1
+   1,R,K,G
+  31,R,J,G
+  19,R,U,Z
+  11,R,J
+   1,R
+  11,K,G
+   7,R
+   4,R,Z
+   1,R,J
+   7,R
+   3,R,J
+  13,L,D,X
 
-#lvl_intro_a1
+#lvl_b2
+Read,../../../StrawberryJamTAS/3_Advanced/synapse,lvl_b2
 
-
-
-
-ChapterTime: 
+ChapterTime: 1:47.899(6347)

@@ -1,17 +1,15 @@
-RecordCount: 15993
+RecordCount: 16021
 
 console load StrawberryJam2021/3-Advanced/MousseMoose
    1
 
 #Start
-Read,synapse.tas,Start,Cycle Wait [b1]
-
-#Cycle Wait [b1]
-#(slightly) different wait than ACAC
+Read,synapse_ACAC.tas,Start,Cycle Wait [b1]
+#different wait than ACAC
   15,D,X
   15,D,C
   15,D,X
-   5
+  12
 #####
    6,R,Z
    1,R,J
@@ -31,12 +29,13 @@ Read,../../../3_Advanced/synapse.tas,lvl_b1 (0),lvl_b1 (1)
    5,R
    2
 #Wait For Cycles
-#(much longer than ARB wait)
-Repeat,3
+#(longer than ARB wait)
+Repeat,1
   15,D,C
   15,D,V
 EndRepeat
   16
+#  16
 #####
    4,R,Z
 #any%-start
@@ -155,4 +154,4 @@ EndStunPause
 #lvl_b2
 Read,../../../StrawberryJamTAS/3_Advanced/synapse,lvl_b2
 
-ChapterTime: 1:47.899(6347)
+ChapterTime: 1:45.791(6223)

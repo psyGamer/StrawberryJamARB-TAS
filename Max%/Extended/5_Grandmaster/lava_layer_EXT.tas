@@ -6,14 +6,6 @@ console load StrawberryJam2021/5-Grandmaster/tobyaaa
 #Start
 Read,../../../5_Grandmaster/lava_layer.tas,Start,lvl_Russel
 
-
-
-
-
-
-
-
-
 #lvl_Russel (0)
   10,L,D,J
    5,L

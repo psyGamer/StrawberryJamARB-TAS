@@ -1,13 +1,10 @@
-RecordCount:
+RecordCount: 7684
 
 console load StrawberryJam2021/5-Grandmaster/tobyaaa
    1
 
 #Start
- 190
-
-#lvl_Bill
-   1,J
+Read,../../../5_Grandmaster/lava_layer.tas,Start,lvl_Russel
 
 
 
@@ -15,4 +12,49 @@ console load StrawberryJam2021/5-Grandmaster/tobyaaa
 
 
 
-ChapterTime: 
+
+
+#lvl_Russel (0)
+  10,L,D,J
+   5,L
+   3,L,J
+   1,K,G
+   2,R,K
+   3,L,K
+   1,R,K
+   4,L,J,G
+   1,R,J
+   2,L,J
+   9,K,G
+   5,L,K
+   6,J
+   2
+  15,L,Z
+#ARB-end
+   1,L
+  11,R
+   2,R,J
+   5,R
+   2,R,J
+   3,R
+   4
+  15,L,Z
+   5,R
+   6,L,J
+  15,L,G
+#ACAC-start
+   1,U,G
+   1,L
+   1,L,J,G
+  24,L,D
+   1,L
+   2,L,D
+  19,L,Z
+  43
+
+#not an actual berry
+#so deathwarp isn't a big deal
+#lvl_oldRussel
+Read,lava_layer_ACAC.tas,lvl_oldRussel
+
+ChapterTime: 2:27.118(8654)

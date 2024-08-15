@@ -1,21 +1,275 @@
-RecordCount:
+RecordCount: 10749
 
 console load StrawberryJam2021/2-Intermediate/Jems
    1
 
 #Start
- 110
+Read,../../../2_Intermediate/in_filtration.tas,Start,lvl_btd-04
 
-#lvl_btd-00
+#lvl_btd-04 (0)
+#any%-end
+   2,R
+  14,R,D
+   1,R,J
+  14,R
+   3,R,J
+   9,R
+   1,R,J
+#be more left
+   8,R,D
+   1,D
+   1,R,D
+   2,D
+   2,R,D
+#  14,R,D
+#####
+  40
+
+#lvl_btd-04a
+Read,in_filtration_ACAC.tas,lvl_btd-04a,lvl_btd-04 (1)
+
+#lvl_btd-04 (1)
+#any%-start
    1,S
    1,D,J
-  34
+  69,O
+#Spinner Cycle [btd-12 (0)]
+   1
+#####
+   5,L
+   1,L,J
+  14,L
+   1,L,J
+  14,L
+   1,L,J
+  14,L
+   1,L,J
+  12,L
+   1
+   1,L
+   1
+   1,L
+   1
+   2,L
+   4,L,J
+  13,R,Z
+   1,R,J
+   3,R
+   1,R,J
+   3,R
+  10,R,J
+   1,R,K,G
+  11,R
+   3,R,J
+   5,R
+   1,R,K
+   8,R
+   8,R,D,K
+   1,R,J,G
+   1,K,G
+   2,R,K
+   5,R
+   1,L
+   3,L,J,G
+   2,R,J
+   1,L,K,G
+   2,L,J,G
+   1,K
+  40
+
+#lvl_btd-05
+Read,../../../2_Intermediate/in_filtration.tas,lvl_btd-05,lvl_btd-07
+
+#lvl_btd-07
+Read,in_filtration_ACAC.tas,lvl_btd-07,lvl_btd-20
+ 
+#lvl_btd-20 (0)
+   9,L,D
+   5,L,J
+  20,L,D
+   5,D
+#any%-end
+  14,L,D
+  18,R,Z
+  21,D
+   2,L
+   1,L,D
+  18,L,Z
+  11,L
+   1
+#ACAC-end
+#ARB-start
+  14,R,D,X
+   1,R,J,G
+   2,R
+  12,D
+   4,R
+   4,R,D
+   3,R
+   1,R,D
+   1,R
+   2,R,D
+   4,R
+   2,R,D
    1,J
+   9,D
+  10,L,D
+  17,R,D
+  15,R,D,X
+  20,D
+   6,L,D
+  18,D
+   7,R,D
+   7,R
+   1,R,J
+  14,R
+   1,R,J
+   7,R
+  40
 
+#lvl_btd-20a
+Read,../../../2_Intermediate/in_filtration.tas,lvl_btd-20a,lvl_btd-20 (1)
+ 
+#lvl_btd-20 (1)
+  14,L
+   1,L,J
+  14,L
+   1,L,J
+  14,L
+  43,D
+   1
+   1,L
+   1
+   1,L
+   1
+  42,D
+   7,L
+   7,L,D
+   1,L,J
+   1,R,K,G
+  12,L,K
+  11,J,G
+   1,R,J
+   1,K
+   8,R,G
+  15,U,G
+   4,G
+   1
+   1,R,J,G
+   2,R,K,G
+   9,R,J,G
+   9,R
+  10,R,U,Z
+   1,J
+  22,R
+  22,L
+  22,R
+#be further right
+  24,L
+   5
+#  29,L
+#####
+  12,U,Z
+   1,L,J
+  35,R
+   4,R,J
+   2,R
+  40
+ 
+#lvl_btd-21
+Read,../../../2_Intermediate/in_filtration.tas,lvl_btd-21,lvl_btd-30
+ 
+#lvl_btd-30
+Read,../../../StrawberryJamTAS/2_Intermediate/in_filtration.tas,lvl_btd-30,lvl_btd-33
 
+#lvl_btd-33
+Read,in_filtration_ACAC.tas,lvl_btd-33,lvl_btd-35
 
+#lvl_btd-35
+   9,R
+   1,R,J
+  27,R
+#any%-start
+#ARB-start
+   1,R,J
+   1,R,K,G
+   1,R,J,G
+  11,R
+   1,R,J
+  14,R
+   1,R,J
+   2
+   7,R
+   2,R,J
+   7,R
+   1
+   1,R,D
+   1,D
+   1,R,J,G
+   1,R,K,G
+   9,R
+   1,R,J
+  14,R
+   6,R,J
+   2,J
+  11,L,K,G
+   1,J
+   1,R,G
+   3,G
+   1,L,G
+   1,R,G
+   2,G
+   1,L,J
+   2,L,K
+   2,R,J
+   1,R,K,G
+   2,R,J,G
+   9,R,D
+   4,D
+   1,L,D
+   1,R,D
+   1,R,J
+   8,R,G
+   5,R,D
+   1,R,J
+  23,R,D
+   1,R,G
+  10,R,D
+  11,R,D,J
+   1,K,G
+   4,L,K
+  11,R,G
+   1,L
+   1,J
+   8,L
+   1,J
+   2,L,J
+   3,L
+  14,R,K,G
+   2,R,J,G
+   3,J
+   6,R,J
+   2,R
+   1,R,K,G
+   1,R,J,G
+   9,R
+   1,R,J
+   9,R,G
+   8,R,D
+  19,R,G
+   1,R
+   2,R,J
+   2,R,K,G
+   2,R,J,G
+   3,R,K,G
+  12,R,J,G
+  45,R,D
+#any%-start
+   1,R,J
+  12,R
+  40
+ 
+#lvl_btd-42
+Read,in_filtration_ACAC.tas,lvl_btd-42
 
-
-
-
-ChapterTime: 
+ChapterTime: 3:15.891(11523)

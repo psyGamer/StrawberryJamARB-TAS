@@ -1,4 +1,4 @@
-RecordCount: 16502
+RecordCount: 16504
 
 console load StrawberryJam2021/3-Advanced/MousseMoose
    1
@@ -50,6 +50,7 @@ EndRepeat
   11,K,G
    1
    6,L
+#any%-end
   15,D,X
   15,D,C
    6,L,Z
@@ -202,4 +203,4 @@ EndRepeat
 #lvl_b1
 Read,../../../StrawberryJamTAS/3_Advanced/synapse.tas,lvl_b1
 
-ChapterTime: 1:35.642(5626)
+ChapterTime: 1:35.540(5620)

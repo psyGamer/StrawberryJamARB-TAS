@@ -12,7 +12,19 @@ Read,../../StrawberryJamTAS/4_Expert/the_core_problem.tas, Start, lvl_a-06
 #lvl_a-06 (0)
 #any%-end
 #ARB-start
-Read,../../4_Expert/the_core_problem.tas, lvl_a-06 (0), lvl_a-09 (0)
+Read,../../4_Expert/the_core_problem.tas, lvl_a-06 (0), lvl_a-06 (1)
+
+#lvl_a-06 (1)
+#no SnQ needed for this level
+#in max%
+  13,D
+   4,R,Z
+   2,R,J
+   4,R
+  40
+
+#lvl_a-07
+Read,../../4_Expert/the_core_problem.tas, lvl_a-07, lvl_a-09 (0)
 
 #lvl_a-09 (0)
 #any%-start
@@ -41,8 +53,6 @@ Read,../../4_Expert/the_core_problem.tas, lvl_a-06 (0), lvl_a-09 (0)
   14,L,U,X
    7,L,J,G
    7,L
-#ARB-end
-#(ARB can't do stun normally)
 #Spinner Cycle [a-09]
    0
 #####
@@ -89,7 +99,6 @@ EndStunPause
    1,L,D
    9,D
   19,R,D
-#ARB-start
   13,R,D,X
   40
 

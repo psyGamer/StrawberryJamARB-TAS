@@ -1,4 +1,4 @@
-RecordCount: 2002
+RecordCount: 2010
 
 console load StrawberryJam2021/0-Gyms/1-Beginner
    1
@@ -7,11 +7,18 @@ console load StrawberryJam2021/0-Gyms/1-Beginner
 Read,../../../0_Gyms/Gyms/1-beginner_gym.tas,Start,lvl_1-hub (4)
 
 #lvl_1-hub
-
-MidwayChapterTime: 0:35.530(2090)
-
+   8,L
+   1,L,J
+   6,L,Z
+   1,L,J
 #any%-end
-   1,S
-   1,U,J
-   1,O
-  32
+   7,L
+Repeat,3
+   1,L,J
+  14,L,D,X
+EndRepeat
+   1,L,J
+   7,L
+   1,L,N
+
+FileTime: 0:36.635(2155)

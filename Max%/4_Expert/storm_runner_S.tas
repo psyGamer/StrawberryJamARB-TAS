@@ -1,4 +1,4 @@
-RecordCount: 5366
+RecordCount: 5368
 
 console load StrawberryJam2021/4-Expert/LethargicDoggo
    1
@@ -6,8 +6,9 @@ console load StrawberryJam2021/4-Expert/LethargicDoggo
 #Start
  190
 
-## Lightning cycle [a-07]
-   2
+#Lightning cycle [a-07]
+   1
+#####
 
 #lvl_a-00
    4,R,Z
@@ -77,69 +78,57 @@ console load StrawberryJam2021/4-Expert/LethargicDoggo
 Read,../../StrawberryJamTAS/4_Expert/storm_runner.tas,lvl_a-02,lvl_a-07
 
 #lvl_a-07
-   1,R
-   9,R,J
-  20,R,D
-   8,R,J
+  12,R,J
+   6,R
+  14,R,D,X
+   3,R,J,G
+   6,R
 StunPause
-   3,R
-SkipInput 3 1
-   7,R,D,X
+   7,R
 SkipInput 3
-   8,R,D,X
+   9,R
    3,R,D
 EndStunPause
-   6,R,D
-  15,D,X
-   6,D
-  12,L,D
-   5,L
-   1,L,D
-  10,L
+   4,R,D
+StunPause
+   3,R,D
+   1,D
+EndStunPause
+   3,D
    1
-  17,U,X
-  34,R,J
-   2,R
-   3
-  15,R,U,Z
-  22,R
-  20,L
-  21,R,D
-  13,R,Z
-   1,R,J
    1,R
-  16,R,D,X
-  26,R,J
-  21,R
+   1,D
+   1
+   8,R,X
+   7,L
+  14,R,D,X
+   4,L
+  10,R,D,X
+   7,L
+  15,R,Z
+   1,L,J
+   3,R
   14,R,Z
-   2,R,J
-
-#Lightning Cycle Stuff [a-08]
-
-#lightning cycle 0
-#   4,R,K,G
-#  13,R,D,X
-###
-
-#lightning cycle 1
-   1,R,K,G
-   2
-   4,R,K,G
-  11,R,D,X
-###
-
-#lightning cycle 2
-#   1,K,G
-#   1
-#   4,R,K,G
-#  13,R,D,X
-###
-
+  12,R,J
+   1,R
+  11,R,K
+  26,R
+   5,R,D
+  15,R,U,X
+  17,R
+#Lightning cycle [a-08]
+   0
 #####
-
+   2,R,J
+   7,R,Z
+   1,R,J
+   5,R
+   2
+   1,R,J
+   6,R,D,X
   40
 
 #lvl_a-08
 Read,../../StrawberryJamTAS/4_Expert/storm_runner.tas,lvl_a-08
 
-ChapterTime: 1:16.245(4485)
+ChapterTime: 1:14.902(4406)

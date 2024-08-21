@@ -12,9 +12,12 @@ EnforceMaingame
 Read,2_Intermediate_Lobby/int_0-Gym,Start
 Read,../../StrawberryJamTAS/EnterLevel,Start
 Read,0_Gyms/2-Intermediate_gym_ACAC.tas,Start
+  20
+   1,J
+  46
 
 #Fifth Dimension
-Read,2_Intermediate_Lobby/int_Gym-9,Start
+Read,../../StrawberryJamTAS/2_Intermediate_Lobby/unused/int_0-9,Start
 Read,../../StrawberryJamTAS/EnterLevel,Start
 Read,../../StrawberryJamTAS/2_Intermediate/fifth_dimension,Start
    1,O
@@ -153,4 +156,4 @@ Read,../../StrawberryJamTAS/2_Intermediate/intermediate_heartside,Start
   61
    1,O
 
-FileTime: 34:07.344(120432)
+FileTime: 34:12.308(120724)

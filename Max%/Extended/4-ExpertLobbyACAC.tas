@@ -18,9 +18,12 @@ EnforceMaingame
 Read,4_Expert_Lobby/exp_0-Gym,Start
 Read,../../StrawberryJamTAS/EnterLevel,Start
 Read,0_Gyms/4-expert_gym_ACAC.tas,Start
+  20
+   1,J
+  46
 
 #Madeline the Bubble
-Read,4_Expert_Lobby/exp_Gym-1,Start
+Read,../../StrawberryJamTAS/4_Expert_Lobby/exp_0-1,Start
 Read,../../StrawberryJamTAS/EnterLevel,Start
 Read,../../StrawberryJamTAS/4_Expert/madeline_the_bubble,Start
    1,O
@@ -239,4 +242,4 @@ Read,4_Expert/expert_heartside_ACAC,Start
   61
    1,O
 
-FileTime: 57:03.902(201406)
+FileTime: 57:07.013(201589)

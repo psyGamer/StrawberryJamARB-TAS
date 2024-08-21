@@ -12,9 +12,12 @@ EnforceMaingame
 Read,1_Beginner_Lobby/beg_0-Gym,Start
 Read,../../StrawberryJamTAS/EnterLevel,Start
 Read,0_Gyms/1-beginner_gym_ACAC.tas,Start
+  20
+   1,J
+  46
 
 #Loopy Lagoon
-Read,1_Beginner_Lobby/beg_Gym-1,Start
+Read,../../StrawberryJamTAS/1_Beginner_Lobby/beg_0-1,Start
 Read,../../StrawberryJamTAS/EnterLevel,Start
 Read,../../StrawberryJamTAS/1_Beginner/loopy_lagoon,Start
    1,O
@@ -178,4 +181,4 @@ Read,1_Beginner/beginner_heartside_ACAC,Start
   61
    1,O
 
-FileTime: 30:38.465(108145)
+FileTime: 30:42.800(108400)

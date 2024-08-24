@@ -1,4 +1,4 @@
-RecordCount: 2537
+RecordCount: 2615
 
 console load StrawberryJam2021/2-Intermediate/bryse0n
    1
@@ -515,17 +515,38 @@ endrepeat
    1,R
    1,L
   86
-   4,L,Z
+   2,R,J
+  10,R,D,X
+  16,R,C
    1,L,J
-   3,L
-  22,L,X
+   2,L
+  15,L,U,Z
+   1,L,J
+  10,L
+   4,D,X
+   5,L,J
+   6,R,D,X
+   1,R,J
+   8,R
+  11,R,D,X
+   1,J
+   1,K,G
+   1,L,J,G
+   9,L
   40
 
 #lvl_a_06 (1)
- 120
-  15,R,U,X
-   1,L,J,G
-   3,L,K,G
+   2,L
+   1,L,J
+   7,L
+   2,L,J
+   5,L
+  12,L,Z
+   2,K,G
+   8,R,K
+   5,R
+   2,R,J
+   2,L,K,G
    7,L
    4,L,Z
    4,L,J
@@ -539,7 +560,7 @@ endrepeat
    1,S
    1,D,J
 #Spinner Cycle [a_06]
-   0
+   2
   69,O
    4,R,Z
    1,R,J
@@ -839,4 +860,4 @@ EndStunPause
 Read, ../StrawberryJamTAS/2_Intermediate/square_the_circle, lvl_a_10
 
 
-ChapterTime: 2:48.759(9927)
+ChapterTime: 2:48.300(9900)

@@ -6,7 +6,6 @@ console load StrawberryJam2021/3-Advanced/MousseMoose
 #Start
 Read, ../StrawberryJamTAS/3_Advanced/synapse, Start, lvl_a4
 
-
 #lvl_a4
    6,L,J
   10,L,D,X
@@ -327,4 +326,4 @@ EndStunPause
 #lvl_b2
 Read, ../StrawberryJamTAS/3_Advanced/synapse, lvl_b2
 
-ChapterTime: 1:39.909(5877)
+ChapterTime: 1:39.807(5871)

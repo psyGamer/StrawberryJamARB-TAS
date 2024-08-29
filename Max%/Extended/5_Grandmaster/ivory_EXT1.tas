@@ -1,4 +1,4 @@
-RecordCount:
+RecordCount: 7441
 
 console load StrawberryJam2021/5-Grandmaster/Linj
    1
@@ -8,9 +8,105 @@ console load StrawberryJam2021/5-Grandmaster/Linj
 
 #lvl_A Limitless Horizon
    1,S
-   1,D,J
-  34
+   1,D,O
+  18
+   4,Z
+   1,R,J
+   3,R,K
+   1,R,J,G
+   9,R
+   1,R,J
+   1,R,K
+  11,R,D,X
+   2,R,J,G
+   1,R
+   7,R,J
+   1,R
+#any%-end
+   7,R,J
+   1,R
+   4,K,G
+   3,L,K
+  12,L
+   6,D
+  14,R,X
+  24,R,J
+  15,U,X
+  16,R
+   1,R,K,G
+   7,R,J,G
+
+#lvl_Break My Ivory Tower 1 (0)
+   2,R,J
+  36,R,X
+   4,R,J
+   1,R,K
+   4,R
+  18,R,D,X
+   4,R,J
+   9,R
+  15,R,D,X
+  40
+
+#lvl_Parasol
+   1,R,G
+#ACAC-start
+   3,R,J,G
+   5,L,U,X
+  40
+
+#Note: these read commands break
+#if you use the ACAC file as is;
+#PLEASE remember to uncomment the
+#BMIT inputs in the ACAC file so
+#this file can work in the parts
+#they should work in.
+
+#lvl_Break My Ivory Tower 1 (1)
+Read,ivory_ACAC.tas,lvl_Break My Ivory Tower 1 (1),lvl_Break My Ivory Tower 2 (0)
+
+#lvl_Break My Ivory Tower 2 (0)
+  74
+#ACAC-end
+   7,R,J
+   5,R,Z
+   4,R,J
+   1,R
+   6,R,J
+   1,K
    1,J
+  14,L,D,X
+   1,R,J
+  18,R,D,X
+  15,D,C
+   1,S
+   1,D,J
+  72,O
+   8,R,J
+  14,R,D,X
+   1,J,G
+  16,R,D
+  15,R
+#ACAC-start
+Read,ivory_ACAC.tas,BMIT2-Deathwarp,lvl_Break My Ivory Tower 2 (1)
+
+#lvl_Break My Ivory Tower 2 (1)
+  14,R,D,G
+   1,D
+   7,R,Z
+  12,R
+ 106,D
+   1
+
+
+
+
+
+#ext1 exclusive stop inputs
+#lmao
+  40,G
+  86,J,G
+   1,D
 
 
 
@@ -19,4 +115,30 @@ console load StrawberryJam2021/5-Grandmaster/Linj
 
 
 
-ChapterTime: 
+
+
+
+
+
+9999
+9999
+9999
+9999
+9999
+9999
+9999
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

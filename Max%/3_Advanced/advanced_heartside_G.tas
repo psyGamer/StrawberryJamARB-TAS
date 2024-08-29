@@ -235,8 +235,8 @@ EndStunPause
 
 #lvl_heartside_TiltTheStars
 #any%-start
-
 Read,../../StrawberryJamTAS/3_Advanced/advanced_heartside.tas,lvl_heartside_TiltTheStars,lvl_heartside_Galaksyz
+
 #lvl_heartside_Galaksyz
    9,R,J
   16,R,D,X
@@ -473,4 +473,4 @@ Read,../../StrawberryJamTAS/3_Advanced/advanced_heartside.tas,lvl_heartside_blue
 #lvl_heartside_Goldian
 Read,../../StrawberryJamTAS/3_Advanced/advanced_heartside.tas,lvl_heartside_Goldian
 
-ChapterTime: 4:52.077(17181)
+ChapterTime: 4:51.074(17122)

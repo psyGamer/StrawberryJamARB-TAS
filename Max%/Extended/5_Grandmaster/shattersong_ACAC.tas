@@ -1,4 +1,4 @@
-RecordCount: 7851
+RecordCount: 7946
 
 console load StrawberryJam2021/5-Grandmaster/Hydro
    1
@@ -1161,55 +1161,50 @@ EndStunPause
    7,R
    2,R,J
    2,J
-   4,R,K,G
-   5,R,J,G
-   1,R,K,G
-  14,R,D,X
-   1,L,J
-  14,L,Z
-   1,L,J
-#wait...
-Repeat,5
-  15,D,Z
-  15,D,C
-EndRepeat
-  11
-#####
-  14,R,D,X
-   1,L,J
-  14,L,Z
-#ARB-start
-   1,R,J
-   6,R,D,X
-   1,R,J,G
-   4
-   8,R
-  12,R,D,J
-  18,U,X
-  18,R,J
-   1,R,K,G
-   2,K
-   1,L,K
-   1,R,J,G
    2,R,K,G
+   2,R
+   1,R,J,G
    5,R
+   1,R,J,G
+  11,R
+   9,R,D,J
+   1,J
    1,R,J
-   8,R
-   2
-   1,L
-# Probably able to save a frame
-# here, but useless because cycles
-   4,J,G
-   2
-   6,R
-  14,R,J
    3,J
+  23,U,X
+  25,R,J
+   1,R,K,G
+   7,R
+   2,R,J
+   5,R
+  15,R,J
   15,U,X
-  14,U,C
+   4,R
+  15,U,X
+   1,R
+   5,R,J,G
   40
 
 #lvl_Warning (0)
-Read,../../../5_Grandmaster/shattersong.tas,lvl_Warning,lvl_WARPED
+   9
+   1,J
+   1,K
+  13,L,K
+  14,U,X
+   7,L,J
+   2,L
+  12,R,K,G
+   7,R
+   2,R,J
+  14,R,U,X
+   1,J
+   4,R,J
+   1,K
+   2,J
+   2,K
+   2,J
+   5,K
+  40
 
 #lvl_WARPED (0)
    1,L
@@ -1220,7 +1215,6 @@ Read,../../../5_Grandmaster/shattersong.tas,lvl_Warning,lvl_WARPED
    1,R,J
    1,R,K,G
    1,R,J,G
-#ARB-end
   13,R
    6,L,Z
    1,R,J
@@ -1244,12 +1238,10 @@ Read,../../../5_Grandmaster/shattersong.tas,lvl_Warning,lvl_WARPED
    1,S
    1,D,J
   69,O
-#+1f: wait
-   1
    7,L,Z
    1,R,J
    7
-Repeat 6
+Repeat 4
    6,R,Z
    1,L,J
    7,L
@@ -1258,24 +1250,42 @@ Repeat 6
    1,R,J
    7
 EndRepeat
-#ARB-start
    6,R,Z
    1,L,J
-   6,L
-   1
+   7,L
+   1,L,J
+   5,L,Z
+   1,R,J
+   2,R
+   5
+   6,R,Z
+   1,L,J
+   7
+#ARB-start
    1,L,J
    4,R,Z
    1,R,J
    1
    6,L
    1,L,J
-Repeat 3
+
+#less repeating/waiting
+Repeat 2
    5,L,Z
    1,R,J
    1
    6,L
    1,L,J
 EndRepeat
+#Repeat 3
+#   5,L,Z
+#   1,R,J
+#   1
+#   6,L
+#   1,L,J
+#EndRepeat
+#####
+
    5,L,Z
    1,R,J
    7,R
@@ -1339,11 +1349,11 @@ EndRepeat
    5,R
    1,R,J
    1,R
-#wait...
+#-3f: different wait
   15,R,X
   15,R,C
   15,R,X
-   6
+   3
 #####
   14,R,C
    1,L,J
@@ -1556,7 +1566,10 @@ Read,../../../5_Grandmaster/shattersong.tas,lvl_C2 (1),lvl_Fading
    1,D,J
   72,O
 #SpinnerCycle [Fading]
-   2
+   0
+#####
+#+3f cycle waiting
+   3
 #####
    4,R,Z
    2,R,J
@@ -1568,6 +1581,7 @@ Read,../../../5_Grandmaster/shattersong.tas,lvl_C2 (1),lvl_Fading
   10,R,D,X
    1,L,J
    2,L
+
 #less waiting
 Repeat,3
   10,R,D,X
@@ -1649,7 +1663,7 @@ Repeat,5
   15,D,V
 EndRepeat
   15,D,Z
-   5
+   4
 #####
    1,J
    2,L,J
@@ -1693,7 +1707,7 @@ EndRepeat
   15,D,C
   11,D
 #SpinnerCycle [Cadenza]
-   1,D
+   2,D
 #####
   14,R,Z
    2,R,J
@@ -2230,4 +2244,4 @@ EndStunPause
   33,R,U,X
  135,R,D
 
-ChapterTime: 4:49.646(17038)
+ChapterTime: 4:46.178(16834)

@@ -1,4 +1,4 @@
-RecordCount: 11062
+RecordCount: 11064
 
 #StunPauseMode, Simulate
 console load StrawberryJam2021/2-Intermediate/bryse0n
@@ -62,10 +62,17 @@ Read,square_the_circle_ACAC.tas,lvl_b_01 (0),lvl_secret
 Read,../../../2_Intermediate/square_the_circle.tas,lvl_a_03 (1),lvl_a_06 (1)
 
 #lvl_a_06
- 120
-  15,R,U,X
-   1,L,J,G
-   3,L,K,G
+   2,L
+   1,L,J
+   7,L
+   2,L,J
+   5,L
+  12,L,Z
+   2,K,G
+   8,R,K
+   5,R
+   2,R,J
+   2,L,K,G
    7,L
    4,L,Z
    4,L,J
@@ -79,7 +86,7 @@ Read,../../../2_Intermediate/square_the_circle.tas,lvl_a_03 (1),lvl_a_06 (1)
    1,S
    1,D,J
 #Spinner Cycle [a_06]
-   1
+   0
 #####
   69,O
    4,R,Z
@@ -179,4 +186,4 @@ Read,../../../2_Intermediate/square_the_circle.tas,lvl_b_04,lvl_a_10
 #lvl_a_10
 Read,square_the_circle_ACAC.tas,lvl_a_10
 
-ChapterTime: 3:25.683(12099)
+ChapterTime: 3:25.122(12066)

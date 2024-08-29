@@ -1,4 +1,4 @@
-RecordCount: 7808
+RecordCount: 7851
 
 console load StrawberryJam2021/5-Grandmaster/Hydro
    1
@@ -680,61 +680,32 @@ EndRepeat
    9,L
   16
   15,D,X
-   9
-  15,D,X
-  15,D,C
+
+
+
+
+
+
+
+
+   8
    1,R
-   3
-   2,R
-  12,R,J
-  15,L,Z
   15,D,X
   15,D,C
-  15,D,X
-  10,R,D,C
-  12,R,J
-   1,R
-   1,J
-   9
-  15,R,X
-  15,D,C
-  15,D,X
-   6
-   1,L,J
-   5,D,X
-   6,J
-   3,L,J
-   3,L
    1
-  10,R,D,X
-  14,L,J
-  14,L,Z
-  15,L,J
-  10,L,Z
-   6,R,J
-   2,R
-  15,R,D,X
-  12,R,D,J
-  18,R
-  15,U,X
-  26,D
-   1,L,D
-   1,D
-   1,L,D
-   1,D
-   1,L,D
+   7,R
+  12,R,J
+  12,L,Z
+  31,R,J
+  18,R,U,X
+  14,R,Z
+  12,R,J
+   9,R
   15,D,X
-  15,D,C
-  15,D,X
-  10,R,D,C
-  10,R,J
-   6,R
-   6
-  15,D,X
-   1,L
+   2,L,D
   15,D,X
    1,L,J
-   3,J
+   2,J
   14,R,D,X
   27,R,J
   10,R,D
@@ -742,9 +713,106 @@ EndRepeat
    3,R,D
    1,R
   21,R,X
+
+
+
+
+
+
+
+
+
+
+
+#   9
+#  15,D,X
+#  15,D,C
+#   1,R
+#   3
+#   2,R
+#  12,R,J
+#  15,L,Z
+#  15,D,X
+#  15,D,C
+#  15,D,X
+#  10,R,D,C
+#  12,R,J
+#   1,R
+#   1,J
+#   9
+#  15,R,X
+#  15,D,C
+#  15,D,X
+#   6
+#   1,L,J
+#   5,D,X
+#   6,J
+#   3,L,J
+#   3,L
+#   1
+#  10,R,D,X
+#  14,L,J
+#  14,L,Z
+#  15,L,J
+#  10,L,Z
+#   6,R,J
+#   2,R
+#  15,R,D,X
+#  12,R,D,J
+#  18,R
+#  15,U,X
+#  26,D
+#   1,L,D
+#   1,D
+#   1,L,D
+#   1,D
+#   1,L,D
+#  15,D,X
+#  15,D,C
+#  15,D,X
+#  10,R,D,C
+#  10,R,J
+#   6,R
+#   6
+#  15,D,X
+#   1,L
+#  15,D,X
+#   1,L,J
+#   3,J
+#  14,R,D,X
+#  27,R,J
+#  10,R,D
+#   5,R
+#   3,R,D
+#   1,R
+#  21,R,X
+
+
+
+
+
+
+#4356.517957210541, -664.124833822250
+
+
+
+
+
+
    3,R,J
    1,J
    1,R
+
+
+
+
+
+#4369.523529052734, -672.624850034714
+
+
+
+
+
    1,K
    3,L,K
    4,L
@@ -778,7 +846,7 @@ EndRepeat
    1,L,J
   15,L,D,X
   15,D,C
-  10
+   4
   15,R,D,X
 #Repeat 7
 #  14,R,D,X
@@ -843,9 +911,9 @@ Repeat 19
    1
    1,G
 EndRepeat
-#+5f: wait a bit longer
+#+4f: wait a bit longer
 #also be further left
-   5,G
+   4,G
   10,R,J,G
    2,J
 #   0,G
@@ -872,9 +940,8 @@ EndRepeat
   16,R
    3,R,D
   77
-
 #Spinner Cycle [C1 (1)]
-   1
+   0
 #####
 #ARB-end
 #need to touch the flag trigger on
@@ -2163,4 +2230,4 @@ EndStunPause
   33,R,U,X
  135,R,D
 
-ChapterTime: 4:54.185(17305)
+ChapterTime: 4:49.646(17038)

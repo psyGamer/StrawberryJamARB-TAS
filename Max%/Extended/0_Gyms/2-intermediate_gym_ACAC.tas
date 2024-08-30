@@ -1,7 +1,7 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 2681
+RecordCount: 2682
 
 console load StrawberryJam2021/0-Gyms/2-Intermediate
    1
@@ -24,8 +24,8 @@ Repeat,2
   14,L,D,X
 EndRepeat
    1,L,D,X
-
-MidwayFileTime: 1:11.111(4183)
-
    1,N
+  20
+   1,J
 
+FileTime: 1:11.485(4205)

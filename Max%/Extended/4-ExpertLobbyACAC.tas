@@ -18,8 +18,7 @@ EnforceMaingame
 Read,4_Expert_Lobby/exp_0-Gym,Start
 Read,../../StrawberryJamTAS/EnterLevel,Start
 Read,0_Gyms/4-expert_gym_ACAC.tas,Start
-  20
-   1,J
+unsafe
   46
 
 #Madeline the Bubble

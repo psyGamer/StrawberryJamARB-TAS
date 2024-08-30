@@ -1,4 +1,4 @@
-RecordCount: 36194
+RecordCount: 36196
 
 console load StrawberryJam2021/5-Grandmaster/Dav
    1
@@ -478,16 +478,15 @@ EndRepeat
    2,R,J
    2,R,K
    4,R
-  14,U,X
+  14,U,Z
    1,L,J
-  14,U,C
+  11,U,X
    6,L,J
   10,L,Z
-   1,R,J
-   4
+   5,R,J
   15,D,X
-  13,D
-  20
+  17,D
+  15
    2,U
   11,U,X
    1,R,J
@@ -582,7 +581,7 @@ Read,../../../StrawberryJamTAS/5_Grandmaster/world_abyss.tas,lvl_chill-0 (1),lvl
    3,L,J,G
    7,L
 #Spinner Cycle [big-3] 1
-   0
+   1
 #####
    7,L,J
    5,L,Z
@@ -811,4 +810,4 @@ EndRepeat
 #lvl_a-intro
 Read,../../../StrawberryJamTAS/5_Grandmaster/world_abyss.tas,lvl_a-intro (1)
 
-ChapterTime: 3:05.640(10920)
+ChapterTime: 3:05.589(10917)

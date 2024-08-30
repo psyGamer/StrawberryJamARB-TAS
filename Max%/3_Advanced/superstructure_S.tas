@@ -1,4 +1,4 @@
-RecordCount: 7214
+RecordCount: 7216
 
 console load StrawberryJam2021/3-Advanced/Goldian
    1
@@ -7,7 +7,7 @@ console load StrawberryJam2021/3-Advanced/Goldian
  190
 
 #Spinner Cycle [goldian-7]
-   2
+   1
 #####
 
 #lvl_start
@@ -103,4 +103,4 @@ console load StrawberryJam2021/3-Advanced/Goldian
 #lvl_goldian-1
 Read,../../StrawberryJamTAS/3_Advanced/superstructure.tas,lvl_goldian-1
 
-ChapterTime: 1:16.619(4507)
+ChapterTime: 1:16.313(4489)

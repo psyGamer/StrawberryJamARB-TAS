@@ -12,8 +12,6 @@ EnforceMaingame
 Read,1_Beginner_Lobby/beg_0-Gym,Start
 Read,../../StrawberryJamTAS/EnterLevel,Start
 Read,0_Gyms/1-beginner_gym_ACAC.tas,Start
-  20
-   1,J
   46
 
 #Loopy Lagoon

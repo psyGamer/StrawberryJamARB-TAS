@@ -1,4 +1,4 @@
-RecordCount: 6364
+RecordCount: 6365
 console load StrawberryJam2021/0-Gyms/4-Expert
    1
 
@@ -17,7 +17,8 @@ Repeat,5
   14,L,D,X
 EndRepeat
    1,L,D,X
-
-MidwayFileTime: 1:25.646(5038)
-
    1,L,N
+  20
+   1,J
+
+FileTime: 1:26.020(5060)

@@ -12,8 +12,6 @@ EnforceMaingame
 Read,3_Advanced_Lobby/adv_0-Gym,Start
 Read,../../StrawberryJamTAS/EnterLevel,Start
 Read,0_Gyms/3-Advanced_gym_ACAC.tas,Start
-  20
-   1,J
   46
 
 #Lost Woods
@@ -203,4 +201,4 @@ Read,3_Advanced/advanced_heartside_ACAC,Start
   61
    1,O
 
-FileTime: 42:46.592(150976)
+FileTime: 42:46.235(150955)

@@ -8,12 +8,29 @@ console clrsav
 Set, BounceHelper.JellyfishDash, J, I
 
 console load StrawberryJam2021/0-Lobbies/5-Grandmaster
-EnforceMaingame
+
+#Uncomment at your own discretion.
+#EnforceMaingame
+
    1
 
 #Start
+#Grandmaster Gym
+Read,5_Grandmaster_Lobby/gm_0-Gym,Start
+Read,../../StrawberryJamTAS/EnterLevel,Start
+Read,0_Gyms/5-grandmaster_gym_ACAC.tas,Start
+  46
+
+#Strawberry Jam Gym Library
+Read,../../0_Gyms/Gyms/0-library_gym.tas,Start
+Read,../../StrawberryJamTAS/EnterLevel,Start
+
+#Pet Feather-Clip Cat
+Read,0_Gyms_Movement/gym_gmlobbyenter.tas,Start
+  46
+Read,5_Grandmaster_Lobby/gm_0-Cat1-18,Start
+
 #Flipside Cliffside
-Read,../../StrawberryJamTAS/5_Grandmaster_Lobby/gm_0-18,Start
 Read,../../StrawberryJamTAS/EnterLevel,Start
 Read,../../StrawberryJamTAS/5_Grandmaster/flipside_cliffside,Start
    1,O
@@ -128,8 +145,10 @@ Read,5_Grandmaster/stellar_odyssey_ACAC,Start
    1,O
   32
 
+#Pet Cloud Podium Cat
+Read,5_Grandmaster_Lobby/gm_7-Cat2-8,Start
+
 #74
-Read,../../StrawberryJamTAS/5_Grandmaster_Lobby/gm_7-8,Start
 Read,../../StrawberryJamTAS/EnterLevel,Start
 Read,../../StrawberryJamTAS/5_Grandmaster/74,Start
    1,O
@@ -159,4 +178,4 @@ Read,../../StrawberryJamTAS/5_Grandmaster/grandmaster_heartside,Start
   61
    1,O
 
-FileTime: 45:33.277(160781)
+FileTime: 49:57.576(176328)

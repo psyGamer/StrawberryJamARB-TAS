@@ -9,7 +9,7 @@ console load StrawberryJam2021/0-Gyms/5-Grandmaster
 #Start
   36
 
-#lvl_1-hub
+#lvl_1-hub (0)
    6,R,Z
    1,R,J
    7,R
@@ -158,7 +158,7 @@ console load StrawberryJam2021/0-Gyms/5-Grandmaster
   14,R
   12,R,X
 
-#lvl_1-hub
+#lvl_1-hub (1)
    2
    1,J
   10,L,X
@@ -233,7 +233,7 @@ console load StrawberryJam2021/0-Gyms/5-Grandmaster
    1,R,J
   15,R,D,X
 
-#lvl_1-hub
+#lvl_1-hub (2)
    1
   10,R,X
    1,R,J
@@ -293,7 +293,7 @@ console load StrawberryJam2021/0-Gyms/5-Grandmaster
    1,R,J
   16,R,D,X
 
-#lvl_1-hub
+#lvl_1-hub (3)
    4,Z
    2,R,J
    8,R
@@ -354,7 +354,7 @@ console load StrawberryJam2021/0-Gyms/5-Grandmaster
    8,R
   13,R,X
 
-#lvl_1-hub
+#lvl_1-hub (4)
    1,R
    1,R,J
    4,Z
@@ -416,7 +416,7 @@ console load StrawberryJam2021/0-Gyms/5-Grandmaster
    3,R
   14,R,D,X
 
-#lvl_1-hub
+#lvl_1-hub (5)
    1
   10,L,X
    1,L,J
@@ -479,7 +479,7 @@ console load StrawberryJam2021/0-Gyms/5-Grandmaster
   12,R
   22,R,X
 
-#lvl_1-hub
+#lvl_1-hub (6)
   10,R,C
    1,R,J
    4,J
@@ -578,7 +578,7 @@ endrepeat
    1,R,D
   19,R,X
 
-#lvl_1-hub
+#lvl_1-hub (7)
    7,L,Z
    1,L,J
    6,L
@@ -666,7 +666,7 @@ endrepeat
   18,R,D,X
    8,R,D,C
 
-#lvl_1-hub
+#lvl_1-hub (8)
    6,L
    1,L,J
    6,L,Z
@@ -747,7 +747,7 @@ endrepeat
   15,R,D,X
    2,R
 
-#lvl_1-hub
+#lvl_1-hub (9)
    4,Z
    2,L,J
    8,L
@@ -824,7 +824,7 @@ endrepeat
   29,R,J
   13,R,X
 
-#lvl_1-hub
+#lvl_1-hub (10)
    2
   10,R,X
    1,R,J
@@ -947,7 +947,7 @@ endrepeat
   16,R
   12,R,D,X
 
-#lvl_1-hub
+#lvl_1-hub (11)
    3
   10,L,X
    2,L,J
@@ -1036,7 +1036,7 @@ endrepeat
    4,R,J
   17,R,D,X
 
-#lvl_1-hub
+#lvl_1-hub (12)
    4,Z
    1,L,J
    7,L
@@ -1085,7 +1085,7 @@ endrepeat
    1,R,J
   15,R,D,X
 
-#lvl_1-hub
+#lvl_1-hub (13)
    6,R,Z
    1,R,J
    7,R
@@ -1176,7 +1176,7 @@ endrepeat
   55,R,D,X
   12,R,D,C
 
-#lvl_1-hub
+#lvl_1-hub (14)
    2,R
    1,R,J
    4,Z

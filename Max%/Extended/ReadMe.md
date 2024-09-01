@@ -1,7 +1,7 @@
 This subproject is for 2 related categories. The first is called All Cats and All Challenges, or ACAC for short. It involves beating every level in SJ while also petting every cat and playing every secret challenge room. More info on these two criteria can be found here:
 
 All Cats - All Cats is done is by adding in petting every single cat in the mod. Sometimes they're hidden behind a secret difficult challenge or alternate route, sometimes they're more or less out in the open and free to pet.
-<br>All Challenges - There are a lot of hidden bonus rooms or challenges in SJ that don't reward Madeline with a berry, and are often marked as being optional extra rooms and having a higher difficulty than the rest of the map but using the maps mechanics. Sometimes these reward with a cat, but often times they don't. Nonetheless, it feels wrong to not include them despite that.
+<br>All Challenges - There are a lot of hidden bonus rooms or challenges in SJ that don't reward Madeline with a berry, and are often marked as being optional extra rooms and having a higher difficulty than the rest of the map but using the maps mechanics. Sometimes these reward with a cat, but often times they don't. Nonetheless, it feels wrong to not include them despite that. As this project developed further, what counted as a "challenge" got, to put it bluntly, extremely loose, and now it's just kind of about finding interesting secrets throughout the maps, ONTOP of actual additional challenge rooms.
 
 These both change the routing for levels and lobbies, so it should be an interesting TAS to figure out.
 

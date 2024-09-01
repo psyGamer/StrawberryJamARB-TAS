@@ -9,3 +9,5 @@ The berries Max% collects are as follows:
 
 To separate the file names in Max% from the ARB level filenames, the _S and _G suffixes are used for Silvers and Goldens respectively.
 <br>If the red berries are split up between a normal run and a silver run, then the _S0 and _S1 suffixes are used instead. These refer to an initial red berries run that gets most - but not all - of the red berries, and a 2nd silver deathless run with the remaining red berry/berries respectively.
+
+The "Extended" subdirectory seen here is for 2 different categories that further expands what the Strawberry Jam All Levels TAS does. Read more information about those categories by looking in the directory.

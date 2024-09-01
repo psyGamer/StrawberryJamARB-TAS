@@ -1,0 +1,51 @@
+#For Misery in Shattersong in GM
+Set, BounceHelper.JellyfishDash, J, I
+
+#IMPORTANT NOTE:
+#THIS FILE WILL ONLY WORK IF YOU
+#RESTART THE ENTIRE GAME BEFORE
+#PLAYING IT!!!!!
+#YOU HAVE BEEN WARNED!!!!!
+
+#To sync:
+#Use Celeste 1.4.0.0 (or latest)
+#Use Everest 4607 (or latest stable)
+#Use Strawberry Jam 1.0.9 (or latest)
+#Please let us know if future versions
+#Appear to be desyncing the TAS
+
+#Use the bindings in the CelesteTAS readme
+#Change your default map to Strawberry Jam Collab
+#Start from file creation "Begin"
+#Make sure map select shows up
+#Open and close Mod Options if it doesn't
+
+Read,../../StrawberryJamTAS/StartFullCollabFile
+
+Read,0-SJ_prologueACAC,Start
+
+Read,../../StrawberryJamTAS/LoadBeginnerLobby
+
+Read,1-BeginnerLobbyACAC,Start
+
+Read,../../StrawberryJamTAS/LoadLobbyfromHeartside
+
+Read,2-IntermediateLobbyACAC,Start
+
+Read,../../StrawberryJamTAS/LoadLobbyfromHeartside
+
+Read,3-AdvancedLobbyACAC,Start
+
+Read,../../StrawberryJamTAS/LoadLobbyfromHeartside
+
+Read,4-ExpertLobbyACAC,Start,Rng_Start
+#Rng_Start
+   2
+#Rng_End
+Read,4-ExpertLobbyACAC,Rng_End
+
+Read,../../StrawberryJamTAS/LoadLobbyfromHeartside
+
+Read,5-GrandmasterLobbyACAC,Start
+
+FileTime: 3:35:39.380(761140)

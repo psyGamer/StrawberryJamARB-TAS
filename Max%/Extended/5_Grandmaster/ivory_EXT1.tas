@@ -1,4 +1,4 @@
-RecordCount: 7441
+RecordCount: 7448
 
 console load StrawberryJam2021/5-Grandmaster/Linj
    1
@@ -88,28 +88,8 @@ Read,ivory_ACAC.tas,lvl_Break My Ivory Tower 1 (1),lvl_Break My Ivory Tower 2 (0
   16,R,D
   15,R
 #ACAC-start
-Read,ivory_ACAC.tas,BMIT2-Deathwarp,lvl_Break My Ivory Tower 2 (1)
-
-#lvl_Break My Ivory Tower 2 (1)
-  14,R,D,G
-   1,D
-   7,R,Z
-  12,R
- 106,D
-   1
-
-
-
-
-
-#ext1 exclusive stop inputs
-#lmao
-  40,G
-  86,J,G
-   1,D
-
-
-
+Read,ivory_ACAC.tas,BMIT2-Deathwarp,WIP-End
+  35,D
 
 
 
@@ -127,12 +107,6 @@ Read,ivory_ACAC.tas,BMIT2-Deathwarp,lvl_Break My Ivory Tower 2 (1)
 9999
 9999
 9999
-
-
-
-
-
-
 
 
 

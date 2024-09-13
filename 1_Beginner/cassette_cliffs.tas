@@ -1,4 +1,4 @@
-RecordCount: 927
+RecordCount: 976
 
 console load StrawberryJam2021/1-Beginner/Ceph
    1
@@ -236,7 +236,6 @@ Read,../StrawberryJamTAS/1_Beginner/cassette_cliffs,Start,lvl_4
   15,D,X
   15,D,C
   15,D,X
-
   15,D,C
   15,D,X
   15,D,C
@@ -321,8 +320,9 @@ Read,../StrawberryJamTAS/1_Beginner/cassette_cliffs,Start,lvl_4
    5,L,J
   10,L
   15,D,X
-   2,D
-  20
+   8,D
+  15,D,X
+   5,D,C
   77
   15,R,D,X
    4,R,D
@@ -334,36 +334,73 @@ Read,../StrawberryJamTAS/1_Beginner/cassette_cliffs,Start,lvl_4
    1,R,K
    1,R,J
    1,R
-  15,L,D,X
-  15,L,U,C
+  14,R,D,X
    1,L,J
-  14,L,X
+   7,L,Z
+   8,J
+  15,L,U,X
+  14,L,C
    1,R,J
   15,D,X
-   4
-  15,D,X
   15,D,C
   15,D,X
   15,D,C
   15,D,X
-  15,R,C
+  15,R,D,C
    1,G
-  10,D
-   3
-   2,D
-  15,R,Z
+  12,L,Z
+   1,R,J
+   2,R
+  10,R,D,X
+   1,R,J
+  12,R
    1,R,J
    1,R,K
    1,R,J
    1,R,K
-  10,R
-   1,R,J
-   1,R,K
-   1,R,J
-  12,R,D,X
+  11,R,D,X
   40
 
 #lvl_10 (1)
-Read,../StrawberryJamTAS/1_Beginner/cassette_cliffs,lvl_10
+   4,R,D,X
+  16,R,D,C
+  15,R,U,X
+  15,R,U,C
+  14,R,Z
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   2,R,U,J
+   8,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   3,J
+   6,D
+  33,R,D
+   2,R
+   1,R,J
+   1,R,K
+  16,R,J
+  11,R,K,G
+   7,J,G
+   4,L,J
+  22,R,U,X
+  15,R,U,C
+  21,R
+   4,R,Z
+   1,R,J
+   5,R
+  40
 
-ChapterTime: 1:15.327(4431)
+#lvl_13-c
+Read,../StrawberryJamTAS/1_Beginner/cassette_cliffs,lvl_11-c
+
+ChapterTime: 1:15.106(4418)

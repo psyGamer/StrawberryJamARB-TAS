@@ -1,4 +1,4 @@
-RecordCount: 813
+RecordCount: 827
 
 console load StrawberryJam2021/4-Expert/Jackal
    1
@@ -230,4 +230,4 @@ Read,../StrawberryJamTAS/4_Expert/hydroshock,Start,lvl_a10
 #lvl_a15
 Read,../StrawberryJamTAS/4_Expert/hydroshock,lvl_a15
 
-ChapterTime: 0:58.463(3439)
+ChapterTime: 0:58.395(3435)

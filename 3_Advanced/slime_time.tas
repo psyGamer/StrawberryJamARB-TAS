@@ -1,4 +1,4 @@
-RecordCount: 1363
+RecordCount: 1365
 
 console load StrawberryJam2021/3-Advanced/galaksyz
    1
@@ -433,6 +433,10 @@ read,../StrawberryJamTAS/3_Advanced/slime_time,lvl_a_06-TiltTheStars,lvl_a_07-Ti
   40
 
 #lvl_heart_room
-read,../StrawberryJamTAS/3_Advanced/slime_time,lvl_heart_room
+   3,R
+  15,R,D,X
+   2,R,D
+  19
+ 116,D
 
-ChapterTime: 1:33.670(5510)
+ChapterTime: 1:33.466(5498)

@@ -1,4 +1,4 @@
-RecordCount: 8744
+RecordCount: 8746
 
 console load StrawberryJam2021/4-Expert/Yoshachobi7
    1
@@ -8,7 +8,7 @@ console load StrawberryJam2021/4-Expert/Yoshachobi7
 
 #Spinner Cycle [a3]
    2
-#####
+#----
 
 #lvl_a0
    4,L,J
@@ -145,8 +145,8 @@ Read,../../StrawberryJamTAS/4_Expert/polaris.tas,lvl_a2,lvl_a7
   14,L
    9,R,Z
 #Spinner Cycle [a8]
-   1
-#####
+   0
+#----
   15,R,X
    9,R
   14,R,D,X
@@ -257,4 +257,4 @@ Read,../../StrawberryJamTAS/4_Expert/polaris.tas,lvl_a2,lvl_a7
 #lvl_a8
 Read,../../StrawberryJamTAS/4_Expert/polaris.tas,lvl_a8
 
-ChapterTime: 1:28.570(5210)
+ChapterTime: 1:28.400(5200)

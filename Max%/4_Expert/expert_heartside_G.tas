@@ -1,4 +1,4 @@
-RecordCount: 48749
+RecordCount: 48751
 
 console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    1
@@ -70,7 +70,7 @@ Read,../../StrawberryJamTAS/4_Expert/expert_heartside.tas,Start,lvl_a00_intro2
    1
 #   1,K
 #   2
-#####
+#-----
 #almost no more any% differences
 #from here on except spinner cycles
   11,L,X
@@ -200,7 +200,7 @@ Read,../../StrawberryJamTAS/4_Expert/expert_heartside.tas,lvl_a02_skunkynator,lv
    4,R,J
   50,R,K
   51,R
-#####
+#----
 
 #lvl_b00_intro
 Read,../../StrawberryJamTAS/4_Expert/expert_heartside.tas,lvl_b00_intro,lvl_b03_banana
@@ -307,8 +307,8 @@ Read,../../StrawberryJamTAS/4_Expert/expert_heartside.tas,lvl_b00_intro,lvl_b03_
   21,R,D
   12,R,Z
 #Spinner Cycle [b04_powerav]
-   0
-#####
+   2
+#----
   45,R,X
   15,U,C
    1,L
@@ -590,4 +590,4 @@ EndStunPause
 #lvl_d03_appels
 Read,../../StrawberryJamTAS/4_Expert/expert_heartside.tas,lvl_d03_appels
 
-ChapterTime: 7:37.640(26920)
+ChapterTime: 7:37.555(26915)

@@ -1,4 +1,4 @@
-RecordCount: 2140
+RecordCount: 2141
 
 console load StrawberryJam2021/5-Grandmaster/maya
    1
@@ -13,14 +13,16 @@ console load StrawberryJam2021/5-Grandmaster/maya
 Read, ../StrawberryJamTAS/5_Grandmaster/pinball_purgatory, lvl_Insert Coin, lvl_Pursuit
 
 #lvl_Pursuit
-  15,R,U,X
+  14,R,U,X
    1,J
-   5
-   6,L
+   1,L,J
+   9,L
    1,L,N
-   3,R
-  17,R,D,X
-  13,R,C
+   1,L
+   4
+  15,R,D,X
+   2,R
+  13,R,X
    5,R,J
    9,D,X
   23,L
@@ -895,4 +897,4 @@ endRepeat
   15,D,X
  135,R,D
 
-ChapterTime: 3:22.368(11904)
+ChapterTime: 3:22.317(11901)

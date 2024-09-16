@@ -1,9 +1,10 @@
-RecordCount: 769
+RecordCount: 913
 
 console load StrawberryJam2021/4-Expert/Skunkynator
    1
 
 #Start
+
 #any%-start 140ce2a
 Read,../StrawberryJamTAS/4_Expert/system_invalidmap,Start,lvl_a-2
 
@@ -53,13 +54,24 @@ Read,../StrawberryJamTAS/4_Expert/system_invalidmap,Start,lvl_a-2
    1,R,K
   19,R,X
    4,R,J
-  26,R,D
+
+  32,R,D
+  15,G
+   1,D,G
+   1,R,K,G
+   7,R,D
    2,R
-   1,R,D
-  13,R,G
-  10,R,D,G
-   6,R
-  17,R,X
+  15,R,X
+
+
+
+#  26,R,D
+#   2,R
+#   1,R,D
+#  13,R,G
+#  10,R,D,G
+#   6,R
+#  17,R,X
    4,R,J
    1,R,K
   15,R,D,X
@@ -152,7 +164,6 @@ Read,../StrawberryJamTAS/4_Expert/system_invalidmap,lvl_a-5,lvl_a-6
    2,L,J
    5,L
    1,L,J
-#any%-end
    7,R
   10,R,J
    2,R
@@ -237,52 +248,44 @@ Read,../StrawberryJamTAS/4_Expert/system_invalidmap,lvl_a-5,lvl_a-6
    1,R
    1,J
    9,R,J
-  10,L,Z
+   9,L,Z
    1,R,J
    6,R
   12,R,J
    5,R
-   9,R,J
-  30,U,X
+   8,R,J
+  29,U,X
   40
 
 #lvl_a-8 (0)
    1,J
   10,R
-  10,R,D,X
-   3,R,J
-   4,R,K,G
+  10,R,Z
+   2,R,J
+   5,R,K,G
    2,R,J,G
-   3,R
-   1,L
+   3,R,K,G
   40
 
 #lvl_a-b1
-   1,R
-   2,R
-   1,R,J
-   1,R
+   9,R,K
    3,R
-   5,R,J
-   5,R
-  11,R,J
-  14,R,D,X
-  12,R,J
-   1,R
-  11,R,J
-   1,R
-  30,U,Z
-   9,L
-  24,U,X
-   1,J
-   1,L
-  14,L,Z
-   2,L,J
-   9,L
-  12,L,J
-   5,L
-  10,L,J
-   6,L
+  22,R,X
+   4,R,J
+  12,R,K
+   2,R
+  27,R,U,X
+   4,L,G
+  29,U,X
+  13,L,Z
+   1,L,J
+   7,L
+   1,L,J
+  17,L,D,X
+   4,L,J
+   2,L,K
+   2,L
+  11,L,X
   96
    4,L,Z
    1,L,J
@@ -345,4 +348,4 @@ Read,../StrawberryJamTAS/4_Expert/system_invalidmap,lvl_a-5,lvl_a-6
 #any%-start 140ce2a
 Read,../StrawberryJamTAS/4_Expert/system_invalidmap,lvl_a-end
 
-ChapterTime: 1:04.413(3789)
+ChapterTime: 1:03.750(3750)

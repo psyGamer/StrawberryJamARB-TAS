@@ -94,13 +94,13 @@ Read,4_Expert/hypnagogia_S,Start
 #The Core Problem
 Read,../StrawberryJamTAS/4_Expert_Lobby/exp_6-7,Start
 Read,../StrawberryJamTAS/EnterLevel,Start
-Read,4_Expert/the_core_problem_S0,Start
+Read,../4_Expert/the_core_problem,Start
    1,O
   32
 
 Read,4_Expert_Lobby/exp_7-7,Start
 Read,../StrawberryJamTAS/EnterLevel,Start
-Read,4_Expert/the_core_problem_S1,Start
+Read,4_Expert/the_core_problem_S,Start
    1,O
   32
 
@@ -417,4 +417,4 @@ Read,4_Expert/expert_heartside_G,Start
   61
    1,O
 
-FileTime: 1:48:30.218(382954)
+FileTime: 1:48:29.555(382915)

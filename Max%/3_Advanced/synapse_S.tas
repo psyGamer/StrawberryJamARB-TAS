@@ -1,4 +1,4 @@
-RecordCount: 14966
+RecordCount: 14978
 
 console load StrawberryJam2021/3-Advanced/MousseMoose
    1
@@ -184,15 +184,15 @@ EndRepeat
    1,R,J
   15,R,D,X
 #cycle
-   7
-#   8
+  13
+#  15,D,C
 #----
    4,Z
    5,L,J
    5,L
    2,L,J
    3,L
-   1,L,D,J
+   1,L,J
 
 #lvl_a3
 #didn't feel like messing with

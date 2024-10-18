@@ -1,11 +1,11 @@
-RecordCount: 1995
+RecordCount: 2113
 
 console load StrawberryJam2021/1-Beginner/hyperlife
    1
 
 #Start
 #spinner cycle
-   2
+   1
 Read,../StrawberryJamTAS/1_Beginner/collapsing_skyline,Start,lvl_a-02
 
 #lvl_a-02 (0)
@@ -177,56 +177,50 @@ Read,../StrawberryJamTAS/1_Beginner/collapsing_skyline,Start,lvl_a-02
    1,L,J
    6,L
    1,L,K
-   2,L,J
-   5,L
-   1,L,K
-  14,L,U,X
-   1,L,K,G
+   5,L,J
+   6,L
+  11,L,U,X
    1,J,G
-   2,L,J
+  10,L
+   1,R
    1,J
-   1,L
-   5,R
    2,R,J
-  36,R,D
-
+   2,R
   14,R,D,X
-   3,R,J
-  12,R,D,X
-  40
-
-#lvl_a-04 (2)
-   9,R,D
-   8,R,U,Z
+   1,R,J
+  15,R,D,X
+   4,R,D
+   1,R
+   4,R,D,J
+   5,R
+   1,R,J
+   2,R
   40
 
 #lvl_a-03
-   5,R
-   1,L
-   1,J,G
-  10,R,D,X
-   1,R,J
-   5,R
-   1,R,K
-   1,R
-  17,R,D,J
-   1,L,J
-   2,K,G
+  11,R,D
+   1,D
+   4,R,D
+  15,R,Z
+   5,D
+  32,R,D
+   3,R,J
+  15,R,U,Z
+   2,L,K,G
+   3,R
    4
-   1,J
-   8,L,K,G
-   1,L,J,G
-   5,R,D,X
+   4,L,J
+   1,K
+   5,R,Z
    1,R,J
    4,R
    1,R,K
    2,R
-   7,R,D,J
-   5,R
-   1,R,J
-   2,R
-   1
-  10,R
+   1,R,D,J
+   2,J
+   5,R,J
+   9,R
+  10,R,D
   11,R,J
   15,R,Z
   12,R
@@ -439,4 +433,4 @@ Read,../StrawberryJamTAS/1_Beginner/collapsing_skyline,Start,lvl_a-02
   17,U,X
  135
 
-ChapterTime: 0:54.128(3184)
+ChapterTime: 0:53.618(3154)

@@ -6,6 +6,7 @@ console load StrawberryJam2021/2-Intermediate/thebreadstick1
 #Start
   91
 
+Assert,Equal,StrawberryJam2021/2-Intermediate/thebreadstick1,{Level.Session.Area.SID}
 #lvl_a-001 (0)
    6,L,Z
    1,L,J
@@ -333,4 +334,4 @@ endstunpause
 #lvl_a-012
 read,../StrawberryJamTAS/2_Intermediate/construction_conundrum,lvl_a-012
 
-FileTime: 1:53.679(6687)
+FileTime: 2:01.125(7125)

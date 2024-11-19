@@ -7,6 +7,7 @@ console load StrawberryJam2021/5-Grandmaster/Ecl1psed
   92
 
 Assert,Equal,StrawberryJam2021/5-Grandmaster/Ecl1psed,{Level.Session.Area.SID}
+Assert,Equal,StrawberryJam2021/5-Grandmaster/Ecl1psed,{Level.Session.Area.SID}
 #lvl_a-00-start (0)
 #any%-start
    5,L,J
@@ -1072,4 +1073,4 @@ EndStunPause
   16,U,X
  135
 
-FileTime: 2:26.642(8626)
+FileTime: 2:17.921(8113)

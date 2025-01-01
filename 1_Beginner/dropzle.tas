@@ -518,6 +518,16 @@ EndRepeat
   40
 
 #lvl_10 - Downfall
-Read, ../StrawberryJamTAS/1_Beginner/dropzle,lvl_10 - Downfall
+   6,L,D
+   1,L
+   5,L,Z
+   1,L,J
+   9,L,D
+  15,L,D,X
+   4,D
+   6,L,D
+  15,D,X
+   5,D
+ 135
 
 ChapterTime: 1:13.763(4339)

@@ -1,4 +1,4 @@
-RecordCount: 9053
+RecordCount: 10143
 
 console load StrawberryJam2021/4-Expert/fonda1515
    1
@@ -16,72 +16,79 @@ Read,../StrawberryJamTAS/4_Expert/clockwork.tas,Start,lvl_a-05
    3,L
   12,U,X
    2,R,J
-  11,R
+#any%-end
+   6,R
+   1,L
+   4,R
    4,R,Z
    1,R,J
-#any%-end
-   6
-   1,R,J
-   7,J
-  29,L
-   6,R,J
-   1,R
+   5,R
    1
+   6,J
+  18
+   2,D
+   5,L,D
+   1,D
+   1,R,J
+   3,J
   15,U,X
-  31,L,D
-   6,L,Z
+  30,L
+   4,L,Z
    1,L,J
    7,L
    2,L,J
+   1,L
+   1
    7,L,D,X
    1,L,J,G
-   3,L
-   1,L,J,G
-  17,L
+   1,J
+   1,L,K,G
+   3
+  12,L
    1,L,J
+   5,L
   40
 
 #lvl_a-05b
-   7,L,J
-   5,L
-   3,L,J
-  36,L,U,G
-  10,L,D,G
-   3,D,G
-   1,L,D,G
-   1,D,G
-  14,R,G
-  39,L,D,G
-   5,L,J,G
-  57,L,G
-   1,J,G
-   2,L,J,G
-  22,J,G
-   1,L,K,G
-  39,L,U,J,G
-   2,L,G
-   1,L,U,G
-   9,L,D,G
-   8,L
-  27
-  11,R
-  14
-   1,J
-   8
-   2,J
-   5
-  10,R,D,X
-   3,L,J
-   2,L
-   5,L,D,X
-   1,R,J,G
-   6,L
+   7,L
+   1
+   1,L
    1,L,J
-  32,L,G
+  11,L,D,X
+  37,L,J,G
+  15,R,G
+  44,L,G
+   4,L,J,G
+  26,L,G
+# multiboost poorly optimized
+   8,L,G
+   1,L,K,G
+  18,K,G
+   7,L,K,G
+   5,L
+   1
+   1,L
+  10,U,X
    1,R
-  20,L
-   6,L,J
-  14,L,U,X
+   1,J
+   2,K,G
+  18,L,K,G
+   7,L,U,G
+  29,U,G
+   1,L
+  27,R
+  30,D
+  10,R,Z
+   4,L,J
+   7,L,D,X
+   1,R,K,G
+   4,L,K
+  14,L,K,G
+   7,L,G
+   1,R
+  23,L,D
+  11,L,J
+  11,L,U,X
   38,R
   14,R,X
   40,L
@@ -89,36 +96,36 @@ Read,../StrawberryJamTAS/4_Expert/clockwork.tas,Start,lvl_a-05
   14,L,C
   43
   22,R
-  10,L,J
-   7,L
-  12
-  10,D
+Repeat, 13
+   1,G
    1
-  15,U,X
-   8,L
-  84,L,G
-  20,G
-  46,U,G
-  20,L,G
-  42,U,G
-  51,R,U,G
-  49,U,G
-  18,L,U,G
-  66,U,G
-  11,L,U,G
-  37,U,G
-   9,R,U,G
-  39,U,G
-  10,L,G
-  10,G
-  21,D,G
-  33,U,G
+EndRepeat
+   1,G
+   5,J,G
+   5,L,J
+  14,L,U,X
+  70,L,G
+  74,U,G
+  33,L,U,G
+  78,R,U,G
+  38,L,U,G
+  84,U,G
+  15,L,U,G
+  43,U,G
+  15,R,U,G
+  23,U,G
+  15,L,U,G
+   6,U,G
+  25,D,G
+  13,U,G
+   1,D,G
+  25,U,G
   77
    4,R,Z
    1,R,J
    5,R
   40
-   
+
 #lvl_a-05 (1)
    2,R
    7,R,J
@@ -604,6 +611,9 @@ Read,../StrawberryJamTAS/4_Expert/clockwork.tas,lvl_a-08,lvl_a-09
   15,R,U,X
    2,J,G
    7,R
+# spinner cycle
+   1
+#
    4,R,Z
    2,R,J
    8,R
@@ -614,80 +624,113 @@ Read,../StrawberryJamTAS/4_Expert/clockwork.tas,lvl_a-08,lvl_a-09
   10,R,J
   14,U,X
   11,R,J
-  23,R,D
-  26,L,D
-   2,L
-  10,R,D,X
-  15,R,J
+  23,R
+  15,L
+   6,L,D
+   3,D
+   4
+   1,L
+   3
+  14,L,Z
+   1,R,J
+   5,R,D,X
+   4,R,J,G
+  10,R
+   2
+   7,R
    1,R
-   8,R,J
+   6,R,D,X
+   1,R,J,G
+   3
    8,R
-  13,R,J
-  13,R,K
-  48,R,J
-  42,R
-  17,R,X
-  20,R,C
-  17,R,X
-  20,R,C
-  24,R,X
-   8,L,C
-  77,R
-  11,R,D
-   8,D
-   1,R,D
-  14,R,D,X
-  10,R,J
-  11,R
+  10,R,D,J
+   2,R
+StunPause
+EndStunPause
+   2,R
+   3,R,K,G
+StunPause
+   3,R,K,G
+EndStunPause
+   3,R,K,G
+StunPause
+EndStunPause
+   7,R,K
+StunPause
+EndStunPause
+   5,R,K
+# spinner cycle
+   1
+#
+  15,D,X
+  10,R
+  14,R,Z
+   7,R,J
+   1,R
+   1,R,J
+  10,R
   14,R,D,X
    6,R,J
-   1,R
-   1,R,J
-   8,R
-  14,R,D,X
-  12,R,J
+  11
    6,R
-  15,R,X
-  46,L
-  15,L,X
-   3,L
+   1,R,D
+   1,L,D,J
+   4,R,J
+   3,J
+   2,L
    2
    1,L
-  25,G
-   1,L,J,G
+   1,J,G
    1,L,K,G
-   6,R,K
-  24,R,D
-   2,R
-  15,L,D,X
-  15,L,C
-  15,L,Z
-  32,L,G
-   9,R
-   1,R,J
-   8,R,D,X
-   8,R,J
-  36,R,K
-  17,U,X
-  15,R,J
-  50,R
-   4,R,D
-  31,R
-  15,R,D,X
-   1,J
-   2,R,J
-   7,R,D,X
-   1,L,J,G
-   3,R,J
-  15,R,D
-  12,R,J
-   5,R
+   1,J,G
    4,R,J
-   9,R
-   1,R,J
-  14,L,Z
+   4,R
+   1,L,J,G
+  13,K,G
+  33,L,U,X
+   1,J
+   8,L,J
+  14,L,D
+   6,L
+   4,L,D
+   4,J
+   1,L,K,G
+   4,R,K
+   5,K
+  18,D,X
+  26,L,C
+   1,G
+   1,L,J,G
    1,L,J
-  10,L,D,X
+   1,K
+   8,J,G
+  15,R,D,X
+   4,R,J
+   8,R,X
+  10,R,J
+   5,R
+   2,R,J
+StunPause
+   2,R,J
+   4,R
+EndStunPause
+   1,R
+StunPause
+   6,R
+SkipInput 3 1
+   5,R,Z
+EndStunPause
+  10,R,Z
+  39
+  15,R,D,X
+   3,R,J
+   3,R
+   8,R,D,X
+   1,L,J,G
+   1,R,J
+  15,R
+  23,R,J
+  19
   77
    6,L,Z
    1,L,J
@@ -695,8 +738,8 @@ Read,../StrawberryJamTAS/4_Expert/clockwork.tas,lvl_a-08,lvl_a-09
    1,L,J
   14,L,D,X
    1,L,J
-   5,L
-   2
+   3,L
+   4
   15,R,D,X
    1,R,D
   11,L,D
@@ -710,4 +753,4 @@ Read,../StrawberryJamTAS/4_Expert/clockwork.tas,lvl_a-08,lvl_a-09
    1,R,J
   57,R
 
-ChapterTime: 4:16.853(15109)
+ChapterTime: 4:12.229(14837)

@@ -1,4 +1,4 @@
-RecordCount: 9634
+RecordCount: 9635
 console load StrawberryJam2021/2-Intermediate/Ezel
    1
 
@@ -880,12 +880,12 @@ Read,../StrawberryJamTAS/2_Intermediate/eat_girl.tas,lvl_A-06,lvl_A-07
    6,L,Z
    1,R,J
    4,R
-   4,R,J
-   8,R,U,X
+   7,R,D,J
+   5,R,D,X
    1,R,J,G
   40
 
 #lvl_A-08
 Read,../StrawberryJamTAS/2_Intermediate/eat_girl.tas,lvl_A-08
 
-ChapterTime: 2:10.917(7701)
+ChapterTime: 2:10.373(7669)

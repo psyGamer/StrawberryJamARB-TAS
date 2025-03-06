@@ -1,4 +1,4 @@
-RecordCount: 585
+RecordCount: 587
 
 console load StrawberryJam2021/1-Beginner/voliver9
    1
@@ -7,8 +7,7 @@ console load StrawberryJam2021/1-Beginner/voliver9
 Read,../StrawberryJamTAS/1_Beginner/coresaken_city,Start,lvl_a-05
 
 #lvl_a-05
-   5,R,K,G
-   6,K,G
+  11,R,K,G
   15,R,U,X
   10,R,G
    6,R,J,G
@@ -395,4 +394,4 @@ endrepeat
    5,L,U,X
  134
 
-ChapterTime: 0:57.562(3386)
+ChapterTime: 0:57.409(3377)

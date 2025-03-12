@@ -1,4 +1,4 @@
-RecordCount: 1307
+RecordCount: 1343
 
 console load StrawberryJam2021/1-Beginner/joltik
    1
@@ -48,24 +48,19 @@ Read,../StrawberryJamTAS/1_Beginner/midnight_spire,Start,lvl_a_01
    1,R,K,G
    1,R,J,G
    6,R,K,G
-  15,R,D,X
-   2,R
+  16,R,D,X
 #any%-end
-   1,R,J
    6,R,Z
-   1,R,J
-   7,R
-   2,R,J
-  15,R,D,X
-  38,D
-  27,L,D
-   5,L
+   3,R,J
+  11,R,D
+  50,L,D
+   5,D
    1,L,D
-   1,L
-   1,J
-  13,R,J
+  15,D
+   2,R,D
   15,U,X
-  10
+   2
+   8,R
   15,D,X
   10
   20,J
@@ -78,8 +73,8 @@ Read,../StrawberryJamTAS/1_Beginner/midnight_spire,Start,lvl_a_01
   15,U,X
   10
   21
-
-  18,L,J
+  16,L,J
+   2,J
   40
 
 #lvl_a_02
@@ -443,7 +438,6 @@ EndRepeat
   15
   10,L,X
   14,R,J
-
    2,R,J
    2,J
   15,U,X
@@ -488,4 +482,4 @@ EndRepeat
 #lvl_a_07 (1)
 Read,../StrawberryJamTAS/1_Beginner/midnight_spire,lvl_a_07
 
-ChapterTime: 1:14.324(4372)
+ChapterTime: 1:13.933(4349)

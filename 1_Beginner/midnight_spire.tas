@@ -1,4 +1,4 @@
-RecordCount: 1023
+RecordCount: 1307
 
 console load StrawberryJam2021/1-Beginner/joltik
    1
@@ -58,22 +58,27 @@ Read,../StrawberryJamTAS/1_Beginner/midnight_spire,Start,lvl_a_01
    2,R,J
   15,R,D,X
   38,D
-  34,L,D
-   6,L
-  16
-  16,R,J
-  15,D,X
-  11
-   8,J
-  12,L,J
-  15,D,X
-  14
-  20,J
-  11,K,G
+  27,L,D
+   5,L
+   1,L,D
+   1,L
+   1,J
+  13,R,J
   15,U,X
   10
-  18
-   3,L
+  15,D,X
+  10
+  20,J
+  15,D,X
+   5
+  15,D,X
+  20,J
+   3,L,K,G
+   3,K
+  15,U,X
+  10
+  21
+
   18,L,J
   40
 
@@ -149,44 +154,48 @@ Read,../StrawberryJamTAS/1_Beginner/midnight_spire,lvl_a_02,lvl_a_03
    1,L,J
    2
   15,L,D,X
-   3
+   1
+   1,D
+   1
    5,L,Z
    4,L,J,G
    2
    1,R
    5
-  14,L,D
+  13,L
+   1,L,D
    4,L,Z
    1,L,J
-   7,L
-   5,L,J
-  11,U,X
+   6,L
+   6,L,J
+  10,U,X
   15,L,C
    6,L,X
-  15,L,D,C
-   3,D
-  10,R,X
-   4,R,J
-   1,R,K,G
-   4,L,K
-   7,R,K
-   1,R,J,G
-   4,R,K,G
-  15,R,X
-   2,R
-  15,D,X
+  15,D,C
+  12,L,X
+   3,R,J
+  12,R,U,X
+   3,J,G
+   1
+   1
+  20,R,D
+   1,D
    1,R,D
-   9,R,Z
-   1,R,J
-   7,R
-   5,R,J
+   2,D
+   2,R,D
+  11,R,X
+   9,R,J
+
   13,U,X
-  19,R,J
+  13,R,J
+   6,R
    1,R,K,G
-   1,R,J,G
-  10,R
-   1,R,D,J
-   5,J
+   3,R,J,G
+   2,R
+   1,R,J
+   4,R
+   1,L,D,J
+   5,R,J
    1,L,K,G
    8,L,J,G
    1,R,K
@@ -285,11 +294,9 @@ Read,../StrawberryJamTAS/1_Beginner/midnight_spire,lvl_a_02,lvl_a_03
    4,L,J
    1,K
    7
-   2,L,J
-   7,L,X
-   2,L,J,G
-   1,J
-   6,L,J
+   4,L,X
+   3,L,J
+   8,L,K,G
   12,L,X
    6
   15,L,D,X
@@ -298,44 +305,40 @@ Read,../StrawberryJamTAS/1_Beginner/midnight_spire,lvl_a_02,lvl_a_03
   16,L,X
    1,L,J
    1,L
-  10,L,D,X
-   6,L,J
-  10,L,X
-   9
-   1,R
-  11,D,X
-   1,J,G
-  13
-   1,G
-Repeat 14
-   1
-   1,G
-EndRepeat
-   2,J,G
-  15,R,U,Z
-   8,U,X
-  12,R
-   9,J
-  15,L,X
-  15,L,C
-  28,D
-   1,L,D
-   1,D
-   5,R,D
-   6,R
-   4,R,Z
-  11,R,J
+   7,L,D,X
+   9,L,J
+  10,L,Z
+   3
+   5,R
+  11,R,D,X
+   1,L
+   1,K,G
+   3
+   2,R
+   1,K
+   2,R
+   2
+   4,L
+   8,L,J
+  14,U,X
+   7,R
+   1,J
+   8
+  10,R,X
+   1,L,J
+   1,J
+   4,L,J
+   9,L,K,G
+   4,L
+  34,R,D
+  13,R,C
   15,R,X
   10,R,D,C
    5,R,J
-  11,R,X
-  15,R,C
-  11,R,D,X
-   1,R,J
-   5,J
-  15,U,Z
-   1,L
-   8,L,J
+  11,R,Z
+  19,R,C
+  15,U,X
+   6,R
   15,L,U,X
   14,L,C
    3,L,J
@@ -345,30 +348,7 @@ EndRepeat
   43
 
 #lvl_a_05
-Read,../StrawberryJamTAS/1_Beginner/midnight_spire,lvl_a_05,spinner cycle
-#Spinner cycle
-   1
-#/
-#any%-start
-  15,U,X
-   8,R,C
-   5,R,J
-   6
-  14,U,Z
-  13,J
-  11
-   2
-  10,R
-   1
-   1,R
-   1,D
-  15,D,X
-   6,R,J
-  14,J
-   1,K
-  11,L,K
-  14,U,X
-  43
+Read,../StrawberryJamTAS/1_Beginner/midnight_spire,lvl_a_05,lvl_a_06
 
 #lvl_a_06 (0)
   10,L
@@ -431,43 +411,45 @@ EndRepeat
    1,R,J
    9,R
    1
-  18
-   6,L
-  10,R,X
+  10,R
+   1,J
+  11,R,J
+  14,R,U,X
+   7,R,J,G
+  15,R,X
+  13,D,C
+  11,R
+  15,R,D,X
+   5,R,D
+  11,D,C
+  15,R,X
+  15,R,C
+  11,R
+  13
+   2,L,J
    7,R,J
-   1,R
-StunPause
-   1,R
-   2,K,G
-   3,L,K
-   2,L
-SkipInput,3,1
-  14,U,X
-EndStunPause
-   5,K
-   9,R
-   1,R,J
-   1,L,J
-   1,L
-   8,L,J
-  16,U,X
-   4,J
-  17,R
-#any%-end
-   9,R,J,G
-   9,R,X
-   1,R,J,G
-   9,R
-   1,R,J
-  14,R,D,X
-   3,R,J
-  10,R,D,X
-   1,R,J
-   1,R,K,G
-   9,R
-   3,R,D,J
+   1,K
+   1,R,K
+  11,K
+   1,R,K
+   1,K
+   1,R,K
+   1,K
+   3,R,K
+   1,L,K
+   2,J,G
+   2
+  15,U,X
+  15
+  10,L,X
+  14,R,J
+
+   2,R,J
    2,J
-   8,U,X
+  15,U,X
+   1,R
+  26,L,J
+   6,L,K,G
   43
 
 #lvl_a_07 (0)
@@ -480,10 +462,11 @@ EndStunPause
 #lvl_a_06 (1)
 # Maybe collect the berries and retry?
    6,D
-  17,L,D
-  13,L,X
-  15,D,C
-   8,D
+  10,L,D
+  15,L,D,X
+   1,L
+   6,L,D
+  14,D
   15,L,X
   15,U,C
    4,R
@@ -491,10 +474,10 @@ EndStunPause
   15,L,D,X
   11,L,C
   15,L,X
-  22,L
-  12
-   5,J
+  11,L
+  15,L,J
   14,U,X
+   3,L,J
   17,R
    3,R,J,G
   14,R,U,X
@@ -505,4 +488,4 @@ EndStunPause
 #lvl_a_07 (1)
 Read,../StrawberryJamTAS/1_Beginner/midnight_spire,lvl_a_07
 
-ChapterTime: 1:16.109(4477)
+ChapterTime: 1:14.324(4372)

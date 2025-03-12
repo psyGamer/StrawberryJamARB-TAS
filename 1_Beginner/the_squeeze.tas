@@ -1,4 +1,4 @@
-RecordCount: 751
+RecordCount: 762
 
 console load StrawberryJam2021/1-Beginner/snas
    1
@@ -60,13 +60,12 @@ Read,../StrawberryJamTAS/1_Beginner/the_squeeze,Start,lvl_3
   10,L,K,G
    1,L
    4,J
-  46,R,D
-   8,R,Z
+  31,R,D
+  21,L,D
+   4,D,X
    1,L,J
    6,L
-   2,L,J
-  15,L,D,X
-  12,L,J
+  11,L,J
    1,K,G
    1,R,K
   10,L,K
@@ -77,9 +76,9 @@ Read,../StrawberryJamTAS/1_Beginner/the_squeeze,Start,lvl_3
   17,L
    1,L,J,G
    4,L,K,G
-   5,L
-   1,L,J
-  11,L
+   6,L
+   2,L,J
+   9,L
   30,L,J
   31,L,U,X
    1,L,G
@@ -103,7 +102,6 @@ Read,../StrawberryJamTAS/1_Beginner/the_squeeze,Start,lvl_3
   40
 
 #lvl_4
-
    1,R,J
    7,R
    2,R,J
@@ -262,4 +260,4 @@ Read,../StrawberryJamTAS/1_Beginner/the_squeeze,Start,lvl_3
 #lvl_6
 Read,../StrawberryJamTAS/1_Beginner/the_squeeze,lvl_6
 
-ChapterTime: 0:37.553(2209)
+ChapterTime: 0:37.332(2196)

@@ -1,4 +1,4 @@
-RecordCount: 17163
+RecordCount: 17237
 
 console load StrawberryJam2021/3-Advanced/Worldwaker2
    1
@@ -529,23 +529,27 @@ Read,../StrawberryJamTAS/3_Advanced/raindrops_on_roses,lvl_3,lvl_2 (1)
   10,L,X
   16,J
   15,J,G
-   6,G
-  17,L,G
+   5,G
+  11,L,G
+   5,G
+   1,L,G
+   1,G
    1,K,G
    1,R,K,G
-   3,R,J,G
-   1,R,K,G
-  48,R,U,J,G
+   1,L,K,G
+   1,J,G
+   1,R,J,G
+   1,L,J,G
+   2,K,G
+  46,R,U,K,G
    1,R
   15,U,X
-  19,R,G
-  11,L,G
-   6,L
-   1,L,K,G
-   7,L
+  18,R,G
+  10,L,G
+  11,L
   10,L,Z
    1,L,J
-  40,L,J,G
+  39,L,J,G
   12,U,X,G
   22,R,J,G
    3,J,G
@@ -1306,4 +1310,4 @@ EndStunPause
    1,L,Z
   13,L,J
 
-ChapterTime: 3:13.324(11372)
+ChapterTime: 3:13.222(11366)

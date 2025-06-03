@@ -1,4 +1,4 @@
-RecordCount: 17237
+RecordCount: 17304
 
 console load StrawberryJam2021/3-Advanced/Worldwaker2
    1
@@ -533,7 +533,6 @@ Read,../StrawberryJamTAS/3_Advanced/raindrops_on_roses,lvl_3,lvl_2 (1)
   11,L,G
    5,G
    1,L,G
-   1,G
    1,K,G
    1,R,K,G
    1,L,K,G
@@ -549,7 +548,7 @@ Read,../StrawberryJamTAS/3_Advanced/raindrops_on_roses,lvl_3,lvl_2 (1)
   11,L
   10,L,Z
    1,L,J
-  39,L,J,G
+  38,L,J,G
   12,U,X,G
   22,R,J,G
    3,J,G
@@ -586,22 +585,12 @@ Read,../StrawberryJamTAS/3_Advanced/raindrops_on_roses,lvl_3,lvl_2 (1)
   17,L,G
    1,L,K,G
   21,L,D,G
-
-## +0f, keeps umbrella active into next room
-#   36,L,U,G
-#   10,U,X,G
-#   22,R,J,G
-#   10,K,G
-#    1,J,G
-#   40,G
-##
-
-  33,L,U,G
-   1,L
-   9,U,X
-  19,R,J
-  12,K,G
-   5,J,G
+  35,L,U,G
+  10,U,X,G
+  22,R,J,G
+   9,K,G
+   1,K
+   1,J,G
   40,G
 
 #lvl_6 (1)
@@ -685,18 +674,15 @@ Read,../StrawberryJamTAS/3_Advanced/raindrops_on_roses,lvl_3,lvl_2 (1)
    3,R
    4
    4,L,X
-   2,L,J,G
-  23,L,J,G
+  25,L,J,G
    1,L,J
   15,U,X
    5,G
   28,L,G
    2,K,G
-   2
-   4
+   6
    1,R
-   1,R,J
-   4,R,J
+   5,R,J
   15,U,X
    1
   10,L,J
@@ -1043,19 +1029,17 @@ EndStunPause
   18,L,D
    7,L
    6,R
-   5,R,D
-   1,L,K
-   1,J,G
+   4,R,D
    7,R,J
-   3,R
   10,L,D,X
-  13,R,J
-  59,R,U,J,G
-   2,L,J,G
+  11,R,J
+   3,R
+  60,R,U,J,G
+   1,L,U,J,G
    2,K,G
    1,R,K,G
    4,L,K,G
-   9,J,G
+   7,J,G
    1,R,J
    1,L,K,G
   13,L,K
@@ -1191,7 +1175,7 @@ EndStunPause
    6,K
    7,L
 #spinner cycle
-   0
+   1
 ##
   14,L,Z
    1,R,J
@@ -1310,4 +1294,4 @@ EndStunPause
    1,L,Z
   13,L,J
 
-ChapterTime: 3:13.222(11366)
+ChapterTime: 3:13.069(11357)

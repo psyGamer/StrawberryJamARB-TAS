@@ -1,4 +1,4 @@
-RecordCount: 552
+RecordCount: 560
 
 console load StrawberryJam2021/5-Grandmaster/tofu
    1
@@ -7,6 +7,7 @@ console load StrawberryJam2021/5-Grandmaster/tofu
 Read, ../StrawberryJamTAS/5_Grandmaster/nelumbo, Start, lvl_Rat Run
 
 #lvl_Rat Run
+   1,R
    1,R,J
   11,U,X
   11,R,J
@@ -131,34 +132,47 @@ Read, ../StrawberryJamTAS/5_Grandmaster/nelumbo, Start, lvl_Rat Run
    8,L,D
   15,D,X
    9,D
+#Spinner cycle [Zigzag]
+   1
+#
   15,L,U,X
    3,R,J
   18,R,D,X
   15,D,C
-  10,R,X
-   5,L,J
-  18,L,U,X
-  18,D,C
-  10,L,X
-   1,R,K
-   2,R
-  13,R,D,J,X
-  14,R,U,J,G
-   3,R,K
-   6,R,D,X
-  13,R,G
-   1,R,D
-  10,R,D,X
-  13,R,D,G
+   6,R,X
+   1,J
+   1,K
+   1,J
+   3,L,J
+   8,L
+  18,D,X
+   7,R,Z
+   1,L,J
+   9,L,D,X
    1,R,J
-   6,R,U,X
+   5,R,D,X
+   1,R,J,G
+   4,R
+   1,R,J
+   5,R
+   1
+   1,R,D,J
+   5,R,D,X
+  18,R,J,G
+  10,R,D,X
   13,R,G
-   2,R,J
+   1,R,J,G
    5,R,U,X
-  42,R,U,J,G
+  13,R,G
+   1,R,J,G
+   9,R,G
+StunPause
+   2,R,G
+EndStunPause
+  11,R,G
   40
 
 #lvl_Lotus
 Read, ../StrawberryJamTAS/5_Grandmaster/nelumbo, lvl_Lotus
 
-ChapterTime: 0:59.143(3479)
+ChapterTime: 0:50.745(2985)

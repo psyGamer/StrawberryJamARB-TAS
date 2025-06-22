@@ -1,4 +1,4 @@
-RecordCount: 15629
+RecordCount: 15631
 
 console load StrawberryJam2021/5-Grandmaster/xlibiza
    1
@@ -37,7 +37,7 @@ Read,../StrawberryJamTAS/5_Grandmaster/drifting_deep.tas,Start,lvl_a-02
    2,R,J
 #any%-end
 #spinner cycle
-   2
+   0
 #
   39,R,X
    1,J,G
@@ -996,4 +996,4 @@ Read,../StrawberryJamTAS/5_Grandmaster/drifting_deep.tas,lvl_a-09
 
 AnalogMode Ignore
 
-ChapterTime: 4:03.780(14340)
+ChapterTime: 4:03.219(14307)

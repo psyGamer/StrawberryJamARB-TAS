@@ -1,11 +1,11 @@
-RecordCount: 2362
+RecordCount: 2363
 
 console load StrawberryJam2021/4-Expert/Banana23
    1
 
 #Start
 #lvl_a-01
-Read,../StrawberryJamTAS/4_Expert/the_core_problem.tas, Start, lvl_a-03
+Read,../StrawberryJamTAS/4_Expert/the_core_problem,Start,lvl_a-03
 
 #lvl_a-03
    1,R,J
@@ -438,7 +438,7 @@ SaveAndQuitReenter
 
 #lvl_a-07
 #any%-start
-Read,../StrawberryJamTAS/4_Expert/the_core_problem.tas, lvl_a-07, lvl_a-09
+Read,../StrawberryJamTAS/4_Expert/the_core_problem,lvl_a-07,lvl_a-09
 
 #lvl_a-09 (0)
 #any%-start
@@ -468,7 +468,7 @@ Read,../StrawberryJamTAS/4_Expert/the_core_problem.tas, lvl_a-07, lvl_a-09
    7,L,J,G
    7,L
 #Spinner Cycle [a-09]
-   2
+   0
 #####
   18,L,X
   15,U,C
@@ -737,6 +737,6 @@ EndStunPause
   40
 
 #lvl_a-11
-Read,../StrawberryJamTAS/4_Expert/the_core_problem.tas, lvl_a-11
+Read,../StrawberryJamTAS/4_Expert/the_core_problem,lvl_a-11
 
-ChapterTime: 2:15.473(7969)
+ChapterTime: 2:15.422(7966)

@@ -1,4 +1,4 @@
-RecordCount: 2141
+RecordCount: 2142
 
 console load StrawberryJam2021/5-Grandmaster/maya
    1
@@ -7,7 +7,7 @@ console load StrawberryJam2021/5-Grandmaster/maya
  190
 
 #Spinner Cycle [Delta]
-   0
+   1
 
 #lvl_Insert Coin
 Read, ../StrawberryJamTAS/5_Grandmaster/pinball_purgatory, lvl_Insert Coin, lvl_Pursuit
@@ -187,7 +187,7 @@ Read, ../StrawberryJamTAS/5_Grandmaster/pinball_purgatory, lvl_Insert Coin, lvl_
   40
 
 #lvl_Delta
-Read, ../StrawberryJamTAS/5_Grandmaster/pinball_purgatory,lvl_Delta, lvl_Symbiosis
+Read, ../StrawberryJamTAS/5_Grandmaster/pinball_purgatory, lvl_Delta, lvl_Symbiosis
 
 #lvl_Symbiosis (0)
    2,R,D,X
@@ -715,7 +715,7 @@ endRepeat
 #a little to the left so madeline
 #lands on ledge with spinners,
 #and can jump off it, and hit
-#bumper 
+#bumper
 #   2,L,D
 #   4,D
    2,L,D

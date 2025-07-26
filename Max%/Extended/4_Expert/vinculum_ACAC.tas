@@ -48,7 +48,7 @@ Read,../../../4_Expert/vinculum,Start,lvl_berry1
    5,L,D,X
   40
 
-#lvl_a-01 (1)
+#lvl_a-01 (2)
    9,L,D,X
   13,L,G
    1,R,G
@@ -102,12 +102,12 @@ Read,../../../4_Expert/vinculum,Start,lvl_berry1
 #any%-start
 Read,../../../StrawberryJamTAS/4_Expert/vinculum,lvl_a-02,lvl_a-03
 
-#lvl_a-03
+#lvl_a-03 (0)
 #any%-end
 #ARB-Start
 Read,../../../4_Expert/vinculum,lvl_a-03 (0),lvl_a-10 (1)
 
-#lvl_a-10
+#lvl_a-10 (1)
   10,R,D,X
   15,D,C
    9,R,D

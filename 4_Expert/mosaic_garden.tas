@@ -4,7 +4,7 @@ console load StrawberryJam2021/4-Expert/Scroogle
    1
 
 #Start
-Read, ../StrawberryJamTAS/4_Expert/mosaic_garden, Start, lvl_a-01
+Read,../StrawberryJamTAS/4_Expert/mosaic_garden,Start,lvl_a-01
 
 #lvl_a-01 (0)
    5,R
@@ -117,9 +117,9 @@ Read, ../StrawberryJamTAS/4_Expert/mosaic_garden, Start, lvl_a-01
 # Despair
    1,L,J
   43
-   
+
 #lvl_a-02
-Read, ../StrawberryJamTAS/4_Expert/mosaic_garden, lvl_a-02, lvl_a-03
+Read,../StrawberryJamTAS/4_Expert/mosaic_garden,lvl_a-02,lvl_a-03
 
 #lvl_a-03
    3,R
@@ -230,7 +230,7 @@ Read, ../StrawberryJamTAS/4_Expert/mosaic_garden, lvl_a-02, lvl_a-03
   12,U,X
    8,L,J
   40
-#lvl_outro 
+#lvl_outro
    1,J
    9
    1,J

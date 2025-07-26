@@ -4,7 +4,7 @@ console load StrawberryJam2021/3-Advanced/RadleyMcTuneston
    1
 
 #Start
-Read, ../StrawberryJamTAS/3_Advanced/the_lab, Start, lvl_evade-02-TiltTheStars
+Read,../StrawberryJamTAS/3_Advanced/the_lab,Start,lvl_evade-02-TiltTheStars
 
 #lvl_evade-02-TiltTheStars (0)
    1,L
@@ -120,8 +120,8 @@ Read, ../StrawberryJamTAS/3_Advanced/the_lab, Start, lvl_evade-02-TiltTheStars
    6,L,U,Z
   40
 
-#lvl_start-01-Radley
-Read, ../StrawberryJamTAS/3_Advanced/the_lab, lvl_start-01-Radley (1), lvl_move-02-Worldwaker2
+#lvl_start-01-Radley (1)
+Read,../StrawberryJamTAS/3_Advanced/the_lab,lvl_start-01-Radley (1),lvl_move-02-Worldwaker2
 
 #lvl_move-02-Worldwaker2 (0)
    4,R
@@ -315,14 +315,14 @@ Read, ../StrawberryJamTAS/3_Advanced/the_lab, lvl_start-01-Radley (1), lvl_move-
    5,L,J
   40
 
-#lvl_start-04-Radley
+#lvl_start-04-Radley (1)
    6,L,J
   18,U,Z
    6,L,J,G
    7
    4,Z
 
-#lvl_hub (0)
+#lvl_hub (2)
    4,R,J
    2
    1,R
@@ -342,7 +342,7 @@ Read, ../StrawberryJamTAS/3_Advanced/the_lab, lvl_start-01-Radley (1), lvl_move-
   11,R,D,X
 
 #lvl_cross-01-Worldwaker2
-Read, ../StrawberryJamTAS/3_Advanced/the_lab, lvl_cross-01-Worldwaker2, lvl_cross-02-TiltTheStars
+Read,../StrawberryJamTAS/3_Advanced/the_lab,lvl_cross-01-Worldwaker2,lvl_cross-02-TiltTheStars
 
 #lvl_cross-02-TiltTheStars
    9,R,D,X
@@ -471,11 +471,11 @@ Read, ../StrawberryJamTAS/3_Advanced/the_lab, lvl_cross-01-Worldwaker2, lvl_cros
    7,R,D,X
   40
 
-#lvl_start-02-Radley
+#lvl_start-02-Radley (1)
    7,R,D,X
    9,R,J
 
-#lvl_hub (1)
+#lvl_hub (3)
    2,R,J
    6,R
    1,R,J
@@ -506,6 +506,6 @@ Read, ../StrawberryJamTAS/3_Advanced/the_lab, lvl_cross-01-Worldwaker2, lvl_cros
    8,R,J
 
 #lvl_escape-01-Worldwaker2
-Read, ../StrawberryJamTAS/3_Advanced/the_lab, lvl_escape-01-Worldwaker2
+Read,../StrawberryJamTAS/3_Advanced/the_lab,lvl_escape-01-Worldwaker2
 
 ChapterTime: 2:09.098(7594)

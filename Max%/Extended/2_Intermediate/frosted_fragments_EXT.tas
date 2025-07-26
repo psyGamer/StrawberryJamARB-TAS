@@ -8,7 +8,7 @@ console load StrawberryJam2021/2-Intermediate/Dooshii
 Read,frosted_fragments_ACAC.tas,Start,lvl_a2v2
 
 #lvl_a2v2
-Read, ../../../StrawberryJamTAS/2_Intermediate/frosted_fragments.tas, lvl_a2v2,lvl_a3v2
+Read,../../../StrawberryJamTAS/2_Intermediate/frosted_fragments.tas,"lvl_a2v2,lvl_a3v2"
 
 #lvl_a3v2
    1
@@ -112,7 +112,7 @@ Read, ../../../StrawberryJamTAS/2_Intermediate/frosted_fragments.tas, lvl_a2v2,l
   40,J
 
 #lvl_a4v2
-Read, ../../../StrawberryJamTAS/2_Intermediate/frosted_fragments.tas, lvl_a4v2 (0),lvl_a6v2
+Read,../../../StrawberryJamTAS/2_Intermediate/frosted_fragments.tas,"lvl_a4v2 (0),lvl_a6v2"
 
 #lvl_a6v2 (0)
 Read,frosted_fragments_ACAC.tas,lvl_a6v2 (0),lvl_a6v2 (1)
@@ -184,7 +184,7 @@ Read,frosted_fragments_ACAC.tas,lvl_a6v2 (0),lvl_a6v2 (1)
   40
 
 #lvl_r_00v2
-Read, ../../../2_Intermediate/frosted_fragments.tas,lvl_r_00v2,lvl_a_10v2 (0)
+Read,"../../../2_Intermediate/frosted_fragments.tas,lvl_r_00v2,lvl_a_10v2 (0)"
 
 #lvl_a_10v2
    1,R,J
@@ -260,7 +260,7 @@ StunPause
    2
    1,R,D
    1
-SkipInput 3 1
+SkipInput,3,1
    4,L,Z
    1,L,J
    6,L
@@ -295,6 +295,6 @@ EndStunPause
   40
 
 #lvl_r_01v2
-Read, ../../../2_Intermediate/frosted_fragments.tas,lvl_r_01v2
+Read,"../../../2_Intermediate/frosted_fragments.tas,lvl_r_01v2"
 
 ChapterTime: 2:20.862(8286)

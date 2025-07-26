@@ -217,11 +217,11 @@ Read,../StrawberryJamTAS/4_Expert/madeline_the_bubble,lvl_Vina-01,lvl_Vina-04
    1,D,G
    1,U,G
    1,D,G
-repeat 18
+Repeat,18
    1,U,G
    2,D,G
    1,U,G
-endrepeat
+EndRepeat
    1,D,G
    1,U,G
    1,D,G

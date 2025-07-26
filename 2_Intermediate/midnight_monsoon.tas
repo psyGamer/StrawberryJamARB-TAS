@@ -4,7 +4,7 @@ console load StrawberryJam2021/2-Intermediate/Luma
    1
 
 #Start
-read,../StrawberryJamTAS/2_Intermediate/midnight_monsoon,Start,lvl_2
+Read,../StrawberryJamTAS/2_Intermediate/midnight_monsoon,Start,lvl_2
 
 #lvl_2 (0)
    1,J
@@ -201,7 +201,7 @@ read,../StrawberryJamTAS/2_Intermediate/midnight_monsoon,Start,lvl_2
   40
 
 #lvl_3
-read,../StrawberryJamTAS/2_Intermediate/midnight_monsoon,lvl_3,spinner cycle
+Read,../StrawberryJamTAS/2_Intermediate/midnight_monsoon,lvl_3,spinner cycle
 #spinner cycle
    2
 ##
@@ -220,13 +220,13 @@ read,../StrawberryJamTAS/2_Intermediate/midnight_monsoon,lvl_3,spinner cycle
   22,R,D
 StunPause
    9,R
-SkipInput 3 1
+SkipInput,3,1
   15,R,Z
    3,R
-SkipInput 3 1
+SkipInput,3,1
    9,L,D,X
    2,R,J
-ENdStunPause
+EndStunPause
   38,R,J
    1,R,J,G
    1,R,J
@@ -252,7 +252,7 @@ ENdStunPause
   40
 
 #lvl_4
-read,../StrawberryJamTAS/2_Intermediate/midnight_monsoon,lvl_4,lvl_5
+Read,../StrawberryJamTAS/2_Intermediate/midnight_monsoon,lvl_4,lvl_5
 
 #lvl_5 (0)
   12,R,J
@@ -385,7 +385,7 @@ read,../StrawberryJamTAS/2_Intermediate/midnight_monsoon,lvl_4,lvl_5
 #lvl_6
    1,R
 #any%-start
-read,../StrawberryJamTAS/2_Intermediate/midnight_monsoon,lvl_6,lvl_outro
+Read,../StrawberryJamTAS/2_Intermediate/midnight_monsoon,lvl_6,lvl_outro
 
 #lvl_outro (0)
    3,R

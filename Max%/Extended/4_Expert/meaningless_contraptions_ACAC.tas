@@ -151,7 +151,7 @@ Read,../../../StrawberryJamTAS/4_Expert/meaningless_contraptions.tas,Start,lvl_a
    1,L,K,G
    4,R
 StunPause
-SkipInput 3 1
+SkipInput,3,1
    6,R,D,X
 EndStunPause
    5,R,D,X

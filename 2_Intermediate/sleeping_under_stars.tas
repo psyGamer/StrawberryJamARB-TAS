@@ -6,8 +6,8 @@ console load StrawberryJam2021/2-Intermediate/Arphimigon
 #Start
  100
 
-#lvl_a_01
-read,../StrawberryJamTAS/2_Intermediate/sleeping_under_stars,lvl_a_01 (0),lvl_b_02
+#lvl_a_01 (0)
+Read,../StrawberryJamTAS/2_Intermediate/sleeping_under_stars,lvl_a_01 (0),lvl_b_02
 
 #lvl_b_02 (0)
    5,J
@@ -147,6 +147,6 @@ read,../StrawberryJamTAS/2_Intermediate/sleeping_under_stars,lvl_a_01 (0),lvl_b_
   40
 
 #lvl_b_04
-read,../StrawberryJamTAS/2_Intermediate/sleeping_under_stars,lvl_b_04
+Read,../StrawberryJamTAS/2_Intermediate/sleeping_under_stars,lvl_b_04
 
 ChapterTime: 1:56.331(6843)

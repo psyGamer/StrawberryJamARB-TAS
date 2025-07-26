@@ -330,11 +330,11 @@ Read,../../../StrawberryJamTAS/1_Beginner/a_gift_from_the_stars.tas,lvl_Timestop
    6,R,D,X
    1,R,J
    4,R
-stunpause
+StunPause
    4,R
-skipinput 3 1
+SkipInput,3,1
   14,D,X
-endstunpause
+EndStunPause
    2,D
   40
 

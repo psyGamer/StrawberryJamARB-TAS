@@ -6,7 +6,7 @@ console load StrawberryJam2021/4-Expert/pansear
 #Start
 Read,../../../4_Expert/hypnagogia.tas,Start,lvl_b-01 (2)
 
-#lvl_b-01 (0)
+#lvl_b-01
    3,R,D,X
    2,R,J
    9,R

@@ -4,7 +4,7 @@ console load StrawberryJam2021/5-Grandmaster/tofu
    1
 
 #Start
-Read, ../StrawberryJamTAS/5_Grandmaster/nelumbo, Start, lvl_Rat Run
+Read,../StrawberryJamTAS/5_Grandmaster/nelumbo,Start,lvl_Rat Run
 
 #lvl_Rat Run
    1,R
@@ -173,6 +173,6 @@ EndStunPause
   40
 
 #lvl_Lotus
-Read, ../StrawberryJamTAS/5_Grandmaster/nelumbo, lvl_Lotus
+Read,../StrawberryJamTAS/5_Grandmaster/nelumbo,lvl_Lotus
 
 ChapterTime: 0:50.745(2985)

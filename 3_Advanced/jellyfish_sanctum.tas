@@ -4,7 +4,7 @@ console load StrawberryJam2021/3-Advanced/BlueXans
    1
 
 #Start
-Read, ../StrawberryJamTAS/3_Advanced/jellyfish_sanctum, Start, lvl_3
+Read,../StrawberryJamTAS/3_Advanced/jellyfish_sanctum,Start,lvl_3
 
 #lvl_3 (0)
   11,R
@@ -101,6 +101,6 @@ Read, ../StrawberryJamTAS/3_Advanced/jellyfish_sanctum, Start, lvl_3
   40
 
 #lvl_reverseTutorial
-Read, ../StrawberryJamTAS/3_Advanced/jellyfish_sanctum, lvl_reverseTutorial
+Read,../StrawberryJamTAS/3_Advanced/jellyfish_sanctum,lvl_reverseTutorial
 
 ChapterTime: 0:54.468(3204)

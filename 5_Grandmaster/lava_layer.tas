@@ -4,7 +4,7 @@ console load StrawberryJam2021/5-Grandmaster/tobyaaa
    1
 
 #Start
-Read, ../StrawberryJamTAS/5_Grandmaster/lava_layer, Start, lvl_Phil
+Read,../StrawberryJamTAS/5_Grandmaster/lava_layer,Start,lvl_Phil
 
 #lvl_Phil (0)
    2,L,J
@@ -111,7 +111,7 @@ Read, ../StrawberryJamTAS/5_Grandmaster/lava_layer, Start, lvl_Phil
   43
 
 #lvl_Susan
-Repeat 12
+Repeat,12
    1,L
    1,R
 EndRepeat

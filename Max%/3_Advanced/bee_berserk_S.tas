@@ -83,7 +83,7 @@ Read,../../StrawberryJamTAS/3_Advanced/bee_berserk.tas,lvl_intro_v1,lvl_intro_v2
    1,R,D,N
 
 #+38f from optimal
-#wait for favourable cycle  
+#wait for favourable cycle
   10,R,J
   10,J
   41,R,U,Z
@@ -198,10 +198,10 @@ Read,../../StrawberryJamTAS/3_Advanced/bee_berserk.tas,lvl_intro_v1,lvl_intro_v2
    1,L,K
    2,R,K
   12,R,J,G
-repeat 3
+Repeat,3
   11,K,G
   11,J,G
-endrepeat
+EndRepeat
    6,K
   73,R,X
   15,D,C

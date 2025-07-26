@@ -167,9 +167,9 @@ Assert,Equal,StrawberryJam2021/2-Intermediate/thebreadstick1,{Level.Session.Area
   40
 
 #lvl_a-002
-read,../StrawberryJamTAS/2_Intermediate/construction_conundrum,lvl_a-002,lvl_a-008 (1)
+Read,../StrawberryJamTAS/2_Intermediate/construction_conundrum,lvl_a-002,lvl_a-008 (1)
 
-#lvl_a-008 (2)
+#lvl_a-008 (1)
  257
   36
   10,D,X
@@ -190,7 +190,7 @@ read,../StrawberryJamTAS/2_Intermediate/construction_conundrum,lvl_a-002,lvl_a-0
    6,R,D,X
   40
 
-#lvl_a-005
+#lvl_a-005 (3)
    9,R,D,X
    3,R,D,J
   15,R,D,X
@@ -246,7 +246,7 @@ StunPause
   13,L
    5,L,K,G
    2,L
-SkipInput 3 1
+SkipInput,3,1
   12,L,D,X
 EndStunPause
   21,L,D
@@ -286,10 +286,10 @@ EndStunPause
    7,R
    2
    2,L,J,G
-repeat 3
+Repeat,3
    1,R,J
    1,J
-endrepeat
+EndRepeat
   10,K
    5,R,K
    4
@@ -307,9 +307,9 @@ endrepeat
    2,R,K
    5,R
   13,R,D,X
-stunpause
+StunPause
   40,R,D
-endstunpause
+EndStunPause
    2,L
    1
    1,L
@@ -334,6 +334,6 @@ endstunpause
   40
 
 #lvl_a-012
-read,../StrawberryJamTAS/2_Intermediate/construction_conundrum,lvl_a-012
+Read,../StrawberryJamTAS/2_Intermediate/construction_conundrum,lvl_a-012
 
 FileTime: 2:00.156(7068)

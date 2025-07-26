@@ -12,19 +12,19 @@ Read,../StrawberryJamTAS/1_Beginner/dropzle,Start,lvl_03 - Labyrinth
    5,L,X
   20,L
    7
-Repeat 15
+Repeat,15
    1,D
    1
 EndRepeat
    6,D
    1
-Repeat 5
+Repeat,5
    1,D
    1
 EndRepeat
    5,D,X
    1,R
-Repeat 10
+Repeat,10
    2,L
    2,R
 EndRepeat

@@ -7,7 +7,7 @@ console load StrawberryJam2021/1-Beginner/Ceph
 Read,../StrawberryJamTAS/1_Beginner/cassette_cliffs,Start,lvl_4
 
 #lvl_4 (0)
-#fall slower here 
+#fall slower here
 #to resync global cycle
    1
    4,D
@@ -111,7 +111,7 @@ Read,../StrawberryJamTAS/1_Beginner/cassette_cliffs,Start,lvl_4
    8,R,J
   40
 
-#lvl_3
+#lvl_3 (1)
    7,R
   14,R,D,X
    2,R,J

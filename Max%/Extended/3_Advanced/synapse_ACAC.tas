@@ -40,7 +40,7 @@ EndStunPause
    4,R
    4
    1,L,J,G
-Repeat 3
+Repeat,3
    1,R,J
    1,J
 EndRepeat
@@ -256,10 +256,10 @@ EndRepeat
   10,U,C
 StunPause
    1,U
-skipinput 3 2
+SkipInput,3,2
    7,U
    8,R
-skipinput 3 1
+SkipInput,3,1
   15,U,Z
    2,R
    2,L

@@ -124,10 +124,10 @@ Read,../../../3_Advanced/synapse.tas,lvl_b1 (0),lvl_b1 (1)
   11,U,C
 StunPause
    2,U
-skipinput 3
+SkipInput,3
    5,U
    8,R
-skipinput 3 1
+SkipInput,3,1
   15,U,Z
    2,R
    3,L

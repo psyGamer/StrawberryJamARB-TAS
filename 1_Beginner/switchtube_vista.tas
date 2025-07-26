@@ -276,7 +276,7 @@ Read,../StrawberryJamTAS/1_Beginner/switchtube_vista,lvl_a07,lvl_a09_b
    2,L,J
   20,R,J
    1,L,K,G
-Repeat 7
+Repeat,7
    1,R,K
    1,K
 EndRepeat

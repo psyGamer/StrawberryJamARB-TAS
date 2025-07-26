@@ -13,7 +13,7 @@ Read,../../StrawberryJamTAS/1_Beginner/a_gift_from_the_stars,Start,lvl_Waiting R
 #ARB-start
 Read,../../1_Beginner/a_gift_from_the_stars,lvl_Waiting Room (0),lvl_Timestop Intro (1)
 
-#lvl_Timestop Intro
+#lvl_Timestop Intro (1)
 #any%-start
    1,S
    1,D,J

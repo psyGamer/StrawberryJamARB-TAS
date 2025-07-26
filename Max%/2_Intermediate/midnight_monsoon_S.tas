@@ -271,13 +271,13 @@ Read,../../StrawberryJamTAS/2_Intermediate/midnight_monsoon.tas,lvl_2,lvl_3
   22,R,D
 StunPause
    9,R
-SkipInput 3 1
+SkipInput,3,1
   15,R,Z
    3,R
-SkipInput 3 1
+SkipInput,3,1
    9,L,D,X
    2,R,J
-ENdStunPause
+EndStunPause
   38,R,J
    1,R,J,G
    1,R,J

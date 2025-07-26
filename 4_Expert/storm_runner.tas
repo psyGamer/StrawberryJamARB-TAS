@@ -277,7 +277,7 @@ console load StrawberryJam2021/4-Expert/LethargicDoggo
   40
 
 #lvl_a-04
-read,../StrawberryJamTAS/4_Expert/storm_runner,lvl_a-04,lvl_a-07
+Read,../StrawberryJamTAS/4_Expert/storm_runner,lvl_a-04,lvl_a-07
 
 #lvl_a-07
    9,R,J
@@ -336,7 +336,7 @@ read,../StrawberryJamTAS/4_Expert/storm_runner,lvl_a-04,lvl_a-07
 
 #lvl_a-08
 #any%-start
-read,../StrawberryJamTAS/4_Expert/storm_runner,lvl_a-08,lvl_a-09
+Read,../StrawberryJamTAS/4_Expert/storm_runner,lvl_a-08,lvl_a-09
 
 #lvl_a-09 (0)
   11

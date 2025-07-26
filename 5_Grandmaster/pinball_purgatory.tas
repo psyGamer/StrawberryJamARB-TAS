@@ -10,7 +10,7 @@ console load StrawberryJam2021/5-Grandmaster/maya
    1
 
 #lvl_Insert Coin
-Read, ../StrawberryJamTAS/5_Grandmaster/pinball_purgatory, lvl_Insert Coin, lvl_Pursuit
+Read,../StrawberryJamTAS/5_Grandmaster/pinball_purgatory,lvl_Insert Coin,lvl_Pursuit
 
 #lvl_Pursuit
   14,R,U,X
@@ -187,7 +187,7 @@ Read, ../StrawberryJamTAS/5_Grandmaster/pinball_purgatory, lvl_Insert Coin, lvl_
   40
 
 #lvl_Delta
-Read, ../StrawberryJamTAS/5_Grandmaster/pinball_purgatory, lvl_Delta, lvl_Symbiosis
+Read,../StrawberryJamTAS/5_Grandmaster/pinball_purgatory,lvl_Delta,lvl_Symbiosis
 
 #lvl_Symbiosis (0)
    2,R,D,X
@@ -553,10 +553,10 @@ Read, ../StrawberryJamTAS/5_Grandmaster/pinball_purgatory, lvl_Delta, lvl_Symbio
 #any%-end
 #lvl_Recoil (0)
    4,R,D,X
-Repeat 3
+Repeat,3
    1,R,J
   14,R,D,X
-endRepeat
+EndRepeat
 
 #lvl_Extra Ball
    1,R,J

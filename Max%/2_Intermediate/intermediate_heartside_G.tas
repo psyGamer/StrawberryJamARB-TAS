@@ -589,7 +589,7 @@ EndStunPause
 #drift during stun
 StunPause
    1,R,Z
-SkipInput 3 1
+SkipInput,3,1
    4,R,J
    1,R
 EndStunPause
@@ -601,7 +601,7 @@ StunPause
   13,J,G
   11,L,K,G
    4,L,J,G
-SkipInput 3 1
+SkipInput,3,1
    9,U,X
 EndStunPause
    6,U,X
@@ -863,7 +863,7 @@ EndStunPause
 StunPause
    9,R,D,X
    1,J
-EndStunpause
+EndStunPause
    1,R,J
    5,D,X
    6,R,J,G

@@ -5,7 +5,7 @@ Unsafe
 console clrsav
 
 #For Misery in Shattersong
-Set, BounceHelper.JellyfishDash, J, I
+Set,BounceHelper.JellyfishDash,J,I
 
 console load StrawberryJam2021/0-Lobbies/5-Grandmaster
 
@@ -170,7 +170,7 @@ Read,../../StrawberryJamTAS/5_Grandmaster/cycle_madness_b-side,Start
 #checkpoint menu list that
 #only shows on debug mode
 #or after beating the level
-EvalLua Celeste.SaveData.Instance.DebugMode = false
+EvalLua,Celeste.SaveData.Instance.DebugMode,=,false
 
 Read,../../StrawberryJamTAS/5_Grandmaster_Lobby/gm_9-19,Start
 Read,../../StrawberryJamTAS/EnterHeartside,Start

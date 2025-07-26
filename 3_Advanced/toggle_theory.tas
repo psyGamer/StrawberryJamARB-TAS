@@ -10,7 +10,7 @@ console load StrawberryJam2021/3-Advanced/Citrea
    1
 
 #lvl_intro
-Read, ../StrawberryJamTAS/3_Advanced/toggle_theory, lvl_intro, lvl_a-2
+Read,../StrawberryJamTAS/3_Advanced/toggle_theory,lvl_intro,lvl_a-2
 
 #lvl_a-2 (0)
   10,R,Z
@@ -159,7 +159,7 @@ Read, ../StrawberryJamTAS/3_Advanced/toggle_theory, lvl_intro, lvl_a-2
   40
 
 #lvl_a-4
-Read, ../StrawberryJamTAS/3_Advanced/toggle_theory, lvl_a-4, lvl_a-5
+Read,../StrawberryJamTAS/3_Advanced/toggle_theory,lvl_a-4,lvl_a-5
 
 #lvl_a-5 (0)
   10,R,D
@@ -189,9 +189,9 @@ Read, ../StrawberryJamTAS/3_Advanced/toggle_theory, lvl_a-4, lvl_a-5
    1,L,J,G
   40,R,D
 # revert to old strat because of spinner drift
-stunpause
+StunPause
    2,R,D
-endstunpause
+EndStunPause
    7,R,J
   11,R,U,X
   40
@@ -262,9 +262,9 @@ endstunpause
    8
 # The One Stun
 # Famous manga by Eiichiro Oda
-stunpause,input
+StunPause,input
    1
-endstunpause
+EndStunPause
    1
    9,U,X
   15,U,C
@@ -301,6 +301,6 @@ endstunpause
   40
 
 #lvl_epilogue
-Read, ../StrawberryJamTAS/3_Advanced/toggle_theory, lvl_epilogue
+Read,../StrawberryJamTAS/3_Advanced/toggle_theory,lvl_epilogue
 
 ChapterTime: 0:58.310(3430)

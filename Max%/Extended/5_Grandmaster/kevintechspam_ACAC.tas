@@ -32,7 +32,7 @@ Read,../../../StrawberryJamTAS/5_Grandmaster/kevintechspam.tas,lvl_1,lvl_3
    2,R
    2,R,D
    5,U,X
-AnalogMode Square
+AnalogMode,Square
   27,F,4
 AnalogMode,Precise
    7,F,320
@@ -114,7 +114,7 @@ AnalogMode,Precise
 StunPause
    2,R
    3
-SkipInput 3 1
+SkipInput,3,1
   14,R,U,X
   13,R,G
    1,K,G

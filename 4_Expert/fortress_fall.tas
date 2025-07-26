@@ -354,7 +354,7 @@ EndStunPause
   11,D,X
   40
 
-#lvl_05-hub (2)
+#lvl_05-hub (1)
    1,L,D
   21,D
    5,L,D
@@ -486,7 +486,7 @@ EndStunPause
   19,R,D,X
   40
 
-#lvl_05-hub (3)
+#lvl_05-hub (2)
 Read,../StrawberryJamTAS/4_Expert/fortress_fall.tas,lvl_05-hub (1),lvl_08
 
 #lvl_08

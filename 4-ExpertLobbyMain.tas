@@ -194,7 +194,7 @@ Read,4_Expert/mosaic_garden,Start
 #checkpoint menu list that
 #only shows on debug mode
 #or after beating the level
-EvalLua Celeste.SaveData.Instance.DebugMode = false
+EvalLua,Celeste.SaveData.Instance.DebugMode,=,false
 
 Read,StrawberryJamTAS/4_Expert_Lobby/exp_15-30,Start
 Read,StrawberryJamTAS/EnterHeartside,Start

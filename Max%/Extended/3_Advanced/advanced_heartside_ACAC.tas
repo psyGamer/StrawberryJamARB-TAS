@@ -204,7 +204,7 @@ Read,../../../StrawberryJamTAS/3_Advanced/advanced_heartside.tas,lvl_heartside_T
   19,R,D,X
   28,R,D,J
   16,U,Z
-Repeat 9
+Repeat,9
    1,K,G
    1,L,K
    1,R,K
@@ -246,7 +246,7 @@ EndRepeat
    6,R
    2,R,K,G
   15,R,D,X
-Repeat 12
+Repeat,12
    1,D
    1
 EndRepeat

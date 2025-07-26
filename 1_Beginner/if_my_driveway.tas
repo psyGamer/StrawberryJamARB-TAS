@@ -180,9 +180,9 @@ EndStunPause
    2,L,D
 StunPause
    1,L,D
-SkipInput 3 1
+SkipInput,3,1
    8,L,U,Z
-SkipInput 3
+SkipInput,3
    6,L,U,Z
 EndStunPause
    4,L,U,Z
@@ -419,6 +419,6 @@ EndStunPause
   40
 
 #lvl_09- Fin
-Read, ../StrawberryJamTAS/1_Beginner/if_my_driveway, lvl_09- Fin
+Read,../StrawberryJamTAS/1_Beginner/if_my_driveway,lvl_09- Fin
 
 ChapterTime: 0:50.796(2988)

@@ -4,7 +4,7 @@ console load StrawberryJam2021/5-Grandmaster/Hydro
    1
 
 #For Misery
-Set, BounceHelper.JellyfishDash, J, I
+Set,BounceHelper.JellyfishDash,J,I
 
 #Start
  190
@@ -205,7 +205,7 @@ StunPause
   11,R,K
    2,K
   11,L,J
-SkipInput 3 1
+SkipInput,3,1
   14,L,X
    1
 EndStunPause
@@ -481,7 +481,7 @@ EndRepeat
 StunPause
    1,R,K
    1,J
-SkipInput 3 1
+SkipInput,3,1
   11,U,X
    6,R,J
    8,J
@@ -902,12 +902,12 @@ EndRepeat
   14,R,K
    3,R,D
    6,G
-Repeat 3
+Repeat,3
    2,U,G
    1,D,G
 EndRepeat
    1,U,G
-Repeat 19
+Repeat,19
    1
    1,G
 EndRepeat
@@ -924,7 +924,7 @@ EndRepeat
    3,R,K,G
    8,R
   39,R,J
-Repeat 21
+Repeat,21
    1,G
    1
 EndRepeat
@@ -1241,7 +1241,7 @@ EndStunPause
    7,L,Z
    1,R,J
    7
-Repeat 4
+Repeat,4
    6,R,Z
    1,L,J
    7,L
@@ -1270,7 +1270,7 @@ EndRepeat
    1,L,J
 
 #less repeating/waiting
-Repeat 2
+Repeat,2
    5,L,Z
    1,R,J
    1
@@ -1736,7 +1736,7 @@ EndRepeat
    6,R,J,G
 StunPause
    6,R,J
-SkipInput 3 1
+SkipInput,3,1
    6,R,D,X
 EndStunPause
    5,R,D,X

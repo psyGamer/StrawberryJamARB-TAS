@@ -10,7 +10,7 @@ console load StrawberryJam2021/4-Expert/Agent
    0
 #####
 
-#lvl_Agent_00 (0)
+#lvl_Agent_00
 Read,a_change_in_direction_ACAC.tas,lvl_Agent_00 (0),lvl_Agent_00a
 
 #lvl_Agent_00a

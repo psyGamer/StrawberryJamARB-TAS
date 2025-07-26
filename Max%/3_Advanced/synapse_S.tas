@@ -75,7 +75,7 @@ Read,../../StrawberryJamTAS/3_Advanced/synapse.tas,lvl_intro_a1,lvl_a1
   15,U,X
    5,R
    1,L,J,G
-Repeat 5
+Repeat,5
    1,R,J
    1,L,J
 EndRepeat
@@ -268,7 +268,7 @@ Read,../../StrawberryJamTAS/3_Advanced/synapse,lvl_a3,lvl_c1
   33,R,Z
   28,R,V
   15,R,D,X
-Repeat 2
+Repeat,2
   14,D,C
    1
 EndRepeat

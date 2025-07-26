@@ -301,10 +301,10 @@ EndRepeat
   12,J
    1,L,K,G
    1,L,J,G
-repeat 5
+Repeat,5
    1,R,J
    1,J
-endrepeat
+EndRepeat
   11,R,K
   16,U,X
    1,K,G

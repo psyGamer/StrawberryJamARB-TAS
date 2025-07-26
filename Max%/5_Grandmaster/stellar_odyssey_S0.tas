@@ -7,12 +7,12 @@ console load StrawberryJam2021/5-Grandmaster/Ecl1psed
 #ARB-start
 Read,../../5_Grandmaster/stellar_odyssey,Start,lvl_a-00-start (1)
 
-#lvl_a-00-start
+#lvl_a-00-start (1)
 #ARB-end
 #any%-start
 Read,../../StrawberryJamTAS/5_Grandmaster/stellar_odyssey,Start,lvl_a-03 (1)
 
-#lvl_a-03
+#lvl_a-03 (1)
    1
   72,O
 #Spinner Cycle [a-04]
@@ -100,7 +100,7 @@ EndStunPause
    5,D
 StunPause
    2,D
-SkipInput 3 1
+SkipInput,3,1
    9,D,X
 EndStunPause
    6,D,X
@@ -137,7 +137,7 @@ EndStunPause
    5,L
   40
 
-#lvl_a-04b
+#lvl_a-04b (0)
 Read,../../5_Grandmaster/stellar_odyssey,lvl_a-04b (0),lvl_a-04 (1)
 
 #lvl_a-04 (1)

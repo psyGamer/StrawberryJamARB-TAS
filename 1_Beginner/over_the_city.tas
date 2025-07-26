@@ -763,7 +763,7 @@ Read,../StrawberryJamTAS/1_Beginner/over_the_city,Start,lvl_02
   40
 #lvl_RouteB-1 (1)
   11,R
-Repeat 8
+Repeat,8
    1,R,J
   14,R
 EndRepeat
@@ -827,7 +827,7 @@ EndRepeat
   14,R
    1,R,J
   17,L
-Repeat 6
+Repeat,6
    1,L,J
   14,L
 EndRepeat

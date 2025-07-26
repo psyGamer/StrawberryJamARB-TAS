@@ -9,7 +9,7 @@ Read,garden_of_khutara_ACAC.tas,Start,lvl_DanTKO_01
 #lvl_DanTKO_01
 Read,../../../StrawberryJamTAS/4_Expert/garden_of_khutara.tas,lvl_DanTKO_01,lvl_DanTKO_06b
 
-#lvl_DanTKO_06b (0)
+#lvl_DanTKO_06b
 Read,../../../4_Expert/garden_of_khutara.tas,lvl_DanTKO_06b (0)
 
 ChapterTime: 2:00.394(7082)

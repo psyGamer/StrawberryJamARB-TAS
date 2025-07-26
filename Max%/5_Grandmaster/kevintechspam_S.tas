@@ -166,7 +166,7 @@ console load StrawberryJam2021/5-Grandmaster/Todd
   11,J,G
    1,L,J
   38,L,U,X
-AnalogMode Precise
+AnalogMode,Precise
    3,F,359.9
    3,F,350
    9,F,300
@@ -283,6 +283,6 @@ AnalogMode Precise
 #lvl_4
 Read,../../StrawberryJamTAS/5_Grandmaster/kevintechspam,lvl_4
 
-AnalogueMode Ignore
+AnalogueMode,Ignore
 
 ChapterTime: 1:34.520(5560)

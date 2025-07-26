@@ -4,7 +4,7 @@ console load StrawberryJam2021/3-Advanced/pugroy
    1
 
 #Start
-Read, ../StrawberryJamTAS/3_Advanced/attack_of_the_clone, Start, lvl_BR-Outro
+Read,../StrawberryJamTAS/3_Advanced/attack_of_the_clone,Start,lvl_BR-Outro
 
 #lvl_BR-Outro (0)
    6,R,J
@@ -58,7 +58,7 @@ Read, ../StrawberryJamTAS/3_Advanced/attack_of_the_clone, Start, lvl_BR-Outro
   24,R
   18,R,D,X
    1,L,K,G
-Repeat 5
+Repeat,5
    1,R,J
    1,R,K
 EndRepeat

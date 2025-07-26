@@ -198,7 +198,7 @@ console load StrawberryJam2021/2-Intermediate/Jems
   12,R,J,G
    2,K,G
   40
- 
+
 #lvl_btd-02c
    1,L
    1,R
@@ -237,7 +237,7 @@ console load StrawberryJam2021/2-Intermediate/Jems
   10,L
   11,D
   40
- 
+
 #lvl_btd-02 (2)
    1,D
   24,R,D
@@ -283,11 +283,11 @@ StunPause
 EndStunPause
    3,R,D,X
   40
- 
+
 #lvl_btd-04
 #any%-start
 Read,../StrawberryJamTAS/2_Intermediate/in_filtration.tas,lvl_btd-04,lvl_btd-05
- 
+
 #lvl_btd-05
    1,L,J,G
    1,L,K,G
@@ -330,7 +330,7 @@ Read,../StrawberryJamTAS/2_Intermediate/in_filtration.tas,lvl_btd-04,lvl_btd-05
    8,D
    8,R,D
   40
- 
+
 #lvl_btd-05a
    9,R,D
    2,R
@@ -402,7 +402,7 @@ Read,../StrawberryJamTAS/2_Intermediate/in_filtration.tas,lvl_btd-04,lvl_btd-05
    5,J
    1,L,J
   40
- 
+
 #lvl_btd-06
    6,L
    1,L,J,G
@@ -454,7 +454,7 @@ Read,../StrawberryJamTAS/2_Intermediate/in_filtration.tas,lvl_btd-04,lvl_btd-05
 
 #lvl_btd-07
 Read,../StrawberryJamTAS/2_Intermediate/in_filtration.tas,lvl_btd-07,lvl_btd-20
- 
+
 #lvl_btd-20 (0)
    9,L,D
    5,L,J
@@ -495,7 +495,7 @@ Read,../StrawberryJamTAS/2_Intermediate/in_filtration.tas,lvl_btd-07,lvl_btd-20
    1,R,J
    7,R
   40
- 
+
 #lvl_btd-20a
    7,R
    1,R,J
@@ -595,7 +595,7 @@ Read,../StrawberryJamTAS/2_Intermediate/in_filtration.tas,lvl_btd-07,lvl_btd-20
   31,L,D
    1,L,J
   40
- 
+
 #lvl_btd-20 (1)
   14,L
    1,L,J
@@ -637,7 +637,7 @@ Read,../StrawberryJamTAS/2_Intermediate/in_filtration.tas,lvl_btd-07,lvl_btd-20
    4,R,J
    2,R
   40
- 
+
 #lvl_btd-21
   27,R
 #any%-start
@@ -693,10 +693,10 @@ Read,../StrawberryJamTAS/2_Intermediate/in_filtration.tas,lvl_btd-07,lvl_btd-20
   15,R,D
    6,R
   40
- 
+
 #lvl_btd-30
 Read,../StrawberryJamTAS/2_Intermediate/in_filtration.tas,lvl_btd-30,lvl_btd-35
- 
+
 #lvl_btd-35
    8,R
    1,R,D,J
@@ -778,7 +778,7 @@ Read,../StrawberryJamTAS/2_Intermediate/in_filtration.tas,lvl_btd-30,lvl_btd-35
    1,R,J
   12,R
   40
- 
+
 #lvl_btd-42
 Read,../StrawberryJamTAS/2_Intermediate/in_filtration.tas,lvl_btd-42
 

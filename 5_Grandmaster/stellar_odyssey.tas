@@ -50,7 +50,7 @@ Assert,Equal,StrawberryJam2021/5-Grandmaster/Ecl1psed,{Level.Session.Area.SID}
    1,R,J
    2,R,K,G
    1,R,J,G
-## be lower -1f 
+## be lower -1f
    1,R,K,G
    5,R
    2,R,K
@@ -239,7 +239,7 @@ Read,../StrawberryJamTAS/5_Grandmaster/stellar_odyssey,Start,lvl_a-03 (0)
 StunPause
    6,R,J
   14,R
-SkipInput 3 1
+SkipInput,3,1
   13,R,U,Z
 EndStunPause
    2,R
@@ -320,7 +320,7 @@ EndStunPause
    5,D
 StunPause
    2,D
-SkipInput 3 1
+SkipInput,3,1
    9,D,X
 EndStunPause
    6,D,X

@@ -7,7 +7,7 @@ console load StrawberryJam2021/4-Expert/hivemindsrule
 #Route: Bones View -> Berry
 Read,plasma_reactor_ACAC.tas,Start,lvl_b1 (1)
 
-#lvl_b1 (1)
+#lvl_b1
 #ACAC-end
   26,R,D
    3,D

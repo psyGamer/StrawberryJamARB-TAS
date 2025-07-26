@@ -173,7 +173,7 @@ ChapterTime: 0:42.636(2508)
 
 #if you wish to work on BMIT WIP,
 #either to lab RTA strats or just to
-#try and TAS BMIT directly, 
+#try and TAS BMIT directly,
 #uncomment these out and cut out
 #the first parasol that's done above
 #(also fix the parasol label below)
@@ -582,7 +582,7 @@ ChapterTime: 0:42.636(2508)
 #  54
 #  43
 
-#lvl_Break My Ivory Tower 3 (0)
+#lvl_Break My Ivory Tower 3
 #  72
 #  12,J
 #   1,K
@@ -1138,12 +1138,3 @@ ChapterTime: 0:42.636(2508)
 #9999
 #9999
 #9999
-
-
-
-
-
-
-
-
-

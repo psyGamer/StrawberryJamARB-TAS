@@ -16,13 +16,13 @@ console load StrawberryJam2021/3-Advanced/JANisEXIST
 #any%-start
    9,R,J
    2,L,J
-Repeat 4
+Repeat,4
    1,R,J
    1,L,J
 EndRepeat
    2,L,J
    1,L,K,G
-Repeat 6
+Repeat,6
    1,R,K
    1,L,K
 EndRepeat

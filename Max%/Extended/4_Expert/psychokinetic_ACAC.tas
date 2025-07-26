@@ -677,9 +677,9 @@ Read,../../../StrawberryJamTAS/4_Expert/psychokinetic, lvl_a-03, lvl_a-06
   19,R,U,X
    4,R,K
    8,R,J
-Stunpause
+StunPause
    2,R,J
-Endstunpause
+EndStunPause
   11,R,J
   29,R,K
    8,R,D
@@ -701,7 +701,7 @@ Endstunpause
 #lvl_a-08 (1)
 Read,../../../4_Expert/psychokinetic,lvl_a-08 (1),lvl_a-end (1)
 
-#lvl_a-end
+#lvl_a-end (1)
    4,R,D,X
    3,R,J
   12,R,D,X

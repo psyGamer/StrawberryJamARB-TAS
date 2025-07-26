@@ -191,9 +191,9 @@ console load StrawberryJam2021/3-Advanced/Worldwaker2
    5,L,D
   32,R,D
    6,L,D
-stunpause, input
+StunPause,input
   10,L,D
-endstunpause
+EndStunPause
    2,L,D
   15,L,D,X
    5,D
@@ -773,7 +773,7 @@ EndStunPause
    1
   15,U,X
   14,L,U,G
-Repeat 4
+Repeat,4
    1,U,G
    1,L,U,G
 EndRepeat
@@ -966,9 +966,9 @@ EndRepeat
 #it's a fixable problem but very annoying fair warning
 StunPause
    8,L,D
-SkipInput 3 1
+SkipInput,3,1
   18,L,D
-SkipInput 3 1
+SkipInput,3,1
   15,L,D,X
    7,D
 EndStunPause

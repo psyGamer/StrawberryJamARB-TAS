@@ -135,7 +135,7 @@ console load StrawberryJam2021/2-Intermediate/Arphimigon
   43,D
   15,U,X
   98,R,G
-Repeat 6
+Repeat,6
    4,R,D,G
    4,R,G
 EndRepeat
@@ -306,7 +306,7 @@ Read,../../StrawberryJamTAS/2_Intermediate/sleeping_under_stars.tas,lvl_a_01 (2)
   15,R,U,Z
    6
 #wait for less time
-Repeat 8
+Repeat,8
    1,R,G
    1
    1,L,G
@@ -348,7 +348,7 @@ EndRepeat
    4,D,J
    8
   35,U,X
-Repeat 4
+Repeat,4
    9,D
    9
 EndRepeat

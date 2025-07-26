@@ -9,7 +9,7 @@ Read,../../../4_Expert/mosaic_garden.tas,Start,lvl_a-02
 #lvl_a-02
 Read,mosaic_garden_ACAC.tas,lvl_a-02,lvl_a-03 (1)
 
-#lvl_a-03 (1)
+#lvl_a-03
    7,R,J
   14,L,U,X
    1,L,J,G

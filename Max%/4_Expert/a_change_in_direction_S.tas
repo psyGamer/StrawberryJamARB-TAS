@@ -61,11 +61,11 @@ Read,../../StrawberryJamTAS/4_Expert/a_change_in_direction.tas,lvl_Agent_00,lvl_
   10,R,K,G
    8,R
   20,R,K
-stunpause
+StunPause
    2,R
-skipinput, 3, 1
+SkipInput,3,1
    8,R,U,Z
-endstunpause
+EndStunPause
    2,R,U
    1,L,J,G
   16,R

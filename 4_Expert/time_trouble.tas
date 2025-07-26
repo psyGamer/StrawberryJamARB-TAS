@@ -4,7 +4,7 @@ console load StrawberryJam2021/4-Expert/Moladan
    1
 
 #Start
-read,../StrawberryJamTAS/4_Expert/time_trouble,Start,lvl_a-06
+Read,../StrawberryJamTAS/4_Expert/time_trouble,Start,lvl_a-06
 
 #lvl_a-06
    2,R,J

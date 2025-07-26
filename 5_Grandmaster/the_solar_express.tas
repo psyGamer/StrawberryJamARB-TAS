@@ -4,7 +4,7 @@ console load StrawberryJam2021/5-Grandmaster/Soloiini
    1
 
 #Start
-Read, ../StrawberryJamTAS/5_Grandmaster/the_solar_express, Start, lvl_Shimmering Expanse
+Read,../StrawberryJamTAS/5_Grandmaster/the_solar_express,Start,lvl_Shimmering Expanse
 
 #there is no good sync-point
 #at the elevator
@@ -485,7 +485,7 @@ Read, ../StrawberryJamTAS/5_Grandmaster/the_solar_express, Start, lvl_Shimmering
    2,R,J,G
   26,R,K,G
   40
-   
+
 #lvl_Pilgrim's Way
    3,R,G
    1,R
@@ -615,6 +615,6 @@ Read, ../StrawberryJamTAS/5_Grandmaster/the_solar_express, Start, lvl_Shimmering
   43
 
 #lvl_Staging Grounds
-Read, ../StrawberryJamTAS/5_Grandmaster/the_solar_express, lvl_Staging Grounds
+Read,../StrawberryJamTAS/5_Grandmaster/the_solar_express,lvl_Staging Grounds
 
 ChapterTime: 3:41.068(13004)

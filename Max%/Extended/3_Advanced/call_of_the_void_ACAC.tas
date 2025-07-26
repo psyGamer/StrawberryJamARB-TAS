@@ -592,7 +592,7 @@ StunPause
    2,R,D
    3,R
   15,R,D
-SkipInput 3 1
+SkipInput,3,1
   15,D,X
 EndStunPause
    1,D

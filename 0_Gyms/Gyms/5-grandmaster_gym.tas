@@ -546,10 +546,10 @@ console load StrawberryJam2021/0-Gyms/5-Grandmaster
   15,G
   27,R,D
    1
-repeat 4
+Repeat,4
   15,D,X
   15,D,C
-endrepeat
+EndRepeat
    2,R,J
   11,J
   15,U,X

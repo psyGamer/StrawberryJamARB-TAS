@@ -4,7 +4,7 @@ console load StrawberryJam2021/5-Grandmaster/math
    1
 
 #Start
-Read, ../StrawberryJamTAS/5_Grandmaster/summit, Start, lvl_2000M
+Read,../StrawberryJamTAS/5_Grandmaster/summit,Start,lvl_2000M
 
 #lvl_2000M (0)
   20,R
@@ -217,7 +217,7 @@ Read, ../StrawberryJamTAS/5_Grandmaster/summit, Start, lvl_2000M
 #lvl_2500M
   59
 #cycles :)
-Repeat 9
+Repeat,9
    2,D
    2
 EndRepeat
@@ -418,7 +418,7 @@ EndRepeat
    1,L,J
   10,L
   24,R
-Repeat 4
+Repeat,4
    2,D
    2
 EndRepeat
@@ -555,6 +555,6 @@ EndRepeat
  306
 
 #lvl_3000M-00
-Read, ../StrawberryJamTAS/5_Grandmaster/summit, lvl_3000M-00
+Read,../StrawberryJamTAS/5_Grandmaster/summit,lvl_3000M-00
 
 ChapterTime: 3:44.281(13193)

@@ -7,7 +7,7 @@ console load StrawberryJam2021/4-Expert/Stotch
 #lvl_s1 (0)
 Read,caper_cavortion_ACAC,Start,lvl_s1 (1)
 
-#lvl_s1 (1)
+#lvl_s1 (2)
    8,L,D
   15,L,D,X
    8,L,D
@@ -37,7 +37,7 @@ Read,caper_cavortion_ACAC,Start,lvl_s1 (1)
 #lvl_s2b (0)
 Read,../../../4_Expert/caper_cavortion,lvl_s2b (0),lvl_s1 (1)
 
-#lvl_s1 (2)
+#lvl_s1 (3)
 #ARB-end
   16,R,D
    4,R
@@ -76,7 +76,7 @@ Read,../../../4_Expert/caper_cavortion,lvl_s2b (0),lvl_s1 (1)
   15,R,X
    5,R
   12,D
-Repeat 1
+Repeat,1
    1,R,D
    1,D
 EndRepeat
@@ -107,7 +107,7 @@ EndRepeat
    9,R,U,X
   40
 
-#lvl_s3
+#lvl_s3 (0)
    6,R,U,X
    1,L
    3,R

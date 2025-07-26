@@ -211,7 +211,7 @@ EndRepeat
   10,R,J
 StunPause
   17,R,J
-SkipInput 3 1
+SkipInput,3,1
   15,U,X
    2,L,J,G
    1,R,J

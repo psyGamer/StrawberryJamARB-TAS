@@ -189,7 +189,7 @@ console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
 StunPause
   14,R,J,G
    1,L
-SkipInput 3 1
+SkipInput,3,1
   17,R,U,X
    2,R,J,G
    2,L,J

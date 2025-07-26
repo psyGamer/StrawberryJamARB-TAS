@@ -1,11 +1,11 @@
 RecordCount: 4332
 
-set Language english
+Set,Language,english
 console load StrawberryJam2021/3-Advanced/Oppen
    1
 
 #Start
-#lvl_oppen_intro (0)
+#lvl_oppen_intro
 Read,../StrawberryJamTAS/3_Advanced/lost_woods.tas,Start,lvl_oppen_1b (0)
 
 #lvl_oppen_1b (0)
@@ -145,7 +145,7 @@ Read,../StrawberryJamTAS/3_Advanced/lost_woods.tas,Start,lvl_oppen_1b (0)
    1,R
    1,R
   40
- 
+
 #lvl_oppen_berry
    2,R
    1
@@ -194,7 +194,7 @@ Read,../StrawberryJamTAS/3_Advanced/lost_woods.tas,Start,lvl_oppen_1b (0)
    6,L,J,G
    5,L,D,X
   40
- 
+
 #lvl_oppen_1a (1)
   13,L,D,X
    7,L,J
@@ -300,8 +300,8 @@ Read,../StrawberryJamTAS/3_Advanced/lost_woods.tas,Start,lvl_oppen_1b (0)
    1,L,J
   17,L
    4,R,Z
- 
+
 #lvl_oppen_1c (1)
 Read,../StrawberryJamTAS/3_Advanced/lost_woods.tas,key3route
- 
+
 ChapterTime: 1:06.878(3934)

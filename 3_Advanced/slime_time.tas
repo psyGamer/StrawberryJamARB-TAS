@@ -4,7 +4,7 @@ console load StrawberryJam2021/3-Advanced/galaksyz
    1
 
 #Start
-read,../StrawberryJamTAS/3_Advanced/slime_time,Start,lvl_a_03-Oppen_heimer
+Read,../StrawberryJamTAS/3_Advanced/slime_time,Start,lvl_a_03-Oppen_heimer
 
 #lvl_a_03-Oppen_heimer
    4,R,D,X
@@ -259,7 +259,7 @@ read,../StrawberryJamTAS/3_Advanced/slime_time,Start,lvl_a_03-Oppen_heimer
   40
 
 #lvl_a_06-TiltTheStars
-read,../StrawberryJamTAS/3_Advanced/slime_time,lvl_a_06-TiltTheStars,lvl_a_07-TiltTheStars
+Read,../StrawberryJamTAS/3_Advanced/slime_time,lvl_a_06-TiltTheStars,lvl_a_07-TiltTheStars
 
 #lvl_a_07-TiltTheStars
    3,R,K

@@ -694,7 +694,7 @@ Read,../../StrawberryJamTAS/4_Expert/garden_of_khutara.tas,Start,lvl_DanTKO_01
   19,R
    4,R,D,J
   27,R,U,X
-Repeat 60
+Repeat,60
    1,L
    1,R
 EndRepeat

@@ -15,7 +15,7 @@ console load StrawberryJam2021/3-Advanced/Vamp
    8,R,J
    6,R
   10,L,D,X
-Repeat 3
+Repeat,3
    1,R,J
    1,R,K
 EndRepeat
@@ -191,7 +191,7 @@ StunPause
    2,R
    4,J
    1,R,J
-SkipInput 3 1
+SkipInput,3,1
   15,D,X
 EndStunPause
    5,R,J

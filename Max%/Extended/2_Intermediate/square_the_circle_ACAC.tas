@@ -354,7 +354,7 @@ EndStunPause
    1,U,G
    1,J,G
 StunPause
-SkipInput 3 1
+SkipInput,3,1
    5,L,X
    1,L,J
   13,J
@@ -554,12 +554,12 @@ Read,../../../StrawberryJamTAS/2_Intermediate/square_the_circle.tas,lvl_b_04,lvl
 
 #Drift
    4,R
-Stunpause
+StunPause
    5,R
 EndStunPause
 StunPause
    1,R
-Endstunpause
+EndStunPause
    2,R
 #   4,R
 #Stunpause

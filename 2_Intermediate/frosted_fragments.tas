@@ -195,7 +195,7 @@ StunPause
    6,D
   12,R,D
    3,D
-SkipInput 3 1
+SkipInput,3,1
    4,L,Z
    1,L,J
    6,L
@@ -231,7 +231,7 @@ StunPause
    4,L
    1,L,J
    2,L
-SkipInput 3 1
+SkipInput,3,1
   15,L,D,X
    2,L,D
 EndStunPause

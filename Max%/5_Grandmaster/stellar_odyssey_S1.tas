@@ -51,7 +51,7 @@ Read,../../5_Grandmaster/stellar_odyssey.tas,lvl_a-03,lvl_a-03b
 StunPause
    6,R,J
   14,R
-SkipInput 3 1
+SkipInput,3,1
   13,R,U,Z
 EndStunPause
    2,R

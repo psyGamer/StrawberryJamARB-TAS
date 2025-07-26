@@ -105,7 +105,7 @@ EndStunPause
    5,D
 StunPause
    2,D
-SkipInput 3 1
+SkipInput,3,1
    9,D,X
 EndStunPause
    6,D,X

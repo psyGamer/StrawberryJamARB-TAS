@@ -96,7 +96,7 @@ Read,../StrawberryJamTAS/4_Expert/clockwork.tas,Start,lvl_a-05
   14,L,C
   43
   22,R
-Repeat, 13
+Repeat,13
    1,G
    1
 EndRepeat

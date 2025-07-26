@@ -7,7 +7,7 @@ console load StrawberryJam2021/3-Advanced/astraxel
 #Spinner Cycle [mini-hearth (0)]
    2
 #####
-read,../StrawberryJamTAS/3_Advanced/sands_of_time,Start,lvl_a-06
+Read,../StrawberryJamTAS/3_Advanced/sands_of_time,Start,lvl_a-06
 
 #lvl_a-06 (0)
    1,R,J
@@ -225,7 +225,7 @@ read,../StrawberryJamTAS/3_Advanced/sands_of_time,Start,lvl_a-06
   40
 
 #lvl_b-02
-read,../StrawberryJamTAS/3_Advanced/sands_of_time,lvl_b-02,lvl_mini-hearth
+Read,../StrawberryJamTAS/3_Advanced/sands_of_time,lvl_b-02,lvl_mini-hearth
 
 #lvl_mini-hearth (0)
   14,R,J

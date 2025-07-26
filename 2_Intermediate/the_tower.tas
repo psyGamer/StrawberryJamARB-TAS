@@ -10,7 +10,7 @@ console load StrawberryJam2021/2-Intermediate/pixelator
    0
 
 #lvl_lvl00
-Read, ../StrawberryJamTAS/2_Intermediate/the_tower, spinner cycle (lvl05), lvl_lvl01
+Read,../StrawberryJamTAS/2_Intermediate/the_tower,spinner cycle (lvl05),lvl_lvl01
 
 #lvl_lvl01
    8,L
@@ -134,7 +134,7 @@ Read, ../StrawberryJamTAS/2_Intermediate/the_tower, spinner cycle (lvl05), lvl_l
   15,U,X
    5,L
    1,R,K,G
-Repeat 5
+Repeat,5
    1,L,K
    1,K
 EndRepeat
@@ -150,7 +150,7 @@ EndRepeat
   40
 
 #lvl_lvl03
-Read, ../StrawberryJamTAS/2_Intermediate/the_tower, lvl_lvl03, lvl_lvl04
+Read,../StrawberryJamTAS/2_Intermediate/the_tower,lvl_lvl03,lvl_lvl04
 
 #lvl_lvl04
   18,K
@@ -191,6 +191,6 @@ Read, ../StrawberryJamTAS/2_Intermediate/the_tower, lvl_lvl03, lvl_lvl04
   40
 
 #lvl_lvl05
-Read, ../StrawberryJamTAS/2_Intermediate/the_tower, lvl_lvl05
+Read,../StrawberryJamTAS/2_Intermediate/the_tower,lvl_lvl05
 
 ChapterTime: 0:53.057(3121)

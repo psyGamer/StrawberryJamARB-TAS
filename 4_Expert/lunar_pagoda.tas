@@ -4,8 +4,8 @@ console load StrawberryJam2021/4-Expert/spirialis
    1
 
 #Start
-#lvl_0
-Read, ../StrawberryJamTAS/4_Expert/lunar_pagoda, Start, lvl_5
+#lvl_0 (0)
+Read,../StrawberryJamTAS/4_Expert/lunar_pagoda,Start,lvl_5
 
 #lvl_5 (0)
    2,R,U,X,G
@@ -98,7 +98,7 @@ Read, ../StrawberryJamTAS/4_Expert/lunar_pagoda, Start, lvl_5
   40
 
 #lvl_6
-Read, ../StrawberryJamTAS/4_Expert/lunar_pagoda, lvl_6, lvl_7
+Read,../StrawberryJamTAS/4_Expert/lunar_pagoda,lvl_6,lvl_7
 
 #any%-end
 #lvl_7 (0)
@@ -152,7 +152,7 @@ Read, ../StrawberryJamTAS/4_Expert/lunar_pagoda, lvl_6, lvl_7
    5,L,J
   12,L,D,X
   40
-   
+
 #lvl_7 (1)
    3,L,D
   14,L,J
@@ -241,6 +241,6 @@ Read, ../StrawberryJamTAS/4_Expert/lunar_pagoda, lvl_6, lvl_7
   40
 
 #lvl_8
-Read, ../StrawberryJamTAS/4_Expert/lunar_pagoda, lvl_8
+Read,../StrawberryJamTAS/4_Expert/lunar_pagoda,lvl_8
 
 ChapterTime: 1:22.416(4848)

@@ -280,10 +280,10 @@ console load StrawberryJam2021/0-Gyms/2-Intermediate
    1,R,J
   14,R,D,X
    2,R,J
-repeat 4
+Repeat,4
   13,R,X
   13,R,C
-endrepeat
+EndRepeat
   15,R,X
    6,R,Z
    1,R,J

@@ -435,7 +435,7 @@ EndStunPause
    1,L,J
    2,L
   36,X
-Repeat 15
+Repeat,15
    1,L,U
    1,R,U
    1,L,D

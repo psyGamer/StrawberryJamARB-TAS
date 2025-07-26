@@ -259,7 +259,7 @@ console load StrawberryJam2021/2-Intermediate/Dooshii
    5,R,D,X
   40,J
 
-#lvl_a4v2 (0)
+#lvl_a4v2
 Read,../../StrawberryJamTAS/2_Intermediate/frosted_fragments.tas,lvl_a4v2 (0)
 
 ChapterTime: 1:40.113(5889)

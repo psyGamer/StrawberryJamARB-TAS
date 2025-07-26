@@ -82,7 +82,7 @@ Read,../../../2_Intermediate/in_filtration.tas,lvl_btd-05,lvl_btd-07
 
 #lvl_btd-07
 Read,in_filtration_ACAC.tas,lvl_btd-07,lvl_btd-20
- 
+
 #lvl_btd-20 (0)
    9,L,D
    5,L,J
@@ -129,7 +129,7 @@ Read,in_filtration_ACAC.tas,lvl_btd-07,lvl_btd-20
 
 #lvl_btd-20a
 Read,../../../2_Intermediate/in_filtration.tas,lvl_btd-20a,lvl_btd-20 (1)
- 
+
 #lvl_btd-20 (1)
   14,L
    1,L,J
@@ -175,10 +175,10 @@ Read,../../../2_Intermediate/in_filtration.tas,lvl_btd-20a,lvl_btd-20 (1)
    4,R,J
    2,R
   40
- 
+
 #lvl_btd-21
 Read,../../../2_Intermediate/in_filtration.tas,lvl_btd-21,lvl_btd-30
- 
+
 #lvl_btd-30
 Read,../../../StrawberryJamTAS/2_Intermediate/in_filtration.tas,lvl_btd-30,lvl_btd-33
 
@@ -268,7 +268,7 @@ Read,in_filtration_ACAC.tas,lvl_btd-33,lvl_btd-35
    1,R,J
   12,R
   40
- 
+
 #lvl_btd-42
 Read,in_filtration_ACAC.tas,lvl_btd-42
 

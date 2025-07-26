@@ -4,7 +4,7 @@ console load StrawberryJam2021/3-Advanced/MousseMoose
    1
 
 #Start
-Read, ../StrawberryJamTAS/3_Advanced/synapse, Start, lvl_a5
+Read,../StrawberryJamTAS/3_Advanced/synapse,Start,lvl_a5
 
 #lvl_a5
    7,J
@@ -26,7 +26,7 @@ Read, ../StrawberryJamTAS/3_Advanced/synapse, Start, lvl_a5
    2,R
    5
 StunPause
-skipinput 3 1
+SkipInput,3,1
    6,R,D,X
    1,R,J
    6,R
@@ -242,10 +242,10 @@ EndStunPause
   18,U,X
   11,U,C
 StunPause
-skipinput 3 2
+SkipInput,3,2
    7,U
    8,R
-skipinput 3 1
+SkipInput,3,1
   15,U,Z
    2,R
    3,L
@@ -440,7 +440,7 @@ EndStunPause
   33,R,Z
   28,R,V
   15,R,D,X
-Repeat 2
+Repeat,2
   14,D,C
    1
 EndRepeat

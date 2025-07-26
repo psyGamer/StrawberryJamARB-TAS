@@ -406,7 +406,7 @@ EndStunPause
    2,L
    8,G
    3,U,G
-Repeat 20
+Repeat,20
    1,D,G
    1,U,G
 EndRepeat
@@ -590,7 +590,7 @@ Read,../../../StrawberryJamTAS/5_Grandmaster/world_abyss.tas,lvl_chill-0 (1),lvl
   10,R,D,X
    1,L,J
    1,L,D
-Repeat 4
+Repeat,4
    1,L,K
    1,L,J
 EndRepeat
@@ -800,7 +800,7 @@ EndStunPause
 #####
    2,D
    1,R,D
-Repeat 15
+Repeat,15
    2,L,D
    2,R,D
 EndRepeat

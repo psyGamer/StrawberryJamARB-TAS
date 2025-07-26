@@ -281,7 +281,7 @@ Read,../StrawberryJamTAS/5_Grandmaster/shattersong,lvl_Broken Pieces,lvl_A1
 #lvl_Second Movement
 Read,../StrawberryJamTAS/5_Grandmaster/shattersong,lvl_Second Movement,lvl_B3
 
-#lvl_B3 (0)
+#lvl_B3
    1,R,J
    9,R
   10,R,D,X
@@ -838,7 +838,7 @@ EndStunPause
    6,R,J,G
 StunPause
    6,R,J
-SkipInput 3 1
+SkipInput,3,1
    6,R,D,X
 EndStunPause
    5,R,D,X
@@ -946,9 +946,9 @@ EndStunPause
   20,R
    9,R,J
   24,R,U,X
-Repeat 45
+Repeat,45
    2,R,D
    1,L,D
-Endrepeat
+EndRepeat
 
 ChapterTime: 2:30.365(8845)

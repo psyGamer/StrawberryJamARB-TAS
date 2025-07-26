@@ -13,7 +13,7 @@ console flag SilverBerry 1
    8,R,J
    6,R
   10,L,D,X
-Repeat 3
+Repeat,3
    1,R,J
    1,R,K
 EndRepeat

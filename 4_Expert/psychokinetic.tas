@@ -11,7 +11,7 @@ console load StrawberryJam2021/4-Expert/Cabob
 #####
 
 #lvl_a-start
-Read, ../StrawberryJamTAS/4_Expert/psychokinetic, lvl_a-start, lvl_a-02
+Read,../StrawberryJamTAS/4_Expert/psychokinetic,lvl_a-start,lvl_a-02
 
 #lvl_a-02 (0)
    9,R,U,X
@@ -174,7 +174,7 @@ Read, ../StrawberryJamTAS/4_Expert/psychokinetic, lvl_a-start, lvl_a-02
   40
 
 #lvl_a-03 (2)
-Read, ../StrawberryJamTAS/4_Expert/psychokinetic, lvl_a-03, lvl_a-08
+Read,../StrawberryJamTAS/4_Expert/psychokinetic,lvl_a-03,lvl_a-08
 
 #lvl_a-08 (0)
   10
@@ -234,9 +234,9 @@ Read, ../StrawberryJamTAS/4_Expert/psychokinetic, lvl_a-03, lvl_a-08
   19,R,U,X
    4,R,K
    8,R,J
-Stunpause
+StunPause
    2,R,J
-Endstunpause
+EndStunPause
   11,R,J
   29,R,K
    8,R,D
@@ -430,7 +430,7 @@ Endstunpause
    1,R,K,G
   13,R,J,G
    5,J
-Repeat 13
+Repeat,13
    1,K
    1,J
 EndRepeat

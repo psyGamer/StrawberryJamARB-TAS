@@ -43,10 +43,10 @@ Read,../StrawberryJamTAS/1_Beginner/potential_for_anything,Start,lvl_SS2-5b
    1,R
   19,L,U
   11,L
-repeat, 15
+Repeat,15
    1,L,U
    1,L
-endrepeat
+EndRepeat
   15,L,U
   56,U
   10,R,U
@@ -67,10 +67,10 @@ endrepeat
    1,D
   13,R,D
   10,R
-repeat, 19
+Repeat,19
    1,R,D
    1,R
-endrepeat
+EndRepeat
   10,R,D
   70,D
    2,L,D
@@ -96,7 +96,7 @@ endrepeat
   16,D
   40
 
-#lvl_SS2-3
+#lvl_SS2-3 (2)
 Read,../StrawberryJamTAS/1_Beginner/potential_for_anything,lvl_SS2-3 (2),lvl_Lab-4 (0)
 
 #lvl_Lab-4 (0)
@@ -111,7 +111,7 @@ Read,../StrawberryJamTAS/1_Beginner/potential_for_anything,lvl_SS2-3 (2),lvl_Lab
 #lvl_Lab-5 (0)
    3,R
    1,R,J
-Repeat 4
+Repeat,4
   14,R,U,X
    1,R,J
 EndRepeat
@@ -219,6 +219,6 @@ Read,../StrawberryJamTAS/1_Beginner/potential_for_anything,lvl_Lab-3,lvl_WZ-4
 
 
 #lvl_WZ-Tele
-Read, ../StrawberryJamTAS/1_Beginner/potential_for_anything, lvl_WZ-Tele
+Read,../StrawberryJamTAS/1_Beginner/potential_for_anything,lvl_WZ-Tele
 
 ChapterTime: 1:47.151(6303)

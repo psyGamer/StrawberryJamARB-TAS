@@ -4,7 +4,7 @@ console load StrawberryJam2021/2-Intermediate/GlowWoomii
    1
 
 #Start
-Read, ../StrawberryJamTAS/2_Intermediate/honeyzip_inc, Start, lvl_rhub (0)
+Read,../StrawberryJamTAS/2_Intermediate/honeyzip_inc,Start,lvl_rhub (0)
 
 #lvl_rhub (0)
    3,R,J
@@ -213,7 +213,7 @@ Read, ../StrawberryJamTAS/2_Intermediate/honeyzip_inc, Start, lvl_rhub (0)
    4,L,Z
    1,L,J
   15,F,181
-Repeat, 3
+Repeat,3
    4,L,Z
    1,L,J
   10,F,181
@@ -298,7 +298,7 @@ EndRepeat
   43
 
 #lvl_r8 (1)
-Read, ../StrawberryJamTAS/2_Intermediate/honeyzip_inc, lvl_r8, lvl_r9
+Read,../StrawberryJamTAS/2_Intermediate/honeyzip_inc,lvl_r8,lvl_r9
 
 #lvl_r9
 #any%-end

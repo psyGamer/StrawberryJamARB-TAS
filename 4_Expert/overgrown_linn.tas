@@ -4,7 +4,7 @@ console load StrawberryJam2021/4-Expert/Flamecrafter113
    1
 
 #Start
-Read, ../StrawberryJamTAS/4_Expert/overgrown_linn.tas, Start, lvl_a-01
+Read,../StrawberryJamTAS/4_Expert/overgrown_linn.tas,Start,lvl_a-01
 
 #lvl_a-01 (0)
    4,D,X
@@ -136,7 +136,7 @@ Read, ../StrawberryJamTAS/4_Expert/overgrown_linn.tas, Start, lvl_a-01
   40
 
 #lvl_a-03
-Read, ../StrawberryJamTAS/4_Expert/overgrown_linn.tas, lvl_a-03, lvl_a-07
+Read,../StrawberryJamTAS/4_Expert/overgrown_linn.tas,lvl_a-03,lvl_a-07
 
 #lvl_a-07 (0)
    3,R
@@ -284,7 +284,7 @@ Read, ../StrawberryJamTAS/4_Expert/overgrown_linn.tas, lvl_a-03, lvl_a-07
   15,R,Z
   20,L
    3,D
-Repeat 5
+Repeat,5
    3
    3,D
 EndRepeat

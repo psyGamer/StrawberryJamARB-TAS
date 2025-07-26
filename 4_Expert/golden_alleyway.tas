@@ -9,7 +9,7 @@ Repeat,13
   13
 EndRepeat
    8
- 
+
 #Spinner cycle [b04]
    0
 
@@ -277,10 +277,10 @@ Read,../StrawberryJamTAS/4_Expert/golden_alleyway,lvl_a_04,lvl_a_06
    1,R,K,G
    3,K
    3
-StunPause 
+StunPause,
    2
    4,J
-SkipInput 3 1
+SkipInput,3,1
   11,U,X
   17,R,J
 EndStunPause

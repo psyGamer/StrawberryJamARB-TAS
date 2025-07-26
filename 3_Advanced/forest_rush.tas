@@ -4,7 +4,7 @@ console load StrawberryJam2021/3-Advanced/mmm
    1
 
 #Start
-Read, ../StrawberryJamTAS/3_Advanced/forest_rush, Start, lvl_a05
+Read,../StrawberryJamTAS/3_Advanced/forest_rush,Start,lvl_a05
 
 #lvl_a05
   11,L
@@ -232,7 +232,7 @@ Read, ../StrawberryJamTAS/3_Advanced/forest_rush, Start, lvl_a05
   40
 
 #lvl_a08
-Read, ../StrawberryJamTAS/3_Advanced/forest_rush, lvl_a08, lvl_a10
+Read,../StrawberryJamTAS/3_Advanced/forest_rush,lvl_a08,lvl_a10
 
 #lvl_a10 (0)
   33,R

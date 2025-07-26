@@ -335,7 +335,7 @@ StunPause
    6,J
    1,R,J
    4,R
-SkipInput 3 1
+SkipInput,3,1
   14,U,X
    1,L,J
 EndStunPause

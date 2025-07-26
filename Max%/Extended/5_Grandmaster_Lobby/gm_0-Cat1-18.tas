@@ -21,7 +21,7 @@ console load StrawberryJam2021/0-Lobbies/5-Grandmaster
    5,L
   29
    1,L,U
-AnalogueMode Precise
+AnalogueMode,Precise
   83,F,256
    5,F,270
    1,F,90.72
@@ -71,7 +71,7 @@ AnalogueMode Precise
 
 #0:08.925(525)
 
-AnalogueMode Ignore
+AnalogueMode,Ignore
 
 #+1f: hyper CB instead of
 #6f hyper bhop

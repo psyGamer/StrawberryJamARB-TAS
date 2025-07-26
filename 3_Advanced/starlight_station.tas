@@ -10,7 +10,7 @@ console load StrawberryJam2021/3-Advanced/Jolly
    0
 
 #lvl_a0
-read,../StrawberryJamTAS/3_Advanced/starlight_station,lvl_a0,lvl_a2
+Read,../StrawberryJamTAS/3_Advanced/starlight_station,lvl_a0,lvl_a2
 
 #lvl_a2 (0)
    1,L
@@ -79,10 +79,10 @@ read,../StrawberryJamTAS/3_Advanced/starlight_station,lvl_a0,lvl_a2
    1,L,J
    5,L
    2,L,D,J
-stunpause, input
+StunPause,input
    5,L,D,J
    5,L
-endstunpause
+EndStunPause
    1,L
   97,L,G
    3,R,J
@@ -186,7 +186,7 @@ endstunpause
   40,X
 
 #lvl_b1
-read,../StrawberryJamTAS/3_Advanced/starlight_station,lvl_b1,lvl_b4
+Read,../StrawberryJamTAS/3_Advanced/starlight_station,lvl_b1,lvl_b4
 
 #lvl_b4 (0)
   14,R,J
@@ -351,7 +351,7 @@ read,../StrawberryJamTAS/3_Advanced/starlight_station,lvl_b1,lvl_b4
   40
 
 #lvl_b6
-read,../StrawberryJamTAS/3_Advanced/starlight_station,lvl_b6,lvl_brys2
+Read,../StrawberryJamTAS/3_Advanced/starlight_station,lvl_b6,lvl_brys2
 
 #lvl_brys2
 #same as any%, but with different
@@ -446,7 +446,7 @@ EndStunPause
   40
 
 #lvl_brys3
-read,../StrawberryJamTAS/3_Advanced/starlight_station,lvl_brys3,lvl_brys4
+Read,../StrawberryJamTAS/3_Advanced/starlight_station,lvl_brys3,lvl_brys4
 
 #lvl_brys4 (0)
    2,R,J

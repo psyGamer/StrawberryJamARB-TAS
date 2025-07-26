@@ -310,10 +310,10 @@ Read,../../StrawberryJamTAS/5_Grandmaster/grandmaster_heartside.tas,lvl_d3_07-Ma
    1,R,U,G
    2,U,G
    1,R,U,G
-Repeat, 5
+Repeat,5
    1,R,U,G
    1,U,G
-endrepeat
+EndRepeat
    4,R,U,G
    1,L,D
    5,K,G

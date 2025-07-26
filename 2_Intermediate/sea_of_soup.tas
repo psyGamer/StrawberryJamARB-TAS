@@ -37,10 +37,10 @@ console load StrawberryJam2021/2-Intermediate/SpoopySoup
    1,G
    5,L,D
   21,R,D
-Repeat 5
+Repeat,5
    1,R,K
    1,R,J
-endRepeat
+EndRepeat
    1,R
    1,R,K
   10,R,J,G

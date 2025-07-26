@@ -418,9 +418,9 @@ Read,../../StrawberryJamTAS/4_Expert/expert_heartside.tas,lvl_b00_intro,lvl_b03_
    1,J
    2,R,J
   11,R,D,X
-stunpause
+StunPause
    4,R,D,X
-endstunpause
+EndStunPause
    5,R,D
 #+0f: Different groupings
    1,L

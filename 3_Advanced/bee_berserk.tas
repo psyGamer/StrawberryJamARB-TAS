@@ -16,7 +16,7 @@ Read,../StrawberryJamTAS/3_Advanced/bee_berserk,Start,lvl_a-06
   17,R,J
   14,R
 StunPause
-SkipInput 3 1
+SkipInput,3,1
    1,R
   14,R,Z
    1,R,J,G

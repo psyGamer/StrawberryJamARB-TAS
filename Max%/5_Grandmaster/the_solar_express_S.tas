@@ -7,7 +7,7 @@ console load StrawberryJam2021/5-Grandmaster/Soloiini
 #lvl_All Aboard
 Read,../../StrawberryJamTAS/5_Grandmaster/the_solar_express.tas,Start,lvl_Crumbling Bastions (1)
 
-#lvl_Crumbling Bastions (1)
+#lvl_Crumbling Bastions (0)
    5,R,D,X
    1,R,J
   14,R,D,X
@@ -161,7 +161,7 @@ Read,../../StrawberryJamTAS/5_Grandmaster/the_solar_express.tas,Start,lvl_Crumbl
    1,R,J,N
    6
 
-#lvl_Crumbling Bastions (2)
+#lvl_Crumbling Bastions (1)
    1,L,J
   24,G
    9,L,D,G
@@ -177,7 +177,7 @@ Read,../../StrawberryJamTAS/5_Grandmaster/the_solar_express.tas,Start,lvl_Crumbl
    1,R,J
    5,R,D,X
   13,R,G
-Repeat 2
+Repeat,2
    1,R,J,G
   14,R,G
 EndRepeat
@@ -190,7 +190,7 @@ EndRepeat
    1,R,J
    6,R,D,X
   13,R,G
-Repeat 2
+Repeat,2
    1,R,J,G
   14,R,G
 EndRepeat
@@ -263,7 +263,7 @@ Read,../../StrawberryJamTAS/5_Grandmaster/the_solar_express.tas,lvl_Crystal Caus
    2,R
    1,R,N
    1,R,K
-Repeat 26
+Repeat,26
    1,L,D,J
    1,R,D,K
 EndRepeat
@@ -676,7 +676,7 @@ Read,../../StrawberryJamTAS/5_Grandmaster/the_solar_express.tas,lvl_Staging Grou
    1,R,K,G
    6,R,D,K,X
   43,K
- 
+
 #lvl_Spectacle
 Read,../../StrawberryJamTAS/5_Grandmaster/the_solar_express.tas,lvl_Spectacle
 

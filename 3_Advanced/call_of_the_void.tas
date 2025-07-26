@@ -43,10 +43,10 @@ console load StrawberryJam2021/3-Advanced/Viv
   26,L,J
   14,D,G
   27
-repeat 6
+Repeat,6
    1,J
    1,O
-endrepeat
+EndRepeat
   25
   10,L,D,X
   11,R,J
@@ -149,7 +149,7 @@ Read,../StrawberryJamTAS/3_Advanced/call_of_the_void,lvl_viv1,lvl_viv2
   40
 
 #lvl_viv3
-Read, ../StrawberryJamTAS/3_Advanced/call_of_the_void, lvl_viv3, lvl_viv4
+Read,../StrawberryJamTAS/3_Advanced/call_of_the_void,lvl_viv3,lvl_viv4
 
 #lvl_viv4
   10,R,U,Z
@@ -268,7 +268,7 @@ Read, ../StrawberryJamTAS/3_Advanced/call_of_the_void, lvl_viv3, lvl_viv4
   40
 
 #lvl_viv5x
-Read, ../StrawberryJamTAS/3_Advanced/call_of_the_void, lvl_viv5x, lvl_viv7
+Read,../StrawberryJamTAS/3_Advanced/call_of_the_void,lvl_viv5x,lvl_viv7
 
 #lvl_viv7 (0)
    5,R,Z

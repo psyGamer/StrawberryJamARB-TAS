@@ -49,7 +49,7 @@ Read,../StrawberryJamTAS/5_Grandmaster/drifting_deep.tas,Start,lvl_a-02
    2,L
   15,U,X
 StunPause
-SkipInput 3 1
+SkipInput,3,1
   10,L,U,Z
 EndStunPause
    5,L,U
@@ -88,7 +88,7 @@ StunPause
    2,L
    5,L,D
   16,L,J
-SkipInput 3 1
+SkipInput,3,1
   10,L,U,X
    1,R
    1,J,G
@@ -108,13 +108,13 @@ EndStunPause
    9,R,Z
 StunPause
    7,R
-SkipInput 3 1
+SkipInput,3,1
    4,D,X
    1,R,J
    7,R
    1,R,D
    9,R,J
-SkipInput 3 1
+SkipInput,3,1
   10,R,U,X
    1,K,G
   10,D
@@ -543,7 +543,7 @@ EndStunPause
    4,L,X
   26
    1,L
-AnalogueMode Ignore
+AnalogueMode,Ignore
    7,F,280
   17,F,340.6
   23,F,343
@@ -689,7 +689,7 @@ AnalogueMode Ignore
 #here a pause can be cut
 #good luck with that though :/
 StunPause
-SkipInput 3 1
+SkipInput,3,1
   11,R,U,Z
 EndStunPause
    3,R,U,Z
@@ -736,10 +736,10 @@ EndStunPause
 StunPause
    2,R,J
    4,R
-SkipInput 3 1
+SkipInput,3,1
   15,R,D,X
    1,R,D
-SkipInput 3 1
+SkipInput,3,1
    1,R,D
   11,R
    5,R,D
@@ -994,6 +994,6 @@ EndStunPause
 #lvl_a-09
 Read,../StrawberryJamTAS/5_Grandmaster/drifting_deep.tas,lvl_a-09
 
-AnalogMode Ignore
+AnalogMode,Ignore
 
 ChapterTime: 4:03.219(14307)

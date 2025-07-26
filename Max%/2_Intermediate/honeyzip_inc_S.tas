@@ -27,7 +27,7 @@ console load StrawberryJam2021/2-Intermediate/GlowWoomii
    1,R,K
   32,R,J
 #any%-end
-Repeat 6
+Repeat,6
    7,R,G
    1,R,J,G
    1,R,J

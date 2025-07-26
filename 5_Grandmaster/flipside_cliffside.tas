@@ -181,7 +181,7 @@ console load StrawberryJam2021/5-Grandmaster/tcookiem
   40
 
 #lvl_Reach
-Read, ../StrawberryJamTAS/5_Grandmaster/flipside_cliffside, lvl_Reach, lvl_Glare
+Read,../StrawberryJamTAS/5_Grandmaster/flipside_cliffside,lvl_Reach,lvl_Glare
 
 #lvl_Glare
    6,R,J
@@ -542,7 +542,7 @@ Read, ../StrawberryJamTAS/5_Grandmaster/flipside_cliffside, lvl_Reach, lvl_Glare
    2,L
   15,L,D,X
   29,R,D
-Repeat 83
+Repeat,83
    2,R,D
    2,D
 EndRepeat
@@ -573,7 +573,7 @@ EndRepeat
    7,R
   12,U,G
    4,G
-Repeat 60
+Repeat,60
    1,G
    1
 EndRepeat
@@ -630,7 +630,7 @@ EndRepeat
   40
 
 #lvl_Arrowhead
-Read, ../StrawberryJamTAS/5_Grandmaster/flipside_cliffside, lvl_Arrowhead, lvl_Nostalgia
+Read,../StrawberryJamTAS/5_Grandmaster/flipside_cliffside,lvl_Arrowhead,lvl_Nostalgia
 
 #lvl_Nostalgia (0)
    5,R
@@ -694,7 +694,7 @@ Read, ../StrawberryJamTAS/5_Grandmaster/flipside_cliffside, lvl_Arrowhead, lvl_N
    6,J
   26,D
    1
-Repeat 27
+Repeat,27
    2,D
    2
 EndRepeat

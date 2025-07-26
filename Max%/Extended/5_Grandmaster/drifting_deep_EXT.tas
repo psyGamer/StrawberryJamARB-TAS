@@ -188,7 +188,7 @@ Read,../../../5_Grandmaster/drifting_deep.tas,lvl_a-07 (0),lvl_a-07 (1)
 #here a pause can be cut
 #good luck with that though :/
 StunPause
-SkipInput 3 1
+SkipInput,3,1
   11,R,U,Z
 EndStunPause
    3,R,U,Z
@@ -232,6 +232,6 @@ EndStunPause
 #lvl_a-08
 Read,../../../5_Grandmaster/drifting_deep.tas,lvl_a-08 (0)
 
-AnalogMode Ignore
+AnalogMode,Ignore
 
 ChapterTime: 4:18.893(15229)

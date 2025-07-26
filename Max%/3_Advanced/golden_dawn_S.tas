@@ -215,7 +215,7 @@ Read,../../StrawberryJamTAS/3_Advanced/golden_dawn.tas,lvl_A4,lvl_A5
    5,D
    8
    1,L
-Repeat 2
+Repeat,2
    1,J,G
   14
 EndRepeat

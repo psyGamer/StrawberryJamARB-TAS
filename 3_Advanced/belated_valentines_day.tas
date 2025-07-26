@@ -4,7 +4,7 @@ console load StrawberryJam2021/3-Advanced/Roborb
    1
 
 #Start
-read, ../StrawberryJamTAS/3_Advanced/belated_valentines_day, Start, lvl_1-f
+Read,../StrawberryJamTAS/3_Advanced/belated_valentines_day,Start,lvl_1-f
 
 #lvl_1-f (0)
    7,R
@@ -152,7 +152,7 @@ read, ../StrawberryJamTAS/3_Advanced/belated_valentines_day, Start, lvl_1-f
   40
 
 #lvl_1-h
-read, ../StrawberryJamTAS/3_Advanced/belated_valentines_day, lvl_1-h, lvl_2-b
+Read,../StrawberryJamTAS/3_Advanced/belated_valentines_day,lvl_1-h,lvl_2-b
 
 #lvl_2-b
    2,R,U,X
@@ -223,6 +223,6 @@ read, ../StrawberryJamTAS/3_Advanced/belated_valentines_day, lvl_1-h, lvl_2-b
   40
 
 #lvl_2-c
-read, ../StrawberryJamTAS/3_Advanced/belated_valentines_day, lvl_2-c
+Read,../StrawberryJamTAS/3_Advanced/belated_valentines_day,lvl_2-c
 
 ChapterTime: 0:59.840(3520)

@@ -4,7 +4,7 @@ console load StrawberryJam2021/2-Intermediate/Ice
    1
 
 #Start
-Read, ../StrawberryJamTAS/2_Intermediate/temple_of_a_thousand_skies, Start, lvl_b-04
+Read,../StrawberryJamTAS/2_Intermediate/temple_of_a_thousand_skies,Start,lvl_b-04
 
 #lvl_b-04
   10,R,K
@@ -43,7 +43,7 @@ Read, ../StrawberryJamTAS/2_Intermediate/temple_of_a_thousand_skies, Start, lvl_
    2,L
   40
 
-#lvl_b-02 (0)
+#lvl_b-02 (1)
   11,L,D
   48,D,X
 #any%-start
@@ -172,8 +172,8 @@ Read, ../StrawberryJamTAS/2_Intermediate/temple_of_a_thousand_skies, Start, lvl_
    5,L,U,Z
   40
 
-#lvl_b-02 (1)
-Read, ../StrawberryJamTAS/2_Intermediate/temple_of_a_thousand_skies, lvl_b-02 (2), spinner cycle (2/3)
+#lvl_b-02 (2)
+Read,../StrawberryJamTAS/2_Intermediate/temple_of_a_thousand_skies,lvl_b-02 (2),spinner cycle (2/3)
 #spinner cycle (2/3)
    0
 ##
@@ -182,7 +182,7 @@ Read, ../StrawberryJamTAS/2_Intermediate/temple_of_a_thousand_skies, lvl_b-02 (2
   40
 
 #lvl_b-07
-Read, ../StrawberryJamTAS/2_Intermediate/temple_of_a_thousand_skies, lvl_b-07, spinner cycle
+Read,../StrawberryJamTAS/2_Intermediate/temple_of_a_thousand_skies,lvl_b-07,spinner cycle
 #Spinner Cycle [b-06]
    2
 #####
@@ -194,7 +194,7 @@ Read, ../StrawberryJamTAS/2_Intermediate/temple_of_a_thousand_skies, lvl_b-07, s
   40
 
 #lvl_b-05 (0)
-Read, ../StrawberryJamTAS/2_Intermediate/temple_of_a_thousand_skies, lvl_b-05 (1), lvl_b-06
+Read,../StrawberryJamTAS/2_Intermediate/temple_of_a_thousand_skies,lvl_b-05 (1),lvl_b-06
 
 #lvl_b-06
   12,D
@@ -225,16 +225,16 @@ Read, ../StrawberryJamTAS/2_Intermediate/temple_of_a_thousand_skies, lvl_b-05 (1
    5,D
    1,L,D
   12,D
-stunpause,input
+StunPause,input
   18,D
-endstunpause
+EndStunPause
   14,L,D
    9,D
-stunpause,input
+StunPause,input
    6,D
    9,R,D
    5,L,D
-endstunpause
+EndStunPause
    1,L,D
   12,L
    4,L,Z
@@ -285,7 +285,7 @@ endstunpause
   40
 
 #lvl_b-05 (1)
-Read, ../StrawberryJamTAS/2_Intermediate/temple_of_a_thousand_skies, lvl_b-05 (2), lvl_c-01
+Read,../StrawberryJamTAS/2_Intermediate/temple_of_a_thousand_skies,lvl_b-05 (2),lvl_c-01
 
 #any%-end
 #lvl_c-01
@@ -319,6 +319,6 @@ Read, ../StrawberryJamTAS/2_Intermediate/temple_of_a_thousand_skies, lvl_b-05 (2
   40
 
 #lvl_c-02
-Read, ../StrawberryJamTAS/2_Intermediate/temple_of_a_thousand_skies, lvl_c-02
+Read,../StrawberryJamTAS/2_Intermediate/temple_of_a_thousand_skies,lvl_c-02
 
 ChapterTime: 2:09.047(7591)

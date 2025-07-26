@@ -424,7 +424,7 @@ Read,../../../StrawberryJamTAS/3_Advanced/undergrowth.tas,lvl_03-a (1),lvl_06-a 
   13,L,U,Z
    8,L,J,G
    9,K
-#+1f: wait a frame longer here for 
+#+1f: wait a frame longer here for
 #better moonblock positioning
    7,L
    1
@@ -557,7 +557,7 @@ StunPause
    1,R,J
    3,J
    3
-SkipInput 3 1
+SkipInput,3,1
   14,U,X
    1,J
 EndStunPause

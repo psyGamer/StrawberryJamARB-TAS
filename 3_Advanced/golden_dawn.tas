@@ -10,7 +10,7 @@ console load StrawberryJam2021/3-Advanced/Maladroit
    0
 
 #lvl_A0
-read,../StrawberryJamTAS/3_Advanced/golden_dawn,lvl_A0,lvl_A2
+Read,../StrawberryJamTAS/3_Advanced/golden_dawn,lvl_A0,lvl_A2
 
 #lvl_A2 (0)
    5,R,J
@@ -153,7 +153,7 @@ read,../StrawberryJamTAS/3_Advanced/golden_dawn,lvl_A0,lvl_A2
   40
 
 #lvl_A4
-read,../StrawberryJamTAS/3_Advanced/golden_dawn,lvl_A4,lvl_A5
+Read,../StrawberryJamTAS/3_Advanced/golden_dawn,lvl_A4,lvl_A5
 
 #lvl_A5 (0)
    4,R,K
@@ -181,7 +181,7 @@ read,../StrawberryJamTAS/3_Advanced/golden_dawn,lvl_A4,lvl_A5
    5,D
    8
    1,L
-Repeat 2
+Repeat,2
    1,J,G
   14
 EndRepeat
@@ -284,7 +284,7 @@ EndRepeat
   40
 
 #lvl_Brys2-2-2
-read,../StrawberryJamTAS/3_Advanced/golden_dawn,lvl_Brys2-2-2,lvl_A6
+Read,../StrawberryJamTAS/3_Advanced/golden_dawn,lvl_Brys2-2-2,lvl_A6
 
 #lvl_A6 (0)
   12,R,D
@@ -349,10 +349,10 @@ read,../StrawberryJamTAS/3_Advanced/golden_dawn,lvl_Brys2-2-2,lvl_A6
   15,R,X
   10,R,D
   20,D
-stunPause
+StunPause
    6,D
   17,R,D
-endStunPause
+EndStunPause
   18,R,D
    7,R,J
   14,R,X
@@ -402,6 +402,6 @@ endStunPause
   40
 
 #lvl_A7
-read,../StrawberryJamTAS/3_Advanced/golden_dawn,lvl_A7
+Read,../StrawberryJamTAS/3_Advanced/golden_dawn,lvl_A7
 
 ChapterTime: 1:57.946(6938)

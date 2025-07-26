@@ -4,7 +4,7 @@ console load StrawberryJam2021/4-Expert/Agent
    1
 
 #Start
-Read, ../StrawberryJamTAS/4_Expert/a_change_in_direction, Start, lvl_Agent_03
+Read,../StrawberryJamTAS/4_Expert/a_change_in_direction,Start,lvl_Agent_03
 
 #lvl_Agent_03
 #any% start
@@ -197,6 +197,6 @@ EndStunPause
   40
 
 #lvl_Agent_05
-Read, ../StrawberryJamTAS/4_Expert/a_change_in_direction, lvl_Agent_05
+Read,../StrawberryJamTAS/4_Expert/a_change_in_direction,lvl_Agent_05
 
 ChapterTime: 0:58.293(3429)

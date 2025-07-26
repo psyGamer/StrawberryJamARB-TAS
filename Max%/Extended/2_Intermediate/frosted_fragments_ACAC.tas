@@ -18,7 +18,7 @@ StunPause
    6,R
    6,R,J
    9,J
-SkipInput 3 1
+SkipInput,3,1
   15,U,X
    2
    3,J
@@ -27,7 +27,7 @@ SkipInput 3 1
    4,R,J
    8,R
    3
-SkipInput 3 1
+SkipInput,3,1
    4,X
 EndStunPause
    1,R,J
@@ -85,7 +85,7 @@ EndStunPause
   43
 
 #lvl_a2v2
-Read, ../../../StrawberryJamTAS/2_Intermediate/frosted_fragments.tas, lvl_a2v2,lvl_a3v2
+Read,../../../StrawberryJamTAS/2_Intermediate/frosted_fragments.tas,"lvl_a2v2,lvl_a3v2"
 
 #lvl_a3v2
    1
@@ -189,7 +189,7 @@ Read, ../../../StrawberryJamTAS/2_Intermediate/frosted_fragments.tas, lvl_a2v2,l
   40,J
 
 #lvl_a4v2
-Read, ../../../StrawberryJamTAS/2_Intermediate/frosted_fragments.tas, lvl_a4v2 (0),lvl_a6v2
+Read,../../../StrawberryJamTAS/2_Intermediate/frosted_fragments.tas,"lvl_a4v2 (0),lvl_a6v2"
 
 #lvl_a6v2 (0)
   11
@@ -353,6 +353,6 @@ EndRepeat
   40
 
 #lvl_pushupv2
-Read, ../../../StrawberryJamTAS/2_Intermediate/frosted_fragments.tas,lvl_pushupv2
+Read,"../../../StrawberryJamTAS/2_Intermediate/frosted_fragments.tas,lvl_pushupv2"
 
 ChapterTime: 1:55.277(6781)

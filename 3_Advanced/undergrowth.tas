@@ -70,7 +70,7 @@ StunPause
    3,K,G
    7,R
    4,R,J
-SkipInput 3 1
+SkipInput,3,1
   10,U,X
 EndStunPause
    5,U,X
@@ -319,7 +319,7 @@ EndStunPause
    6,L,D,X
 #Spinner Cycle [06-b]
 #will probably affect key cycle
-#in the next room 
+#in the next room
 #####
    1,R,J
    2
@@ -737,7 +737,7 @@ StunPause
    6,J
    1,R,J
    4,R
-SkipInput 3 1
+SkipInput,3,1
   14,U,X
    1,L,J
 EndStunPause

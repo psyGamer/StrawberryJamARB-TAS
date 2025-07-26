@@ -156,7 +156,7 @@ Read,../../StrawberryJamTAS/3_Advanced/raindrops_on_roses.tas,lvl_6,lvl_7
    3,D
    4
 #key cycle
-Repeat 3
+Repeat,3
    2,L
    8
    3,R

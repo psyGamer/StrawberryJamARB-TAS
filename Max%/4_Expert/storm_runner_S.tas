@@ -85,7 +85,7 @@ Read,../../StrawberryJamTAS/4_Expert/storm_runner.tas,lvl_a-02,lvl_a-07
    6,R
 StunPause
    7,R
-SkipInput 3
+SkipInput,3
    9,R
    3,R,D
 EndStunPause

@@ -111,7 +111,7 @@ Read,../StrawberryJamTAS/1_Beginner/cassette_cliffs,Start,lvl_4
    8,R,J
   40
 
-#lvl_3 (1)
+#lvl_3
    7,R
   14,R,D,X
    2,R,J
@@ -400,7 +400,7 @@ Read,../StrawberryJamTAS/1_Beginner/cassette_cliffs,Start,lvl_4
    5,R
   40
 
-#lvl_13-c
+#lvl_11-c
 Read,../StrawberryJamTAS/1_Beginner/cassette_cliffs,lvl_11-c
 
 ChapterTime: 1:15.106(4418)

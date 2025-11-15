@@ -1,13 +1,17 @@
-RecordCount: 3836
+RecordCount: 3926
 
 console load StrawberryJam2021/2-Intermediate/Ice
    1
 
 #Start
-Read,../StrawberryJamTAS/2_Intermediate/temple_of_a_thousand_skies,Start,lvl_b-04
+ 190
+
+#lvl_a-01
+Read,../StrawberryJamTAS/2_Intermediate/temple_of_a_thousand_skies,lvl_a-01,lvl_b-04
 
 #lvl_b-04
-  10,R,K
+  10,R,U,X
+   1,R
   37,U,X
    6,R,D,C
    1,R,J
@@ -23,13 +27,15 @@ Read,../StrawberryJamTAS/2_Intermediate/temple_of_a_thousand_skies,Start,lvl_b-0
    1
   66,D,X
   22,L,U,C
-   1,J
 #any%-end
-  40,D
-   8,L,D
+   1,J
+  39,D
+   7,L,D
+   1,D
+   2,L,D
   19,L
   15,L,X
-  28,L
+  26,L
    4,L,Z
    1,L,J
    4,L
@@ -47,72 +53,88 @@ Read,../StrawberryJamTAS/2_Intermediate/temple_of_a_thousand_skies,Start,lvl_b-0
   11,L,D
   48,D,X
 #any%-start
-  42,D,C
-   3,R,D
-  14,R,D,X
+  15,D,C
+  28
+   2,R
+  13,R,D,X
    1,R,J
    5,R
   40
 
 #lvl_b-03
    1,R
-   2,R,J
-   4,L,J
-   5
    1,R,J
-  54,L
-   6,L,D
-  17,R,D
-  15,R,X
-  10,R
-  10,R,Z
-   4,R,J
-   6,R
-   1,R,K
-  13,R,D
+  18,R
+   5,R,D
   15,L,D,X
-  14,L,D
-  12,D
-   8,L,J
-  10,L,X
+  26,L,D
+   9,D
+  12,R,D
+   9,R,J
+  15,R,X
+   3,R
+  11,R,Z
+   3,R,J
+  16,R
+   4,R,D
+  15,L,D,X
+  13,D
+   7,L,D
+   6,L
+   7,L,J
+  11,L,X
   15,L,C
   13,L
   15,L,X
    1,J
-  41,R,D
+  13
+   5,R
+  23,R,D
   13,R,Z
   15,R,U,X
   33,R,C
    4,R,J
    1,R,K
   15,R,D,X
-  20,R
-   1,D
-   2,R,D
-   1,R,J
-  14,R,D,X
-   3,R,J
-  11,R
-  12,R,U,X
-   1,R,J,G
-  10,R
-   7,R,J
-#any%-end
-  55,U,X
-   7
+  19,R
+   1,R,D
    2,R
+   1,R,D
+   4,Z
+   1,R,J
+   6,R
+  10,R,J
+   5,R
+   2,R,K
+   1,R
+  14,R,Z
+   1,R,J
+   6,R
+#any%-end
+   2,R,J
+   1,J
+   3,R,J
+  55,U,X
+   4
+   1
+   1,R
+   2
+   1,R
   15,L,D,X
    1,L,J
   10,L,D,X
    8,L,J
   15,L,D,X
-   8,L,D
-  10,L,U,C
-  19
+   5,L,D
+   2,L
+   1,L,D
+   9,L,U,C
+  18
+   1
   77
    4,R,Z
    1,R,J
-   7,R
+   6,R
    5,R,J
   15,R,D,X
   15,D,C
@@ -123,7 +145,6 @@ Read,../StrawberryJamTAS/2_Intermediate/temple_of_a_thousand_skies,Start,lvl_b-0
    5,L
    6,L,J
   15,L,U,Z
-#any%-start
    1,J
    7,R,D,X
    2,J,G
@@ -140,29 +161,35 @@ Read,../StrawberryJamTAS/2_Intermediate/temple_of_a_thousand_skies,Start,lvl_b-0
    4
   15,L,D,X
   10,L,D
+#any%-start
    8,L,D,X
-  15,L,J
+   9,L,J
+   4,L
+   1,L,K
   15,L,U,Z
-   1,R
-   1,R,J,G
-   8,R,G
-  37,R,U,G
-   1,R,J,G
-   6,K
-  11,L,K
+   9
+   1,R,G
+   2,R,J,G
+   7
+   6,G
+  19,U,G
+   3,G
+   1,J,G
+   5,K
+   7,L,K
+   4,L
   10,L,D,X
    5,L,J
   14,L,D,X
    2,L,J
-   5,L
+   4,L
    1,L,K
-   3,L
+   4,L
    4
-   1,L,J,G
-   8,L,J
+   9,L,J,G
   15,L,D,X
   10,L
-   4,L,D,X
+   4,Z
    1,L,J
    4,L
    1,L,J
@@ -173,27 +200,39 @@ Read,../StrawberryJamTAS/2_Intermediate/temple_of_a_thousand_skies,Start,lvl_b-0
   40
 
 #lvl_b-02 (2)
-Read,../StrawberryJamTAS/2_Intermediate/temple_of_a_thousand_skies,lvl_b-02 (2),spinner cycle (2/3)
-#spinner cycle (2/3)
-   0
-##
-   8,L,J
-  38,U,X
-  40
+Read,../StrawberryJamTAS/2_Intermediate/temple_of_a_thousand_skies,lvl_b-02 (2),Spinner cycle [b-07]
 
-#lvl_b-07
-Read,../StrawberryJamTAS/2_Intermediate/temple_of_a_thousand_skies,lvl_b-07,spinner cycle
-#Spinner Cycle [b-06]
+#Spinner cycle [b-07]
    2
-#####
-   4,R,Z
-   1,R,J
-   8,D
-   7,R,D
-  19,D,X
+#-----
+  15,L,C
+  15,L,X
+  14,L
+  11,L,D
+   2,L
+   2,L,D
+   1,L
+   1,L,D
+   4,Z
+   1,L,J
+   6,L
+   7,L,J
   40
 
 #lvl_b-05 (0)
+Read,../StrawberryJamTAS/2_Intermediate/temple_of_a_thousand_skies,lvl_b-05 (0),Spinner cycle [b-06]
+
+#Spinner cycle [b-06]
+   1
+#-----
+   4,Z
+   1,R,J
+   8
+   7,R
+  19,D,X
+  40
+
+#lvl_b-05 (1)
 Read,../StrawberryJamTAS/2_Intermediate/temple_of_a_thousand_skies,lvl_b-05 (1),lvl_b-06
 
 #lvl_b-06
@@ -211,9 +250,9 @@ Read,../StrawberryJamTAS/2_Intermediate/temple_of_a_thousand_skies,lvl_b-05 (1),
   13,L,U,Z
    1,R,U,Z
    2,J,G
-   1,L,K,G
-   6,R,K
-   1,R,J,G
+   1,L,J,G
+   6,R,J
+   1,R,K,G
    2,R
    2,R,J,G
    4
@@ -225,12 +264,12 @@ Read,../StrawberryJamTAS/2_Intermediate/temple_of_a_thousand_skies,lvl_b-05 (1),
    5,D
    1,L,D
   12,D
-StunPause,input
+StunPause
   18,D
 EndStunPause
   14,L,D
    9,D
-StunPause,input
+StunPause
    6,D
    9,R,D
    5,L,D
@@ -267,28 +306,34 @@ EndStunPause
    1,R,J
    4,R
 #any%-start
-   4,R,Z
+   4,Z
    1,R,J
    7,R
    7,R,J
-  14,R,D
-   8,L,D
+  12,R
+   1,R,D
+   1
+   4,L
+   4,L,D
    3,D
    1,L,D
-   1,D
+   1
   13,U,X
    3,R,J
-  16,L,J
-   1,L,K
-   9,L,J
+  12,J
+   2
+   2,L
+   1,K
+   1,J
+   8,L,J
   25,U,X
   40
 
-#lvl_b-05 (1)
+#lvl_b-05 (2)
 Read,../StrawberryJamTAS/2_Intermediate/temple_of_a_thousand_skies,lvl_b-05 (2),lvl_c-01
 
-#any%-end
 #lvl_c-01
+#any%-end
   21
    5,R,Z
    1,R,J
@@ -321,4 +366,4 @@ Read,../StrawberryJamTAS/2_Intermediate/temple_of_a_thousand_skies,lvl_b-05 (2),
 #lvl_c-02
 Read,../StrawberryJamTAS/2_Intermediate/temple_of_a_thousand_skies,lvl_c-02
 
-ChapterTime: 2:09.047(7591)
+ChapterTime: 2:08.333(7549)

@@ -1,4 +1,4 @@
-RecordCount: 1303
+RecordCount: 1315
 
 console load StrawberryJam2021/2-Intermediate/Dooshii
    1
@@ -345,4 +345,4 @@ EndStunPause
 #lvl_downmoveblockv2
 Read,../StrawberryJamTAS/2_Intermediate/frosted_fragments,lvl_downmoveblockv2
 
-ChapterTime: 1:57.147(6891)
+ChapterTime: 1:56.943(6879)

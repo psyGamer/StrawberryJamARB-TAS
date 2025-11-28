@@ -1,13 +1,17 @@
-RecordCount: 926
+RecordCount: 1279
 
 console load StrawberryJam2021/3-Advanced/astraxel
    1
 
 #Start
+ 190
+
 #Spinner Cycle [mini-hearth (0)]
    2
-#####
-Read,../StrawberryJamTAS/3_Advanced/sands_of_time,Start,lvl_a-06
+#-----
+
+#lvl_a-00
+Read,../StrawberryJamTAS/3_Advanced/sands_of_time,lvl_a-00,lvl_a-06
 
 #lvl_a-06 (0)
    1,R,J
@@ -97,16 +101,13 @@ Read,../StrawberryJamTAS/3_Advanced/sands_of_time,Start,lvl_a-06
    3
    1,L,D,J
    3,J
+   1,L
    5
-   1,J
-  18,D
-  34,R,D
-  18,R,Z
-   9
-  14,R,U,C
+  51,R,D
+  26,R,Z
+  13,R,U,X
    2,R,J,G
-   5,R
-  15,R,D
+  20,R,D
    7,L,D
   15,D
    2,R,D
@@ -137,25 +138,25 @@ Read,../StrawberryJamTAS/3_Advanced/sands_of_time,Start,lvl_a-06
   18,L,U,X
   15,U,C
   14,L,U,X
-   1,J,G
-   7
-  12,R,J
-  18,U,X
-  18,U,C
+   1,L,J,G
    1,R
-  15,U,X
-  18,U,C
-  11,L,U,X
-   2,L,J,G
+   6
+   9,U,X
+  20,L,J
+  18,U,X
+  15,U,C
+  18,U,X
+  12,L,U,C
+   1,L,J,G
    7,L
-   4,D,X
-   1,L,J
-   7,L
+   4,L,Z
    2,L,J
-   1,L
-   9,G
-   3,D,G
-  84,G
+   8,L
+   2,L,J
+  11,U,X
+   8,R,J
+   2,J
+  77
    7,R,X
   11,R,J
    7,R
@@ -166,7 +167,8 @@ Read,../StrawberryJamTAS/3_Advanced/sands_of_time,Start,lvl_a-06
   40
 
 #lvl_a-06 (1)
-   4,R,D,J
+   1,R
+   3,R,D,J
   14,R,U,X
    5,R,J,G
    7,R
@@ -175,23 +177,24 @@ Read,../StrawberryJamTAS/3_Advanced/sands_of_time,Start,lvl_a-06
    1,L,K
    7,K
   15,U,X
-  18,R,J
+  14,R,J
+   4,J
   40
 
 #lvl_b-01
-   4,R
-   1,K
-   2,J,G
-   8,L,J
-   5,L
-  13,L,U,X
-  11,L,J,G
-   7,L
-   1,L,D,J
-  14,L
-   3,L,D
+  13,L,J
+  15,L,U,X
+   6,L,J,G
+   1,L,K,G
+   3,R,K
+   5,L,K
+   1,L,J,G
+   1,L,K,G
+   6,L
    1,L,J
-  14,D
+  10,L,D
+   1,L,J
+  13,D
    9,L,J
   11,L,U,Z
    1,L,J
@@ -305,4 +308,4 @@ EndStunPause
    5,D,X
  135
 
-ChapterTime: 1:21.396(4788)
+ChapterTime: 1:21.090(4770)

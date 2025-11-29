@@ -1,4 +1,4 @@
-RecordCount: 1483
+RecordCount: 1588
 
 console load StrawberryJam2021/3-Advanced/Roborb
    1
@@ -7,19 +7,20 @@ console load StrawberryJam2021/3-Advanced/Roborb
 Read,../StrawberryJamTAS/3_Advanced/belated_valentines_day,Start,lvl_1-f
 
 #lvl_1-f (0)
-   7,R
+   3,R
+   1,R,K
+   3,R
    7,R,J
   15,R,D,X
-  15,R,Z
-   5,R
-  15,R,U,X
-  21,R
-  15,R,X
-  18,R
-   2
+  15,R,D,C
    1,R
-   7,L
-   2,L,D
+  15,R,U,X
+   9,R
+  15,R,U,Z
+  36,R
+   8,L,D
+   1,L
+   1,L,D
   20,R
   15,R,U,X
   11,R
@@ -68,21 +69,9 @@ Read,../StrawberryJamTAS/3_Advanced/belated_valentines_day,Start,lvl_1-f
   40
 
 #lvl_1-f (1)
-#new any% strat seems impossible
-#end inputs here
-#   3,R
-#  12,R,U,Z
-#   1,R,J,G
-#  13,R
-#   1,R,J
-#   8,R,D,X
-#  40
-#read, ../StrawberryJamTAS/3_Advanced/belated_valentines_day, lvl_1-g, lvl_2-b
-#####
-
+#the strat for any% with the upright demo through the spinners at the end doesn't seem possible
    2
   11,R,J
-   0,R
   15,L,U,X
    4,L
   15,U,C
@@ -104,39 +93,49 @@ Read,../StrawberryJamTAS/3_Advanced/belated_valentines_day,Start,lvl_1-f
   40
 
 #lvl_1-g
-#old any% inputs
-#~-2f from current any% inputs
    2,R,D,X
    1,R,J
    7,R
-   1,R,J
-  15,R
-  18,R,U,X
-  14,R,D,C
-   7,R,J
-   1,R
-   1,R,J
-   3,R
-   2,R,J
-   9,R
-  15,R,U,X
+  10,R,D,J
    5,R
-   3,L
-  15,U,X
-   3,L
-   1,R
-   3,L
-  21,R
-   1
-  14,U,Z
-  23,L,J
-   4,L
-  22,R,D
-   6,R
-   2
+   2,R,K
+   4,R
+  18,R,X
 #any%-start
+  14,R,D,C
+  12,R,J
+   1,R
+  12,R,K
+  15,U,X
+
+#slight change to left-moving
+#    5,L
+#    3,L,J,G
+   1
+   4,L
+   1,L,J,G
+   2,J
+#-----
+
+   1,K
+   4,X
+   1,L,D,X
+  12,R,J
+   1,R
+  11,R,K
+   3,R
+   1
+  10,U,Z
+  15,L,J
+   8,L
+   4,L,K
+  18,R
+  11,R,D
+   1,D
   10,L,D,X
-  20,R,J
+  12,R,J
+   1,R
+   7,R,K
    9,R
   15,R,U,X
    9,R
@@ -168,7 +167,8 @@ Read,../StrawberryJamTAS/3_Advanced/belated_valentines_day,lvl_1-h,lvl_2-b
    3
    4,R,Z
    1,R,J
-   2,R
+   1,R
+   1
    2,R,J
    3,R
   10,R,D,J
@@ -176,53 +176,61 @@ Read,../StrawberryJamTAS/3_Advanced/belated_valentines_day,lvl_1-h,lvl_2-b
    7,R,J
   16,R
   15,R,X
-  11,R
+  12,R
   18,R,U,X
-   2,R
-  15,R,X
+  15,R,C
   14,R
-   4,R,D
-   7,L,D,X
-  24,R,J
-   4,R
+   5,R,D
+   6,L,D,X
+  12,R,J
+   1,R
+   7,R,K
+   1,R
+   2,R,K
+   5,R
   15,R,U,X
-#any%-end
-  19,R
    1
    1,R
    1
-  13,U,X
+  15,R
+  14,U,X
   15,L,J
-  11,L
+   1
+   7,L
+   1,L,K
+   2,K
   15,U,X
-   6,R
+   4,R
+   1
+   1,R
   13,U,X
-  29,L,J
-  19,L
+  39,L,J
+   6,L
   15,L,X
-  31,L
+  11,L
+  16,L
   15,R,U,X
-  17,R
-   5
-  10,D
+  19,R
+  10,L,D
+   1
+   1,R,D
+   1
+   8,R
+  15,R,X
+  17,L
   15,R,U,X
-  15,R,C
-   2,R
-  12
-   7,L,D
-  15,R,U,X
-   3,R
-  15,R,U,X
-  16,R
-#any%-start
-   6,R,Z
-   1,R,J
    7,R
+  15,R,U,X
+  14,R
+#any%-start
+   7,R,Z
    1,R,J
-   6,R,D,X
-  40
+   6,R
+   1,R,D,J
+   6,R,D,J,X
+  40,J
 
 #lvl_2-c
 Read,../StrawberryJamTAS/3_Advanced/belated_valentines_day,lvl_2-c
 
-ChapterTime: 0:59.840(3520)
+ChapterTime: 0:58.854(3462)

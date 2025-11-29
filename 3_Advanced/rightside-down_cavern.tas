@@ -1,4 +1,4 @@
-RecordCount: 10127
+RecordCount: 10138
 
 console load StrawberryJam2021/3-Advanced/Vamp
    1
@@ -7,13 +7,15 @@ console load StrawberryJam2021/3-Advanced/Vamp
   90
 
 #Spinner Cycle [Vamp_6]
-   0
-#####
+   1
+#-----
 
 #lvl_intro_SJ
-   5,R,Z
-   8,R,J
-   6,R
+   4,Z
+   7,R,J
+   1,R
+   2,R,K
+   4,R
   10,L,D,X
 Repeat,3
    1,R,J
@@ -77,17 +79,15 @@ EndRepeat
    1,U
    1,R,U
   10,U
-#any%-start
   16,L,U
    3,U
    3
    7,U
   14,R,U
+#any%-start
   15,R,U,X
   15,L,U,C
-  14,U
-   3
-   2,U
+  19,U
    1,R,U
    1,U
    9,R,U
@@ -112,11 +112,11 @@ EndRepeat
   40
 
 #lvl_Vamp_2
-Read,../StrawberryJamTAS/3_Advanced/rightside-down_cavern.tas, lvl_Vamp_2, lvl_Vamp_6
+Read,../StrawberryJamTAS/3_Advanced/rightside-down_cavern,lvl_Vamp_2,lvl_Vamp_6
 
 #lvl_Vamp_6
-   3,R
-  12,R,U,X
+   1,R
+  14,R,U,C
    1,R,J
    4,R,K,G
    5,R
@@ -127,7 +127,7 @@ Read,../StrawberryJamTAS/3_Advanced/rightside-down_cavern.tas, lvl_Vamp_2, lvl_V
   17,R,D,Z
 #any%-end
    9,R,J,G
-   2,J
+   2,J,G
    2,R,J
   15,D,X
   13,R
@@ -184,9 +184,10 @@ Read,../StrawberryJamTAS/3_Advanced/rightside-down_cavern.tas, lvl_Vamp_2, lvl_V
    1,L,J
    9,R,J
   15,D,X
-   1,R
+#0/1f wait stun; should never need the spinner cycle to be 2f long
+   2,R
 StunPause
-   6,R
+   5,R
    1
    2,R
    4,J
@@ -200,25 +201,28 @@ EndStunPause
 
 #Spinner Cycle [Vamp_8]
 
+##
 #+0f:
-  11,R,U
-  19,U
-   5,R,Z
-###
+#   11,R,U
+#   19,U
+#    5,R,Z
+#---
 
 #+1f:
-#   9,R,U
-#  21,U
-#   6,R,Z
-###
+   9,R,U
+  21,U
+   6,R,Z
+#---
 
 #+2f:
 #   7,R,U
 #  23,U
 #   7,R,Z
-###
+#---
 
-#####
+##
+
+#-----
 
 #any%-start
    1,R,J
@@ -232,6 +236,6 @@ EndStunPause
   40
 
 #lvl_Vamp_7
-Read,../StrawberryJamTAS/3_Advanced/rightside-down_cavern.tas, lvl_Vamp_7
+Read,../StrawberryJamTAS/3_Advanced/rightside-down_cavern,lvl_Vamp_7
 
-ChapterTime: 1:07.031(3943)
+ChapterTime: 1:05.960(3880)

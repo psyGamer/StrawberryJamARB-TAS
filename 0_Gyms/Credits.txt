@@ -1,6 +1,6 @@
 These files are all copied directly from Mr. Wolf / Emma's github repository with her permission.
 
-The files include all 5 of the main gyms, as well as the library.0
+The files include all 5 of the main gyms, as well as the library.
 
 These are the people who have worked on the 5 Gym TASes:
 Emma / Mr. Wolf

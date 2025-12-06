@@ -5,24 +5,23 @@ console load StrawberryJam2021/2-Intermediate/marlin
 
 #Start
 #lvl_1
-Read,../StrawberryJamTAS/2_Intermediate/low-g_botany.tas,Start,lvl_4
+Read,../StrawberryJamTAS/2_Intermediate/low-g_botany,Start,lvl_4
 
 #lvl_4 (0)
+   5,R,U,X
+   4,R
+  15,R,U,X
+   5,R
+   5,L,D,X
+   1,R,J
    1,R,K
-  15,R,D,X
-   2,L
-   3,R
-  14,L,X
-  12,R,J
-  34,R
-  15,R,D,X
-   3,R,D
+   2,R,D
+   1,R,D,J
+  13,R
+  18
   15,D,X
-  20,D
-   2,L,D
-   1,D
-   1,L,D
-  17,D
+   3,L,D
+  47,D
   14,R,Z
    6,R,J
   12,R
@@ -51,7 +50,7 @@ Read,../StrawberryJamTAS/2_Intermediate/low-g_botany.tas,Start,lvl_4
   20,R
   36,R,X
    4,Z
-#any% end
+#any%-end
    7,R,J
    1,K,G
    4,K
@@ -116,7 +115,6 @@ Read,../StrawberryJamTAS/2_Intermediate/low-g_botany.tas,Start,lvl_4
   15,R,X
    3,R
    7
-
 #any%-start
    4,Z
    5,R,J
@@ -156,7 +154,7 @@ Read,../StrawberryJamTAS/2_Intermediate/low-g_botany.tas,Start,lvl_4
   12,R,J,G
   40
 
-# lvl_5b
+#lvl_5b
 Read,../StrawberryJamTAS/2_Intermediate/low-g_botany.tas,lvl_5b,lvl_6
 
 #lvl_6
@@ -226,8 +224,8 @@ Read,../StrawberryJamTAS/2_Intermediate/low-g_botany.tas,lvl_5b,lvl_6
    9,R,K,G
   40
 
-#any%-start
 #lvl_7
+#any%-start
 Read,../StrawberryJamTAS/2_Intermediate/low-g_botany.tas,lvl_7
 
-ChapterTime: 1:29.981(5293)
+ChapterTime: 1:29.641(5273)

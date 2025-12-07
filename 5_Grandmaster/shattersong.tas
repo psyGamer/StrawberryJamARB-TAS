@@ -1,4 +1,4 @@
-RecordCount: 6327
+RecordCount: 6329
 
 console load StrawberryJam2021/5-Grandmaster/Hydro
    1
@@ -6,8 +6,9 @@ console load StrawberryJam2021/5-Grandmaster/Hydro
 #Start
  190
 
-#SpinnerCycle [B1]
+#Spinner Cycle [B1]
    2
+#---
 
 #lvl_Broken Pieces
 Read,../StrawberryJamTAS/5_Grandmaster/shattersong,lvl_Broken Pieces,lvl_A1
@@ -443,9 +444,9 @@ Read,../StrawberryJamTAS/5_Grandmaster/shattersong,lvl_Second Movement,lvl_B3
   14,L,U,X
    7,L,K,G
    7,L
-#spinner cycle [Fading]
-   2
-#
+#Spinner Cycle [Fading]
+   0
+#---
   16,U,X
   40
 
@@ -808,9 +809,9 @@ EndStunPause
   15,D,X
   15,D,C
    8,D
-#SpinnerCycle [Cadenza]
+#Spinner Cycle [Cadenza]
    1,D
-#
+#---
   14,R,Z
    2,R,J
    3,R
@@ -951,4 +952,4 @@ Repeat,45
    1,L,D
 EndRepeat
 
-ChapterTime: 2:30.365(8845)
+ChapterTime: 2:29.838(8814)

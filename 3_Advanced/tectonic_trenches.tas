@@ -1,4 +1,4 @@
-RecordCount: 3757
+RecordCount: 3963
 
 console load StrawberryJam2021/3-Advanced/Julia
    1
@@ -7,35 +7,39 @@ console load StrawberryJam2021/3-Advanced/Julia
   69
 
 #Spinner Cycle
-   1
+   0
 
 #lvl_a-01
-Read,../StrawberryJamTAS/3_Advanced/tectonic_trenches.tas,lvl_a-01,lvl_a-04
+Read,../StrawberryJamTAS/3_Advanced/tectonic_trenches,lvl_a-01,lvl_a-04
 
 #lvl_a-04
-   6,R,D,X
-   4,R,J
-   6,L,J
-   1,R,J
-  15,U,Z
-   1,L
-   3,L,J,G
-  16,L
-   1
-  15,D,X
-  10
+   5,R,D,X
+  11,R,J
    1,R
-  22,R,J
-  14,R,U,X
-  12,G
-  16,R,G
-   5,R
-  21
-  15,D
-  14,L,D
+  15,U,Z
    2,L
-   6
-   2,D
+   2,L,J,G
+   3,L
+   1
+   9,L
+  15,D,X
+  11
+   1,R,J
+   1,J
+   1,R,J
+   1,J
+   8,R,J
+   1
+   3,R
+  14,R,U,X
+  37,R,D,J,G
+   4,R,D,G
+  10
+  17,L,D
+  13,D
+   3
+   9,L
+   1,D
    5,L,X
    1,L,J,G
    1,J
@@ -48,47 +52,68 @@ Read,../StrawberryJamTAS/3_Advanced/tectonic_trenches.tas,lvl_a-01,lvl_a-04
    1,J
   15,U,X
    1,R
-  18,R,J
-  15,R,D,X
-   1,R
-  15,D,C
-   8,R
+  10,R,J
+   8
+   1,K
+   4
+  12,R
+   9,R,D
+   6,D
+   2
+   2,L,D
+   7
   11,R
   15,R,Z
-#any%-end
-   8,R
-   4
-   4,R
+   6,R
+   1
+   1,R
+   5
    7,R,U,X
-  80,R,U,G
-  17,R,D,G
-  21,L,D,G
+  21,R,G
+  10,R
+  11,R,X
+  24,R,U,K,G
+#any%-end
+   1,R,U,G
+   6,U,G
+   1,R,U,G
+   3,G
+  28,L,D,G
    1,L,G
    1,L,D,G
-   2,L,G
+   1,L,G
    1,L,D,G
-   2,L,G
+   1,L,G
+   1,L,D,G
+   3,L,G
    1,L,D
   15,L,Z
-  27,L,U,X
-  25,R,D
-  17,R
+  15,L,U,X
+   9,L
+   2
+   2,L
+  24,R,D
+  15,R
+   1,R,D
+   1,R
    3,L,J,G
-   1,R,J
-  26,R,K,G
+   1,R
+   1
+  27,R,K,G
   30,R,U,G
-   6,R
+   4,R
+   1
   15,R,U,X
   21,L,G
   10,L
   12,U,X
-  14,G
-  10,R,G
+  13,G
+   9,R,G
    1,L
-   5
-   1,R
-   6
-   2,L,J
+   6,R
+   7
+   1,L,K
+   1,L
   10,R,Z
    1,R,J
    1,R
@@ -216,17 +241,19 @@ Read,../StrawberryJamTAS/3_Advanced/tectonic_trenches.tas,lvl_a-01,lvl_a-04
    4,D
    1,R,D
   16,D
+   1,R,N
+   4,D,J
 #any%-start
-   1,D,N
-   1,R,D,J
-   2
-  13,L,U,X
+  12,L,U,X
    1,J,G
-   5,L
+   6
+   2,R
+   1,R,K
    1,R
-   1
-   6,R
-  17,R,J
+   1,R,K
+   2,R
+  12,R,J
+   4,R
   12,R,D,X
    4,R,J
    3,R,K
@@ -252,8 +279,8 @@ Read,../StrawberryJamTAS/3_Advanced/tectonic_trenches.tas,lvl_a-01,lvl_a-04
   15,D,X
 #fast fall
    6,R,D
-#   6,R
-#####
+#    6,R
+#---
   12,R
    1,J,G
    3
@@ -296,9 +323,9 @@ Read,../StrawberryJamTAS/3_Advanced/tectonic_trenches.tas,lvl_a-01,lvl_a-04
   13,R,D
    1,R,J
    5,R,D,X
-  40
+  40,J
 
 #lvl_a-07
-Read,../StrawberryJamTAS/3_Advanced/tectonic_trenches.tas,lvl_a-07
+Read,../StrawberryJamTAS/3_Advanced/tectonic_trenches,lvl_a-07
 
-ChapterTime: 1:07.745(3985)
+ChapterTime: 1:07.439(3967)

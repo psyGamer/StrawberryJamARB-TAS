@@ -1,4 +1,4 @@
-RecordCount: 17872
+RecordCount: 17892
 
 console load StrawberryJam2021/3-Advanced/Worldwaker2
    1
@@ -361,29 +361,28 @@ EndStunPause
    2,R,K,G
   35,R,J,G
   13,U,X
-   3,R,J
-   1,K,G
-   6,R
-   1,R
-   2,L
-   1,L,D,J
-  39,D
-#key cycle
-  23
+  12,R,J
+   2,R
+# key cycle
+  91
 ##
-   3,D,J
-   4,K,G
-  10,R,K
-   5,J,G
-   7,L,J
-  12,L,K,G
-  11,L,J,G
-#any% start
-  11,R,D,X
-   2,J
-   2
-  12,R,D,X
-  40
+
+# any%-start
+   7,L
+   1,D,J
+  10
+   5,L
+   6,L,Z
+   1,R,J
+   1,J
+   1,D
+   1,R,J
+  12,R,D
+   2,R,J
+   1,L,J
+## dash blocks are already all broken, so no need to wait for freeze frames
+#  43,R,J
+  40,J
 ##
 
 #lvl_3 (0)
@@ -1324,4 +1323,4 @@ EndStunPause
    1,L,Z
   59,L,J
 
-ChapterTime: 3:12.729(11337)
+ChapterTime: 3:12.627(11331)

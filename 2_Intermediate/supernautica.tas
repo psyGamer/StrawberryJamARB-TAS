@@ -1,4 +1,4 @@
-RecordCount: 2923
+RecordCount: 2983
 
 console load StrawberryJam2021/2-Intermediate/LegS
    1
@@ -7,29 +7,31 @@ console load StrawberryJam2021/2-Intermediate/LegS
 Read,../StrawberryJamTAS/2_Intermediate/supernautica,Start,lvl_LegS-2
 
 #lvl_LegS-2
+   3,R,D,X
    1,R,J
    7,R
-   8,R,J
-   5,R
-   5,R,J
-  14,R,U,X
+  12,R,J
+   1
+   2,R
+  12,R,U,X
   21,R,G
    1,R,D
-  21,R
+   8,R
+   1,R,K
+   6,R
+   3
+   3,D
   10,L,X
-# change speed and position
-# for more optimal wallbounce
-# using left wall
-   2,J
-  12,L,J
-  19,L,G
-   6,G
-##
+  13,L,J
+  24,L,G
    1,R
-  15,L,Z
+   2,L
+  12,L,Z
 #any%-end
-   2,L,J
-  15,U,X
+   3,L,J
+   1,K
+   1,J
+  14,U,X
    8,R,J
   40
 
@@ -106,9 +108,12 @@ Read,../StrawberryJamTAS/2_Intermediate/supernautica,Start,lvl_LegS-2
 #lvl_LegS-4
 Read,../StrawberryJamTAS/2_Intermediate/supernautica,lvl_LegS-4,lvl_LegS-B2
 
-#any%-end
 #lvl_LegS-B2
-  11
+#any%-end
+   1,J,G
+   1,R
+   8
+   1,J
    8,R,U,X
    3,R,J,G
    7,R
@@ -142,22 +147,25 @@ Read,../StrawberryJamTAS/2_Intermediate/supernautica,lvl_LegS-4,lvl_LegS-B2
    2,L,J
    4,J
    2,L,J
-#any%-start
-   6,L,Z
+   7,L,Z
    1,L,J
-   7,L
-   5,L,J
-   3,J
-   4,L,J
+   6,L
+   1,L,J
+   6,L,D,K
+   2,K
+   3,L
+#any%-start
   15,U,X
    6
    4,L
   42,L,U,J,G
    1,L
   15,L,D
-  15,D
-   1,R,D
-   1,R
+  10
+   1,L
+   2,D
+   2,R,D
+   1
    6,R,Z
    1,L,J
    8,L,D
@@ -168,9 +176,17 @@ Read,../StrawberryJamTAS/2_Intermediate/supernautica,lvl_LegS-4,lvl_LegS-B2
   15,U,X
    8,L
   17,L,U,G
+
+#be slightly more right for the transition into LegS-6
+##
+#    2
+#    1,L
+##
    3
+#-----
+
    1,R,J
-   1,D,J
+   1,L,D,J
    1,L,J
    7,L
   14,U,X
@@ -179,71 +195,6 @@ Read,../StrawberryJamTAS/2_Intermediate/supernautica,lvl_LegS-4,lvl_LegS-B2
   40
 
 #lvl_LegS-6
-   5
-   2,J,G
-   2,L,J
-   1,J
-   3,L,J
-  14,L,X
-   1,R,N
-  24
-   1,S
-   1,D,O
-  34
-#Spinner unload cycle
-   1
-#####
-   5,J,AR
-   9,R,J
-  15,U,X
-   5,R
-  49,R,U,G
-   1,R,D
-   6,R
-   1,S,N
-   9,O
-  12,J
-  22,R,G
-   1,D
-   4,R
-   6
-  10,U,Z
-  21,R,G
-   1,R,D
-  25,R
-  14,L,Z
-   1,S,N
-   9,O
-   3,R,J
-   5,R,D,Z
-  13,R,G
-   1,S,N
-   9,O
-  57,R,J,G
-   1,R,U,G
-   1
-   7,R
-  14,R,U,Z
-  21,R,G
-  13,R
-   1,Z
-   3,R,J,Z
-   4,R,J
-  43,R,G
-  12,R,D,G
-   2,R,G
-   1,S,N
-   9,O
-   9,R,J,G
-  29,J,G
-   6,D
-  16,U,X
-  30,U,G
-  28,R,U,G
-   8,U,G
-  40
+Read,../StrawberryJamTAS/2_Intermediate/supernautica,lvl_LegS-6
 
-#lvl_LegS-7
-Read,../StrawberryJamTAS/2_Intermediate/supernautica,lvl_LegS-7
-
-ChapterTime: 0:59.959(3527)
+ChapterTime: 0:58.344(3432)

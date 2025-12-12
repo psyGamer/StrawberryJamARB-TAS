@@ -1,4 +1,4 @@
-RecordCount: 1937
+RecordCount: 2061
 
 console load StrawberryJam2021/4-Expert/Cabob
    1
@@ -8,7 +8,7 @@ console load StrawberryJam2021/4-Expert/Cabob
 
 #Spinner Cycle
    0
-#####
+#-----
 
 #lvl_a-start
 Read,../StrawberryJamTAS/4_Expert/psychokinetic,lvl_a-start,lvl_a-02
@@ -132,7 +132,8 @@ Read,../StrawberryJamTAS/4_Expert/psychokinetic,lvl_a-start,lvl_a-02
    4,R,K
    1,R,J
   28,R
- 110,R,U,X
+  14,R,U,X
+  96
    4,R,J
    7,J
   15,U,X
@@ -142,7 +143,7 @@ Read,../StrawberryJamTAS/4_Expert/psychokinetic,lvl_a-start,lvl_a-02
   40
 
 #lvl_a-03 (1)
-# Go left for easier any% resync, may not needed
+#Go left for easier any% resync, may not be needed
    9,R,J
    1,K
    1,J
@@ -162,7 +163,7 @@ Read,../StrawberryJamTAS/4_Expert/psychokinetic,lvl_a-start,lvl_a-02
   11,L,D,X
 #Spinner Cycle [a-06]
    1,L,D,X
-#####
+#-----
    1,R,J
    1,R,K
    1,R,J
@@ -174,7 +175,53 @@ Read,../StrawberryJamTAS/4_Expert/psychokinetic,lvl_a-start,lvl_a-02
   40
 
 #lvl_a-03 (2)
-Read,../StrawberryJamTAS/4_Expert/psychokinetic,lvl_a-03,lvl_a-08
+Read,../StrawberryJamTAS/4_Expert/psychokinetic,lvl_a-03,lvl_a-07
+
+#lvl_a-07
+   1,R,K
+   4,R
+   3,R,D
+   1,R,J
+   3,R
+  14,R,U,X
+   4,J
+  20,R,D,X
+   1,R,D
+  15,R,D,X
+   1,R,J
+  14,R,U,X
+   8,R,J
+  10,R,K
+   1,K
+  26,R,U,X
+   4
+   5,L,J
+  11,R,D,X
+   3
+   1,R,J
+  13,L,U,X
+   4,R,J
+   1,R,K
+  17,L,U,X
+#any%-end
+#very very similar to any% for the rest of a-07, but some speed/position manip was needed to sync with a-08 properly.
+   4,R,J
+   3,L,J
+   1,R,K
+  11,L,D,X
+   4,L,J
+   4,R,J
+   1,L,K
+   1,R,K
+   1,L,K
+  18
+  18,D
+   6
+   1,L,J
+   1,L,K
+   1,L,J
+   4
+  40
 
 #lvl_a-08 (0)
   10
@@ -186,17 +233,14 @@ Read,../StrawberryJamTAS/4_Expert/psychokinetic,lvl_a-03,lvl_a-08
    4,R,K
    4,R
   18,R,D,X
-#any%-end
+#this is where the route actually fully diverges from any%
    4,R,D
    1,R,J
   16,R,U,Z
    4,R,J
-
    7,R
    1,R,K
-   4,R
-  10,R
-
+  14,R
   37,U,X
   40
 
@@ -213,8 +257,8 @@ Read,../StrawberryJamTAS/4_Expert/psychokinetic,lvl_a-03,lvl_a-08
    3,R,J,G
    7,R
 #Spinner cycle [a-08x]
-   1
-#####
+   2
+#-----
   14,R,D,X
    6,R,J
   15,R,K
@@ -395,26 +439,30 @@ EndStunPause
    3,J,G
    2,L,J
   96
-  10,L,Z
-   4,L,J
+  11,L,Z
+   3,L,J
    1,L,K,G
   11,L
-  18,D,X
+  15,D,X
+   1,L,D
   40
 
 #lvl_a-10 (2)
-   7,L,D
-  45,R,D
-  10,R,D,X
+   6,L,D
+   7,R,D
+   1,L,D
+  37,R,D
+  11,R,D,X
   40
 
 #lvl_a-end (1)
-   4,R,D,X
+   3,R,D,X
    3,R,J
-  12,R,D,X
+  13,R,D,X
    1,R,J
    5,R
-  19,R,U,X
+  11,R,U,X
+   8,R,U,X
    4,R,K
    1,R,J
   16,R,D,X
@@ -435,4 +483,4 @@ Repeat,13
    1,J
 EndRepeat
 
-ChapterTime: 1:11.196(4188)
+ChapterTime: 1:11.162(4186)

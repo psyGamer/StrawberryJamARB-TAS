@@ -1,4 +1,4 @@
-RecordCount: 2142
+RecordCount: 2313
 
 console load StrawberryJam2021/5-Grandmaster/maya
    1
@@ -7,7 +7,8 @@ console load StrawberryJam2021/5-Grandmaster/maya
  190
 
 #Spinner Cycle [Delta]
-   1
+   2
+#-----
 
 #lvl_Insert Coin
 Read,../StrawberryJamTAS/5_Grandmaster/pinball_purgatory,lvl_Insert Coin,lvl_Pursuit
@@ -74,59 +75,59 @@ Read,../StrawberryJamTAS/5_Grandmaster/pinball_purgatory,lvl_Insert Coin,lvl_Pur
   30,L,D
    1,L
    7,L,D
-#any%-end
-#any%-strat and stun in Phase
-#would miss a coin to get berry.
-#multiboost seems pretty slow
-#overall and i dont wanna
-#resync Phase tbh
-  42,R
-   3
-  20,L,U,X
-  31,R
-  14,R,Z
-   2,R,J
-   1,R
-  15,R,D,X
-   1,R,D
-  12,R,J
-   5,R
-   3,R,J
+  23,R
+  15,R,U,Z
+  19,R
+   4
+   1,D
+   1
+   5,D
+   7
+  30
+  15,R,Z
+   1,G
+   7
    2,R
-   2,R,J
-  10,R
+   1,J,G
+   3,R
+   2,R,J,G
+   1,R,K,G
+   2,R,J,G
+  15,R,D,X
+   1,R
+   5,R,D
+   6,R,J
+   2,R
   14,R,U,X
-   1,R,J,G
-   9,R
-  34,R,J
-  14,R,Z
+  11,R,J,G
+   7,R
+   2,R,K
+   6,R
+#any%-end
+#thanks BIS gotten in any% despite it being not used in any% :3
    1,R,J
+   2,R
   14,R,D,X
-   1,R,J
-  14,R,D,X
-   1,R,J
-  10,R,D,X
   40
 
 #lvl_Phase
-   1,R,J
-  14,R
-   1,R,J
-   7,J
-   2,R,J
-  13
+   2,R
+   1,J
+   4,R,J
+   5,J
+  12
    5,L
   12,L,X
   21,R
-  15,U,X
+  16,U,X
   10,L,Z
   50,R
   27,R,X
   25,R
   26,U,X
   15,U,C
-   6,R
-   2
+   7,R
+   1
   11,U,X
    7
   10,L
@@ -152,7 +153,9 @@ Read,../StrawberryJamTAS/5_Grandmaster/pinball_purgatory,lvl_Insert Coin,lvl_Pur
   16,L,Z
   21,R,D
    7,D
-   5
+   3
+   1,D
+   1
   15,U,X
   12,R,U,C
   11,R
@@ -164,11 +167,11 @@ Read,../StrawberryJamTAS/5_Grandmaster/pinball_purgatory,lvl_Insert Coin,lvl_Pur
    1
    2,L
   37,R
-#any%-start
   15,R,D,X
   19,R
   27,R,X
   25,R
+#any%-start
   11,L,U,X
   17,L
   10,L,U,X
@@ -177,12 +180,11 @@ Read,../StrawberryJamTAS/5_Grandmaster/pinball_purgatory,lvl_Insert Coin,lvl_Pur
   12,R,J
    8,R
   19,R,J
-#dont need spinner cycle
-#wait in this room
-  24,R,U,X
-#####
-   6,R,Z
-   1,R,J
+  15,R,U,X
+   9,R
+#No Spinner Cycle Here
+   4,Z
+   2,R,J
    7,R
   40
 
@@ -441,36 +443,40 @@ Read,../StrawberryJamTAS/5_Grandmaster/pinball_purgatory,lvl_Delta,lvl_Symbiosis
    1,R,K,G
    4,R
    1
-   4,R
-   1,R,J
-  21,R,D,X
-  32,R,J
-  14,R,U,X
-  14
-   9,R,X
-   4,R
-   9
-  10,L,X
-  34,L
-  34,R
-  14,R,Z
-   1,R,J
    3,R
-  16,R,D,X
-   5,R
+   1,R,J
+   1,R
+  21,R,D,X
+#could be higher up when hitting spring possibly?
   12,R,J
    5,R
-   5,R,J
-   1,R
-   2,R,J
-  10,R,D
-   4,D
-   2,R,D
-#any%-start
-  11,L,D,X
+   1,R,J
+   2,R
+   4,R,J
+   6,R
+  14,R,U,Z
+#technically any% route starts here, but different moonblock cycles mean different strats
+  14,L
+   7,R,X
+   2,R,J,G
+  10,J
+  10,L,X
+  27,L
+   5
+  36,R
+  14,R,Z
+   1,R,J
+  15,R,D,X
+   4,R
+  12,R,J
+   5,R
+   9,R,J
+  16,R,D
+  13,L,D,X
   18,R
   15,R,D,X
-   6,R
+   4,R,D
+   1,R
   11,R,U,C
   12,L
   18,R
@@ -482,65 +488,73 @@ Read,../StrawberryJamTAS/5_Grandmaster/pinball_purgatory,lvl_Delta,lvl_Symbiosis
   21,R
   10,R,U,X
    1,R,J,G
-   1,R,K,G
-   1
+   2,R,K,G
    1,R,J,G
    1,R,K,G
-   2,K
-#moonblock cycles
-#  15,R,D,X
-#   2,R
-#  12,R,J
-#   3,R
-#   1,L
-#  14,R,D,X
-#   1,R,J,G
-#   5,R
-#   2,L
-  15,R,D,K,X
-   2,R,K
-  11,R,J
-   4,R
+   2
+#any%-start
+  15,R,D,X
+   2,R,D
+  12,R,J
+   3,R
    1,L
   14,R,D,X
-   2,R,J,G
+   1,R,J,G
    5,R
    2,L
-   1,R,J
+   1,R,D,J
    1,L
   13,R,D,X
-  35,R,D
+#fast fall a bit less
+#   35,R,D
+#    1,L,D
+  34,R,D
+   1,R
    1,L,D
+#-----
   11,R,U,Z
   15
    5,U,X
   16
    7,U,X
-#hit bumper a frame later
-#and hit spring a frame later
+#hit bumper a frame later and hit spring a frame later
+##
 #  36,L
 #  11,R
 #   8,R,D,X
+#   21,R,D
+#    3,D
+#    2,R,D
+##
   37,L
-  11,R
-   9,R,D,X
-  19,R,D
-   3,D
-   2,R,D
-  19,R,U,X
-  11,L
-   8,L,U,X
-  18,L
-   2
-  17,L,U,X
-  11,R
+  12,R
    8,R,D,X
-   7,R
-  10,R,D,X
-  72,R
-   4,R,D
+  22,R,D
+   1,D
+   1,R,D
+   1,D
+   1,R,D
+#-----
+  11,R,U,X
+  17,L
+   8,L,U,X
+  23,L
+   4
+  22,R
+  15,R,D,X
+   1,R
+  67,R
+#fast fall a bit more
+#    5,R,D
+#    3,R
+   7,R,D
+   1,R
+#-----
   15,R,U,X
-  11,R
+#any%-end
+#slightly slower exit to sync with recoil (0)->extra ball
+   6,R
+   3
    6,R,Z
    1,R,J
    7,R
@@ -553,12 +567,15 @@ Read,../StrawberryJamTAS/5_Grandmaster/pinball_purgatory,lvl_Delta,lvl_Symbiosis
 #any%-end
 #lvl_Recoil (0)
    4,R,D,X
-Repeat,3
    1,R,J
   14,R,D,X
-EndRepeat
+   1,R,J
+  14,R,D,X
+   1,R,J
+  12,R,D,X
 
 #lvl_Extra Ball
+   2,R,D,X
    1,R,J
   11,R,D,X
    1,R,J
@@ -628,7 +645,8 @@ EndRepeat
    5,R,J
   13,R,X
    1,R,K,G
-  14,L
+  12,L
+   2
   77
    6,L,Z
    1,L,J
@@ -637,13 +655,17 @@ EndRepeat
   14,L,D,X
 
 #lvl_Recoil (1)
-   1
-   3,L,J
-  15,U,X
-   9,L
    2,L,J
+   9,U,X
+  15,L
+   2,L,J
+  15,U,X
+   4,L
+   4
+   2,R
+   2
+   1,L
 #any%-start
-  28,U,X
   38,L
   12,D
   27
@@ -660,41 +682,29 @@ EndRepeat
   31,R
   12,R
    9,R,U,X
-  17,L
-   7,D,X
-  17,L
-  14,L,U,X
-  21,R
-   9,R,D,X
-  14,R
-   7,L
+  18,L
+  16,D,X
+  12
+  13,L,U,X
+  18,R
+  12,R,D,X
+  10,L
+   4
   15,R,D,X
-   9,R,D
-  22,R
-  15,R,U,X
-  11,R
-#a little more right to actually
-#climb jump
-#   4,L
-#   1,R
-   3,L
-   1,R
+   2,R
    1
-   1,J,G
-   5,J
-   9,R,J
-  17,R
-  12,L,U,X
+  29,R
+  15,R,U,X
+   4,R
+  14,R,U,C
+  27,L
   41,R
   19,R
-  26,R,X
-  15,R
-   2,L
-   1,R
-   1,L
-   1,R
-  18,R,U,X
-   8
+  15,R,X
+  31,R
+   3
+  15,R,U,X
+  11
   11,R
   15,R,U,X
    1,R
@@ -712,17 +722,11 @@ EndRepeat
   14,D
    3,L
   15,D,X
-#a little to the left so madeline
-#lands on ledge with spinners,
-#and can jump off it, and hit
-#bumper
-#   2,L,D
-#   4,D
-   2,L,D
+   3,L,D
    3,D
-   1,L,D
    1,L,J
-  15,R,X
+   9,R,X
+   6
   37,R
   12,R,U,X
    1,R,J,G
@@ -732,47 +736,61 @@ EndRepeat
    8,R
   40
 
-#lvl_pumber (0)
-   2,R,J
-   4,R
-  11,R,Z
-   1,R,J
-   7,R
-  24,R,J
-  24,L,U,X
-  11,R
-  21,R,D,X
-  30,R,J
-  42,U,X
-  13,R
-  10,R,U,X
-#resync
-  14,R,J,G
-   5,R
-   2,R,J
-  19,R
-  15,R,U,X
-  17
-  11,R
-  15,R,D,X
+#lvl_pumber
    1
+  15,D,X
+   7,R,Z
+   1,R,J
+   3,R
+   1,R,J
+   3,R
+   1,R,J
    1,R,K,G
-   5
-   6,R
-  42,R,J
-  18,R,X
-  12,R,Z
-   2,R,J
-   1,R
-  15,R,D,X
-  40,R
-  22,R,D
-  14,R,U,Z
-  17
-   8,R,X
    9,R
+  10,R,J
+   5,R
+   1,R,J
+   5,R
+  17,L,U,X
+  17,R
+  19,R,D,J,X
+   8,R,J
+  12,R,K
+   5,R
+   4,R,K
+   3,R
+  18,U,X
+   3,L
+   3
+  27
+  10,R
+  15,R,X
+   1,G
+   2
+   1,K
+   8,R
+   1,R,J,G
+   2,R,K,G
+   1,R,J,G
+  13,R,K,G
+   5,R
+   8,R,K
+   9,R
+  24,R,J
+  19,R,D,X
+   1,R,J
+  15,R,D,X
+   3,R
+  15,R,D,C
+  29,R
+   3,R,D
+   5,R,U,Z
+  18
+   8,R,X
+   1,R,J,G
+   4,R
    7
-  18,R,X
+  20,R,X
   11,L
   18,L,D,X
   24,L,J
@@ -787,60 +805,79 @@ EndRepeat
   22,L,D
   11,L
   25,L,D,X
-  12,D
-   6,L,D
-  18,L,X
+  10,D
+   2,L,D
+   1,D
+   4,L,D
+   3,D
+  17,L,X
   11,R
   15,R,D,X
-   3,R,D
-  29,R,J
-  14,R,Z
-   3,R,J
-  16,R,D,X
-  12,R,J
+   9,R,J
    5,R
-   7,R,J
+   2,R,J
    1,R
+   2,R,J
+   6,R
+  14,R,X
+   1,R,J,G
+   2,R,K,G
+   1,R,J,G
+   7,R
+   2,R,J
+  18,R,D,X
+   1,R
+   8,R,J
+   6,R
    1,R,J
-   2,R
-  15,R,U,X
-   9,R
-  10
-   7,L,D
-   7,L
-  12,R
-  21,R,X
-  11
-  15,R,X
-  11,R
+   1,R
+   2,R,J
+  19,R,U,X
    1
-  24,R
-   8,U,X
-   8
-  18,R
-  11,R,Z
-  11,L
-  12,L,U,X
+   5,R
+  21,L
+  21,R
+  12,R,D,X
+  11,R
+  15,R,C
+  12,R
+   7
   17,R
-  15,R,U,Z
-   9,R
+   7,U,X
+   5,R
+   1
+   1,R
+   4
+   2,R
+   1
+   6,R
+   1
+   1,R
+  14,R,U,X
+  14,L
+  15,L,U,X
+  21,R
+  15,U,Z
+   4,R
+   1
+  10,R
   11
-  15,U,X
-  16,R,C
-  18,D
-   1,L
+  15,R,D,X
    3
-   6,D
-   8
-   9,L
+  12,R,U,Z
+  15
+  10,L
   15,U,X
   11
   15,U,X
    8,L
-  11,U,X
-   6
-  20,L
-  16,U,X
+  17,U,X
+   8,L
+   2
+   7,L
+   1
+  15,U,X
+   2,L
   18,R
    5,R,U,Z
   22,L
@@ -853,9 +890,9 @@ EndRepeat
    3,L,J
   11,R,J
   18,U,X
-  12,L,K,G
-  12,J,G
-   6,K,G
+   8
+  12,L,J,G
+   9,K,G
   40
 
 #lvl_Malfunction
@@ -885,10 +922,10 @@ EndRepeat
   43
   33,U,X
   77
-  10,L,Z
    1,R,J
-   3,R
+  11,R
   15,L,D,X
+   1,D
    4,R,D
   40
 
@@ -897,4 +934,4 @@ EndRepeat
   15,D,X
  135,R,D
 
-ChapterTime: 3:22.317(11901)
+ChapterTime: 3:18.390(11670)

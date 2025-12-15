@@ -450,7 +450,27 @@ Read,../StrawberryJamTAS/1_Beginner/paint,Start,lvl_b-00
    8,R
   13,R,U,Z
    1,R,J,G
-#yippeeeeeee
+#fall 1f slower
+##
+#    5,R
+#    2,R,J
+#    3,R
+#    1,R,J
+#    2,R,D
+#    2,L
+#    5,R
+#    2,R,D
+#    3,R
+#    1,D
+##
+  13,R,D
+   2,L,D
+   5,R,D
+   1,R
+   1,R,D
+   1,R
+   1,R,D
+#-----
    4,X
    6,R,J
    7,R
@@ -458,6 +478,10 @@ Read,../StrawberryJamTAS/1_Beginner/paint,Start,lvl_b-00
    7,L,K
    8,L,J,G
    2,K
+#not enough y-pos
+  15,U,X
+#   16,U,X
+#---
   40
 
 #lvl_b-08

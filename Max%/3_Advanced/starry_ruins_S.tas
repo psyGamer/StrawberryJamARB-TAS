@@ -8,14 +8,13 @@ console load StrawberryJam2021/3-Advanced/Indecx
 
 #Spinner cycle [lvl_8]
    1
-#####
+#-----
 
 #lvl_1
+#based off old any% inputs for lvl_1 ~ lvl_2
    8,J
    5,R,J
   13,R,D,X
-#based off old
-#any% inputs for lvl_1 ~ lvl_2
    9,R,J
   15,R,D,X
    2,R
@@ -44,4 +43,4 @@ console load StrawberryJam2021/3-Advanced/Indecx
 #lvl_3
 Read,../../StrawberryJamTAS/3_Advanced/starry_ruins.tas,lvl_3
 
-ChapterTime: 0:40.698(2394)
+ChapterTime: 0:40.647(2391)

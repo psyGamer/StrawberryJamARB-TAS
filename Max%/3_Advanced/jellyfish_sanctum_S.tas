@@ -1,4 +1,4 @@
-RecordCount: 7832
+RecordCount: 7927
 
 console load StrawberryJam2021/3-Advanced/BlueXans
    1
@@ -34,50 +34,55 @@ console load StrawberryJam2021/3-Advanced/BlueXans
 #lvl_1
    2,D
   15,R,D,X
-   1,J
-   1,R
-  12
-   1,R
+   1,L,J
+   3,R
    1
-   1,R
-   1
+   2,R
+   8
    1,L
-   1,R
+   6
+   2,L,J
+   2,J
+   3
+   1,L
    2
-#any%-start
-   3,L,J
-   1,J
-   4
    1,L
-   4
+#any%-start
    6,R,Z
    1,R,J
-   4,R
-  15,R,J
-  15,R,D,X
    1,R
-   7,R,J
-   9,R
-  29,R,U,K,G
-   5,U,K,G
-  42,D,G
-   6,R,D,G
-   1,D,G
-   2,R,D,G
-   1,R
-   8,U,X
-  13,L
-  20,R
-  15,R,D,X
-  18,R,D
-  14,R,Z
-   3,R,J
+   1,R,K
+   2,R
+  12,R,J
+   3,R
   15,R,D,X
    2,R
-   2
+   7,R,J
+   7,R
+   4,R,K
+  22,R,U,K,G
+   7,R,G
+   2,G
+  38,D,G
+   6,R,D,G
+   1,R,G
+   1,G
+   1,R,G
+   3,G
+   1
+   7,U,X
+  13,L
+  21,R
+  15,R,D,X
+  18,R,D
+  10,R,Z
+   5,R,J
+  15,R,D,X
+   1,R,J
+   3
   40
 
 #lvl_2
-Read,../../StrawberryJamTAS/3_Advanced/jellyfish_sanctum.tas,lvl_2
+Read,../../StrawberryJamTAS/3_Advanced/jellyfish_sanctum,lvl_2
 
-ChapterTime: 0:45.390(2670)
+ChapterTime: 0:44.098(2594)

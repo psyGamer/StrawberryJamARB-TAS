@@ -1,4 +1,4 @@
-RecordCount: 8472
+RecordCount: 8473
 
 console load StrawberryJam2021/5-Grandmaster/CaptainCarpensir
    1
@@ -10,8 +10,8 @@ Read,../../StrawberryJamTAS/5_Grandmaster/belly_of_the_beast.tas,Start,lvl_a-02i
  171
 
 #Spinner Cycle [a-08]
-   0
-#####
+   1
+#-----
 
 #any%-end
    7,L,J
@@ -31,4 +31,4 @@ Read,../../StrawberryJamTAS/5_Grandmaster/belly_of_the_beast.tas,Start,lvl_a-02i
 #lvl_a-02
 Read,../../StrawberryJamTAS/5_Grandmaster/belly_of_the_beast.tas,lvl_a-02
 
-ChapterTime: 1:34.486(5558)
+ChapterTime: 1:33.568(5504)

@@ -1,4 +1,4 @@
-RecordCount: 2604
+RecordCount: 2694
 
 console load StrawberryJam2021/2-Intermediate/LegS
    1
@@ -27,112 +27,46 @@ console load StrawberryJam2021/2-Intermediate/LegS
    6,R
    1
    1,R,J,G
-  11,R,D
-   1,R,G
 #any%-end
+   9,R,D
+   2,D
+   1,R,G
    5,L,Z
    1,R,J
-   4,R
-   2,R,J
-   3,J
-   1,R,J
-   8,R,D,X
+   1
+   3,R
+   8,R,J
+   9,R,D,X
   40
 
 #lvl_LegS-1
    6,R,D,X
+   1,R
    1,R,J
-   4,R
+   1,R
   17,R,D,X
-  10,R
-  36,R,J
-  15,R,U,X
-  28,R
-  11,R,J
-   3,J
-   1,R,J
-   1,J
+   1,R
+  12,R,J
+   5,R
+   6,R,J
+   8,R
+   2
+   1,D
+   1
+   1,R,D
 #any%-start
-  14,R,Z
+  15,R,U,Z
+  15,R
+   8,R,Z
    1,R,J
-   7,R
-  19,R,J
-  14,R,D,X
+   6,R
+  18,R,J
+  15,R,D,X
    1,R,J
-   7,R,D,X
+   6,R,D,X
   40
 
 #lvl_LegS-2
-Read,../../StrawberryJamTAS/2_Intermediate/supernautica.tas,lvl_LegS-2,lvl_LegS-6
+Read,../../StrawberryJamTAS/2_Intermediate/supernautica,lvl_LegS-2
 
-#lvl_LegS-6
-   5
-   2,J,G
-   2,L,J
-   1,J
-   3,L,J
-  14,L,X
-   1,R,N
-  24
-   1,S
-   1,D,O
-  34
-
-#Spinner Unload Cycle [LegS-6]
-   3
-#####
-
-   5,J,AR
-   9,R,J
-  15,U,X
-   5,R
-  49,R,U,G
-   1,R,D
-   6,R
-   1,S,N
-   9,O
-  12,J
-  22,R,G
-   1,D
-   4,R
-   6
-  10,U,Z
-  21,R,G
-   1,R,D
-  25,R
-  14,L,Z
-   1,S,N
-   9,O
-   3,R,J
-   5,R,D,Z
-  13,R,G
-   1,S,N
-   9,O
-  57,R,J,G
-   1,R,U,G
-   1
-   7,R
-  14,R,U,Z
-  21,R,G
-  13,R
-   1,Z
-   3,R,J,Z
-   4,R,J
-  43,R,G
-  12,R,D,G
-   2,R,G
-   1,S,N
-   9,O
-   9,R,J,G
-  29,J,G
-   6,D
-  16,U,X
-  30,U,G
-  28,R,U,G
-   8,U,G
-  40
-
-#lvl_LegS-7
-Read,../../StrawberryJamTAS/2_Intermediate/supernautica.tas,lvl_LegS-7
-
-ChapterTime: 0:50.779(2987)
+ChapterTime: 0:48.161(2833)

@@ -1,18 +1,18 @@
-RecordCount: 3699
+RecordCount: 3700
 
 console load StrawberryJam2021/2-Intermediate/Ice
    1
 
 #Start
-Read,../../2_Intermediate/temple_of_a_thousand_skies,Start,Spinner Cycle [b-06]
+Read,../../2_Intermediate/temple_of_a_thousand_skies,Start,Spinner cycle [b-06]
 
-#Spinner Cycle [b-06]
-   1
-#####
-   4,R,Z
+#Spinner cycle [b-06]
+   0
+#-----
+   4,Z
    1,R,J
-   8,D
-   7,R,D
+   8
+   7,R
   19,D,X
   40
 
@@ -26,4 +26,4 @@ Read,../../StrawberryJamTAS/2_Intermediate/temple_of_a_thousand_skies,lvl_b-05 (
 #lvl_c-01
 Read,../../2_Intermediate/temple_of_a_thousand_skies,lvl_c-01
 
-ChapterTime: 2:02.706(7218)
+ChapterTime: 2:01.975(7175)

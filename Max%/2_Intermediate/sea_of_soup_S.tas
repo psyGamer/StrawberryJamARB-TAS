@@ -1,4 +1,4 @@
-RecordCount: 4468
+RecordCount: 4471
 
 console load StrawberryJam2021/2-Intermediate/SpoopySoup
    1
@@ -97,7 +97,7 @@ console load StrawberryJam2021/2-Intermediate/SpoopySoup
   40
 
 #lvl_soup-3
-Read,../../StrawberryJamTAS/2_Intermediate/sea_of_soup.tas,lvl_soup-3,lvl_soup-7
+Read,../../StrawberryJamTAS/2_Intermediate/sea_of_soup,lvl_soup-3,lvl_soup-7
 
 #lvl_soup-7
   34,R,D
@@ -124,25 +124,26 @@ Read,../../StrawberryJamTAS/2_Intermediate/sea_of_soup.tas,lvl_soup-3,lvl_soup-7
   27,D
 ### each strat works with a different spinner cycle
 ## 1 ---
+#    1,R,D
+#    2,L,D
+#    2,D
+#    5,R,D
+#   15,D
+## 2 ---
+#    1,D
+#    1,R,D
+#    2,L,D
+#    2,D
+#    5,R,D
+#   14,D
+## 3 ---
+   2,D
    1,R,D
    2,L,D
-   2,D
+   4,D
    5,R,D
-  15,D
-## 2 ---
-#   1,D
-#   1,R,D
-#   2,L,D
-#   2,D
-#   5,R,D
-#  14,D
-## 3 ---
-#   2,D
-#   1,R,D
-#   2,L,D
-#   4,D
-#   5,R,D
-#  11,D
+  11,D
+##
 ###
   50,R,U,X
   12,L
@@ -158,19 +159,25 @@ Read,../../StrawberryJamTAS/2_Intermediate/sea_of_soup.tas,lvl_soup-3,lvl_soup-7
    4,D
    3,R,D
    8,R,Z
-   7,R,J
-   6,R
-   1
+   6,R,J
    3,R
-   7
-  14,D
+   1,R,K
+   7,R
+   2
+   1,R
    1
-  20,L,D
-Repeat,16
-   1,L
    1,D
+   1
+  18,D
+  16,L,D
+   1,R,D
+   5,F,269,0.29
+Repeat,17
+   1,D
+   1,F,270,0.29
 EndRepeat
-  28,D
+  15,D
+   6,F,190
  139,U,X
 
-ChapterTime: 0:53.499(3147)
+ChapterTime: 0:53.397(3141)

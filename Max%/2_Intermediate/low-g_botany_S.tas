@@ -7,8 +7,7 @@ console load StrawberryJam2021/2-Intermediate/marlin
   69
 
 #lvl_1
-#mid parts based off any% but moonblock
-#cycles force a slower end
+#mid parts based off any% but moonblock cycles force a slower end
    4,L,J
    9,J
   15,D,X
@@ -108,4 +107,4 @@ console load StrawberryJam2021/2-Intermediate/marlin
 #lvl_3
 Read,../../StrawberryJamTAS/2_Intermediate/low-g_botany.tas,lvl_3
 
-ChapterTime: 1:24.031(4943)
+ChapterTime: 1:23.691(4923)

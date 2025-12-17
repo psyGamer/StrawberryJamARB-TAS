@@ -5,176 +5,202 @@ Unsafe
 console clrsav
 console load StrawberryJam2021/0-Lobbies/4-Expert
 
-#Uncomment at your own discretion.
-#See before heartside near end
-#of file for more info.
+#Uncomment at your own discretion. See before heartside near end of file for more info.
 #EnforceMaingame
 
    1
 
 #Start
+#Madeline the Bubble
 Read,StrawberryJamTAS/4_Expert_Lobby/exp_0-1,Start
 Read,StrawberryJamTAS/EnterLevel,Start
 Read,4_Expert/madeline_the_bubble,Start
    1,O
   32
 
+#Clockwork
 Read,StrawberryJamTAS/4_Expert_Lobby/exp_1-2,Start
 Read,StrawberryJamTAS/EnterLevel,Start
 Read,4_Expert/clockwork,Start
    1,O
   32
 
+#Ethereal Ascension
 Read,StrawberryJamTAS/4_Expert_Lobby/exp_2-3,Start
 Read,StrawberryJamTAS/EnterLevel,Start
 Read,4_Expert/ethereal_ascension,Start
    1,O
   32
 
+#Meaningless Contraptions
 Read,StrawberryJamTAS/4_Expert_Lobby/exp_3-4,Start
 Read,StrawberryJamTAS/EnterLevel,Start
 Read,4_Expert/meaningless_contraptions,Start
    1,O
   32
 
+#Skyline Usurper
 Read,StrawberryJamTAS/4_Expert_Lobby/exp_4-5,Start
 Read,StrawberryJamTAS/EnterLevel,Start
 Read,4_Expert/skyline_usurper,Start
    1,O
   32
 
+#Hypnagogia
 Read,StrawberryJamTAS/4_Expert_Lobby/exp_5-6,Start
 Read,StrawberryJamTAS/EnterLevel,Start
 Read,4_Expert/hypnagogia,Start
    1,O
   32
 
+#The Core Problem
 Read,StrawberryJamTAS/4_Expert_Lobby/exp_6-7,Start
 Read,StrawberryJamTAS/EnterLevel,Start
 Read,4_Expert/the_core_problem,Start
    1,O
   32
 
+#Vinculum
 Read,StrawberryJamTAS/4_Expert_Lobby/exp_7-8,Start
 Read,StrawberryJamTAS/EnterLevel,Start
 Read,4_Expert/vinculum,Start
    1,O
   32
 
+#Subway Neon
 Read,StrawberryJamTAS/4_Expert_Lobby/exp_8-9,Start
 Read,StrawberryJamTAS/EnterLevel,Start
 Read,4_Expert/subway_neon,Start
    1,O
   32
 
+#Golden Alleyway
 Read,StrawberryJamTAS/4_Expert_Lobby/exp_9-11,Start
 Read,StrawberryJamTAS/EnterPostcard,Start
 Read,4_Expert/golden_alleyway,Start
    1,O
   32
 
+#A Change in Direction
 Read,StrawberryJamTAS/4_Expert_Lobby/exp_11-13,Start
 Read,StrawberryJamTAS/EnterLevel,Start
 Read,4_Expert/a_change_in_direction,Start
    1,O
   32
 
+#System.InvalidMapException
 Read,StrawberryJamTAS/4_Expert_Lobby/exp_13-12,Start
 Read,StrawberryJamTAS/EnterLevel,Start
 Read,4_Expert/system_invalidmap,Start
    1,O
   32
 
+#Overgrown Linn
 Read,StrawberryJamTAS/4_Expert_Lobby/exp_12-10,Start
 Read,StrawberryJamTAS/EnterLevel,Start
 Read,4_Expert/overgrown_linn,Start
    1,O
   32
 
+#Floating Point
 Read,StrawberryJamTAS/4_Expert_Lobby/exp_10-18,Start
 Read,StrawberryJamTAS/EnterLevel,Start
 Read,4_Expert/floating_point,Start
    1,O
   32
 
+#Caper Cavortion
 Read,StrawberryJamTAS/4_Expert_Lobby/exp_18-17,Start
 Read,StrawberryJamTAS/EnterLevel,Start
 Read,4_Expert/caper_cavortion,Start
    1,O
   32
 
+#Hydroshock
 Read,StrawberryJamTAS/4_Expert_Lobby/exp_17-16,Start
 Read,StrawberryJamTAS/EnterLevel,Start
 Read,4_Expert/hydroshock,Start
    1,O
   32
 
+#Time Trouble
 Read,StrawberryJamTAS/4_Expert_Lobby/exp_16-22,Start
 Read,StrawberryJamTAS/EnterLevel,Start
 Read,4_Expert/time_trouble,Start
    1,O
   32
 
+#Lunar Pagoda
 Read,StrawberryJamTAS/4_Expert_Lobby/exp_22-23,Start
 Read,StrawberryJamTAS/EnterLevel,Start
 Read,4_Expert/lunar_pagoda,Start
    1,O
   32
 
+#Plasma Reactor
 Read,StrawberryJamTAS/4_Expert_Lobby/exp_23-24,Start
 Read,StrawberryJamTAS/EnterLevel,Start
 Read,4_Expert/plasma_reactor,Start
    1,O
   32
 
+#Narrow Hollow
 Read,StrawberryJamTAS/4_Expert_Lobby/exp_24-21,Start
 Read,StrawberryJamTAS/EnterLevel,Start
 Read,4_Expert/narrow_hollow,Start
    1,O
   32
 
+#Storm Runner
 Read,StrawberryJamTAS/4_Expert_Lobby/exp_21-19,Start
 Read,StrawberryJamTAS/EnterLevel,Start
 Read,4_Expert/storm_runner,Start
    1,O
   32
 
+#Fortress Fall
 Read,StrawberryJamTAS/4_Expert_Lobby/exp_19-20,Start
 Read,StrawberryJamTAS/EnterLevel,Start
 Read,4_Expert/fortress_fall,Start
    1,O
   32
 
+#Summit Down-Side
 Read,StrawberryJamTAS/4_Expert_Lobby/exp_20-25,Start
 Read,StrawberryJamTAS/EnterLevel,Start
 Read,4_Expert/summit_down-side,Start
    1,O
   32
 
+#Psychokinetic
 Read,StrawberryJamTAS/4_Expert_Lobby/exp_25-26,Start
 Read,StrawberryJamTAS/EnterLevel,Start
 Read,4_Expert/psychokinetic,Start
    1,O
   32
 
+#Garden of Khutara
 Read,StrawberryJamTAS/4_Expert_Lobby/exp_26-27Warp,Start
 Read,StrawberryJamTAS/EnterLevel,Start
 Read,4_Expert/garden_of_khutara,Start
    1,O
   32
 
+#Polaris
 Read,StrawberryJamTAS/4_Expert_Lobby/exp_27-28fromwarp,Start
 Read,StrawberryJamTAS/EnterLevel,Start
 Read,4_Expert/polaris,Start
    1,O
   32
 
+#Chromatic Complex
 Read,StrawberryJamTAS/4_Expert_Lobby/exp_28-29,Start
 Read,StrawberryJamTAS/EnterLevel,Start
 Read,4_Expert/chromatic_complex,Start
    1,O
   32
 
+#Flying Battery
 Read,StrawberryJamTAS/4_Expert_Lobby/exp_29-0,Start
 Read,StrawberryJamTAS/4_Expert_Lobby/exp_0-14,Start
 Read,StrawberryJamTAS/EnterLevel,Start
@@ -182,24 +208,21 @@ Read,4_Expert/flying_battery,Start
    1,O
   32
 
+#Mosaic Garden
 Read,StrawberryJamTAS/4_Expert_Lobby/exp_14-15,Start
 Read,StrawberryJamTAS/EnterLevel,Start
 Read,4_Expert/mosaic_garden,Start
    1,O
   32
 
-#Needed to sync EnterHeartside
-#inputs after lobby movement,
-#otherwise you'd also get the
-#checkpoint menu list that
-#only shows on debug mode
-#or after beating the level
-EvalLua,Celeste.SaveData.Instance.DebugMode,=,false
+#Needed to sync EnterHeartside inputs after lobby movement, otherwise you'd also get the checkpoint menu list that only shows on debug mode or after beating the level.
+Set,DebugMode,false
 
+#Note: Level doesn't have red berries
 Read,StrawberryJamTAS/4_Expert_Lobby/exp_15-30,Start
 Read,StrawberryJamTAS/EnterHeartside,Start
 Read,StrawberryJamTAS/4_Expert/expert_heartside,Start
   61
    1,O
 
-FileTime: 1:01:31.006(217118)
+FileTime: 1:00:49.458(214674)

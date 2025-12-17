@@ -1,4 +1,4 @@
-RecordCount: 19404
+RecordCount: 19566
 
 console load StrawberryJam2021/2-Intermediate/ZZ-HeartSide
    1
@@ -23,47 +23,108 @@ console load StrawberryJam2021/2-Intermediate/ZZ-HeartSide
   15,R,J
    3,J
    5,K
-   5,L,K
-   7,R,J,G
-   7,R
-#any%-end
-   4,R,Z
-   1,R,J
-   7,R
-  20,R,J
-  12,L,U,X
-   1,L,J,G
-   1,L
-   1
-   1,L
-   1
-   1,L
-   2
-  15,L,D,X
-   7,R,J
-   2,R
-   7,L
-   4
-   9,R,D,X
-   1,R,J
-   7,R
-   9,R,J
-   1,R
-  12,R,D,X
-   1,J,G
-  11,R
-   1,R,D,J
-   2,J
-  14,R,U,X
+   7,L,K
    2,R,J,G
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+   3,R
+   4
+   6,R,D,X
+   1,R,J
+   7,R
+   1,R,D,J
+   4,J
+  15,R,U,X
+   7,L,J,G
+   7,L
+   6,L,J
+   8,L
+  14,R,D,X
+   1,R,J
+   9,R,D,X
+   5,R,J,G
+   8,R
+   1,R,J
+   4,R
+  14,R,U,X
+   1,R,J,G
   11,R
    1,R,J
-  12,R,D,X
+  11,R,D,X
   40
 
 #lvl_cp1-1-liero
+   3,R,D,X
+   5,R,J
+   2,R,K,G
+   5,R
+   1,R,J
+   1,R
+   1,R,J
+   2,R
+  15,U,X
+   1,R
 #any%-start
-Read,../../StrawberryJamTAS/2_Intermediate/intermediate_heartside.tas,lvl_cp1-1-liero,lvl_cp1-3-Evilleafy
+  10,L,Z
+  12,R,J
+   3,R
+  15,R,D,X
+   1,R,D
+  14,R,U,C
+   1,L,J,G
+  33,R,J
+  15,R,C
+   1,R
+   4
+   1,R
+  10,U,X
+  14,L,J
+  11,L
+   1,L,J
+  10,L
+  13,R,D
+   4,D
+   2,R,D
+  13,L,D,X
+   2,R,J
+  15,R,D,X
+  17,R,U,Z
+   9,U,X
+  23,R,J
+   2,R
+  15,R,X
+   4,R
+  23,L,D
+  10,R,D,X
+   1,L,J
+   8,L
+   4
+  15,R,D,X
+   6,R,D
+  34,D
+  15,R,Z
+  14,R,U,C
+  15,R,X
+  23,R,D
+  28,R,X
+  15,R,Z
+   6
+  11,L,J,G
+   1
+   1,J,G
+   1,K
+   2,J,G
+  14,R,J
+   1,R,K,G
+   7,R
+  11,R,Z
+   1,R,J
+   5,R
+  40
+
+#lvl_cp1-2-pixelator
+Read,../../StrawberryJamTAS/2_Intermediate/intermediate_heartside,lvl_cp1-2-pixelator,lvl_cp1-3-Evilleafy
 
 #lvl_cp1-3-Evilleafy
    1,R
@@ -104,30 +165,30 @@ Read,../../StrawberryJamTAS/2_Intermediate/intermediate_heartside.tas,lvl_cp1-1-
   15,U,X
   15,R,Z
 #any%-end
-   3
-  11,R
+   9,R
    1
-   1,R
-   1
-   3,L,J
-  16,L
-   1
-   1,L
-  12,R
-   7,R,D
-   1,R
-   4,R,D
-  21,R,X
-   9,U,C
+   5,D
+   1,R,D
+   1,D
+   1,J
+   1,L,J
+  19,L,D
+  13,R,D
+   6,R
+  24,R,X
+  10,U,C
   15,R,J
    8,R
    7,R,J
-  11,R
-   3,R,D
-  11,D
-   4
+  12,R,D
+   1,R
+   2,R,D
+   8,D
+   1,L,D
+   2,D
+   1,L
    1,D
-   4,L
+   6,L
   19,U,X
   35,R,J
    1,R,K,G
@@ -136,27 +197,21 @@ Read,../../StrawberryJamTAS/2_Intermediate/intermediate_heartside.tas,lvl_cp1-1-
    5,R
    1,R,D
    1,R,J,G
-   1,R,K,G
-   4,R
-   6
-   1,R
-   3
-   4,R,J
+  12,R,K,G
+   5,R
+   1,R,J
   41,R
    4,R,X
    1,R,J
    1,R,K,G
+   1,R
   12,R,J,G
-   5,R
-   1,R,J
+   4,R
 
 #lvl_cp1-4-ezel
-   1,R
-   1,R,J
-   1,R
-  11,R,D,J
+   3,R
+  10,R,D,J
    1,K
-#any%-start
    5,R,Z
    1,R,J
   12,R,D
@@ -178,14 +233,15 @@ Read,../../StrawberryJamTAS/2_Intermediate/intermediate_heartside.tas,lvl_cp1-1-
   11,R,X
    3,L,J
    1,L,K,G
-  15,R,U,Z
-   1,K
-   2
-   2,R,K,G
+  10,U,X
+   2,R,J
+   1,R,K,G
    7,R
-   5,L,Z
+  10,R,Z
+   1,L,K
+   4,L
    1,L,J
-  10,L,D
+   5,L,D
   12,L,D,K
    1,L,J,G
    7,L,X
@@ -202,313 +258,182 @@ Read,../../StrawberryJamTAS/2_Intermediate/intermediate_heartside.tas,lvl_cp1-1-
   12,L
   13,L,D,X
    1,L,J
-  25,L
-  15,R,D,X
+  21,L,G
+  17,R,D,X
   13,D,C
-   6,L
-  14,L,U,X
-   1,L,J,G
-   2,R,J
-   1,R
+   7,R,J
+  18,R,D,X
+   2
+   6,R,D,J
    1,L,K,G
-   8,L
-   3,L,D,J
-  18,L,D,X
-   4,Z
-   2,L,J
-   8,L
+   3,R,K
+   1,J,G
+   6,R,J
    1,L,J
-   6,L,D,X
-  12,R,J
-   2,K,G
-   7,R
-   7,L
-   6,R,D
-  11,L,D,X
-   7,L,J
-   7,L,K
-   2,R,J
-  15,D,X
-   8,R,D
-   2,J
+   1,K
+   6,L,K
+  11,R,X
+   1,L,J
+   8,L
+   9,L,J
+  18,L,G
+   1,L,J
+  15,R,D,X
+   9,R,D,J
+   2,L,K
+  10,R,Z
+   1,L,J
+   1,J
+   3
   14,R,D,X
    1,R,J
-   7,R
-  10,R,J
-   7,R,X
-   2,J
-   6,L
-   4,R,Z
-   1,L,J
-  10,L
-  13,R,D,X
-   2,R,J
+   4,R,D
+  12,L,D
+   1,D
   15,D,X
-   4,Z
-   1,R,J
-   7,R
-   4,R,J
-  15,L,U,X
-   3,R
-  10,L,C
-   8,L,J
-  15,R,U,Z
+   3,L,J
+  18,D,X
+  15,L,D,C
+  13,L,D,X
+   4,L,J
+   3,L
+   6,L,U,Z
    1,L,J,G
-   2,R
-   1,R,J,G
-   5,R
-   1,R,J
-  15,R,D
-   1,G
-   6,R,J,G
-   1,R
-   1,R,J
-   3,R
-   3,R,D
-   2,R,J
-   8,R,K,G
-   3,R,J
-   1,R
-   1,R,K,G
-  11,R,X
-   4,J
+  11,L
+   7,L,U,X
    1,L,J
-   3,R,J
-   7,R,K,G
-   1,L,J,G
-   9,R,J
-  11,R,Z
+   6,L
+  11,L,X
+   6,L,J
+   8,U,X
+   2,R,J
+   3,J
+   1,R
+   3,R,K
+   7,R
+   6,R,X
+   3,L,J
+   1,L
+   1,L,J
+   4,L
+  11,L,X
+   2,R,J
+   1,J
+   1,K
+   7,U,X
+   8,J
+   1,L,K
+   7,L
+   4,L,Z
    2,L,J
    1,L
-   9,L,J
-   3,K
-  16,L,G
-   2,L,U,G
-   5,R
-  15,R,D,X
-   4,R,J
-   8,K
-  10,R,Z
-   2,L,J
-   4,L
-  14,R,D,X
-   2,R,J
-   3,R
-   9,L,D
-   2,R
-   3,L
-   3,R,D
-   6,L,D
-   2,L
-   1,L,D
-   1,L,G
-   1,L,J,G
+   1,L,J
    6,L
-   5
-   1,L,D
-   2,D
+   1,L,J
+   5,L,D,X
+   5,R,J
+   9,R,K
+   7,R
+   6,J
+  15,L,D,X
    2,L
-  15,R,D,X
-  12,L,D,C
-   1,L,J
-   7,L
-   7,L,D,J
-   2,L,K,G
-  14,L,D,X
-   1,L,J
-   4,L
-   1,L,J
-   6,L,D
-   2,D
-  12,U,X
+  10,L,X
+   3,L,J
+   9,K
+  15,D,X
+   8,R,D
    2,R,J
-   4,J
-   1,L,J
-   3,K,G
-   5
+  14,R,D,X
+   1,R,J
    3,R
-   3,R,D,J
-  10,U,X
-   6,R,J
-   9
-   2,R
-  10,R,D,X
-   1,L,J
-   2,L
+   1,R,J
+   3,R
+   1,R,J
+   3,J
+   2,K
+   1,R,K
+   1,R,J,G
+   3,R,K,G
+   4,R
+   1
+  11,D,X
+   1,J
+   5,R
+   2,R,J
+   4,R
    3
-  17,R,D,X
+  10,R,X
+   2,R,J
+   3,R,K,G
+  10,U,X
+   4,L,J
+   1,R,J
+   1,J
+   2,L,J
+   4,J
+   1,R,J
+   1,K,G
+   7
+   2,R
+   1,L
+   3,L,J
+  15,L,D,X
+  14,D
+  10,R,D
+   4,D,X
+   1,L,J
    2,L,D
-   5,R,D
+   1,D
+   6,L,D
+   1,R,D
+   2,L,D
+   1,L,D,J
+   6,R,Z
+   1,R,J,G
+   9,R
+   4,R,D,X
+   1,R,J
+   6,R
+   1,R,K
+   6,R,D,J
+   1,K
+   6,R,K
+   6,R,Z
+   2,R,J
    1,R
    2,R,J
-  15,R,D,X
-   4,D,C
-   4,R,J
-   1,R
-  10,R,D
+   8,R,D
   12,L,D,X
    5,R,J
    7,R,D,X
   40
 
 #lvl_cp2-0-Cp
-Read,../../StrawberryJamTAS/2_Intermediate/intermediate_heartside.tas,lvl_cp2-0-Cp,lvl_cp2-1-SpoopySoup
+Read,../../StrawberryJamTAS/2_Intermediate/intermediate_heartside,lvl_cp2-0-Cp,Spinner cycle [cp2-2-dooshii]
 
 #lvl_cp2-1-SpoopySoup
-  11,R,U,Z
-   1,L,J,G
-   7,R
-  13,R,X
-  14,R,D,C
-  80,R,U,X
-  11,L,J
-  17,R,J
-  11,R,D,X
-   8,R,J
-   1,R,K,G
-  15,R
-  11,L,D,X
-  14,R,D,C
-  23,R,J
-  23,R,X
-  15,U,C
-   6,U,Z
-   1,J
-  23,R
- 108,R,D,X
-  13,L,D
-   1,J,G
-  12,R,G
-  31,R,D,G
-  21,R,U,G
-   3
-  15,R,K
-   8,L,J,G
-   1,L
-  16,R
-   9,R,Z
-   1,R,J
-  12,R,D
-   3,R,J
-   5,R
-   9,R,J
-   7,R
-  11,L,K
-  33,R,U,X
-  10,R,D,C
-  28,R,J
-  15,R,X
-  15,R,C
-#Spinner Cycle [Flag 13]
-   1
-#####
+#Read partway until Spinner Cycle
+#Spinner cycle [cp2-2-dooshii]
+   2
+#-----
   27,R,X
   40
 
 #lvl_cp2-2-dooshii
-  18,R
-  12,R,U,X
-   2,R,J,G
-   7,R
-  10,R,D,X
-   1,R,J
-  12,R
-  11,R,U,Z
-   2,J
-   1,L,K,G
-   1,L,J,G
-   1,R,J
-   5,J
-   4,L,J
-   7,L
-   1,L,N
-   1,L,J
-   2,L
-  14,L,D,X
-   1,R,J
-  12,R,D
-   9,R,J
-  12,R
-  14,R,C
-  15,R,X
-  15,R,C
-   3,L
-   1,R,J,G
-  19,R
-   4,R,D
-   7,D
-   1,R,D
-  34,R
-  24,R,U,X
-  15,R,C
-  12,R
-   1
-   4,R,D
-   4,R
-  17,L
-  18,R,U,X
-  16,R
-  15,R,X
-  14,R
-  15,R,C
-  15,R
-  18,R,D
-   9,L,X
-   1,J
-   2,K,G
-   9,R
-   1,R,J
-  11,R
-  15,R,Z
-   3,R
-   5,R,Z
-   6,R,J
-   1,R
-   7,R,J
-   2,R
-  19,R,X
-   1
-   2,R
-   1,R,J,G
-   1,R,K,G
-   7,R
-   1,R,J
-   4,R
-   2
-   2,R
-  14,U,X
-  18,R,J
-  19,R,Z
-  14,U,X
-   9,R
-  15,R,U,Z
-   8,R
-  14,R,U,C
-   2,J
-   5,R,Z
-   7,R,J,G
-   9,R
-   1,R,J
-  22,R,D
-   5,R
-   2,R,D
+#Read partway until Spinner Cycle
+Read,../../StrawberryJamTAS/2_Intermediate/intermediate_heartside,lvl_cp2-2-dooshii,## Spinner cycle [cp2-3-glowwoomii]
 
-#Spinner Cycle [Flag 12]
-
-#+0f
+#Spinner cycle [cp2-3-glowwoomii]
+## +0f
 #   7,R,Z
-###
-
-#+1f
+##
+## +1f
    8,R,D,X
-###
-
-#+2f
+##
+## +2f
 #   9,R,D,X
-###
-
-#####
-
+##
+#-----
    1,R,J
    6,R
    1,R,J
@@ -548,17 +473,16 @@ StunPause
 EndStunPause
    5,R,K
    1,R,J
-  12,R,D,X
 #any%-end
-   1,R,D,X
+  13,R,D,X
   16,L
    2,L,J
   77
 #any%-start
    7,U,X
-#Spinner Cycle [Flag 11]
+#Spinner Cycle [cp2-4-ice]
    1
-#####
+#-----
   47,U,C
   15,R,U,X
   22,R
@@ -567,9 +491,9 @@ EndStunPause
   15,R,D
   17
 #+10f key cycle wait
-  20,R,D
 #  10,R,D
-#####
+  20,R,D
+#-----
    9,R,D,J
    1,K,G
    6,L,K
@@ -577,186 +501,194 @@ EndStunPause
   40
 
 #lvl_cp2-4-ice
-#supposed to be based off any%
-#but something happens? idk its
-#kind of not working the same
   40,U,X
   12,R,C
    1,R,J
    2,R
   31,R,Z
-
-#drift during stun
+#Drifts during stun
+##
+#StunPause
+#    1,R,Z
+#SkipInput,3,1
+#    4,R,J
+#    4,R
+#    7,R,K
+#    2,R
+#    1,L
+#   13,J,G
+#   11,L,K,G
+#    4,L,J,G
+#SkipInput,3,1
+#    8,U,X
+#EndStunPause
+#    7,U,X
+# StunPause
+##
 StunPause
    1,R,Z
 SkipInput,3,1
    4,R,J
-   1,R
-EndStunPause
-StunPause
-   3,R
+   4,R
    7,R,K
    2,R
    1,L
   13,J,G
-  11,L,K,G
+   2,L,K,G
+EndStunPause
+StunPause
+   9,L,K,G
    4,L,J,G
 SkipInput,3,1
    9,U,X
 EndStunPause
    6,U,X
-#StunPause
-#   1,R,Z
-#SkipInput 3 1
-#   4,R,J
-#   4,R
-#   7,R,K
-#   2,R
-#   1,L
-#  13,J,G
-#  11,L,K,G
-#   4,L,J,G
-#SkipInput 3 1
-#   8,U,X
-#EndStunPause
-#   7,U,X
-#####
-
+#-----
   24,L,G
   27,L,U,G
-
-#idk to be honest
-#(might be liftboost being weird)
-   7,J,G
-   1,R,J
-  15,R,K
-#   8,J,G
-#   1,R,J
-#  14,R,K
-#####
-
+   8,J,G
+   4,R,J
+  11,R,K
   14,U,X
 
-#any%-end
-#stunless route, stun route
-#isnt working properly
-  15,R,U,C
-   8,R
-  15,R,X
-   6,R
-  15,R,D,X
-   3,R
-  13,R,D
-   1,R
-  18,R,Z
-   8,R,J
+#slight change to stun; +1f for spinner cycle wait
+##
+#   15,R,U,Z
+#    1,R
+#StunPause
+#    5,R
+#SkipInput,3,1
+#   15,U,X
+#    2,R
+#SkipInput,3,1
+#    6,U,C
+#EndStunPause
+##
+   1
+  15,R,U,Z
+   2,R
+StunPause
+   4,R
+SkipInput,3,1
+  15,U,X
+   2,R
+SkipInput,3,1
+   6,U,C
+EndStunPause
+#-----
+   9,U,C
+  16,L
+   2,J,G
+   1,R,J
    1,K
-  11,R,K
-   1,L,K
-  18,U,X
-   7,R
-  11,U,C
-  15,R,J
-   4,L,J
-   7,R,K
-  15,L,X
-   9,L,D
-  10,L,Z
-  10,L,J
-  15,L,U,X
-   9,L
-  11
-   7,J
-  10,L,J
-#any%-start
+  12,R,J
+  10,R
+   8
+  17,J
  125,U,X
    9,U,C
   40
 
 #lvl_cp2-5-bryse0n
-Read,../../StrawberryJamTAS/2_Intermediate/intermediate_heartside.tas,lvl_cp2-5-bryse0n,lvl_cp4-0-Cp
+#Read partway until Lightning Cycle
+Read,../../StrawberryJamTAS/2_Intermediate/intermediate_heartside,lvl_cp2-5-bryse0n,Lightning cycle [cp2-5-bryse0n]
 
-#lvl_cp4-0-Cp
-  10,R,J
-   1,J
+#Lightning cycle [cp2-5-bryse0n]
+   2
+#-----
+  52,R,U,X
+  18,R,U,Z
+  12
+  15,L,U,C
    8,U,X
-  19,L,J
-   1,L,K,G
-   7,L
-   1,J
-   1,L,J
-   2,K
-  14,U,X
-  18,R,J
-  12,R,K,G
-   7,R
-  15,R,U,X
-#weird liftboost...
-#any%-end
-   9,L
-  20
-  16,L
-   1
-   1,L,J
-  19,J
-  16,U,X
-  11,R,J
-   1,K
-   7
-#any%-start
-  12,L,J
-   4,L,K,G
-   5,L,Z
-   1,L,J
-   3,L
-   3,L,J
+  25,L,D,C
+  15,D,X
    1,L
-   2,L,J
-   1,L,K,G
-   9,L
-   3,L,J
+  10
+   1,R,G
+   8,R
+   5,R,X
+   2,J
+   5
+  18,J
+  15
+   6,R,U,X
+   1,J
+  14,R
+   1,J
+   1,K
+   3,R,J,G
+   7,L,J
+   3,J
+  10,R,U,X
+  15,R,C
+  16,R,X
+  38,D,C
+  12,R
+  14,R,Z
+   1,L,J
+   5,L,D,X
+  38,L
+  35
+   5,D,X
+   5,L
+  11,L,U,C
+  10,L,J,G
+  11,L,Z
+   7,R,J
+  11
+  15,L,D,X
+   8,R,U,Z
+   1,L
+   1,J
+  13,L
+   1,J
+   5,L
+  11
+  14,L,Z
+   1,R,J
+   9,R,U,Z
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+   4,K
+   1
+   4,R
+   8,R,K
+  10,R
+StunPause
+   8,R,D
+   6,R,J
+EndStunPause
+   4,R,J
+StunPause
+   1,R,J
+   1,R
+EndStunPause
+   8,R
+   2,R,K
+   7,R
+  14,R,D,X
+   1,R,J,G
+   5,R
+   7,R,K
+   5,R
+   5,R,J
+  15,R,D,X
+  10,R
+  11,R,J
+   8,R
+   3,R,J
+   5,R
   40
 
-#lvl_cp4-1-Emik
-   1,L,J
-   7,L
-   2
-   1,L,D
-   1
-   1,L,D
-   1
-   1,L
-  19,L,D
-  14,L,X
-  26,L,D,G
-   1,D,G
-   1
-  12,R,D
-   1,R,D,G
-  11,D,G
-   3
-   1,L
-   1,R
-  12,R,G
-   1,R,D,G
-   1,R,G
-   2,R,D,G
-   1,R,K,G
-   1,J
-   2,K,G
-   5
-   1,L,J,G
-   1,J
-   4,L,J
-   1,J
-   2,L,J
-   3,L
-  15,L,U,Z
-  11,R
-   1,G
-#Spinner Cycle [Flag 4]
-   0,G
-#####
+#lvl_cp3-0-Cp
+Read,../../StrawberryJamTAS/2_Intermediate/intermediate_heartside,lvl_cp3-0-Cp,Spinner cycle [cp4-1-Emik]
+
+#Spinner cycle [cp4-1-Emik]
+   2,G
+#-----
    1,J
    1,L,J
    1,K
@@ -827,75 +759,6 @@ EndStunPause
   40
 
 #lvl_cp4-2-thebreadstick1
-  14,L,D,X
-   3,L,J
-  15,L,D,X
-   2,L
-   5,L,J
-   2,L
-   6,L,X
-  11,L
-  15,U,C
-   6,L
-  23,L,Z
-  24,L,U,X
-  10,L,C
-  11,L,J,G
-   9,L
-   1,L,J
-   4,L
-   5,R
-  18,L,X
-   8,R,U,C
-  10,R,J,G
-   8,R,G
-   1
-   1,R,J,G
-   1,R,K,G
-   1,R,J,G
-#stun is impossible as is
-#any%-end
-   7,R
-   1,R,J
-   4,R
-   1
-   6,R,D,X
-StunPause
-   9,R,D,X
-   1,J
-EndStunPause
-   1,R,J
-   5,D,X
-   6,R,J,G
-   5,R
-   1,R,J
-   2,R
-   1,R,J
-   2,R
-   1,R,K,G
-   1,R,J,G
-   5,R
-   4,R,J
-  26,R,K,G
-  10,R
-   1,J
-   8,R,J
-   7,R
-   1,R,J
-  11,R
-   4,R,Z
-   1,R,J
-   6,R
-   6,R,J
-  14,U,X
-   6,J
-  11,L,J
-#any%-start
-   1,K
-   1,L,J,G
-  40
+Read,../../StrawberryJamTAS/2_Intermediate/intermediate_heartside,lvl_cp4-2-thebreadstick1
 
-#lvl_cp4-3-Luma
-Read,../../StrawberryJamTAS/2_Intermediate/intermediate_heartside.tas,lvl_cp4-3-Luma
-
-ChapterTime: 4:16.819(15107)
+ChapterTime: 4:04.426(14378)

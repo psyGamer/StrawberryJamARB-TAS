@@ -13,26 +13,32 @@
 
 Read,StrawberryJamTAS/StartFullCollabFile
 
+#Prologue
 Read,StrawberryJamTAS/0-SJ_prologue,Start
 
 Read,StrawberryJamTAS/LoadBeginnerLobby
 
-Read,1-BeginnerLobbyMain,Start
+#Beginner Lobby
+Read,1-BeginnerLobbyARB,Start
 
 Read,StrawberryJamTAS/LoadLobbyfromHeartside
 
-Read,2-IntermediateLobbyMain,Start
+#Intermediate Lobby
+Read,2-IntermediateLobbyARB,Start
 
 Read,StrawberryJamTAS/LoadLobbyfromHeartside
 
-Read,3-AdvancedLobbyMain,Start
+#Advanced Lobby
+Read,3-AdvancedLobbyARB,Start
 
 Read,StrawberryJamTAS/LoadLobbyfromHeartside
 
-Read,4-ExpertLobbyMain,Start
+#Expert Lobby
+Read,4-ExpertLobbyARB,Start
 
 Read,StrawberryJamTAS/LoadLobbyfromHeartside
 
-Read,5-GrandmasterLobbyMain,Start
+#Grandmaster Lobby
+Read,5-GrandmasterLobbyARB,Start
 
-FileTime: 3:46:47.412(800436)
+FileTime: 3:43:35.550(789150)

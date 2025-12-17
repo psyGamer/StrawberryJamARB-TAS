@@ -8,160 +8,189 @@ EnforceMaingame
    1
 
 #Start
+#Lost Woods
 Read,StrawberryJamTAS/3_Advanced_Lobby/adv_0-14,Start
 Read,StrawberryJamTAS/EnterLevel,Start
 Read,3_Advanced/lost_woods,Start
    1,O
   32
 
+#Bee Berserk
 Read,StrawberryJamTAS/3_Advanced_Lobby/adv_14-13,Start
 Read,StrawberryJamTAS/EnterLevel,Start
 Read,3_Advanced/bee_berserk,Start
    1,O
   32
 
+#Belated Valentines Day
 Read,StrawberryJamTAS/3_Advanced_Lobby/adv_13-11,Start
 Read,StrawberryJamTAS/EnterLevel,Start
 Read,3_Advanced/belated_valentines_day,Start
    1,O
   32
 
+#Superstructure
 Read,StrawberryJamTAS/3_Advanced_Lobby/adv_11-10,Start
 Read,StrawberryJamTAS/EnterLevel,Start
 Read,3_Advanced/superstructure,Start
    1,O
   32
 
+#Toggle Theory
 Read,StrawberryJamTAS/3_Advanced_Lobby/adv_10-9,Start
 Read,StrawberryJamTAS/EnterLevel,Start
 Read,3_Advanced/toggle_theory,Start
    1,O
   32
 
+#Forest Rush
 Read,StrawberryJamTAS/3_Advanced_Lobby/adv_9-8,Start
 Read,StrawberryJamTAS/EnterLevel,Start
 Read,3_Advanced/forest_rush,Start
    1,O
   32
 
+#Attack of the Clone
 Read,StrawberryJamTAS/3_Advanced_Lobby/adv_8-6,Start
 Read,StrawberryJamTAS/EnterLevel,Start
 Read,3_Advanced/attack_of_the_clone,Start
    1,O
   32
 
+#The Tower (XVI)
+#Note: Level doesn't have any red berries, so it's identical to any%.
 Read,StrawberryJamTAS/3_Advanced_Lobby/adv_6-5,Start
 Read,StrawberryJamTAS/EnterLevel,Start
 Read,StrawberryJamTAS/3_Advanced/the_tower_xvi,Start
    1,O
   32
 
+#Starlight Station
 Read,StrawberryJamTAS/3_Advanced_Lobby/adv_5-3,Start
 Read,StrawberryJamTAS/EnterLevel,Start
 Read,3_Advanced/starlight_station,Start
    1,O
   32
 
+#Call of the Void
 Read,StrawberryJamTAS/3_Advanced_Lobby/adv_3-2,Start
 Read,StrawberryJamTAS/EnterLevel,Start
 Read,3_Advanced/call_of_the_void,Start
    1,O
   32
 
+#Raindrops on Roses
 Read,StrawberryJamTAS/3_Advanced_Lobby/adv_2-1,Start
 Read,StrawberryJamTAS/EnterLevel,Start
 Read,3_Advanced/raindrops_on_roses,Start
    1,O
   32
 
+#Starry Ruins
+#Note: Level doesn't have any red berries, so it's identical to any%.
 Read,StrawberryJamTAS/3_Advanced_Lobby/adv_1-4,Start
 Read,StrawberryJamTAS/EnterLevel,Start
 Read,StrawberryJamTAS/3_Advanced/starry_ruins,Start
    1,O
   32
 
+#Synapse
 Read,StrawberryJamTAS/3_Advanced_Lobby/adv_4-7,Start
 Read,StrawberryJamTAS/EnterLevel,Start
 Read,3_Advanced/synapse,Start
    1,O
   32
 
+#Golden Dawn
 Read,StrawberryJamTAS/3_Advanced_Lobby/adv_7-12,Start
 Read,StrawberryJamTAS/EnterLevel,Start
 Read,3_Advanced/golden_dawn,Start
    1,O
   32
 
+#Sands of Time
 Read,StrawberryJamTAS/3_Advanced_Lobby/adv_12-15,Start
 Read,StrawberryJamTAS/EnterLevel,Start
 Read,3_Advanced/sands_of_time,Start
    1,O
   32
 
+#Jellyfish Sanctum
 Read,StrawberryJamTAS/3_Advanced_Lobby/adv_15-16,Start
 Read,StrawberryJamTAS/EnterLevel,Start
 Read,3_Advanced/jellyfish_sanctum,Start
    1,O
   32
 
+#Undergrowth
 Read,StrawberryJamTAS/3_Advanced_Lobby/adv_16-17,Start
 Read,StrawberryJamTAS/EnterLevel,Start
 Read,3_Advanced/undergrowth,Start
    1,O
   32
 
+#Tectonic Trenches
 Read,StrawberryJamTAS/3_Advanced_Lobby/adv_17-18,Start
 Read,StrawberryJamTAS/EnterLevel,Start
 Read,3_Advanced/tectonic_trenches,Start
    1,O
   32
 
-Read,StrawberryJamTAS/3_Advanced_Lobby/adv_18-19,Start
-Read,StrawberryJamTAS/EnterLevel,Start
+#Rightside-Down Cavern
+Read,StrawberryJamTAS/3_Advanced_Lobby/adv_18-19warpTo20,Start
 Read,3_Advanced/rightside-down_cavern,Start
    1,O
   32
 
-Read,StrawberryJamTAS/3_Advanced_Lobby/adv_19-20,Start
+#The Lab
+Read,StrawberryJamTAS/3_Advanced_Lobby/adv_19-20fromwarp,Start
 Read,StrawberryJamTAS/EnterLevel,Start
 Read,3_Advanced/the_lab,Start
    1,O
   32
 
+#Lethal Laser Laboratory
 Read,StrawberryJamTAS/3_Advanced_Lobby/adv_20-21,Start
 Read,StrawberryJamTAS/EnterLevel,Start
 Read,3_Advanced/lethal_laser_laboratory,Start
    1,O
   32
 
+#Thinking with Portals
 Read,StrawberryJamTAS/3_Advanced_Lobby/adv_21-22,Start
 Read,StrawberryJamTAS/EnterLevel,Start
 Read,3_Advanced/thinking_with_portals,Start
    1,O
   32
 
+#Slime Time
 Read,StrawberryJamTAS/3_Advanced_Lobby/adv_22-24,Start
 Read,StrawberryJamTAS/EnterLevel,Start
 Read,3_Advanced/slime_time,Start
    1,O
   32
 
+#Java's Crypt
 Read,StrawberryJamTAS/3_Advanced_Lobby/adv_24-23,Start
 Read,StrawberryJamTAS/EnterLevel,Start
 Read,3_Advanced/javas_crypt,Start
    1,O
   32
 
+#Dusk City
+#Note: Level doesn't have any red berries, so it's identical to any%.
 Read,StrawberryJamTAS/3_Advanced_Lobby/adv_23-25,Start
 Read,StrawberryJamTAS/EnterLevel,Start
 Read,StrawberryJamTAS/3_Advanced/dusk_city,Start
    1,O
   32
 
+#Advanced Heartside (Mango Mesa)
+#Note: Level doesn't have any red berries, so it's identical to any%.
 Read,StrawberryJamTAS/3_Advanced_Lobby/adv_25-26,Start
 Read,StrawberryJamTAS/EnterHeartside,Start
 Read,StrawberryJamTAS/3_Advanced/advanced_heartside,Start
   61
    1,O
 
-FileTime: 44:44.198(157894)
+FileTime: 44:01.902(155406)

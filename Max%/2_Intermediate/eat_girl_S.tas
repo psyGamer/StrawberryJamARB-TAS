@@ -80,15 +80,19 @@ console load StrawberryJam2021/2-Intermediate/Ezel
    3,J
    1,K
    7,R
-   6,R,X
-   7,R,J
-   4,R
-   4
+   7,R,X
+   2,R,J
+   2,L
+   3,K,G
+   1
    1,R
-  14,R,D,X
-   1,L,J
-   9,U,X
-  11,R,J
+   4
+   1,K
+   3,R
+   5,R,D
+   5,R,J
+   6,U,Z
+  13,R,J
    3,R,K,G
    4,R
    4,J
@@ -104,6 +108,6 @@ console load StrawberryJam2021/2-Intermediate/Ezel
   40
 
 #lvl_A-02
-Read,../../StrawberryJamTAS/2_Intermediate/eat_girl.tas,lvl_A-02
+Read,../../StrawberryJamTAS/2_Intermediate/eat_girl,lvl_A-02
 
-ChapterTime: 1:33.296(5488)
+ChapterTime: 1:31.392(5376)

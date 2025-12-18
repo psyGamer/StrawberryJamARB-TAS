@@ -6,9 +6,9 @@ console load StrawberryJam2021/1-Beginner/ZZ-HeartSide
 #Start
  190
 
-#Spinner Cycle [Flag 10]
+#Spinner Cycle [cp4_10_heartside_Hanky]
    1
-#####
+#-----
 
 #lvl_cp1_heartside_intro
   15,U,X
@@ -560,4 +560,4 @@ EndStunPause
 #lvl_cp5_06_heartside_CoupCritik2
 Read,../../StrawberryJamTAS/1_Beginner/beginner_heartside.tas,lvl_cp5_06_heartside_CoupCritik2
 
-ChapterTime: 4:28.736(15808)
+ChapterTime: 4:28.566(15798)

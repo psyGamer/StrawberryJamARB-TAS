@@ -1,4 +1,4 @@
-RecordCount: 3007
+RecordCount: 3055
 
 console load StrawberryJam2021/2-Intermediate/Liero
    1
@@ -53,7 +53,7 @@ console load StrawberryJam2021/2-Intermediate/Liero
   40
 
 #lvl_A02
-Read,../../StrawberryJamTAS/2_Intermediate/fifth_dimension.tas,lvl_A02,lvl_A09
+Read,../../StrawberryJamTAS/2_Intermediate/fifth_dimension,lvl_A02,lvl_A09
 
 #lvl_A09
   33,D
@@ -62,9 +62,9 @@ Read,../../StrawberryJamTAS/2_Intermediate/fifth_dimension.tas,lvl_A02,lvl_A09
    2
   10,R,X
   24,R,J
-##Spinner cycle
-   0
-##
+#Spinner cycle [A09]
+   2
+#-----
   12,U,X
   36,R,J
   15,R,X
@@ -105,22 +105,20 @@ EndStunPause
 
 #any%-end
 #lvl_A11
-  13,D
-   1,R,D
-   1,D
-   1,R,D
-   1,D
-  14,R,D
+  20,D
+  11,R,D
   15,R,D,X
-  15,R,J
-  15,R,X
-   9,U,Z
-  39,R,J
+   1,R,J
+   1,J
+   7,R,J
+   5,R
+   1,R,J
+   8,R
+  13,R,J,G
+   1,K
+   5,U,X
+  38,R,J
   17,R,D,X
-  13,D,C
-  18,L,X
-  19,R,C
-  35,U,X
   10,U,C
   15,R,J
   11,R
@@ -158,4 +156,4 @@ EndStunPause
   50,U
   88,U,X
 
-ChapterTime: 1:03.138(3714)
+ChapterTime: 1:02.033(3649)

@@ -1,4 +1,4 @@
-RecordCount: 6118
+RecordCount: 6125
 
 console load StrawberryJam2021/2-Intermediate/Arphimigon
    1
@@ -134,24 +134,26 @@ console load StrawberryJam2021/2-Intermediate/Arphimigon
   10,D,X
   43,D
   15,U,X
-  98,R,G
-Repeat,6
-   4,R,D,G
-   4,R,G
-EndRepeat
-  15,R,D,G
+   8,R
+ 115,R,G
+   1,R,U,G
+   2,R,G
+  32,R,D,G
    1,R
-  21,R,D
+  11,R,D
+   4,R
+   1,R,D
+   5,R
   31,R,X
   15,R,C
-  26,R,D
-   4,D
+  23,R,D
+   7,D
   38,R
   18,U,X
   15,R
   27,R,U,C
   39,R,X
-  10,C
+  10,R,C
    7,R,J
 #any%-end
   30,U,X
@@ -165,7 +167,7 @@ EndRepeat
   40
 
 #lvl_a_01 (2)
-Read,../../StrawberryJamTAS/2_Intermediate/sleeping_under_stars.tas,lvl_a_01 (2),lvl_a_02
+Read,../../StrawberryJamTAS/2_Intermediate/sleeping_under_stars,lvl_a_01 (2),lvl_a_02
 
 #lvl_a_02
   11,L,J
@@ -305,22 +307,13 @@ Read,../../StrawberryJamTAS/2_Intermediate/sleeping_under_stars.tas,lvl_a_01 (2)
    2,J
   15,R,U,Z
    6
-#wait for less time
 Repeat,8
    1,R,G
    1
    1,L,G
    1
 EndRepeat
-   2
-#Repeat 8
-#   1,R,G
-#   1
-#   1,L,G
-#   1
-#EndRepeat
-#   3
-#####
+   3
   11,R,D,J
    1,K,G
    3,L,K
@@ -338,13 +331,15 @@ EndRepeat
   13,R,J
   16,L,D
 #wait for less time
-  11,D
+##
 #   6,D
 #Repeat 2
 #   6
 #   6,D
 #EndRepeat
-####
+##
+  11,D
+#-----
    4,D,J
    8
   35,U,X
@@ -353,9 +348,9 @@ Repeat,4
    9
 EndRepeat
 #wait for more time
-  11,D
 #   5,D
-#####
+  10,D
+#---
    8,D,J
   10
   13,U,X
@@ -371,4 +366,4 @@ EndRepeat
 #lvl_b_01
 Read,../../StrawberryJamTAS/2_Intermediate/sleeping_under_stars.tas,lvl_b_01
 
-ChapterTime: 1:55.617(6801)
+ChapterTime: 1:54.716(6748)

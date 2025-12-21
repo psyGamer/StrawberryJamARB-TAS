@@ -1,4 +1,4 @@
-RecordCount: 3427
+RecordCount: 3447
 
 console load StrawberryJam2021/3-Advanced/Julia
    1
@@ -8,7 +8,7 @@ console load StrawberryJam2021/3-Advanced/Julia
 
 #Spinner Cycle [a-07]
    1
-#####
+#-----
 
 #lvl_a-01
    1,L,J
@@ -35,27 +35,31 @@ console load StrawberryJam2021/3-Advanced/Julia
   10,R,C
    1,R,J
    3,J
-   1,R,J
-   1,J
+   1
+   1,R
    9,U,X
 #any%-start
-  17,U,G
-   7,R,U,G
-   1,U,G
-   1,R,U,G
-   1,D
-  15,U,X
+  13,G
+  10,R,G
+   1,G
+   2,R,G
+   1,R,D
+  18,U,X
   21
-   3,R
+   9,R,D
+   9,R
+   1,R,D
 
-#be higher
-  10,R,D
-  20,R
-   4,R,D
-#  11,R,D
-#  23,R
-#####
+#Be lower
+#   10,R
+   1,R
+   1,R,D
+   1,R
+   1,R,D
+   6,R
+#-----
 
+   5,R,D
    9,U,X
   21,R,U,G
    1,R,D
@@ -81,17 +85,9 @@ console load StrawberryJam2021/3-Advanced/Julia
   10,R
   35,R,U,X
   21,D
-
-#Different fireball cycle
-   9,L,D
-   1,R,D
-   1,L,D
-  25,R,D
-#  10,L,D
-#  10,D
-#  16,R,D
-#####
-
+  11,L,D
+   8,D
+  17,R,D
    1,R,J
    7,R
    4,L
@@ -107,6 +103,6 @@ console load StrawberryJam2021/3-Advanced/Julia
   40
 
 #lvl_a-03
-Read,../../StrawberryJamTAS/3_Advanced/tectonic_trenches.tas,lvl_a-03
+Read,../../StrawberryJamTAS/3_Advanced/tectonic_trenches,lvl_a-03
 
-ChapterTime: 0:50.830(2990)
+ChapterTime: 0:50.252(2956)

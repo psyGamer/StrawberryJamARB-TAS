@@ -8,7 +8,7 @@ console load StrawberryJam2021/3-Advanced/Goldian
 
 #Spinner Cycle [goldian-7]
    1
-#####
+#-----
 
 #lvl_start
    4,Z
@@ -75,12 +75,14 @@ console load StrawberryJam2021/3-Advanced/Goldian
   10,R,J
 
 #be higher up
+##
+#  18,R
+#  10,R,D
+##
   18,R
    9,R,D
    1,R
-#  18,R
-#  10,R,D
-#####
+#-----
 
    1,R,J,G
    1,R,K,G
@@ -103,4 +105,4 @@ console load StrawberryJam2021/3-Advanced/Goldian
 #lvl_goldian-1
 Read,../../StrawberryJamTAS/3_Advanced/superstructure.tas,lvl_goldian-1
 
-ChapterTime: 1:16.313(4489)
+ChapterTime: 1:15.582(4446)

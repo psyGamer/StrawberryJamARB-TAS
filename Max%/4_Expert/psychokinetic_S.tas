@@ -92,13 +92,13 @@ Read,../../StrawberryJamTAS/4_Expert/psychokinetic,lvl_a-00,lvl_a-02
   15,R
    7,R,D
    1,R
-   4,R,Z
+   4,Z
    2,R,J
    9,R
    8,L,D,X
 #Spinner Cycle [a-06]
    1
-#----
+#-----
    1,R,J
    1,R,K
    1,R,J
@@ -110,6 +110,6 @@ Read,../../StrawberryJamTAS/4_Expert/psychokinetic,lvl_a-00,lvl_a-02
   40
 
 #lvl_a-03
-Read,../../StrawberryJamTAS/4_Expert/psychokinetic.tas,lvl_a-03
+Read,../../StrawberryJamTAS/4_Expert/psychokinetic,lvl_a-03
 
-ChapterTime: 0:32.283(1899)
+ChapterTime: 0:32.198(1894)

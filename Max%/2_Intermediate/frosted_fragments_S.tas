@@ -1,4 +1,4 @@
-RecordCount: 19365
+RecordCount: 19367
 
 #console evalcs Action<float, long> i1 = (float timeRate, long frames) =>{long num4 = Math.Abs(frames);bool flag = frames < 0;float num5 = 0.0166667f * timeRate * (flag ? (-1f) : 1f);for (long num6 = 0L; num6 < num4; num6++){((Level)Engine.Scene).TimeActive += num5;}}
 console load StrawberryJam2021/2-Intermediate/Dooshii
@@ -225,18 +225,20 @@ console load StrawberryJam2021/2-Intermediate/Dooshii
   10,L,Z
    1,R,J
    3,D
-  21,R,D
-   1,D
-  16,R,D
+  19,R,D
+  18,D
+   1
    4,R
-   9,R,Z
-  26,R
+  15,R,Z
+   1,G
+   1,R,J,G
+  14,R
   15,R,X
   24,R,C
   14,U,X
 #Spinner Cycle [a4v2]
-   1
-#####
+   2
+#-----
   15,U,C
    1,R
   15,R,U,X
@@ -260,6 +262,6 @@ console load StrawberryJam2021/2-Intermediate/Dooshii
   40,J
 
 #lvl_a4v2
-Read,../../StrawberryJamTAS/2_Intermediate/frosted_fragments.tas,lvl_a4v2 (0)
+Read,../../StrawberryJamTAS/2_Intermediate/frosted_fragments,lvl_a4v2 (0)
 
-ChapterTime: 1:40.113(5889)
+ChapterTime: 1:39.960(5880)

@@ -1,4 +1,4 @@
-RecordCount: 7157
+RecordCount: 7163
 
 console load StrawberryJam2021/1-Beginner/frozenflygone
    1
@@ -36,12 +36,11 @@ console load StrawberryJam2021/1-Beginner/frozenflygone
   40
 
 #lvl_SS2-1
-Read,../../StrawberryJamTAS/1_Beginner/potential_for_anything.tas,lvl_SS2-1,lvl_SS2-3 (1)
+Read,../../StrawberryJamTAS/1_Beginner/potential_for_anything,lvl_SS2-1,lvl_SS2-3 (1)
 
 #lvl_SS2-3 (0)
-  18,R,U
 #any%-end
-  56,U
+  76,U
   11,L,U
   40
 
@@ -67,6 +66,6 @@ Read,../../StrawberryJamTAS/1_Beginner/potential_for_anything.tas,lvl_SS2-1,lvl_
   40
 
 #lvl_SS2-3 (1)
-Read,../../StrawberryJamTAS/1_Beginner/potential_for_anything.tas,lvl_SS2-3 (2)
+Read,../../StrawberryJamTAS/1_Beginner/potential_for_anything,lvl_SS2-3 (2)
 
-ChapterTime: 1:27.329(5137)
+ChapterTime: 1:26.768(5104)

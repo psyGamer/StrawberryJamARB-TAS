@@ -8,137 +8,161 @@ EnforceMaingame
    1
 
 #Start
+#Loopy Lagoon
 Read,StrawberryJamTAS/1_Beginner_Lobby/beg_0-1,Start
 Read,StrawberryJamTAS/EnterLevel,Start
 Read,1_Beginner/loopy_lagoon,Start
    1,O
   32
 
-Read,StrawberryJamTAS/1_Beginner_Lobby/beg_1-11,Start
-Read,StrawberryJamTAS/EnterLevel,Start
-Read,1_Beginner/forest_path,Start
-   1,O
-  32
-
-Read,StrawberryJamTAS/1_Beginner_Lobby/beg_11-12,Start
-Read,StrawberryJamTAS/EnterLevel,Start
-Read,1_Beginner/azure_caverns,Start
-   1,O
-  32
-
-Read,StrawberryJamTAS/1_Beginner_Lobby/beg_12-10,Start
-Read,StrawberryJamTAS/EnterLevel,Start
-Read,1_Beginner/if_my_driveway,Start
-   1,O
-  32
-
-Read,StrawberryJamTAS/1_Beginner_Lobby/beg_10-9,Start
-Read,StrawberryJamTAS/EnterLevel,Start
-Read,1_Beginner/treehive,Start
-   1,O
-  32
-
-Read,StrawberryJamTAS/1_Beginner_Lobby/beg_9-8,Start
-Read,StrawberryJamTAS/EnterLevel,Start
-Read,StrawberryJamTAS/1_Beginner/rose_garden,Start
-   1,O
-  32
-
-Read,StrawberryJamTAS/1_Beginner_Lobby/beg_8-2,Start
+#Collapsing Skyline
+Read,StrawberryJamTAS/1_Beginner_Lobby/beg_1-2,Start
 Read,StrawberryJamTAS/EnterLevel,Start
 Read,1_Beginner/collapsing_skyline,Start
    1,O
   32
 
+#Over the City
 Read,StrawberryJamTAS/1_Beginner_Lobby/beg_2-3,Start
 Read,StrawberryJamTAS/EnterLevel,Start
 Read,1_Beginner/over_the_city,Start
    1,O
   32
 
+#Switchtube Vista
 Read,StrawberryJamTAS/1_Beginner_Lobby/beg_3-4,Start
 Read,StrawberryJamTAS/EnterLevel,Start
 Read,1_Beginner/switchtube_vista,Start
    1,O
   32
 
+#A Gift from the Stars
 Read,StrawberryJamTAS/1_Beginner_Lobby/beg_4-5,Start
 Read,StrawberryJamTAS/EnterLevel,Start
 Read,1_Beginner/a_gift_from_the_stars,Start
    1,O
   32
 
+#Troposphere
 Read,StrawberryJamTAS/1_Beginner_Lobby/beg_5-6,Start
 Read,StrawberryJamTAS/EnterLevel,Start
 Read,1_Beginner/troposphere,Start
    1,O
   32
 
+#Potential for Anything
 Read,StrawberryJamTAS/1_Beginner_Lobby/beg_6-7,Start
 Read,StrawberryJamTAS/EnterLevel,Start
 Read,1_Beginner/potential_for_anything,Start
    1,O
   32
 
+#The Squeeze
 Read,StrawberryJamTAS/1_Beginner_Lobby/beg_7-13,Start
 Read,StrawberryJamTAS/EnterLevel,Start
 Read,1_Beginner/the_squeeze,Start
    1,O
   32
 
+#Strawberry Orchard
 Read,StrawberryJamTAS/1_Beginner_Lobby/beg_13-14,Start
 Read,StrawberryJamTAS/EnterLevel,Start
 Read,1_Beginner/strawberry_orchard,Start
    1,O
   32
 
+#paint
 Read,StrawberryJamTAS/1_Beginner_Lobby/beg_14-15,Start
 Read,StrawberryJamTAS/EnterLevel,Start
 Read,1_Beginner/paint,Start
    1,O
   32
 
+#Coresaken City
 Read,StrawberryJamTAS/1_Beginner_Lobby/beg_15-16,Start
 Read,StrawberryJamTAS/EnterLevel,Start
 Read,1_Beginner/coresaken_city,Start
    1,O
   32
 
+#Dropzle
 Read,StrawberryJamTAS/1_Beginner_Lobby/beg_16-17,Start
 Read,StrawberryJamTAS/EnterLevel,Start
 Read,1_Beginner/dropzle,Start
    1,O
   32
 
+#Soap
 Read,StrawberryJamTAS/1_Beginner_Lobby/beg_17-18,Start
 Read,StrawberryJamTAS/EnterLevel,Start
 Read,1_Beginner/soap,Start
    1,O
   32
 
+#Seeing is Believing
 Read,StrawberryJamTAS/1_Beginner_Lobby/beg_18-19,Start
 Read,StrawberryJamTAS/EnterLevel,Start
 Read,1_Beginner/seeing_is_believing,Start
    1,O
   32
 
+#Cassette Cliffs
 Read,StrawberryJamTAS/1_Beginner_Lobby/beg_19-20,Start
 Read,StrawberryJamTAS/EnterLevel,Start
 Read,1_Beginner/cassette_cliffs,Start
    1,O
   32
 
+#Midnight Spire
 Read,StrawberryJamTAS/1_Beginner_Lobby/beg_20-21,Start
 Read,StrawberryJamTAS/EnterLevel,Start
 Read,1_Beginner/midnight_spire,Start
    1,O
   32
 
-Read,StrawberryJamTAS/1_Beginner_Lobby/beg_21-F,Start
-Read,StrawberryJamTAS/1_Beginner_Lobby/beg_F-D,Start
-Read,StrawberryJamTAS/1_Beginner_Lobby/beg_D-22,Start
+#Forest Path
+Read,StrawberryJamTAS/1_Beginner_Lobby/beg_21-0,Start
+Read,StrawberryJamTAS/1_Beginner_Lobby/beg_0-11,Start
+Read,StrawberryJamTAS/EnterLevel,Start
+Read,1_Beginner/forest_path,Start
+   1,O
+  32
+
+#Rose Garden
+#Note: Level doesn't have any red berries, so it's identical to any%.
+Read,StrawberryJamTAS/1_Beginner_Lobby/beg_11-8,Start
+Read,StrawberryJamTAS/EnterLevel,Start
+Read,StrawberryJamTAS/1_Beginner/rose_garden,Start
+   1,O
+  32
+
+#Treehive
+Read,StrawberryJamTAS/1_Beginner_Lobby/beg_8-9,Start
+Read,StrawberryJamTAS/EnterLevel,Start
+Read,1_Beginner/treehive,Start
+   1,O
+  32
+
+#If my "Driveway" Almost Did You In...
+Read,StrawberryJamTAS/1_Beginner_Lobby/beg_9-10,Start
+Read,StrawberryJamTAS/EnterLevel,Start
+Read,1_Beginner/if_my_driveway,Start
+   1,O
+  32
+
+#Azure Caverns
+Read,StrawberryJamTAS/1_Beginner_Lobby/beg_10-12,Start
+Read,StrawberryJamTAS/EnterLevel,Start
+Read,1_Beginner/azure_caverns,Start
+   1,O
+  32
+
+#Beginner Heartside (Blueberry Bay)
+#Note: Heartsides don't have berries.
+Read,StrawberryJamTAS/1_Beginner_Lobby/beg_12-22,Start
 Read,StrawberryJamTAS/EnterHeartside,Start
 Read,StrawberryJamTAS/1_Beginner/beginner_heartside,Start
   61
    1,O
-FileTime: 36:29.787(128811)
+
+FileTime: 36:28.665(128745)

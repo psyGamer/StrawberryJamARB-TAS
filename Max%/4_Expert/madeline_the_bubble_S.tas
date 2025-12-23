@@ -1,4 +1,4 @@
-RecordCount: 12173
+RecordCount: 12304
 
 console load StrawberryJam2021/4-Expert/Vina
    1
@@ -20,21 +20,28 @@ console load StrawberryJam2021/4-Expert/Vina
    3,R,J
    8,R
    8,R,J
-   8,J
+   4,J
+   2
+   2,R
    9,U,X
   14,R,J
-  11
-#Spinner Cycle [Vina-05]
-   2
-#####
-   1,J
-   2
+   4,R
+   7
+#Spinner cycle [Vina-05]
+   1
+#-----
+   2,L,J
+   1,L
   10,R,X
-  19,J
+   1,R,J
+   9,J
+   1,R,J
+   1,J
+   5,R
   18,U,X
   16,R
   15,R,U,X
-  16,R
+  15,R
 #any%-end
    2,R,J
   10,R,X
@@ -64,7 +71,10 @@ console load StrawberryJam2021/4-Expert/Vina
 #lvl_Vina-01
    4,R
    2,R,J
-  19,R,K,G
+  16,R,K,G
+   1,K
+   1,R,K
+   1,K
    1,J
   10,L,J
 #any%-start
@@ -73,31 +83,38 @@ console load StrawberryJam2021/4-Expert/Vina
    1,L,K,G
   10,L,J,G
    1,K,G
-   5,L
-   1
-   1,R
-   9,R,J
-   7,R
-  21,R,U,X
-  37,R
-  12,R,Z
-  16,R,J
-   2,J
-   1
-  18,R,U,X
    1,L
-  15,U,C
-   6,L
+   1
+   1,L
+   2
+   1,L
+   1,R
+   8,R,J
+   5,R
+  15,R,U,X
+  47,R
+   1,R,J,G
+  11,R,D,X
+  12,R,J
+   1,R
+   1,R,K
+  15,R,U,Z
+   1
+   4,R
+  15,U,X
+   3,L
+   2
   15,L,X
   15,R,C
-   4
-   6,R
+   3,R
+   5
+   1,R
   15,R,Z
-   2,R
-  14,L,U,X
-  55,R
-  15,R,Z
-   8,R
+   3
+  20,L,U,X
+  50,R
+  15,R,X
+   7,R
    4,Z
    1,R,J
    4,R,K,G
@@ -110,28 +127,42 @@ console load StrawberryJam2021/4-Expert/Vina
   40
 
 #lvl_Vina-02
-Read,../../StrawberryJamTAS/4_Expert/madeline_the_bubble.tas,lvl_Vina-02,lvl_Vina-05
+Read,../../StrawberryJamTAS/4_Expert/madeline_the_bubble,lvl_Vina-02,lvl_Vina-05
 
 #lvl_Vina-05
-   3,R
+
+
+
+
+
+
+
+
+
+   7,R
    1,R,J
-   1,R
-   7,L,J
-  15,R,D,X
-   1,L
-   6,L,J
-   5,L
-  10,L,K
-   4,L
+   1,J
    2
-   1,L
+   2,R
+   1
+  15,R,D,X
+   6,L,J
+   8
+   1,K
+   1
+   1,K
+   5
+   2,L
    5
    3,R
    1
   18,R,U,X
   15,L,D,C
    8,R,X
-  30,R,J
+  11,R,J
+   7,R
+  10,R,K
+   2,R
   15,R,U,X
    3
    1,R
@@ -143,38 +174,43 @@ Read,../../StrawberryJamTAS/4_Expert/madeline_the_bubble.tas,lvl_Vina-02,lvl_Vin
    1,R
   29,L
    7
-   3,L
-   1,L,D
-   1,D
+   1,L
+   1
+   1,L
+   2,L,D
   21,U,X
   11
    9,U,Z
-   2,L
+   5,L
    2
-   1,L
-   7
    1,R
+   4,L
 StunPause
    4,L
 EndStunPause
-  17,L
-  15,R,U,X
-   6
-  12,L
-  19,L,U,X
+   2,L
+  15,U,X
+   8
+  10,R
+  16
+  20,L,U,X
   38,R
   15,R,U,Z
 #any%-end
-#maybe the strat works without
-#the puffer?
-  15,L,U,X
-  13,L,C
-  27,R
-  38,R,X
-  30,R,U,Z
-  31,R,U,V
-   3
+  18,L,U,X
+  18,L,C
+  21,R
+  18,R,X
+  14,R
+   4,R,D
    1,R
+  33,R,U,Z
+  21,R,U,X
+   8,R
+   1
+   1,R
+   1
+   1,R,D
    1,R,G
    3,R,J,G
   19,R
@@ -189,14 +225,17 @@ EndStunPause
    1,L,U
    3,J,G
    3,R,J
-   4,L,J
-   4,K
+   3,L,J
+   1,L
+   3,K
+   1
    1,L,J,G
    2,L,K,G
+   1
    1,J
-   3,K,G
-  16,R,K
-   1,R
+   4,K,G
+   8,R,K
+   7,R
   14,U,X
   40
 
@@ -214,86 +253,110 @@ EndStunPause
    9,L
    1,L,J
    2,L
-   1
-#+4f Pufferfish cycle
-   4
-#####
+   1,L,J
 #any%-start
-  13,L,Z
-  11,L,J
-  15,L
-   5,L,D
+  14,L,Z
+  14,L,J
+   4,L
+   1,L,K
+  11,L
    1,G
-  21,L,X
-  23,R,C
-   1,J
-  18,L
-  17,L,X
-  10,J
-   9,L,J
-  15,U,X
-   1
-  13,R
-  11,L,J
-   5,L
-   2,L,J
-   6,L
-   6,R
-  10,D
-  26,R,D
-   1
-   2,R
    2
-   1,R
-  15,R,X
-  21
-  39,R
-  15,R,U,Z
-   1
-  19,U,X
-   5,R
-   1
-  13,R,D,X
-  23,L,J
-  18,L,U,Z
-  15,L,U,C
-  19,L,U,X
+  12,J
+   5,L
+   5,L,K
+   3,L
+   1,J,G
+   2,L,J
+   3,L
+   6,U,Z
+  18,L,J
+   8,L
+
+#hit puffer earlier
+  14,L,K
+#   17,L,K
+#-----
+
   38,R
   15,U,X
-  35,R,J
-   7,J
+   5,R
+  15,R,J
+   8,R
 
-#this hits bubble a frame earlier
-#or something?
-   2,D
-   2
-   1,D
-   6
-#   6,D
-#   6
-#####
+#-1f: hit puffer earlier
+##
+#    8,R,K
+#   15,U,X
+#   18,R
+##
+   2,R,J
+   6,R
+  15,U,X
+  17,R
+#-----
 
-   7,R
-   7
-   4,R
-   2
+  11
+  15,R,U,X
+
+#a bit more right
+#   17,R
+#    2
+  19,R
+#-----
+
+  12,R,J,G
+   3,R
+   1,R,J,G
    1,R
-  15,R,U,Z
-  49,R
-  24,R,U,X
-   6,J
    1
-   7,R,Z
-   1,R,J
-   1,R,K,G
    1,R
-   4,R,J,G
-   7,R
-   7,R,J
-   6,R,D,X
+   3
+   1,R
+  10
+   1,R
+   1,D
+   1
+   1,L
+   1
+   1,L
+   2
+   2,L
+   2
+   1,R,D
+   4
+  12,D
+  11,R,U,Z
+   1,L,J,G
+  12,L,K,G
+   3,L
+   3,L,J,G
+   5
+   2,R,K
+   7
+   1,L,G
+   1
+   1,G
+   1
+   1,J
+  18
+   5,R,D
+   2,R
+   1,D
+  50,R
+  14,R,Z
+   2,R,J
+   1,R,K,G
+   3
+   6,R
+   1,R,J
+   2,R,K,G
+   1,K
+   7,R,K
+   7,R,D,X
   40
 
 #lvl_Vina-07
-Read,../../StrawberryJamTAS/4_Expert/madeline_the_bubble.tas,lvl_Vina-07
+Read,../../StrawberryJamTAS/4_Expert/madeline_the_bubble,lvl_Vina-07
 
-ChapterTime: 1:51.112(6536)
+ChapterTime: 1:44.890(6170)

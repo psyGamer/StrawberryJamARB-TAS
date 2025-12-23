@@ -9,60 +9,74 @@ EnforceMaingame
    1
 
 #Start
+#Flipside Cliffside
 Read,StrawberryJamTAS/5_Grandmaster_Lobby/gm_0-18,Start
 Read,StrawberryJamTAS/EnterLevel,Start
 Read,5_Grandmaster/flipside_cliffside,Start
    1,O
   32
 
+#Fractured Iridescence
+#Note: Level doesn't have any red berries, so level is identical to any%
 Read,StrawberryJamTAS/5_Grandmaster_Lobby/gm_18-10,Start
 Read,StrawberryJamTAS/EnterLevel,Start
 Read,StrawberryJamTAS/5_Grandmaster/fractured_iridescence,Start
    1,O
   32
 
+#Belly of the Beast
+#Note: Level doesn't have any red berries, so level is identical to any%
 Read,StrawberryJamTAS/5_Grandmaster_Lobby/gm_10-11,Start
 Read,StrawberryJamTAS/EnterLevel,Start
 Read,StrawberryJamTAS/5_Grandmaster/belly_of_the_beast,Start
    1,O
   32
 
+#World Abyss
+#Note: Level doesn't have any red berries, so level is identical to any%
 Read,StrawberryJamTAS/5_Grandmaster_Lobby/gm_11-12,Start
 Read,StrawberryJamTAS/EnterLevel,Start
 Read,StrawberryJamTAS/5_Grandmaster/world_abyss,Start
    1,O
   32
 
+#The Solar Express
 Read,StrawberryJamTAS/5_Grandmaster_Lobby/gm_12-13,Start
 Read,StrawberryJamTAS/EnterLevel,Start
 Read,5_Grandmaster/the_solar_express,Start
    1,O
   32
 
+#Drifting Deep
 Read,StrawberryJamTAS/5_Grandmaster_Lobby/gm_13-14,Start
 Read,StrawberryJamTAS/EnterLevel,Start
 Read,5_Grandmaster/drifting_deep,Start
    1,O
   32
 
+#summit
 Read,StrawberryJamTAS/5_Grandmaster_Lobby/gm_14-15,Start
 Read,StrawberryJamTAS/EnterLevel,Start
 Read,5_Grandmaster/summit,Start
    1,O
   32
 
+#kevintechspam.bin
+#Note: Level doesn't have any red berries, so level is identical to any%
 Read,StrawberryJamTAS/5_Grandmaster_Lobby/gm_15-17,Start
 Read,StrawberryJamTAS/EnterLevel,Start
 Read,StrawberryJamTAS/5_Grandmaster/kevintechspam,Start
    1,O
   32
 
+#Ivory
 Read,StrawberryJamTAS/5_Grandmaster_Lobby/gm_17-16,Start
 Read,StrawberryJamTAS/EnterLevel,Start
 Read,5_Grandmaster/ivory,Start
    1,O
   32
 
+#Lava Layer
 Read,StrawberryJamTAS/5_Grandmaster_Lobby/gm_16-0,Start
 Read,StrawberryJamTAS/5_Grandmaster_Lobby/gm_0-2,Start
 Read,StrawberryJamTAS/EnterLevel,Start
@@ -70,54 +84,64 @@ Read,5_Grandmaster/lava_layer,Start
    1,O
   32
 
+#Superluminary
 Read,StrawberryJamTAS/5_Grandmaster_Lobby/gm_2-3,Start
 Read,StrawberryJamTAS/EnterLevel,Start
 Read,5_Grandmaster/superluminary,Start
    1,O
   32
 
+#Cave of the Crimson Sky
 Read,StrawberryJamTAS/5_Grandmaster_Lobby/gm_3-1,Start
 Read,StrawberryJamTAS/EnterLevel,Start
 Read,5_Grandmaster/cave_of_the_crimson_sky,Start
    1,O
   32
 
+#Pinball Purgatory
 Read,StrawberryJamTAS/5_Grandmaster_Lobby/gm_1-4,Start
 Read,StrawberryJamTAS/EnterLevel,Start
 Read,5_Grandmaster/pinball_purgatory,Start
    1,O
   32
 
+#Shattersong
 Read,StrawberryJamTAS/5_Grandmaster_Lobby/gm_4-5,Start
 Read,StrawberryJamTAS/EnterPostcard,Start
 Read,5_Grandmaster/shattersong,Start
    1,O
   32
 
+#Nelumbo
 Read,StrawberryJamTAS/5_Grandmaster_Lobby/gm_5-6,Start
 Read,StrawberryJamTAS/EnterLevel,Start
 Read,5_Grandmaster/nelumbo,Start
    1,O
   32
 
+#Stellar Odyssey
 Read,StrawberryJamTAS/5_Grandmaster_Lobby/gm_6-7,Start
 Read,StrawberryJamTAS/EnterLevel,Start
 Read,5_Grandmaster/stellar_odyssey,Start
    1,O
   32
 
+#74
 Read,StrawberryJamTAS/5_Grandmaster_Lobby/gm_7-8,Start
 Read,StrawberryJamTAS/EnterLevel,Start
 Read,5_Grandmaster/74,Start
    1,O
   32
 
+#Cycle Madness B-Side
 Read,StrawberryJamTAS/5_Grandmaster_Lobby/gm_8-9,Start
 Read,StrawberryJamTAS/EnterLevel,Start
 Read,5_Grandmaster/cycle_madness_b-side,Start
    1,O
   32
 
+#Grandmaster Heartside (Passionfruit Pantheon)
+#Note: Heartsides don't have berries.
 Read,StrawberryJamTAS/5_Grandmaster_Lobby/gm_9-19,Start
 Read,StrawberryJamTAS/EnterHeartside,Start
 Read,StrawberryJamTAS/5_Grandmaster/grandmaster_heartside,Start

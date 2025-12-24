@@ -1,4 +1,4 @@
-RecordCount: 12472
+RecordCount: 12480
 
 console load StrawberryJam2021/3-Advanced/Jolly
    1
@@ -6,8 +6,9 @@ console load StrawberryJam2021/3-Advanced/Jolly
 #Start
   76
 
-#Spinner Cycle
-   0
+#Spinner Cycle [b2]
+   2
+#-----
 
 #lvl_a0
    1,L
@@ -81,135 +82,59 @@ console load StrawberryJam2021/3-Advanced/Jolly
   15,U,G
 #any%-start
    2,G
-   1,J
+   1,J,G
    1,K
    2,L,K
-  10,R,K
+   9,R,K
+   1,R
    1,R,J,G
-   7,R
-   1,J
-   2,R
-   9
-   6,R,D
-   4,D
-   4,R,D
-   1,D
-  15,R,Z
-   2,R
-   4
    1,R
    1,L
-   6
-   1,D
+   5,R
+   1,J
+  10
+   7,R
    1
-  12,G
-   7,D,G
-   7,G
-   2,U,G
+   3,D
+   5,R,D
+   1,D
 
-#height manip
-   7,G
-#   6,G
-#   1,D,G
-#####
+#fall a bit less
+##
+#    1
+#    1,D
+#    1
+##
+   2
+   1,D
+#-----
 
+   1,R
+  15,R,Z
+   9
+   1,L,G
+   7,L
+  26,G
+   1,D,G
    5,R,Z
    1,R,J
    6,R
    1,R,J
    2,R
   13,R,D,X
-  40,X
-
-#lvl_a3
-Read,../../StrawberryJamTAS/3_Advanced/starlight_station.tas,lvl_a3,lvl_b2
-
-#lvl_b2
-   7,R,J
-StunPause
-   6,R,J
-EndStunPause
-   1,R,J
-  14,R,U,Z
-   5,L,J,G
-   3,L
-   1,R
-   1,L
-   1,R
-   1,L,K
-   2
-   8,R,U,X
-   7
-  28,R,U,C
-  11,L
-  14,L,Z
-   1,L,J
-  10,L,D,X
-  10,L,J
-   1,L
-   4,R,J
-   5,R
-   1,R,J,G
-  13,L
-  24,R,G
-  10
-   6,G
-   5,D,G
-   1
-   3,L
-  22,R,D
-   5,R
-   3
-   1,R
-   6
-#0.024 precise x pixel
-   2,L
-   1
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   6,L,G
-   3,U,G
-   2,R
-   1,L
-   1
-   7,G
-#Spinner Cycle
-   0
-  20,U,G
-   4,G
-   1,L,J,G
-   1,K,G
-   1,J,G
-  21,R,D,X
-   2,R
-   1
-StunPause
-   1
-SkipInput,3,1
-   9,R,U,Z
-EndStunPause
-   5,R,U,Z
-   6,J,G
-   3
-   6,R,U,X
   40
 
-#lvl_b3
-Read,../../StrawberryJamTAS/3_Advanced/starlight_station.tas,lvl_b3,lvl_brys2
+#lvl_a3
+Read,../../StrawberryJamTAS/3_Advanced/starlight_station,lvl_a3,lvl_brys2
 
 #lvl_brys2
    2,R
   14,R,D,X
    1,R,J
-# spinner cycle
+#Spinner Cycle [brys2] 1
    1
-#####
-# second spinner cycle in later bubble
-  45,R,Z
+#-----
+  45,R,X
    1,R,J
   15,R,D,C
   12,R,D
@@ -225,8 +150,8 @@ StunPause
 SkipInput,3,1
   12,U,X
 EndStunPause
-   2,U,X
-  14,L
+   3,U,X
+  13,L
    4,R
    1,R,J
   15,R
@@ -242,56 +167,56 @@ EndStunPause
   18,U,X
   15,R,U,C
   15,R,U,X
-  10
-   1,R
-   6,L
+  17
   14,R,Z
    1,L,J
-  11,L,Z
+   8,L,Z
    1,R,J
-   1,R,K,G
-   6,R,J,G
-   4,R
-  13,R,U,Z
-# Spinner Cycle
-   0
-#####
-  32,R,X
-  15,R,D,C
-   6,L,Z
-   1,R,J
-   7,R
-   1,R,J
-  14,R,D,X
-   1,R,J,G
-   3,L
-   7,R
-StunPause
-EndStunPause
-   8,R
-   7,R,D
+   6,R
+   9,R,J
+  10,R,U,Z
+#Spinner Cycle [brys2] 2
    1
-   9,R
-   1,L
-   4,R
-  12,R,J,G
-  11,R,K,G
+#-----
+  40,R,X
+   7,R,D,C
+   1,R,J
+   7,R
+   1,R,J
+   7,R,D,X
+   1,R,J
+   1,J
+   5
+   2,K
+   1
+   1,R,D
+   3,R
+   1
+   1,L,J
+   1,L,K,G
+   1,L,J,G
+   1
    1,R
-   6,R,J,G
-   7,R
-   4,R,Z
-   1,R,J
-   7,R
-   4,R,J
-   5,R,D,X
    1,R,J,G
-  13,R
-   1,R,J
-   5,R
-   1,R,J
+   6,R
+   2,R,K
+   1,R
+   3,K
+   1
+   8,R
+   3,R,D
+   4,D
+   5,R,U,X
+   7,L,J,G
+   5
+   2,K
+   3
+   7,L,J
+   3,R,J
+   7,R,U,X
   40
 
 #lvl_brys3
-Read,../../StrawberryJamTAS/3_Advanced/starlight_station.tas,lvl_brys3
+Read,../../StrawberryJamTAS/3_Advanced/starlight_station,lvl_brys3
 
-ChapterTime: 1:29.573(5269)
+ChapterTime: 1:26.343(5079)

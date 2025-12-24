@@ -1,4 +1,4 @@
-RecordCount: 2983
+RecordCount: 2985
 
 console load StrawberryJam2021/5-Grandmaster/RedBatNick
    1
@@ -7,8 +7,8 @@ console load StrawberryJam2021/5-Grandmaster/RedBatNick
  190
 
 #Spinner Cycle [cotcs-4]
-   0
-#####
+   2
+#-----
 
 #lvl_cotcs-0
    2,J
@@ -99,4 +99,4 @@ console load StrawberryJam2021/5-Grandmaster/RedBatNick
 #lvl_cotcs-2
 Read,../../StrawberryJamTAS/5_Grandmaster/cave_of_the_crimson_sky.tas,lvl_cotcs-2
 
-ChapterTime: 0:51.442(3026)
+ChapterTime: 0:50.728(2984)

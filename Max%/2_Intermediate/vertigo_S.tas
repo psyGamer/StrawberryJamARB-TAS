@@ -1,4 +1,4 @@
-RecordCount: 3072
+RecordCount: 4142
 
 console load StrawberryJam2021/2-Intermediate/Evilleafy
    1
@@ -7,74 +7,79 @@ console load StrawberryJam2021/2-Intermediate/Evilleafy
   92
 
 #lvl_Evilleafy-00
-   5,L,J
-  12,L,D,X
-   2,R,J
-   3,R,K,G
-  12,R,J,G
-  21,R
-  15,R,X
-  17,R,D
-   2,R
-   6,R,Z
+   2,L
+   3,L,J
+   2,L
+  10,L,D,X
    1,R,J
-   5,R,K,G
-   2,R
+   2,R,K,G
+   1,R
+  12,R,J,G
+  21,R,D
+  15,R,X
+  19,R,D
+   4,R,Z
+   2,R,J
+   4,R,K,G
+   3,R
   40
 
 #lvl_Evilleafy-01
-   4,R
+   2,R
+   2,R,J
    2,R,K,G
    7,R
-   1,R,J
-  10,R
+   2,R,J
+  11,R
   18,R,U,Z
-   8,R,J
+   1,J
+   1,K
+   5,R,K
    9,L,U,X
-  10,L,J,G
-   6,L
-   1,L,J
-   2,L
-   8,L
-  52,R
-   1
-  42,R,U,X
-   9,J,G
-   1
-   1,J,G
-   1
-   1,J,G
-   1
-   1,J,G
+  12,L,J,G
+   5,L
+   2,L,J
+   1,L
+   5,L,J
+   9,R
+   1,L
+  47,R
+  15,R,U,X
+  23,R
+   1,R,D
+   1,R
+   1,D
+   1,R,J,G
+   3,J
+   5,J
    7,R
    4,R,Z
    1,R,J
-   2,R,K,G
-   6,R
+   5,R,K,G
+   3,R
    1,R,J,G
-   9,R
-   2,R,J
+#lose speed to land delayed ultra in start of next room
+   1,R
+   8
   40
 
 #lvl_Evilleafy-02
-   6,R,J
-  15,R,D,X
-   1,R,J
-   2,R,K,G
-   2,R
-  14,R,U,X
-   4,R,J,G
-   2,L,J
-   2,R,J
-   6,R
+#similar any% strat
+   7,R,D,X
+   1,R,J,G
+  15,R
    1
-   6,L,Z
-   1,R,J
-   7,R
-   1,R,J
-  24,R,U,X
+   5,R,D,J
+   5,R
+  14,R,D,X
+   1,R,J,G
+   6
+   3,R
    1,R,U,J
 #any%-start
+  15,R,U,X
+   9,R,U
+   1,R,J
   18,R,D,X
   15,D,C
   18,R,D,X
@@ -83,43 +88,45 @@ console load StrawberryJam2021/2-Intermediate/Evilleafy
    2,R,J
    1,R
   15,R,D,X
-  12,R,D
-   1,R,J
-   3,R
-  11,R,D,X
+   1,R
+  11,R,D
+   3,R,D,J
+  12,R,D,X
   40
 
 #lvl_Evilleafy-03a
-   4,R,D,X
-   4,R,D
+   3,R,D,X
    1,D
-   7,R,D
-   1,D
-   3,R,D
-  14,R
-  18,R,X
    2,R
+  18,R,D
+   8,R
+   1,R,D
+   1,R
+  18,R,X
+   3,R
   15,R,C
    3,R
   15,R,D,X
-   2,R
-   2,R,D
-   3,R,U
-   2,U
+   3,R,D
+   2,R,U
 #any%-end
+   1,L,U
+   1,U
   17,L,U
   18,L,X
-  24,L,Z
-  41,L
-  21,L,X
+  15,L,Z
+   9,L
+  12,L,U
+  17,L
+   1,L,U
+   1,L
+   1,L,U
+   1,L
+   6,L,U
+  30,L,X
   15,L,U,C
-  10,L
-   6,L,D
-  21,R,D,X
-   4,R,D
-   1,R
-   1,R,D
-   1,R
+   9,L,D
+  28,R,D,X
    4,R,Z
    4,R,J
    2,R,K,G
@@ -131,34 +138,40 @@ console load StrawberryJam2021/2-Intermediate/Evilleafy
    1,J
    1,R,J
    1,J
-  14,U,Z
+  15,U,Z
   59,R,J
-   2,R,K,G
-   3,L,K
-   3,R,K
+   1,R,K,G
    1,R,J,G
-   2,R,K,G
+   3,L,J
+   1,R,J
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+   6,R
+   1,R,J
+  10,R,D
+   5,D
+   1,R,D
+   4,D
+  12,R,J
    5,R
-   1,R,J
-  12,R
-   6
-   4,R
-  28,R,J
-   2,J
-   1,R,J
-  14,U,X
-  27,L,J
-   1,J
-   1,L,J
-   2,J
-  22,L,U,X
-  25,L,U,C
+   8,R,J
+   5,R
+  15,U,X
+   3,R
+  31,L,J
+  15,L,U,X
+   7,L
+   1
+  18,L,U,Z
+   4,L
+   2
   14,R,J
   15,D,X
    3,R
   30,R,J
   12,K,G
-   5,J,G
+   2,J,G
    1,L,K
   11,L,J
    1,J
@@ -169,14 +182,15 @@ console load StrawberryJam2021/2-Intermediate/Evilleafy
    3,J
    3,R,J
    5,L,J
-   7,L
-   5,L,J
+   6,L
+   1
+   5,J
   15,U,X
   40
 
 #lvl_Evilleafy-06
 #any%-start
-Read,../../StrawberryJamTAS/2_Intermediate/vertigo.tas,lvl_Evilleafy-06,lvl_Evilleafy-04
+Read,../../StrawberryJamTAS/2_Intermediate/vertigo,lvl_Evilleafy-06,lvl_Evilleafy-04
 
 #lvl_Evilleafy-04
    1,J
@@ -262,34 +276,42 @@ Read,../../StrawberryJamTAS/2_Intermediate/vertigo.tas,lvl_Evilleafy-06,lvl_Evil
    1,J
   15,U,X
 #any%-start
-  45,R,J
-  34,R,X
+  18,R,J
+   8,R
+  11,R,K
+   8,R
+  15,R,X
+  19,R
    2
    4,J,G
    2,L,J
-   9,L,K
-  15,D,X
-  26,L,J
-  12,D,X
-  37,L,J
-  15,L,D,Z
-  15,L
-  12,L,J,G
-  15,L,K,G
-  11,L,J,G
-   2,K,G
-   2,L,K
    1,K
+   8,L,K
   15,D,X
-  11,L,J
-   5,R,J
+  15,L,J
+   8,L
+   3,L,K
+  13,D,X
+  15,L,J
+   8,L
+  14,L,K
+   1,L
+  15,L,D,Z
+  14,L
+  12,J,G
+  15,K,G
+  12,J,G
+  15,D,X
+   1,R
+  12,R,J
+   2,J
+   1,R,J
   15,D,X
    3,L
-   4,R,J
-   3,R
+   8,J
   40
 
 #lvl_Evilleafy-10
-Read,../../StrawberryJamTAS/2_Intermediate/vertigo.tas,lvl_Evilleafy-10
+Read,../../StrawberryJamTAS/2_Intermediate/vertigo,lvl_Evilleafy-10
 
-ChapterTime: 0:57.579(3387)
+ChapterTime: 0:57.103(3359)

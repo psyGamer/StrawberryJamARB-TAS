@@ -1,11 +1,90 @@
-RecordCount: 19496
+RecordCount: 24550
 
 console load StrawberryJam2021/5-Grandmaster/Soloiini
    1
 
 #Start
 #lvl_All Aboard
-Read,../../StrawberryJamTAS/5_Grandmaster/the_solar_express.tas,Start,lvl_Crumbling Bastions (1)
+   2,R,J
+  11,R,X
+   3,R,K
+   1,R,J,G
+   1,L,J
+   3,J
+   2,R,J
+  15,U,X
+   2,L
+   5,K
+   1,L
+   6,R,U,X
+  27,L
+  25,U,G
+   1,J,G
+   1
+  21,R,K
+  22,R,U,X
+  34,R,D
+   1,R
+  15,R,X
+   8,R
+  10,R,X
+   1,R,J,G
+   1,J
+   3,R,J
+  13,R,D
+  10
+  10,D
+   1,R,D
+   4,D
+   2,L,D
+   1,R,G
+   1,J
+   1,L,J
+   5,L
+   1,L,J
+   1,L
+   1,L,J
+   1,L
+   2
+  12,R,Z
+   1,R,J
+   1,R,K,G
+   1,R
+   1,R,J,G
+   6,R,D,X
+   1,R,J,G
+   1,R
+   1,R,K,G
+  11,R,J,G
+   6,R
+   1,R,J
+   4,R
+  41,R,J
+  16,R,X
+  16,D,C
+   1,S,N
+  35,D,O
+#Spinner Cycle [Crystal Causeway]
+   1
+#-----
+   6,R,Z
+   1,R,J
+   7,R
+   1,R,J
+  14,R,D,X
+   1,R,J
+   1,R
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+   1,R
+  14,R,D,X
+   1,R,J
+   9,R,D,X
+  43
 
 #lvl_Crumbling Bastions (0)
    5,R,D,X
@@ -24,34 +103,36 @@ Read,../../StrawberryJamTAS/5_Grandmaster/the_solar_express.tas,Start,lvl_Crumbl
 #any%-end
    8,K,G
    1,L,K
-   1,L,J
-   5,L,K
+   6,L,J
    1,L
    1,L,J,G
    1,L,K,G
    8,L
    1,L,J
-   1,L,K
-  13,K
+   8,L,K
+   2,L
   15,U,X
-   3,L
-   1,L,J,G
+   1,L
+   2,J,G
+   3,L,J
+   2,L
    1,L,K,G
    1,L,J,G
-   8,L
+   5,L
    1
-   6,R,J
-  10,R,D,X
-   9,R,J
-   2,R
+   3,L
+   1,J
+   4,R,J
+   1,R
+  14,R,D,X
+   8,R,J
+   1,R
    1,R,J
-   3,R
+   2,R
   14,R,X
-   5,R,J
-   2,J
-#any% route but
-#moon block cycle is completely
-#different
+   3,R,J
+   3,J
+#based off any%, different moonblock cycle
   33,U,Z
   15,R
   12,U,X
@@ -59,12 +140,16 @@ Read,../../StrawberryJamTAS/5_Grandmaster/the_solar_express.tas,Start,lvl_Crumbl
   11,L
    1,G
    1,K,G
-   7,R
+   1,R,K
+   6,R
    8,L,Z
-   8,L,J,G
+   7,L,J,G
    5,L
-   5,J
-   4
+   1,L,J
+   6,J
+   1
+   1,J
+   1
    1,R,K,G
    1,L,K
    3,R,K
@@ -79,66 +164,80 @@ Read,../../StrawberryJamTAS/5_Grandmaster/the_solar_express.tas,Start,lvl_Crumbl
    1,R,K
    1,L,J,G
    4,J
-   2,R
-   2,L
-   1,R
-   5,L,J
-   1
+   1,R,J
    1,J
-   1,L,J
-   2,L
-   1
-   1,L
    3
-   1,L,D,J
-   3,J
-   1,L,J
-   2,J
-   4,R,J
    1,R
-   1,L,K,G
-   3,R,K
-   4,K
-   3,L,K
+   1
+   1,R
+   1
+   1,R
+   1
+   1,R
+   1
+   1,R
+   1
+   3,L
+   2
+   1,L,D,K
+   6,K
+   5,R,K
+   1,L,J,G
+   3,R,J
+   4,J
+   3,L,J
    1,L
 #any%-start
-   1,L,J,G
-  12,L,K,G
+   1,L,K,G
+  12,L,J,G
    2,K
    5,R,J
   15,U,Z
-  14,J
+  15,J
    4
-   7,L
+   5,L
+   1
+   1,L
    6,G
-  24,U,G
-   1,J,G
-   4,K,G
-   6,R,U,Z
-   9,R,J,G
+   3,U,G
+   1,G
+  10,U,G
+   3,G
+  15,U,G
+#+4f: core block resyncing is fun kids!
+##
+#    4,Z
+#    1,R,J
+#    6,R,K,G
+#   11,R
+#   10,R,K
+#    3,R
+##
+   1
+   5,L,Z
+   1,R,J
+   6,R,K,G
   10,R
-   6,J
+  10,R,K
+   4,R
+  15,U,Z
+  15,L,J
    3
-   8,U,Z
-  14,R,J
-   9,J
-   1,K,G
-   4,L,K
-   1,R,J,G
-#any%-end
-#reminder that this file
-#doesnt pick up the silver
-   5,R,K,G
-   1,J
+   4,J,G
+#-----
+
   40
 
 #lvl_Untapped
-   1,L
-   4,R
-  22,R,J,G
+   1,J
+   1,K
+   5,R
+   2,R,J
+  13,R,J,G
+   8,R,K,G
    1,R
   12,R,U,X
-  25,R,J,G
+  23,R,G
    1,R
    1,R,J
    1,R
@@ -161,7 +260,7 @@ Read,../../StrawberryJamTAS/5_Grandmaster/the_solar_express.tas,Start,lvl_Crumbl
    1,R,J,N
    6
 
-#lvl_Crumbling Bastions (1)
+#lvl_Crumbling Bastions (2)
    1,L,J
   24,G
    9,L,D,G
@@ -200,7 +299,7 @@ EndRepeat
   40
 
 #lvl_Crystal Causeway
-Read,../../StrawberryJamTAS/5_Grandmaster/the_solar_express.tas,lvl_Crystal Causeway,lvl_Shimmering Expanse
+Read,../../StrawberryJamTAS/5_Grandmaster/the_solar_express,lvl_Crystal Causeway,lvl_Shimmering Expanse
 
 #lvl_Shimmering Expanse
    1,R,D,X
@@ -263,7 +362,7 @@ Read,../../StrawberryJamTAS/5_Grandmaster/the_solar_express.tas,lvl_Crystal Caus
    2,R
    1,R,N
    1,R,K
-Repeat,26
+Repeat 26
    1,L,D,J
    1,R,D,K
 EndRepeat
@@ -506,13 +605,12 @@ EndRepeat
    6,U,X
   18,G
 
-#throw a frame later to not
-#get screwed by moonblock
-   5,R,G
-   6,R
+#throw a frame later to not get screwed by moonblock
 #   4,R,G
 #   7,R
-#####
+   5,R,G
+   6,R
+#-----
 
    2,R,J
   10,R,Z
@@ -549,13 +647,9 @@ EndRepeat
   43
 
 #lvl_Staging Grounds
-Read,../../StrawberryJamTAS/5_Grandmaster/the_solar_express.tas,lvl_Staging Grounds,lvl_Radiant Obelisk
+Read,../../StrawberryJamTAS/5_Grandmaster/the_solar_express,lvl_Staging Grounds,lvl_Radiant Obelisk
 
 #lvl_Radiant Obelisk
-#old any% inputs
-#need different theo subpixels
-#which i dont know how to manip
-#at all
    3,D,G
    3,G
    1,L,J,G
@@ -565,119 +659,137 @@ Read,../../StrawberryJamTAS/5_Grandmaster/the_solar_express.tas,lvl_Staging Grou
   88,R,G
    4,R,J,G
    1,R,K,G
-  13,R,G
-   2,R
+
+#+1f: theo subpixel manip?
+##
+#   13,R,G
+#    2,R
+#   11,L,D,X
+#    1,R,J
+#    7,R
+#    1,R,J
+#    9,R,D,X
+#   14,R,G
+##
+  10,R,G
+   3,G
+   3
   11,L,D,X
    1,R,J
    7,R
    1,R,J
    9,R,D,X
   14,R,G
+#-----
+
   12,R,J,G
-   7,R,G
-   1,R,J,G
-   1,R,G
-   1,R,J,G
-   2,R,G
-   2,R
-  15,R,Z
-  10,R
-   1
-   1,R
-   1
-   1,L,J
-  13,G
-   9,R,J,G
+   1,G
    5,R,G
    1,R,J,G
-   4,R,G
-  11,R
+   3,R,G
+   1,R,J,G
+   1,R,G
+   2,R
+  15,R,Z
+   8,R
+   5
+   3,J,G
+  13,J,G
+   3,L,J,G
+   2,L,G
+   3,G
+  12,R
+   1
    1,G
   12,J,G
-   5
-   8,J
-   7,R
+   6
+   7,J
+   1,R,J
+   6,R
    1
-   2,R
-   5,R,D
+   4,R
+   2,R,D
    1,R
-   3,R,D
-   1,R
-   7,R,D
-   1,D
+  13,R,D
    6,R
   23,R,G
    1,L
    1,R
   15,R,D,X
-   4,L,J
+   4
   18,L,U,X
-   1
-   6,R,U,X
-  21,R,G
-   4,L,G
-  10,R,Z,G
-  32,R,K,G
-   1,R
-  15,R,U,X
-   8,R,C
-  24,R,G
-   4,R,J
-   1,L,J
+  14,R,U,C
+   4,J
+   7,R,Z
+   1,R,J
+  11,R
+  10,R,J,G
+   7,R
    1,R,K
+   4,R
+  14,R,U,Z
+   1,J,G
+   1,R,J
+   5,J
+  11,L
+   7
+   4,D
+  20,R,X
+   1
+   1,R,J
+   1,R
   20,L,X
    8,L,J
-   1,L,K
-  17,L,K,G
-   4,K,G
-   1,L,K
-  13,U,X
-  14,G
-   7,L,G
-   1,L,D
-   1,L,J,G
-   3,L,K,G
-   4,L
-  23,L,G
+  12,L,K
+   2,J,G
+   3,R,J
+  15,U,X
    1,L
+   2,L,J,G
+   1,L,K,G
+   3,L,J,G
+  10,L
+   1,L,K
+   1,L
+   1,L,K
+   3,L
+   3,L,J
   15,L,U,Z
-   7,L,X
-  26,L,G
-   4,R,G
- 121,D,X,G
-   2,R,G
-   4,R
-   6,L,Z
+  25,L,X
+ 123,D,C
+   2,L
+   3,L,D
+   5,L,D,X
    1,R,J
-   7,R
-   1,R,J
-  14,R,D,X
-   1,R,J
-  12,L,X
-  13,G
-   1,R,D,J
-  13
+  13,R,J,G
+   9,R,K,G
+   5,R,G
+   1,D
+  15,L,D,X
+  15,D,C
+  19
+   1,L
   14,R,Z
    1,L,J
-   2,L
-   1
-   3,J
-   3
-   7,L,Z
+   2
+   1,K
+   5
+   9,L,Z
    1,R,J
    6,R
    1,R,J
    5,R,D,J,X
   15,R,J,G
-  30,R,K,G
-   1,R,J,G
-   1,L,J
-   2,R,J
+  12,R,K,G
+   5,R,G
+   9,R,K,G
+   4,R,G
    1,R,K,G
-   6,R,D,K,X
+   1,L,K
+   6,R,K,Z
   43,K
 
 #lvl_Spectacle
-Read,../../StrawberryJamTAS/5_Grandmaster/the_solar_express.tas,lvl_Spectacle
+Read,../../StrawberryJamTAS/5_Grandmaster/the_solar_express,lvl_Spectacle
 
-ChapterTime: 2:46.396(9788)
+ChapterTime: 2:42.741(9573)

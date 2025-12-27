@@ -113,7 +113,7 @@ Read,../../3_Advanced/undergrowth.tas,Start,lvl_04-a (0)
    5,L,K,G
 #Spinner Cycle [06-b]
    0
-#####
+#-----
    1,S
    1,D,J
   69,O
@@ -128,7 +128,7 @@ Read,../../StrawberryJamTAS/3_Advanced/undergrowth.tas,lvl_03-a (1),lvl_05-a
 #lvl_05-a
 #any%-end
 #ARB-start
-Read,../../3_Advanced/undergrowth.tas,lvl_05-a,lvl_06-a (0)
+Read,../../3_Advanced/undergrowth,lvl_05-a,lvl_06-a (0)
 
 #lvl_06-a (0)
 #any%-start
@@ -222,12 +222,10 @@ Read,../../3_Advanced/undergrowth.tas,lvl_05-a,lvl_06-a (0)
    7,L
    3,L,J
   32,L
-#This file removes the Spinner
-#Cycle here, because theres' already
-#a great place for it earlier
+#This file removes the Spinner Cycle here, because theres' already a great place for it earlier.
 #+2f here for moon cycle
   31
-#####
+#-----
    9,J
   15,L,D,X
   10,L,D,C
@@ -397,4 +395,4 @@ EndStunPause
 #lvl_06-a (1)
 Read,../../3_Advanced/undergrowth.tas,lvl_06-a (1)
 
-ChapterTime: 1:49.123(6419)
+ChapterTime: 1:49.072(6416)

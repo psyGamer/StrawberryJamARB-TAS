@@ -1,4 +1,4 @@
-RecordCount: 12295
+RecordCount: 12296
 
 console load StrawberryJam2021/3-Advanced/Nic
    1
@@ -59,7 +59,7 @@ Read,../StrawberryJamTAS/3_Advanced/undergrowth.tas,Start,lvl_03-a (0)
 #spinner cycle
 #this is a mess but it's the best i got
    2,L
-#
+#-----
    8,L,J
   12,U,X
    4,L,J
@@ -318,9 +318,8 @@ EndStunPause
    2,L,D
    6,L,D,X
 #Spinner Cycle [06-b]
-#will probably affect key cycle
-#in the next room
-#####
+#will probably affect key cycle in the next room
+#-----
    1,R,J
    2
    1,R
@@ -351,9 +350,9 @@ EndStunPause
 #any%-start
   15,D,X
 #key cycle 1
-  74
 #  97
-###
+  74
+#-----
   14,L,Z
    1,R,J
    7,R,U,Z
@@ -391,7 +390,7 @@ EndStunPause
    1,J
    1,K
    1
-###
+#---
   13,R,U,Z
    2,R,J,G
    8,R
@@ -536,7 +535,6 @@ EndStunPause
   40
 
 #lvl_06-a (0)
-#any%-start
   10,R,J
    2,L,K
   15,U,X
@@ -585,7 +583,6 @@ EndStunPause
    8,J
    2,R,J
    1,J
-#any%-end
    3,R,J
    1,R,K,G
    1,R,J,G
@@ -631,7 +628,7 @@ EndStunPause
   31
 #spinner cycle
    1
-#
+#-----
    9,J
   15,L,D,X
   10,L,D,C
@@ -707,8 +704,7 @@ EndStunPause
   19,R
    5
    1,D
-#Different moonblock cycles
-#means a different strat
+#Different moonblock cycles means a different strat
    5,L,Z
    1,R,J
    5
@@ -808,7 +804,7 @@ EndStunPause
    2,G
 #key cycle 2
   66
-#
+#-----
    7,D,J
    5
    3,J
@@ -830,6 +826,88 @@ EndStunPause
   40
 
 #lvl_07-a
-Read,../StrawberryJamTAS/3_Advanced/undergrowth.tas,lvl_07-a
+   2,L,J
+   9,R,J
+   4,R,K,G
+   9,U,X
+   7,L,J
+   8,J
+  11
+  14,U,X
+  13,R,J
+   4,R
+   6
+   1,R
+   2,J
+  15,U,Z
+  18,L,J
+   5,K,G
+  12,J,G
+   2,K,G
+   1
+   3,L
+   1
+   1,L
+   1,R
+   2,R,J
+  14,U,X
+   5,L,J
+   1,K,G
+   3
+   4,L
+   2,L,J
+  14,U,X
+   3,R,J
+   3,R
+   8
+   3,L,J
+   7,J
+  15,U,X
+  14,J
+   1,L,K,G
+   7,L
+   6,J
+  15,U,Z
+  18,R,J
+  12,K,G
+  12,J,G
+   4,R,K,G
+   2,L,K
+   2,R,K
+   1,J,G
+   3
+   4,L
+  14,U,Z
+  16,L,J
+   1,K,G
+   7,L
+   2,L,J
+  15,U,X
+  18,J
+  12,L,K
+   2,J,G
+   7
+  14,U,X
+  18,J
+   1,R
+   2,K,G
+   7,L
+   3,L,J
+  15,U,X
+   9,R,J
+   2,K
+   5
+   2,L
+   1,R,J
+   2,K
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+   3,R,K,G
+  15,U,X
+  40
 
-ChapterTime: 2:02.077(7181)
+#lvl_08-a
+Read,../StrawberryJamTAS/3_Advanced/undergrowth,lvl_08-a
+
+ChapterTime: 2:01.023(7119)

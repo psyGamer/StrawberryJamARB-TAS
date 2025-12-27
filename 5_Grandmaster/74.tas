@@ -1,4 +1,4 @@
-RecordCount: 1209
+RecordCount: 1318
 
 console load StrawberryJam2021/5-Grandmaster/fishtank
    1
@@ -7,7 +7,7 @@ console load StrawberryJam2021/5-Grandmaster/fishtank
  190
 
 #lvl_Overgrown Footpath
-#any% start
+#any%-start
   12,L,J
    1
    1,L,K
@@ -132,7 +132,7 @@ console load StrawberryJam2021/5-Grandmaster/fishtank
   10,R
    4,R,D
   18,R,J
-#any% end
+#any%-end
    2,L,J
    4,K,G
    1,R,K
@@ -197,223 +197,16 @@ console load StrawberryJam2021/5-Grandmaster/fishtank
   40
 
 #lvl_Calling (Bad Reception)
-   9,R
-   1,R,D
-   4,R,D,J
-   8,R
-   1,R,J,G
-   3,R,K,G
-   6,R
-   3,R,K
-   1,R,J,G
-   1,R,K,G
-   9,R
-   1,R,J
-  21,R
-   1,R,D
-   1,R
-   3,R,D
-   2,R
-   1,R,D
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-  12,R,J
-   5,R
-   4,J,G
-   1,L,J
-   1,R,J
-  10,K,G
-   2,L,K
-   7,J,G
-   5,R,J
-  10,K,G
-   1,L,K
-   1,R
-  10,J,G
-   1,L,J
-   1,R
-   1,R,K,G
-   1,L,K
-   1,K
-   1,L,K
-   4,K
-   2
-   1,R,J,G
-   2,R
-   1
-   3,R
-   1,R,K
-   1,R
-Repeat,4
-   2,R,D,J
-   3,R
-EndRepeat
-   2,R,D,J
-  40
-
-#lvl_Ventilation Ducts
-   3,R
-   2,R,D,J
-   3,R,D
-   2,R,J
-   1,R
-   1,R,J
-  10,R
-## old strat +1f
-#  12,R,J
-#   8,J
-#   2,K
-#   6,R,K
-#   5,R
-#   4,R,K
-#   5,R
-#   1,R,J,G
-#   1,R,K,G
-#   6,R
-#   4,R,K
-#   6,R
-#   1,J
-#   1,R,J
-#   5,R
-#   1,R,J
-#   1,R
-#   1,J
-#   4
-#   1,R
-#   3
-#  10,R
-#   4,R,D
-#   1,R
-#   1,R,J,G
-#  18,R
-#   4,R,D
-#   1,R
-#   6,R,J
-#   3,J
-#   1,K
-#   2,R,K
-#   1,L,K
-#   1,J,G
-#   4
-#   1,R
-#   2,R,K
-#   1,R,J,G
-#   4,R,K,G
-#   6,R
-#   8,R,K
-#   1,R
-#   1
-#   5,R
-#   1,G
-#   1,R
-#   1,R,K
-#   9,R
-#   1,R,D
-#   1
-#   1,D
-#   2,R,D
-#   1,J
-#   1,K
-#   5,R
-#   1,K
-#  10,R
-#   1,G
-##
-  11,R,J
-   1
-   1,R
-   5
-   1,K
-   1,R,K
-   1,J
-   1,R,J
-   7,R
-   6,R,J
-   5,L,J
-   2,L
-   1,J,G
-   1,R,J
-   1,K
-  11,R,K
-  23,R
-   5,R,D
-   2,R
-   8
-   6,R
-   1
-   3,R
-   4,R,D
-   1,R
-   1,R,J,G
-   2,R
-   2
-  14,R
-   3,R,D
-   1,R
-   1,D
-   1
-   4,R
-   5,L
-   1,J
-   1,K,G
-   1,R,K
-   5,R,J
-   1,R
-   1,R,J,G
-   3,R,K,G
-  18,R
-   5,R,D
-   1,D
-   1,R,D
-   1,D
-   1,R,D
-   1,J
-   1,K
-   5,R
-   1,K
-  10,R
-   1,G
-###
-   2,R,J,G
-  31,R
-  11,R,J
-   2,L
-   1,K
-   2,J,G
-   6,R,J
-  18,R
-   2,R,D,J
-   3,R
-   2,R,D,J
-   3,R
-   1,R,D,J
-   1,L,J
-   1,K
-   1,J,G
-   7
-   2,R
-   1,R,K
-   2,R
-   1,R,J,G
-   1,R,K,G
-   9,R
-   3,R,D,J
-  40
-
+Read,../StrawberryJamTAS/5_Grandmaster/74,lvl_Calling (Bad Reception),lvl_Attic
 
 #lvl_Attic (0)
-   4,R,J
-   1,R
-   6,R,J
-   1,J
+  10,R,D,J
+   1,L,J
    1,K
-   3,R,K
-   5,R
+   2,J,G
    2,R,J
-   1,R
-   1,R,J
+   8,R
+   1,R,K
    3,R
    1,R,K,G
    3,R,J,G
@@ -457,9 +250,9 @@ EndRepeat
    1
    1,D
    1
-#any% end
   14,R,D
    5,D
+#any%-end
    1,J
    6,R,D
    3,D
@@ -656,13 +449,28 @@ EndRepeat
   20,R,J
   51,L
   18,L,J
-  20,L,K
-   8,L,D
-  99,D
-  26,R,D
-  62,D
-  36,L,D
+  12,L,K
    8,L
+   1,L,J
+   1,L
+   1,L,J
+   6,L
+  99,D
+   6,R,D
+   8,D
+   4,R,D
+   1,D
+   4,R,D
+  33,D
+  10,R,D
+   8,L,D
+   1,R,D
+   1,L,D
+   5,R,D
+  13,L,D
+   1,D
+  27,L,D
+   6,L
   40
 
 #lvl_Nakaniwa Adventure (1)
@@ -672,11 +480,10 @@ EndRepeat
    1,L,K,G
    2,L,J,G
   86,L,D
-  10,D
-   2,L,D
-   1,R,D
-  82,D
-#any% start
+   7,D
+   1,L,D
+  87,D
+#any%-start
    1,S
    1,D,J
   69,O
@@ -704,7 +511,7 @@ EndRepeat
    1,R,J
   40
 
-#lvl_Sewers (0)
+#lvl_Sewers
    5,J
    1,L,K,G
    3,L,J,G
@@ -744,47 +551,54 @@ EndRepeat
    1,R,J
    1,L,K,G
    9,K
-   4,L,K
-   1,K
-  10,L,J
-   7,L
-   3,L,J
-   8,L
-   2,J
-   2,L,J
-   5,J
-   4,K,G
-   3,L,K
-   1,K
-   3,L,K
-   1,R,K
-#+1f subpixel
-   6,R,J
-  21,R
-   2,R,D
-   7,D
-   1,R,D
+   2,L,K
+   2,L
    1
-   1,D
-  18,R,J
-   9,R
+   1,J
+   9,L,J
+   7,L
+   3,L,K
+   8,L
+   3,J
+   1,L,J
+   1,J
+   1,L,J
+   3,J
+   4,K,G
+   4,L,K
+   2,K
+   1,L,K
+   1,R,K
+   1,J
+   4,R,J
+   1,R
+   8,R,K
+  13,R
+   5,D
+   1,R,D
+   2,D
+   2,R,D
+   1
+   1,J
+  12,R,J
+  14,R
    1,L
    7,J,G
    4,L,J
-   3,R,J
-   1,K
-  20,R,K
-   3,R,J,G
-   1,J
-   8,R,J
-   8,R
-   1,R,K
-   8,K
-  10,J
    1,R,J
-   1,J
+   2,R
+  12,K
+   9,R,K
+   1,R,J,G
+   2,J
+   6,R,J
+   6,R
+   5,R,K
    1,K
    1,R,K
+   5,K
+  12,J
+   2,K
    1,L,K
    1,J
    2,K,G
@@ -815,38 +629,38 @@ EndRepeat
    1,R
    1
    1,R,K
-   1,R
-   8,R
+   9,R
    2,R,D
    8,D
    1,L,D
-   1,F,189.456
+   1,F,189.68
   14,D
-   1,F,170.4
-   1,F,161.9
-   1,F,152
-   1,F,140.6
-   2,R
+   1,F,170.4,0.29
+   1,F,161.9,0.29
+   1,F,152,0.29
+   1,F,140.6,0.29
+   2,F,90,0.29
 Repeat,7
    1,D
-   1,R
+   1,F,90,0.29
 EndRepeat
-  17,R
-   1,F,82.8
-   1,F,75.5
-   1,F,68
-   1,F,60
-   1,F,56.4
+  17,F,90,0.29
+   1,F,82.8,0.29
+   1,F,75.5,0.29
+   1,F,68,0.29
+   1,F,60,0.29
+   1,F,56.4,0.29
 Repeat,9
-   1,R
+   1,F,90,0.29
    1,U
 EndRepeat
-   1,F,47.5
-  18,U
+   1,F,47.5,0.29
+#any%-end
+  17,U
+   1,K
   12,J
    1,K
   12,J
-#any% end
 Repeat,8
    1,K
    1,J
@@ -854,13 +668,15 @@ EndRepeat
    2,K
    2,J
    3,K
-Repeat,7
+Repeat,6
    1,J
    1,K
 EndRepeat
-   6,J
-   1,L,J
-   2,K
+   1,J
+   7,K
+   1,L,K
+   1,J
+   1
    1,R
    1,R,J,G
    1,R,K,G
@@ -944,17 +760,17 @@ EndRepeat
 #lvl_Swimming
   13,R
    4,R,J
-  31,R,D
-   9,D
-   6,L,D
-   1,F,230
-   4,D
-   6,R,D
-   2,D
-  20,R,D
+  15,R
+  16,F,136.896
+  10,D
+   2,L,D
+   5,F,217.771
+   3,D
+   8,F,139.062
+  17,R,D
    1,D
-   1
-  10,R
+   3,R,D
+   9,R
   11,R,J
    1,R,K
    1,R,J
@@ -995,127 +811,75 @@ EndRepeat
    3,R
   17,D
    3,L,D
-   5,L
-   5,D
-   1,F,196.5408
-   4,D
-   1,F,170
-   1,F,160
-   1,F,140
-   1,F,127
-   1,F,112
-#bad
-   2,R
+   1,F,225.1
+   1,F,241.05
+   3,F,269
+   1,F,244.23
+   8,D
+   1,F,174.28
+   1,F,164.56
+   1,F,154.35,0.29
+   1,F,143.16,0.29
+   4,F,90,0.29
+   3,D
+   1,F,147.65,0.29
    1,D
-   1,R
-   7,D
-   1,R,D
-   3,L,D
-   1,F,211
-   1,F,222
-   1,F,237
-   1,F,242
+   4
+   6,L
+   1,F,131.28
+Repeat,10
+   1,F,270,0.29
+   1,F,228.72,0.29
+EndRepeat
+   1,F,226.92,0.29
+Repeat,4
+   1,F,231.78,0.29
    1,D
-  22,F,237
-  10,F,211
-  10,L
-   1,L,J
-   5,L,K
-   7,K
-   8,U
-   1,F,5
+EndRepeat
+   1,F,270,0.29
    1
+   9,L
+  11,L,J
+   3,L,U
    1,U
+   1,L
+   1,F,299.33
+   6,U
+   1,F,359.99
    1
-   8,U
-   4,L,U
    1,J
-  11,R,J
-  22,F,228
-   7,D
-  12,R,D
+   4,L,J
+   7,R,J
    3,R
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
+   1,F,342.5
+   4,F,74.7,0.29
+   3,L
+   4,F,244.7
+   5,L
+   1,F,262.8
+   1,F,255.5
+   1,F,240
+   3,D
+   2
+   3,L
+   3,R
+   3,R,D
+   1,D
    8,R,D
-   2,D
-   1
+   5,R
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+  10,R
+   1,R,D
    1,R,D,J
-   2,R
-   2,R,J
+   3,R,K
   40
 
 #lvl_Passenger
-#any% start
-   1,R
-   3,R,J
-   6,R
-   4,R,D,J
-   4,J
-   3,R,J
-  23,R,K,G
-  12,L,J,G
-  10,K,G
-   9,J,G
-   3,L
-   1,K
-   6,L,K
-  26
-   1,R,D
-  34,F,6.5
-   8,F,359.9
-   1,F,350
-   8,F,290
-   6,F,274
-   4,F,281
-   6,F,309.68
-   6,F,344
-   9,F,7
-  21,F,30.7
-  17,F,24
-   7,F,7.31
-  15,F,1.1
-   1,F,2
-   1,L,U
-   1,J
-   3,K,G
-   3,R,K
-   1,R,J,G
-   3,R,K,G
-   3,R
-   6,R,J,G
-   2,R,K,G
-   2,R
-   1,R,J
-   1,R,K
-   1,R,J
-  12,R,D
-  40
+Read,../StrawberryJamTAS/5_Grandmaster/74,lvl_Passenger
 
-#lvl_The End of TIMELINE
-   9,R
-   1,R,D
-   8,R,J
-   7,R
-   1,R,K
-  22,R,D
-   1,R,J
-   1,R,K
-   1,R,J
-  15,R,K
-   4,R,J,G
-   5,R,K,G
-   3,R,J,G
-   1,R
-   8
-  10,L,D,X
-   1,L,J
-   9,J
-  16,L,U,X
- 135
-
-ChapterTime: 1:42.714(6042)
+ChapterTime: 1:41.966(5998)

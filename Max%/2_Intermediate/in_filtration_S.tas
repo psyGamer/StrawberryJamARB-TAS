@@ -1,4 +1,4 @@
-RecordCount: 9967
+RecordCount: 9970
 
 console load StrawberryJam2021/2-Intermediate/Jems
    1
@@ -19,37 +19,54 @@ console load StrawberryJam2021/2-Intermediate/Jems
 #any%-start
   10,R,D,J
    1,J
-   1,L,K,G
-   3,K
-   1,R,K
-   4,L,K
+   7,L,K,G
+   4,K
+   9,J,G
+   2
+   1,K,G
+   1,R
    1,J
-   2,K,G
-  18,R,K
+  11,R,K
    2,K
-   1,R,K
-   1,J
-  16,R,K,G
+   9,R,K
    1,R,J,G
    1,R,K,G
    1,R
    1
-   9,R
+   7,R
    1,R,J
-  14,R
-   5,R,D,J
-  38,R,D
-  20,L,D
-  15,R,Z
-  14
-   9,L,J
-   7,L
-   1
+  11,R
    1,L
+   2,R
+   4,R,J
+   5,R
+   1,R,J
+   2,L,J
+Repeat,7
+   1,R,J
+   1,L,J
+EndRepeat
+   1,R
+   1,L,D
+   2,R,D
+   1,L,D
+   1,R,D
+   1,L
+   5,R,J
+   2,J,G
+   2,J
+   2,R
+   1,R,G
+   5,R,J,G
+  10,R
+   2,L
+   7,L,D
+   1,L
+   1,G
    1
    1,J
-   1,K,G
-   6
+   2,K,G
+   5
    1,R
    1,R,J,G
    1,R,K,G
@@ -90,17 +107,22 @@ console load StrawberryJam2021/2-Intermediate/Jems
    1,L
   13,R,D,X
    1,J,G
-   5,R,J,G
-   3,J,G
+   3,R,J,G
+   1,J,G
    1,R,J,G
-   2,J,G
+   1,J,G
+   1,R,J,G
+   4,J,G
    1,L,J,G
-   1,L,K,G
-   4,L,J,G
-  40,R
-  36,R,U,Z
-  28,D
+   2,L,K,G
+   2,K,G
+   1
+  38,R
 #any%-end
+#old any% strat
+  15,R,U,Z
+  22,R,D
+  27,D
   20
   66,R,G
    1,R,J,G
@@ -182,14 +204,15 @@ console load StrawberryJam2021/2-Intermediate/Jems
    2,R,K
    5,R
    1,L
-   3,L,J,G
+   1,L,J,G
    2,R,J
+   3,L,J
    1,L,K,G
-   2,L,J,G
+   1,L,J,G
    1,K
   40
 
 #lvl_btd-05
-Read,../../StrawberryJamTAS/2_Intermediate/in_filtration.tas,lvl_btd-05
+Read,../../StrawberryJamTAS/2_Intermediate/in_filtration,lvl_btd-05
 
-ChapterTime: 2:18.312(8136)
+ChapterTime: 2:15.711(7983)

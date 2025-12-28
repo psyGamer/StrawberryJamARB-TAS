@@ -1,27 +1,25 @@
-RecordCount: 1143
+RecordCount: 1244
 
 console load StrawberryJam2021/3-Advanced/Viv
    1
 
 #Start
- 110
+   4,Z
+   1,R,J
+ 108
 
-#same as any% except spinner cycle
 #lvl_viv0
    1,S,N
    1,D,J
   34
-#spinner cycle
-   1
-#
+#Spinner Cycle [viv3]
+   0
+#-----
    4,Z
    1,R,J
-   5,R
-   2,R,K
-   7,R,J
-   2,R
-   1,G
-  40,J,G
+   7,R
+   5,R,J
+  44
   11,R,Z
    1,R,J
    1,L,D
@@ -42,7 +40,9 @@ console load StrawberryJam2021/3-Advanced/Viv
    6,J,G
   26,L,J
   14,D,G
-  27
+   1
+   1,O
+  24
 Repeat,6
    1,J
    1,O
@@ -203,12 +203,17 @@ Read,../StrawberryJamTAS/3_Advanced/call_of_the_void,lvl_viv3,lvl_viv4
   40
 
 #lvl_viv5 (0)
-   9,R
+   2,R,J
+   1,R,J
+   1,R
+   4
+   1,R
   15,R,D,X
-  11,L
+   9,L
   25,L,J
    1,R,J
-  12,R,K,G
+   5,R,K,G
+   7,K
    1,J
    9,K,G
    6,L,K
@@ -279,91 +284,100 @@ Read,../StrawberryJamTAS/3_Advanced/call_of_the_void,lvl_viv5x,lvl_viv7
    9,R,D,X
    9
   16,R,D,X
+   9
+  18,J
+  13,D,X
+   2,R,J
+  13,L,D,X
+  12,R,J
+  15,D,X
+   7,D
+   4,Z
+  12,R,J
 #any%-end
-  10,L
-   1,L,J
-  16,L
-  12,L,D,G
-  19,D
-  15,R
-  17,R,J
-  26,D,X
-   1,R,J
-  39,R,X
-  61,R,C
-  12,R,D,G
-  39,L,X
-  33,U,C
+  40,R
+  24,D,X
+  10,L,D,C
+  15,L,J
+  26,U,Z
+   2,R,J
   40
 
 #lvl_viv7b
-  16
-  34,J
+  17
+  33,J
    6,R,K
   12,R,Z
   19,R,J
-  15,R,D,X
-   7,R,D
+  22,R,D,X
   41,R,J
-  15,R,D,X
-  12,R,D
-  47,R,J
-  15,R,D,X
-  13,R,D
-  22,R,J
-  15,R,D,X
-  23,R,D
-   4,R,J
+  27,R,D,X
+  44,R,J
+  26,R,D,X
+  24,R,D,J
+  39,R,D,X
+   5,R,J
   14,R,D,X
    1,L,J
   14,U,Z
   50,J
 
 #lvl_viv7 (1)
-   1,R
-  16,L,K
+  18,L,K
    2,G
-   3,J,G
+#any%-start
+   1,J,G
    1,R,J
    1,L,K,G
   15,R,D,X
-  79,R,J
-   4,R
+  83,R,J
   36,D,X
    4,R
    1,R,J
   15,D,X
-  40
+  44
   15,L,D,X
-  13,L,D
-   8,R
-   2,R,J
-  15,D,X
-   2
-   1,L,D,J
-   1,L,K
-   6
-  14,R,Z
-   9,R,J
-  10,R,U,X
-  14,R,J,G
+
+#different moonblock cycle
+#   15
+#    6,J
+#    1,R,K
+#   15,R,D,X
+#    2,R
+#   27,R,J
+#    1,R,G
+#    1
+  14
+   5,J
+   1,R,K
+  15,R,D,X
    2,R
-   1
+  27,R,J
+   1,R,G
+   3,J,G
+#-----
+
+  14,R,Z
+   1,R,J
+   5,R,D,X
+   5,R,J,G
+   2,R
   40
 
-#lvl_viv8
-  12,R,D,X
+#lvl_viv8 (0)
+   5,R
+   4,R,K
+   8,R
    1,R,J
-   3,R
-   1,R,J
-   3,R
-   1,R,J
-  18,R,K,G
+   1,R,K,G
+   1,R
+   1,J,G
+  48,R,J
   15,R,D,X
-  77,R
-   4,R,J
-  14,R,D,X
-   1,R,J
+  27,R
+   6,R,J
+  15,R,D,X
+#any%-end
   15,L,D,C
   10,R
    2
@@ -380,7 +394,6 @@ Read,../StrawberryJamTAS/3_Advanced/call_of_the_void,lvl_viv5x,lvl_viv7
   64,R,K
   92,R,J
   20,R,X
-
 #any%-start
  198,U,G
   45
@@ -418,4 +431,4 @@ Read,../StrawberryJamTAS/3_Advanced/call_of_the_void,lvl_viv5x,lvl_viv7
   35,L,U,X
  139,R,C
 
-ChapterTime: 2:20.862(8286)
+ChapterTime: 2:19.060(8180)

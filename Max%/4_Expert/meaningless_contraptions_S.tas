@@ -1,11 +1,76 @@
-RecordCount: 10042
+RecordCount: 10070
 
 console load StrawberryJam2021/4-Expert/powerav
    1
 
 #Start
 #lvl_a-1
-Read,../../StrawberryJamTAS/4_Expert/meaningless_contraptions.tas,Start,lvl_a-2
+#Spinner Cycle []
+   0
+#-----
+#Spinner Cycle wait being after room label means I can't read through a-1 :<
+   4,R,X
+   6,R,J
+   7,R
+   4,R,Z
+  10,R,K
+   6,R
+   5
+  18,R
+  15,R,X
+  13,R,D
+  25,R,D,G
+   1,R
+  11,R,D
+   2,R,J
+  10,R,Z
+  11,R,J
+  13,U,X
+  21,R
+  15,R,U,X
+   8,R,D
+  38,D
+   3,R,J
+  15,R,U,X
+  30,R,D
+   4,R,Z
+   1,R,J
+  12,R
+   1,R,J
+  13,R,D,X
+   2,R,J
+   1,R
+   1,R,J
+   1,R
+   1,R,J
+   1,R
+   2,R,G
+  16,U,X
+   7,R,J,G
+   1,K,G
+   6,R
+   2
+   1,L
+   2,L,D
+   4,L
+   4,L,Z
+   1,R,J
+   1,R,K,G
+  10,R
+   1,R,J
+   7,R,D,X
+   1,R,J
+   7,R
+   3,R,J
+   2,R
+  15,R,U,X
+  16,R
+   5,R,D
+   7,R,Z
+   1,R,J
+   6,R
+   1,R,J
+  40
 
 #lvl_a-2
    8,R,D,X
@@ -13,55 +78,50 @@ Read,../../StrawberryJamTAS/4_Expert/meaningless_contraptions.tas,Start,lvl_a-2
    7,R
   17,R,J
    9,U,X
-  82,R,D
-  26,R,X
+  83,R,D
+  25,R,X
+   2,R,J
+   5,R
+   2,R,J
+  10,R,U,C
+   1,R,J,G
+   9,R
    1,R,J
-   7,R
-  11,R,U,C
-   1,J,G
-  11,R
   14,L,D,X
    1,R,J
    5,R,D,X
    1,J,G
-   1,R,J,G
-   1,J
-   2,R,J
-   3,R
-   1,R,J,G
-   7,R
+   6,R,J,G
+   1,R,K,G
+   8,R
    1,R,J
-   3,R
-  10,R,J
+   2,R
+   8,R,J
+   1,J
+   1,R,J
   14,R,U,X
   21,R,J,G
    1,L,J
-  36,R,J
+  27,R,J
 #any%-end
-   5,R,K
-  16,U,X
-   1,J,G
-   1
-   1,J,G
-  14
-  10,L,D
-   1,D
-   1,L,D
-   1,D
-   1,L,D
-   2,D
-   2,L,D
-#exact position wonkiness means
-#there are a few minor differences
-#in these inputs vs the any% inputs
-#i think it's all +0f?
-#any%-start?
-   5,L,Z
+   5,R,D
+   3,R
+   4,R,D,J
+   1,R
+  17,U,X
+   2,J,G
+  15
+  12,L,D
+   4,L
+   2
+#any%-start
+   4,R,Z
    1,R,J
-   7,R
+   6,R
   12,R,J
   15,R,D,X
-  19,R,J
+  15,R,D,J
+   4,J
    8,U,C
   13,G
    3,R,G
@@ -69,15 +129,13 @@ Read,../../StrawberryJamTAS/4_Expert/meaningless_contraptions.tas,Start,lvl_a-2
    3,G
    6,L
    1
-   1,R,J
+   1,R
    8,R,U,X
   39,R
   14,R,X
   29,R,D
    5,D
-  44,R
-   1
-   2,R
+  47,R
   14,R,U,Z
    1,J
    1
@@ -88,15 +146,13 @@ Read,../../StrawberryJamTAS/4_Expert/meaningless_contraptions.tas,Start,lvl_a-2
    1,R,D
    1,R
    1,R,D
-   2,R,J
+   1,R,J
+   1,J
   19,R,U,X
   45,R,J,G
-   2,L,J
-   1,J
+   3,L,J
   15,R,Z
-   1
-#any%-start
-#but like for real this time
+   1,R
   28,J
   30,R,D
   10,R,G
@@ -120,116 +176,6 @@ Read,../../StrawberryJamTAS/4_Expert/meaningless_contraptions.tas,Start,lvl_a-2
   43
 
 #lvl_a-3
-Read,../../StrawberryJamTAS/4_Expert/meaningless_contraptions.tas,lvl_a-3,lvl_a-5
+Read,../../StrawberryJamTAS/4_Expert/meaningless_contraptions,lvl_a-3
 
-#lvl_a-5
-   1,R,D,J
-   5,R
-   1,R,K
-   1,R
-   1,R,K
-  11,R
-   1,R,J
-   3,R,K,G
-  26,R,J,G
-  11,R,D
-  13,D
-   5
-   2,R
-  10,R,D,X
-   1,R,J
-   7,R
-   3,R,J
-  14,R,D,X
-   3,R,J
-   7,R,D,X
-  25,R,J
-  14,U,X
-   9,R,J
-   7,R
-   4
-  13,R,Z
-   1,R,J
-   7,R
-  21,R,J
-   5,J
-   9,U,X
-  11,L,J
-  22,L
-   4
-  15,L,D
-   4,D
-   2,L,D
-  14,L,D,X
-   1,R,J
-  10,R,D,X
-  13,R,J
-  15,R,D,X
-   1,R
-   8,R,J
-   7,R
-   1,R,G
-  16,J,G
-   5,R,J
-   5,K
-  12,R,K
-  15,R,U,X
-   4,J,G
-  20,D
-   2,L,D
-   9,L
-  20,R
-  12,R,X
-  11,R,J
-   9,R
-   2,R,K
-   5,R
-  15,R,U,X
-  34,R,D
-   7,D
-   1,R,D
-  50,D
-  25,R,D
-  14,U,Z
-   1,R,J
-  23,R
-   1,G
-   5,J,G
-   6
-   1,R
-   1,R,J
-   9,J
-   1,L,J
-   1,K,G
-  10,R,K
-  13,R
-  11,R,K
-   5,R
-  15,R,Z
-   2
-  27,R,D
-   2,D
-   1,R,D
-   5
-   1,R
-   1,J,G
-   1,R,J
-   1,J
-   3,R,J
-   5,R
-   3,R,J
-  11,R
-#Spinner Cycle [a-5-b]
-   1
-#####
-   6,R,Z
-   1,R,J
-   7,R
-   1,R,J
-  12,R,D,X
-  40
-
-#lvl_a-5-b
-Read,../../StrawberryJamTAS/4_Expert/meaningless_contraptions.tas,lvl_a-5-b
-
-ChapterTime: 1:40.504(5912)
+ChapterTime: 1:38.838(5814)

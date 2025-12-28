@@ -81,8 +81,7 @@ console load StrawberryJam2021/1-Beginner/Ceph
 Read,../../StrawberryJamTAS/1_Beginner/cassette_cliffs.tas,lvl_3 (0),lvl_4
 
 #lvl_4
-#fall slower here
-#to resync global cycle
+#fall slower here to resync global cycle
    1
    4,D
    1,L
@@ -174,7 +173,7 @@ Read,../../StrawberryJamTAS/1_Beginner/cassette_cliffs.tas,lvl_3 (0),lvl_4
   15,L,X
   15,L,C
   10,L
-#####
+#-----
    7,R,Z
    1,R,J
    6,R
@@ -225,7 +224,31 @@ Read,../../StrawberryJamTAS/1_Beginner/cassette_cliffs.tas,lvl_3 (0),lvl_4
   40
 
 #lvl_6
-Read,../../StrawberryJamTAS/1_Beginner/cassette_cliffs.tas,lvl_6,lvl_7 (0)
+  11,R,D,X
+   1,R,J
+   8
+   3,D
+   1,R,D
+   6,L,D,J
+   9,L,G
+   1,R
+   1,J
+  12,L,J
+   1,R,J
+  10,K
+   1,L,K
+   1,J
+   1,L,K,G
+   5,J,G
+#any%-end
+#or roughly around here, since any% does a strat that may, or may not, be useful
+  15,R,D,X
+   1,D,J
+  10,R,K,G
+   3,R
+  15,R,D,X
+   8,R
+  40
 
 #lvl_7 (0)
    9,R
@@ -325,8 +348,14 @@ Read,../../StrawberryJamTAS/1_Beginner/cassette_cliffs.tas,lvl_6,lvl_7 (0)
    1,R,K
    2,K
 
-#blue cassette block is off so
-#need a slightly different strat
+#blue cassette block is off so need a slightly different strat
+#   1,R,K
+#   2,J,G
+#   7,L
+#   5,L,J
+#   2,L
+#   1,L
+#  17,L,U,Z
    1,R
    1,J,G
    5,R
@@ -336,14 +365,7 @@ Read,../../StrawberryJamTAS/1_Beginner/cassette_cliffs.tas,lvl_6,lvl_7 (0)
    8,L,J
    4,L
   18,L,U,Z
-#   1,R,K
-#   2,J,G
-#   7,L
-#   5,L,J
-#   2,L
-#   1,L
-#  17,L,U,Z
-#####
+#-----
 
    5,L
   21,L,X
@@ -352,13 +374,13 @@ Read,../../StrawberryJamTAS/1_Beginner/cassette_cliffs.tas,lvl_6,lvl_7 (0)
   15,L,Z
 
 #get dashes in before bubble
+#  20,D
+#  96
   25,D
   15,D,X
    5,D,C
   77
-#  20,D
-#  96
-#####
+#-----
 
   15,R,D,X
    4,R,D
@@ -377,9 +399,7 @@ Read,../../StrawberryJamTAS/1_Beginner/cassette_cliffs.tas,lvl_6,lvl_7 (0)
    2,G
    2,D
 
-#different key cycle
-#and cassette cycle
-#(includes dashes)
+#different key cycle. and cassette cycle. (includes dashes)
    1
   15,R,X
   15,L,C
@@ -390,7 +410,7 @@ Read,../../StrawberryJamTAS/1_Beginner/cassette_cliffs.tas,lvl_6,lvl_7 (0)
 #   5,D
 #   4
 #   2
-#####
+#-----
 
   15,R,Z
    1,R,J

@@ -1,10 +1,11 @@
-RecordCount: 8733
+RecordCount: 11880
 
 console load StrawberryJam2021/4-Expert/Appels
    1
 
 #Start
-Read,../../StrawberryJamTAS/4_Expert/skyline_usurper.tas,Start,lvl_a01
+#lvl_INTRO1
+Read,../../StrawberryJamTAS/4_Expert/skyline_usurper,Start,lvl_a01
 
 #lvl_a01
   69
@@ -12,21 +13,28 @@ Read,../../StrawberryJamTAS/4_Expert/skyline_usurper.tas,Start,lvl_a01
    5,R
    6,R,J
    4,R
-  10,R,D,X
-  11,R,J
-  13,R,G
-  26,R,X,G
-   1,L
-   5,R
-  14,R,D,X
+  10,L,D,X
+#route based off any%, slightly different
    1,R,J
-   3,J
-  13,R,D,X
-   7,R,J
-   3,J
-  14,R,U,X
-  27
+   3,R
+   1,R,J
+   3,R
+   9,R,J
+  13,R,G
+  23,R,X,G
+   1,L
+   3,R
+#lose a tiny bit of time to let the propeller block travel through the pipe
+  14,R,D,X
+   3,R,J
+   1,J
+  14,R,D,X
+   5,R,J
+   5,J
 #any%-start
+#for real this time
+  14,R,U,X
+  26
    4,L,J
   16,L,K
   14,U,X
@@ -37,15 +45,17 @@ Read,../../StrawberryJamTAS/4_Expert/skyline_usurper.tas,Start,lvl_a01
    1,L
   14,U,X
   28,G
-  20,R,X,G
-   1,R
+   1,X,G
+  15,R,G
+   5,R
   10,R,D,X
-  12,L,J
+  11,L,J
   15,L,U,X
+   1,L
   19,R,G
-  16,R,X,G
-   2,X,G
-   7,R,X,G
+   6,R,X,G
+   1,G
+  17,R,G
    1,L
   10,R,U,X
   20
@@ -56,13 +66,13 @@ Read,../../StrawberryJamTAS/4_Expert/skyline_usurper.tas,Start,lvl_a01
   16,L,X,G
    1,R
   15,U,X
-  30
-  10,L
+  31
+   9,L
   14,U,X
    8,J
   40
 
 #lvl_a01b
-Read,../../StrawberryJamTAS/4_Expert/skyline_usurper.tas,lvl_a01b
+Read,../../StrawberryJamTAS/4_Expert/skyline_usurper,lvl_a01b
 
-ChapterTime: 1:57.368(6904)
+ChapterTime: 1:53.033(6649)

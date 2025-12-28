@@ -7,8 +7,8 @@ console load StrawberryJam2021/5-Grandmaster/xplosives
   99
 
 #Spinner Cycle [a2]
-   2
-#####
+   0
+#-----
 
 #lvl_a0
   10,J
@@ -28,31 +28,36 @@ console load StrawberryJam2021/5-Grandmaster/xplosives
   18,R,X
    6,R,G
   12,U,G
-   7,J
+   4,R,J,G
+   2,R
   13,R,D,X
    1,L,J,G
    1,K,G
-   1,L,J,G
+   1,J,G
    1,L,K,G
-   2,L
-  30,R,D
+   3
+  15,R
+  14,R,D
+   5,R
+   1,R,J
+   2,R
+  21,R,X
+   1,R
    3,R,J
-   9,J
-  18,R,D,X
+  14,U,X
+   6,L,J
    2,R,J
-   1,K
-  14,U,Z
-   7,L,J
-   3,R,J
+   1,J
+   1,R,J
    1,J
    1,K
-   1,R,K
+   1,R
    1,R,J,G
-   4,R,K,G
+   3,R,K,G
    1,R,J,G
-   7,R
-   2,R,J
-   4,R
+   8,R
+   2,R,K
+   3,R
    4,R,D
   15,L,D,X
   14,R,D,C
@@ -61,6 +66,6 @@ console load StrawberryJam2021/5-Grandmaster/xplosives
   40
 
 #lvl_a1
-Read,../../StrawberryJamTAS/5_Grandmaster/fractured_iridescence.tas,lvl_a1
+Read,../../StrawberryJamTAS/5_Grandmaster/fractured_iridescence,lvl_a1
 
-ChapterTime: 0:43.214(2542)
+ChapterTime: 0:43.112(2536)

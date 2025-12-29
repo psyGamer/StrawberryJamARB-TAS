@@ -5,9 +5,7 @@ Unsafe
 console clrsav
 console load StrawberryJam2021/0-Lobbies/4-Expert
 
-#Uncomment at your own discretion.
-#See before heartside near end
-#of file for more info.
+#Uncomment at your own discretion. See before heartside near end of file for more info.
 #EnforceMaingame
 
    1
@@ -392,16 +390,10 @@ Read,4_Expert/lunar_pagoda_S,Start
    1,O
   32
 
-#Getting Rainbow:
+#Needed to sync EnterHeartside inputs after lobby movement, otherwise you'd also get the checkpoint menu list that only shows on debug mode or after beating the level.
+Set,DebugMode,false
 
-#Needed to sync EnterHeartside
-#inputs after lobby movement,
-#otherwise you'd also get the
-#checkpoint menu list that
-#only shows on debug mode
-#or after beating the level
-EvalLua,Celeste.SaveData.Instance.DebugMode,=,false
-
+#Getting Rainbow
 Read,4_Expert_Lobby/exp_23-Rainbow-F,Start
 
 #Starfruit Supernova
@@ -417,4 +409,5 @@ Read,4_Expert/expert_heartside_G,Start
   61
    1,O
 
-FileTime: 1:48:29.555(382915)
+
+FileTime: 1:47:04.963(377939)

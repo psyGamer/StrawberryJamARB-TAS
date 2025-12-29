@@ -1,11 +1,50 @@
-RecordCount: 827
+RecordCount: 834
 
 console load StrawberryJam2021/4-Expert/Jackal
    1
 
 #Start
-#any%-start b72b455
-Read,../StrawberryJamTAS/4_Expert/hydroshock,Start,lvl_a10
+#any%-start
+Read,../StrawberryJamTAS/4_Expert/hydroshock,Start,lvl_a07
+
+#lvl_a07
+   2,R
+   1,R,J
+   9,R
+   2,R,K
+   8,R
+   1,R,D
+  14,R,U,X
+   5,R,J,G
+  19,R
+   2,R,D
+  11,D
+  15,R,D,X
+   1,D
+   2,R,D
+   4,R,J
+   5,R
+   2,R,K
+   4,R
+   3
+   2,J,G
+  10,R,J
+   1,L
+   7,J,G
+  15,U,X
+#any%-end
+#any% barely missed touching the berry,,,
+  12,J
+   6,R,J
+#any%-start
+  11,K,G
+   1,J
+   1,K,G
+   1,L,K
+  40
+
+#lvl_a08
+Read,../StrawberryJamTAS/4_Expert/hydroshock,lvl_a08,lvl_a10
 
 #lvl_a10 (0)
    4,R,J
@@ -64,7 +103,7 @@ Read,../StrawberryJamTAS/4_Expert/hydroshock,Start,lvl_a10
   26,R,D
    1,D
    5,R,D
-#any%-start b72b455
+#any%-start
   14,R,D,X
    9,R,J
    1,R
@@ -111,7 +150,7 @@ Read,../StrawberryJamTAS/4_Expert/hydroshock,Start,lvl_a10
    1,R
    5,R,J
    2,R
-#any%-start b72b455
+#any%-start
    2,R,J,G
   13,U,X
    6
@@ -176,7 +215,7 @@ Read,../StrawberryJamTAS/4_Expert/hydroshock,Start,lvl_a10
   15,L,U,X
   23
   10,R
-#any%-start b72b455
+#any%-start
   14,R,Z
    1,R,J
   12,R,D,X

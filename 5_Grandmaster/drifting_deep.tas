@@ -1,4 +1,4 @@
-RecordCount: 15631
+RecordCount: 15642
 
 console load StrawberryJam2021/5-Grandmaster/xlibiza
    1
@@ -38,7 +38,7 @@ Read,../StrawberryJamTAS/5_Grandmaster/drifting_deep.tas,Start,lvl_a-02
 #any%-end
 #spinner cycle
    0
-#
+#-----
   39,R,X
    1,J,G
    6,D
@@ -55,7 +55,7 @@ EndStunPause
    5,L,U
 #spinner cycle
    0
-#
+#-----
   15,U,C
   10,U,X
 StunPause
@@ -69,7 +69,7 @@ EndStunPause
   36
 #spinner cycle
    0
-#
+#-----
   10,U,X
    9,L,Z
   15,D,C
@@ -103,7 +103,7 @@ EndStunPause
   15,R,X
 #spinner cycle
    0
-#
+#-----
   17,R,C
    9,R,Z
 StunPause
@@ -149,9 +149,7 @@ EndStunPause
   43
 
 #lvl_a-03
-#not read because of a spinner
-#cycle wait here (both arb file
-#and in any% file)
+#not read because of a spinner cycle wait here (both arb file and in any% file)
    1,R,J
    5,R,D,X
    1,R,J,G
@@ -236,9 +234,9 @@ EndStunPause
   15,R,D,X
   15,R,D,C
    2,R,D
-## Spinner cycle
+#Spinner cycle
    1
-##
+#-----
   20,R,X
   15,R,D,C
    1,R
@@ -402,9 +400,18 @@ Read,../StrawberryJamTAS/5_Grandmaster/drifting_deep.tas,lvl_a-04,lvl_a-06
    4,R,K,G
    7,J,G
    7,R
-   4,R,C
+   4,R,X
    4,R,J
-  19,L
+   1,L
+   6,R
+   5
+   1,D
+   1
+   1,D
+   1
+   1,D
+   1
+   1,D
   77
   10,R,D,X
    9,R,J
@@ -430,9 +437,9 @@ Read,../StrawberryJamTAS/5_Grandmaster/drifting_deep.tas,lvl_a-04,lvl_a-06
    8,L,D
   16,L,X
 #any%-start
-## Spinner cycle
+#Spinner cycle
    0
-##
+#-----
   14,R,Z
   20,R,J
    8,U,Z
@@ -485,10 +492,10 @@ EndStunPause
    1,R,D
   32,R,J
   15,R,X
-## Spinner cycle
+#Spinner cycle
 #5 is the same as a 2 w/ freeze frames
    1
-##
+#-----
   14,R,Z
   17,R,J
   18,R,D,X
@@ -653,14 +660,13 @@ AnalogueMode,Ignore
   75,O
 #Spinner Cycle [a-07]
    0
-##
+#-----
    1,R,J
    1,R,K,G
    7,R,J,G
    7,U,X
   26
-#based off any% inputs
-#but obviously slightly different
+#based off any% inputs, but obviously slightly different
   18,F,90
   36,F,101.57
    3,F,90
@@ -685,9 +691,7 @@ AnalogueMode,Ignore
   31,F,76.6
   15,R,Z
    1,R
-#if a better position is found,
-#here a pause can be cut
-#good luck with that though :/
+#if a better position is found, here a pause can be cut, good luck with that though :/
 StunPause
 SkipInput,3,1
   11,R,U,Z
@@ -695,7 +699,7 @@ EndStunPause
    3,R,U,Z
 #Spinner Cycle [a-08]
    0
-###
+#-----
 #any%-start
   33,R,C
   15,R,D,X

@@ -1,4 +1,4 @@
-RecordCount: 6801
+RecordCount: 6822
 console load StrawberryJam2021/4-Expert/spirialis
    1
 
@@ -26,17 +26,22 @@ console load StrawberryJam2021/4-Expert/spirialis
    6,R,Z
    1,R,J
    7,R
-  13,R,J,G
-  15,U,Z,G
-  18,R,J,G
+   6,R,J
+   7,R,J,G
+  16,U,Z,G
+   7,R,J,G
+  12,J,G
+#any%-start
+#(but with extra swag)
    1,K,G
-  16,L,J,G
-  16,R,K,G
-   4,J
+  13,L,J,G
+   3,L,J
+  16,R,K
+   2,J
   40
 
-#any%-start
 #lvl_1-1
+#any%-start but for real
 Read,../../StrawberryJamTAS/4_Expert/lunar_pagoda.tas,lvl_1-1
 
-ChapterTime: 1:04.940(3820)
+ChapterTime: 1:04.787(3811)

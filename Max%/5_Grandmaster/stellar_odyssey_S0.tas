@@ -4,6 +4,7 @@ console load StrawberryJam2021/5-Grandmaster/Ecl1psed
    1
 
 #Start
+#lvl_a-00-start (0)
 #ARB-start
 Read,../../5_Grandmaster/stellar_odyssey,Start,lvl_a-00-start (1)
 
@@ -12,12 +13,12 @@ Read,../../5_Grandmaster/stellar_odyssey,Start,lvl_a-00-start (1)
 #any%-start
 Read,../../StrawberryJamTAS/5_Grandmaster/stellar_odyssey,Start,lvl_a-03 (1)
 
-#lvl_a-03 (1)
+#lvl_a-03
    1
   72,O
 #Spinner Cycle [a-04]
    1
-#####
+#-----
    6,R,Z
    1,R,J
    5,R
@@ -137,7 +138,7 @@ EndStunPause
    5,L
   40
 
-#lvl_a-04b (0)
+#lvl_a-04b
 Read,../../5_Grandmaster/stellar_odyssey,lvl_a-04b (0),lvl_a-04 (1)
 
 #lvl_a-04 (1)
@@ -147,7 +148,7 @@ Read,../../5_Grandmaster/stellar_odyssey,lvl_a-04b (0),lvl_a-04 (1)
   69,O
 #Spinner Cycle [a-04 (1)]
    0
-#####
+#-----
    9,L,Z
 #any%-start
    1,R,J
@@ -250,6 +251,7 @@ EndStunPause
   40
 
 #lvl_a-05
+#this and next room use the BIS-less route, as it's probably slower for ARB to use BIS
    1
    1,R
    1,R,K
@@ -352,7 +354,6 @@ EndStunPause
    1,R,K
   23,L,D
   15,L,X
-#any%-end
    1,L,D
   24,D
    1,L,D
@@ -371,9 +372,8 @@ EndStunPause
   77
 #Spinner Cycle [a-07] 1
    2
-#####
+#-----
    9,L,Z
-#any%-start
    1,R,J
    6,R
    1,R,J
@@ -573,9 +573,9 @@ EndStunPause
    1,S
    1,D,J
   72,O
-#Spinner Cycle [a-07] 2
+#Spinner Cycle [a-07]
    2
-#####
+#-----
    6,R,D,X
    1,R,J
    7,R
@@ -593,7 +593,7 @@ EndStunPause
    1,R,K,G
   10,R,G
    1,R
-## not optimized
+#not optimized
    1,R,J,G
   17,R,U,Z
   33,R,J,G
@@ -606,15 +606,18 @@ EndStunPause
    1,R,J
    2,J
    3
-## 6f bhop subpixel manip
+
+#6f bhop manip
+##
+#    1,K
+#    1
+#    1,R,K
+#    4,R
+##
    2,K
    5,R
-##
-#   1,K
-#   1
-#   1,R,K
-#   4,R
-##
+#-----
+
   14,L,Z
    1,R,J
    6,R
@@ -627,35 +630,42 @@ StunPause
    2,R,J,G
 EndStunPause
    3,R,J,G
-## be slightly higher
-   8,R,G
-   1,R,K,G
-  10,R,G
-   6,R,D,G
+#be slightly higher
 ##
 #  20,R,G
 #   5,R,D,G
 ##
+   8,R,G
+   1,R,K,G
+  10,R,G
+   6,R,D,G
+#-----
    1,R
   14,R,U,X
-   5,L,J
+#a little lower
+#    5,L,J
+   3,L,J
+   2,L
+#----
    7,U,X
-  25,G
-   1,D
-  14,L,Z
+  13,G
+   1,R,G
+   5,G
+   2,R,G
+   1,R
+   7,L
+   8,R,Z
    1,R,J
-   5,R,D,X
+   7,R
+   1,R,J
+   8,R,D,X
   13,R,G
    1,R,J,G
-   2,G
-  12,R,G
+  18,R,D,G
    1,R,J,G
-   8,R,G
-   1,R,J,G
-   9,R,G
-   1,R,J,G
-  21,R,G
-   1,R,J
+  15,R,D,G
+   3,D,G
+   1,R
   14,L,D,X
    1,R,J
    5,R,D,X
@@ -693,12 +703,12 @@ EndStunPause
    7,R,G
    1,R
   15,L,X
-  52
-   1,S
+  53
+   1,S,N
    1,D,J
   72,O
    9,J
   16,U,X
  135
 
-FileTime: 2:15.320(7960)
+FileTime: 2:15.167(7951)

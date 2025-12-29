@@ -23,6 +23,7 @@ Read,5_Grandmaster/flipside_cliffside_S,Start
   32
 
 #Fractured Iridescence
+#Note: Level doesn't have any red berries, so the first run is identical to any%.
 Read,../StrawberryJamTAS/5_Grandmaster_Lobby/gm_18-10,Start
 Read,../StrawberryJamTAS/EnterLevel,Start
 Read,../StrawberryJamTAS/5_Grandmaster/fractured_iridescence,Start
@@ -36,6 +37,7 @@ Read,5_Grandmaster/fractured_iridescence_S,Start
   32
 
 #Belly of the Beast
+#Note: Level doesn't have any red berries, so the first run is identical to any%.
 Read,../StrawberryJamTAS/5_Grandmaster_Lobby/gm_10-11,Start
 Read,../StrawberryJamTAS/EnterLevel,Start
 Read,../StrawberryJamTAS/5_Grandmaster/belly_of_the_beast,Start
@@ -49,6 +51,7 @@ Read,5_Grandmaster/belly_of_the_beast_S,Start
   32
 
 #World Abyss
+#Note: Level doesn't have any red berries, so the first run is identical to any%.
 Read,../StrawberryJamTAS/5_Grandmaster_Lobby/gm_11-12,Start
 Read,../StrawberryJamTAS/EnterLevel,Start
 Read,../StrawberryJamTAS/5_Grandmaster/world_abyss,Start
@@ -101,6 +104,7 @@ Read,5_Grandmaster/summit_S,Start
   32
 
 #kevintechspam.bin
+#Note: Level doesn't have any red berries, so the first run is identical to any%.
 Read,../StrawberryJamTAS/5_Grandmaster_Lobby/gm_15-17,Start
 Read,../StrawberryJamTAS/EnterLevel,Start
 Read,../StrawberryJamTAS/5_Grandmaster/kevintechspam,Start
@@ -245,17 +249,17 @@ Read,5_Grandmaster/cycle_madness_b-side_S,Start
   32
 
 #Getting Rainbow
-#+
-#Passionfruit Pantheon
-#Grandmaster Heartside
+#Grandmaster Heartside (Passionfruit Pantheon)
+#Note: Level doesn't have any red berries, so the first run is identical to any%.
 Read,5_Grandmaster_Lobby/gm_9-Rainbow-19,Start
 Read,../StrawberryJamTAS/EnterHeartside,Start
 Read,../StrawberryJamTAS/5_Grandmaster/grandmaster_heartside,Start
    1,Q
   32,J
 
+#Heartside Golden
 Read,5_Grandmaster/grandmaster_heartside_G,Start
   61
    1,O
 
-FileTime: 1:23:10.350(293550)
+FileTime: 1:21:33.858(287874)

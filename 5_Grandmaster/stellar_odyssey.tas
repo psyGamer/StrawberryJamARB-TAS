@@ -621,7 +621,7 @@ EndStunPause
   40
 
 #lvl_a-05
-#this and next room use the BIS-less route, as it's probably slower for ARB
+#this and next room use the BIS-less route, as it's probably slower for ARB to use BIS
    1
    1,R
    1,R,K

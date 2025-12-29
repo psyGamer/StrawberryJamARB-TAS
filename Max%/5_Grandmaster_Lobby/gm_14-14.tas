@@ -3,29 +3,18 @@ console load StrawberryJam2021/0-Lobbies/5-Grandmaster 584 1360
 
 #Start
 #this file fucking sucks LOL
-  36
+#also, yes, that is a held jump to slowfall for a frame without jumping. in water. awesome tas
+  36,J
    1,L,J
    1,L,K
    1,L,J
    1,L,K
    1,L,J
-   1,L,K,G
-   2,L,J
-   4,L
+   1,L,K
+   1,L,J,G
+   2,L
+   5,L,Z
+   1,L,J
    1,X
 
 #0:00.221(13)
-
-#frameties, bigger potential
-#but currently really stupid
-#   1,L,J
-#   1,L,K
-#   1,L,J
-#   1,L,K
-#   2
-#   1,L,J,G
-#   1,L,K
-#   1
-#   5,L,Z
-#   1,L,J
-#   1,X

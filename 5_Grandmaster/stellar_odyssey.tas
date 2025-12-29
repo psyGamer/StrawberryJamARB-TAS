@@ -732,21 +732,6 @@ EndStunPause
   10,L,D
    6,L
    1,L,D
-
-
-
-
-
-
-
-# Pos: 6887.22, -287.80
-
-
-
-
-
-
-
   15,L,X
   17,L
   12,U,X
@@ -760,7 +745,6 @@ EndStunPause
    2
 #-----
    9,L,Z
-#any%-start
    1,R,J
    6,R
    1,R,J

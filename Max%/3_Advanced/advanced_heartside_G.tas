@@ -1,4 +1,4 @@
-RecordCount: 23759
+RecordCount: 34118
 
 console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
    1
@@ -6,9 +6,9 @@ console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
 #Start
   36
 
-#Spinner Cycle [Flag 24]
-   0
-#####
+#Spinner Cycle [heartside_Worldwaker2]
+   1
+#-----
 
 #lvl_Start
    5,R,D,X
@@ -28,10 +28,10 @@ console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
   12,R,J
   15,R,D,X
    1,R,J
-   4,R,U,C
+   4,R,U,X
 
 #lvl_heartside_oppen_intro
-   8,R,U,C
+   8,R,U,X
 #any%-end
    5,R,J,G
    1,K,G
@@ -58,7 +58,7 @@ console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
    5
   15,D,X
    8,D
-#any%-start
+#old any% strat that doesn't deathwarp
    1,J
   11,D
   19,R,D
@@ -93,7 +93,7 @@ console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
    1,L,K
   12,R,J,G
    7,R
-   4,D,X
+   4,R,Z
    1,R,J
    1,R
    1,R,J
@@ -109,28 +109,41 @@ console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
    1,R,J
   14,R,D,X
    1,R,J
-  15,R,D
+  12,R
+   3
+#any%-start
   15,D,X
+   7,L,D
+   8,D
+   3,R,D
+   1,R
+   1,R,D
+   2,R
+   1,R,D
+   1,R
+   2,R,D
+  12,L
    8,L,D
-   5,R
-  16,R,D
-  19,L
-   1,L,D
-   7,R,D
+   5,R,D
   15,R,D,X
-   3,R
    1,R,D
    6,R
-   2
-  12,R,Z
-  14,R,J,G
-  49,R,U,K,G
-   6,R,G
-   1,R,U,G
+   3,R,D
    1,R
-  15,U,X
-  20,L,G
-   5,R,G
+   1,D
+   4,Z
+   1,R,J
+   5,R
+  17,R,G
+  48,R,U,J,G
+   1,R,G
+   1,R,U,G
+   3,R,G
+   3,R,U,G
+   4,R
+  12,U,X
+  17,R,G
+   8,L,G
    1
   13,L,Z
    1,L,J
@@ -152,35 +165,51 @@ console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
    3,R,J
    4,L,J
    1,K,G
-  10,L,K
+   5,L,K
+   1,K
+   3,L,K
+   1,R,K
+   1,L,K
    1,J,G
-  13,R,J
-   1,L,J
-   4,L,K,G
    1,R,J
-  49,R,J,G
+   7,J
+   4,R,J
+   1,L,J
+   1,L,K,G
+   2,R,K
+   1,K
+   1,R,J
+  48,R,U,J,G
    1,R
   14,U,X
-  20,L,J
-   1,K,G
-   1,K
-   5,L
-   1,L,J
-   2,J
-   1,L,J
-   6,R,J
+  18,L,J
+   1,L,K,G
+   1,R,K
+   1,L,K
+   1
+   1,J,G
+   2,L
+   2
+   1,L
+   5
    6,R
-   3
-   2,D
-  13,R,X
-  46,R,U,J,G
+   1,R,J
+   5,R
+  12,L,Z
+   1,R,J
+   2,R
+  12,R,D,X
+  19,R,U,J,G
+   1,R,G
+   1,G
+  16,R,G
+   1,R
    1,R,K,G
-  11,R
-   6,R,Z
+   5,R
    1,R,J
    7,R
    1,R,J
-  10,R,D,X
+  14,R,D,X
 #any%-end
    1,R,J
    7,R
@@ -188,12 +217,12 @@ console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
   20,R,J,G
 StunPause
   14,R,J,G
-   1,L
+   1,R
 SkipInput,3,1
-  17,R,U,X
-   2,R,J,G
-   2,L,J
-   2,R,J
+  15,R,U,X
+   1,R,J,G
+   3,L,J
+   3,R,J
    7,R
 EndStunPause
   10,R,Z
@@ -202,25 +231,31 @@ EndStunPause
    3,K,G
    9,R,K,G
 
-#Spinner Cycle [Flag 23]
+#Spinner Cycle [heartside_Galaksyz]
 #+0f
-#   9,J,G
-#   1,R,J
-###
+##
+#    9,J,G
+#    1,R,J
+##
+#---
 
 #+1f
+##
    5,J,G
    5,G
    1,R
-###
+##
+#---
 
 #+2f
+##
 #   1,J,G
 #  10,G
 #   1,R
-###
+##
+#---
 
-#####
+#-----
 
    5,R,Z
    1,R,J
@@ -235,162 +270,127 @@ EndStunPause
 
 #lvl_heartside_TiltTheStars
 #any%-start
-Read,../../StrawberryJamTAS/3_Advanced/advanced_heartside.tas,lvl_heartside_TiltTheStars,lvl_heartside_Galaksyz
-
-#lvl_heartside_Galaksyz
-   9,R,J
-  16,R,D,X
-   4,R,J
-   2,R
-  15,R,D,X
-#this depends on spinner cycle
-#only 1 cycle works
-   9,R
-   9,R,D
-   1,R,J
-   9,R
-   2,R,J
-  11,R
-   1,R,D
-   2,D
-   7,R,U,Z
-   1,L
-   3,J,G
-   1,R,J
-   6,J
-   1
-   6,R
-   9,R,Z
-   1,R,J
-   6,R
-  17,R,J
-   4,J
-   6,R,K,G
-   7,U,X
-  14,L,J
-  12,L,U,Z
-   1
-#Spinner Cycle [Flag 20]
-   0
-#####
-  89,R,C
-  17,R,U
-  11,R
-  14,L,D,X
-   1,R,J
-   5,R,D,X
-   1,R,J,G
-   1
-  13,R
-   3,R,J
-   8,R,D,X
-   6,R,J,G
-   2,R
-  40
-
-#lvl_heartside_mmm
-Read,../../StrawberryJamTAS/3_Advanced/advanced_heartside.tas,lvl_heartside_mmm,lvl_heartside_Tortoise
+Read,../../StrawberryJamTAS/3_Advanced/advanced_heartside,lvl_heartside_TiltTheStars,lvl_heartside_Tortoise
 
 #lvl_heartside_Tortoise
-#the banger flags keep coming
-   3,R
-  13,R,D
-   5,D,X
 #any%-end
- 110
-#wait for cycle
- 113
-   5,R,Z
-#idk if there is a faster strat
-#and i dont feel like looking for one
-#any%-start
-   1,R,J
-   1,R
-   1,R,J
-   1,R,K,G
-   9,R
-   1,R,J
-   6,R,K,G
-  10,R
-   7,R,J
-  15,R,D,X
-   9,R,J
-   5,R
-   1,R,J,G
-   1,L,J
-   8,J
-   1
-  16,U,X
-  14,J
-   4,R,J
-   3,R
-   5,L
-  12,L,J
-  11,K
-   1
-  15,U,X
-   1,R
-  15,R,J
-  36,R,D
-  12,D
-   9,L,D
-  11,R,Z
-   1,R,J
-  16,R,D
-  10,R,U,X
-   1,L,K,G
-   3,R,J
-  12,R
-  14,R,Z
-   1,R,J
-  15,D,C
-   1,R,K
-  14,R
-   5,R,D
-  12,R,J
-   5,R
-   4
-   2,J
-   3
-  15,U,X
-  12,L
-  11,L,X
-   8,L,J
-   4,R,K
-  15,U,X
-   1,L,K,G
-   2,L,D
-   6,R,D
+   8,R
    8,D
-  11,L,D
-   5,D
-  16,L,U,X
-   4,K,G
-   1
-  17,R,D
-   1,R,J
-  13,L,D,X
-   2,L,J
-   4,L
-  13,L,U,X
-   1,L,K,G
-   7,L
-#+1f idk really
-   5,L,J
-#   4,L,J
-#####
+   5,D,X
+ 110
+#cycle wait (long)
+ 117
+#-----
+#any%-start
   10,R,D,X
    1,R,J
-   6,R,K,G
-   5,R,J,G
+   7,R,K,G
+   2,R
+   6,R,D,X
+   1,R,J,G
+   7,R
+   1,R,J
+   3,R
+   2,R,J
+   5,R
+   3,R,J
+   1,R
+   1,R,J
+   1,R
+   3,R,D,K
+   5,R
+   1,L,J,G
+  11,R,J
+   7,R
+  14,U,Z
+   4,R,J
+   1,J
+   1,R,J
+   1,J
+   4,R,J
+   1,J
+   1
+   4,R
+   5
+   1,R
+  12,L,J
+  10,K
+   2,R,K
+  15,U,X
+   1
+  14,R,J
+  36,R,D
+  12,D
+   8,L,D
+  10,R,Z
+   1,R,J
+  16,R
+   9,R,U,X
+   1,L
+   1,J,G
+   3,J
+   2
+   4,R
+  15,R,X
+   1
+   9,L,C
+   1,R,J
+  13,R
+   2,R,D
+   3,R,J
+   9,J
+   2
+   1,R
+   6
+   1,J
+   4,L,J
+  15,U,X
+  11,L
+  10,L,X
+   9,L,J
+   1,K,G
+   5,R,K
+  15,U,X
+   1,L,J,G
+   6,R
+   5
+   1,D
+   8,L,D
+   2,L
+   1,L,D
+   2,L
+   3,J
+  14,L,U,X
+   2,J,G
+   1
+  10,R
+   7,R,D
+   1,R,J
+  10,L,D,X
+   1,L,J
+   1
+   6,L
+  14,L,U,X
+   1,J,G
+   4,L
+   3
+   1,L,J
+   1,J
+   1,L,J
+  10,R,D,X
+   1,R,J
+
+#-1f: earlier teleport
+#   11,R,K,G
+   9,R,K,G
+   1,R
+#-----
+
   14,R,D,X
    2,R,J
   25,R,D,X
   13,R
   10,R,X
-#Spinner Cycle [Flag 12]
-   0,R,X
-#####
    8,L,J
   18,U,X
    2,R,J,G
@@ -408,56 +408,16 @@ Read,../../StrawberryJamTAS/3_Advanced/advanced_heartside.tas,lvl_heartside_mmm,
   40
 
 #lvl_heartside_bluexans
-Read,../../StrawberryJamTAS/3_Advanced/advanced_heartside.tas,lvl_heartside_bluexans,lvl_heartside_RadleyMcTuneston
+Read,../../StrawberryJamTAS/3_Advanced/advanced_heartside,lvl_heartside_bluexans,spinner cycle [heartside_jolly]
 
 #lvl_heartside_RadleyMcTuneston
-   6,R,U,X
-   9,U,C
-  14,R,D,X
-   8,L,J
-  15,R,Z
+#room is read up until this spinner cycle wait.
+
+#Spinner Cycle [heartside_jolly]
+#weird drift thing
    1
-  12,L,Z
-  15,U,X
-   7
-   8,R,D,X
-   1,J
-   7
-  15,L,U,X
-  11,R,D,C
-   9
-  15,L,U,X
-  11,R,D,C
-  15,U,X
-  10,D,C
-   3
-  15,L,U,C
-  15,D,X
-   5,L,D
-   8,R,D
-   3,D
-   8,R,D
-   7,R,Z
-   1,R,J,G
-  10,R
-   2
-   5,L,Z
-   1,R,J
-   3,R
-   1,R,J
-   3,R
-  20,R,J
-  14,U,Z
-   9,R,J
-   7,R
-   4,L
-   2,L,J
-  14,R,D,X
-   1,R,J
-  14,R,D,C
-#Spinner Cycle [Flag 2]
-   0
-#####
+#-----
+
   15,D,X
   14,R,D,C
    1,R,J
@@ -471,6 +431,101 @@ Read,../../StrawberryJamTAS/3_Advanced/advanced_heartside.tas,lvl_heartside_blue
   40
 
 #lvl_heartside_Goldian
-Read,../../StrawberryJamTAS/3_Advanced/advanced_heartside.tas,lvl_heartside_Goldian
+Read,../../StrawberryJamTAS/3_Advanced/advanced_heartside,lvl_heartside_Goldian,lvl_heartside_jolly
 
-ChapterTime: 4:51.074(17122)
+#lvl_heartside_jolly
+   3,R,D
+   1,D
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+  10,R,J
+   3,R
+  14,R,D,X
+   1,J
+  10,L,Z
+   8,R,J
+   6,R
+   1,R,J
+   1
+  15,L,D,X
+   7
+   3,R,J
+   7,R,D,X
+   8,R,J
+  15,R,X
+  11,R,D,C
+   7,R,J
+   1,R
+   2,R,J
+   2,R
+  15,R,U,Z
+   9,R
+  36,R,U,G
+   1,R,G
+  12,L,J
+  10,L
+  11,R
+  23,R,U,X
+   3,R
+   6
+   1,R
+   9,R,G
+   8,R,J,G
+   3,R
+  15,R,X
+  15,R,C
+  12,R
+  10,R,Z
+  10,R,J
+   1,R
+  11,R,D,X
+
+#Don't drift-stun, as no drift occurs here
+##
+#StunPause
+#    1,R,D,X
+#    1,L,J,G
+#    2,R,J
+#EndStunPause
+#    1,R,J
+#StunPause
+#    5,R,J
+#    4,R
+#    4
+#    1,R
+#    8
+#    9,L
+#EndStunPause
+#    2,D
+##
+StunPause
+   1,R,D,X
+   1,L,J,G
+   8,R,J
+   4,R
+   4
+   1,R
+   8
+   9,L
+   2,D
+EndStunPause
+#-----
+  19,R
+   9
+   1,L
+   1
+   1,L
+  54
+  13,L,D,X
+   2,R,J
+   2,R,K,G
+  11,R
+   6,R,X
+  40
+
+#lvl_heartside_Viv
+Read,../../StrawberryJamTAS/3_Advanced/advanced_heartside,lvl_heartside_Viv
+
+ChapterTime: 4:42.387(16611)

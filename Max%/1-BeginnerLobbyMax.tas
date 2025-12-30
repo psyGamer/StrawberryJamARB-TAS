@@ -8,21 +8,8 @@ EnforceMaingame
    1
 
 #Start
-#Loopy Lagoon
-Read,../StrawberryJamTAS/1_Beginner_Lobby/beg_0-1,Start
-Read,../StrawberryJamTAS/EnterLevel,Start
-Read,../1_Beginner/loopy_lagoon,Start
-   1,O
-  32
-
-Read,1_Beginner_Lobby/beg_1-1,Start
-Read,../StrawberryJamTAS/EnterLevel,Start
-Read,1_Beginner/loopy_lagoon_S,Start
-   1,O
-  32
-
 #Forest Path
-Read,../StrawberryJamTAS/1_Beginner_Lobby/beg_1-11,Start
+Read,../StrawberryJamTAS/1_Beginner_Lobby/beg_0-11,Start
 Read,../StrawberryJamTAS/EnterLevel,Start
 Read,../1_Beginner/forest_path,Start
    1,O
@@ -35,7 +22,7 @@ Read,1_Beginner/forest_path_S,Start
   32
 
 #Azure Caverns
-Read,../StrawberryJamTAS/1_Beginner_Lobby/beg_11-12,Start
+Read,../StrawberryJamTAS/1_Beginner_Lobby/unused/beg_11-12,Start
 Read,../StrawberryJamTAS/EnterLevel,Start
 Read,../1_Beginner/azure_caverns,Start
    1,O
@@ -48,7 +35,7 @@ Read,1_Beginner/azure_caverns_S,Start
   32
 
 #If My "Driveway" almost did you in...
-Read,../StrawberryJamTAS/1_Beginner_Lobby/beg_12-10,Start
+Read,../StrawberryJamTAS/1_Beginner_Lobby/unused/beg_12-10,Start
 Read,../StrawberryJamTAS/EnterLevel,Start
 Read,../1_Beginner/if_my_driveway,Start
    1,O
@@ -61,7 +48,7 @@ Read,1_Beginner/if_my_driveway_S,Start
   32
 
 #Treehive
-Read,../StrawberryJamTAS/1_Beginner_Lobby/beg_10-9,Start
+Read,../StrawberryJamTAS/1_Beginner_Lobby/unused/beg_10-9,Start
 Read,../StrawberryJamTAS/EnterLevel,Start
 Read,../1_Beginner/treehive,Start
    1,O
@@ -74,7 +61,7 @@ Read,1_Beginner/treehive_S,Start
   32
 
 #Rose Garden
-Read,../StrawberryJamTAS/1_Beginner_Lobby/beg_9-8,Start
+Read,../StrawberryJamTAS/1_Beginner_Lobby/unused/beg_9-8,Start
 Read,../StrawberryJamTAS/EnterLevel,Start
 Read,../StrawberryJamTAS/1_Beginner/rose_garden,Start
    1,O
@@ -87,7 +74,7 @@ Read,1_Beginner/rose_garden_S,Start
   32
 
 #Collapsing Skyline
-Read,../StrawberryJamTAS/1_Beginner_Lobby/beg_8-2,Start
+Read,../StrawberryJamTAS/1_Beginner_Lobby/unused/beg_8-2,Start
 Read,../StrawberryJamTAS/EnterLevel,Start
 Read,../1_Beginner/collapsing_skyline,Start
    1,O
@@ -281,14 +268,27 @@ Read,1_Beginner/midnight_spire_S,Start
    1,O
   32
 
-#Getting Rainbow
+#Loopy Lagoon
 Read,1_Beginner_Lobby/beg_21-0,Start
-Read,1_Beginner_Lobby/beg_0-Rainbow-B,Start
+Read,../StrawberryJamTAS/1_Beginner_Lobby/beg_0-1,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,../1_Beginner/loopy_lagoon,Start
+   1,O
+  32
+
+Read,1_Beginner_Lobby/beg_1-1,Start
+Read,../StrawberryJamTAS/EnterLevel,Start
+Read,1_Beginner/loopy_lagoon_S,Start
+   1,O
+  32
+
+#Getting Rainbow
+Read,1_Beginner_Lobby/beg_1-Rainbow-B,Start
 
 #Blueberry Bay
 #Beginner Heartside
 Read,1_Beginner_Lobby/beg_B-D,Start
-Read,../StrawberryJamTAS/1_Beginner_Lobby/beg_D-22,Start
+Read,../StrawberryJamTAS/1_Beginner_Lobby/unused/beg_D-22,Start
 Read,../StrawberryJamTAS/EnterHeartside,Start
 Read,../StrawberryJamTAS/1_Beginner/beginner_heartside,Start
    1,Q
@@ -298,4 +298,4 @@ Read,1_Beginner/beginner_heartside_G,Start
   61
    1,O
 
-FileTime: 1:04:57.896(229288)
+FileTime: 1:04:12.081(226593)

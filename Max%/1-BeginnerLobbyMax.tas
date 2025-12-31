@@ -285,8 +285,7 @@ Read,1_Beginner/loopy_lagoon_S,Start
 #Getting Rainbow
 Read,1_Beginner_Lobby/beg_1-Rainbow-B,Start
 
-#Blueberry Bay
-#Beginner Heartside
+#Beginner Heartside (Blueberry Bay)
 Read,1_Beginner_Lobby/beg_B-D,Start
 Read,../StrawberryJamTAS/1_Beginner_Lobby/unused/beg_D-22,Start
 Read,../StrawberryJamTAS/EnterHeartside,Start

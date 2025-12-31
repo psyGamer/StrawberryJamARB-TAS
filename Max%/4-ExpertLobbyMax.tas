@@ -396,8 +396,7 @@ Set,DebugMode,false
 #Getting Rainbow
 Read,4_Expert_Lobby/exp_23-Rainbow-F,Start
 
-#Starfruit Supernova
-#Expert Heartside
+#Expert Heartside (Starfruit Supernova)
 Read,4_Expert_Lobby/exp_F-D,Start
 Read,../StrawberryJamTAS/4_Expert_Lobby/unused/exp_D-30,Start
 Read,../StrawberryJamTAS/EnterHeartside,Start
@@ -405,6 +404,7 @@ Read,../StrawberryJamTAS/4_Expert/expert_heartside,Start
    1,Q
   32,J
 
+#Heartside Golden
 Read,4_Expert/expert_heartside_G,Start
   61
    1,O

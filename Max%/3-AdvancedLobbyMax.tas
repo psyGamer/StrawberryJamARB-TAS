@@ -245,7 +245,7 @@ Read,3_Advanced/tectonic_trenches_S,Start
   32
 
 #Rightside-Down Cavern
-Read,../StrawberryJamTAS/3_Advanced_Lobby/adv_18-19,Start
+Read,../StrawberryJamTAS/3_Advanced_Lobby/unused/adv_18-19,Start
 Read,../StrawberryJamTAS/EnterLevel,Start
 Read,../3_Advanced/rightside-down_cavern,Start
    1,O
@@ -258,7 +258,7 @@ Read,3_Advanced/rightside-down_cavern_S,Start
   32
 
 #The Lab
-Read,../StrawberryJamTAS/3_Advanced_Lobby/adv_19-20,Start
+Read,../StrawberryJamTAS/3_Advanced_Lobby/unused/adv_19-20,Start
 Read,../StrawberryJamTAS/EnterLevel,Start
 Read,../3_Advanced/the_lab,Start
    1,O
@@ -309,7 +309,7 @@ Read,3_Advanced/slime_time_S,Start
    1,O
   32
 
-#Javas Crypt
+#Java's Crypt
 Read,../StrawberryJamTAS/3_Advanced_Lobby/adv_24-23,Start
 Read,../StrawberryJamTAS/EnterLevel,Start
 Read,../3_Advanced/javas_crypt,Start
@@ -336,9 +336,7 @@ Read,3_Advanced/dusk_city_S,Start
   32
 
 #Getting Rainbow
-#+
-#Mango Mesa
-#Advanced Heartside
+#Advanced Heartside (Mango Mesa)
 Read,3_Advanced_Lobby/adv_25-Rainbow-26,Start
 Read,../StrawberryJamTAS/EnterHeartside,Start
 Read,../StrawberryJamTAS/3_Advanced/advanced_heartside,Start
@@ -349,4 +347,4 @@ Read,3_Advanced/advanced_heartside_G,Start
   61
    1,O
 
-FileTime: 1:19:25.270(280310)
+FileTime: 1:18:06.832(275696)

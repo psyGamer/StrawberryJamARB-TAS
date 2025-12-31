@@ -2,8 +2,7 @@
 #Use Celeste 1.4.0.0 (or latest)
 #Use Everest 4607 (or latest stable)
 #Use Strawberry Jam 1.0.9 (or latest)
-#Please let us know if future versions
-#Appear to be desyncing the TAS
+#Please let us know if future versions appear to be desyncing the TAS
 
 #Use the bindings in the CelesteTAS readme
 #Change your default map to Strawberry Jam Collab
@@ -13,26 +12,32 @@
 
 Read,../StrawberryJamTAS/StartFullCollabFile
 
+#Prologue
 Read,../StrawberryJamTAS/0-SJ_prologue,Start
 
 Read,../StrawberryJamTAS/LoadBeginnerLobby
 
+#Beginner Lobby
 Read,1-BeginnerLobbyMax,Start
 
 Read,../StrawberryJamTAS/LoadLobbyfromHeartside
 
+#Intermediate Lobby
 Read,2-IntermediateLobbyMax,Start
 
 Read,../StrawberryJamTAS/LoadLobbyfromHeartside
 
+#Advanced Lobby
 Read,3-AdvancedLobbyMax,Start
 
 Read,../StrawberryJamTAS/LoadLobbyfromHeartside
 
+#Expert Lobby
 Read,4-ExpertLobbyMax,Start
 
 Read,../StrawberryJamTAS/LoadLobbyfromHeartside
 
+#Grandmaster Lobby
 Read,5-GrandmasterLobbyMax,Start
 
-FileTime: 6:42:03.323(1419019)
+FileTime: 6:36:06.901(1398053)

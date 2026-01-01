@@ -1,4 +1,4 @@
-RecordCount: 10732
+RecordCount: 10987
 
 console load StrawberryJam2021/2-Intermediate/Jems
    1
@@ -8,7 +8,7 @@ Read,../../../StrawberryJamTAS/2_Intermediate/in_filtration.tas,Start,lvl_btd-04
 
 #lvl_btd-04 (0)
 #any%-end
-   2,R
+   2,R,D,X
   14,R,D
    1,R,J
   14,R
@@ -54,9 +54,11 @@ Read,../../../StrawberryJamTAS/2_Intermediate/in_filtration.tas,Start,lvl_btd-04
    2,L,J,G
   12,L
    1,G
-   2
-   1,G
-   4
+   3
+   1,D
+   1
+   1,D
+   1
    1,D
    1
    1,D
@@ -68,19 +70,20 @@ Read,../../../StrawberryJamTAS/2_Intermediate/in_filtration.tas,Start,lvl_btd-04
    1,U,G
    1,D,G
   11,U,G
-  10,J,G
-   2,K
-   7,R
-Repeat,4
+   9,G
+   1,J,G
+   1,R,J
+   4,R,K,G
+  10,R
    1,R,J
   14,R
-EndRepeat
-   2,R
    1,R,J
-  25
-   1,L
+  31,R
+  18
+   1,R
+   1,R,D
    1
-  14,R
+  18,R
    1,R,D,J
    1,R,D,K
   15,R,D
@@ -105,56 +108,53 @@ EndRepeat
    1,L,J
   12,L
    9,R
-  31,R,G
-   1
-   1,K
-   1,J
-   5,L,J
-   1,J
-   5,L,J
-   1
-  17,L
-  15,R,D
-  13,D
-  19,L,Z
-  38,R,D
-   6,R
+  17,R,G
+   3,U,G
+   1,J,G
+   1,R
+   2
+   1,R,J
+   3,J
+   3
+   1,L
+  10,L,K
+  13,L,D
+  16,D
+   5,R,D
+   5,D
+   1,R,D
+   6,D
+   7,L,Z
+  12
+  39,R,D
+   4,R
+   1,R,D
    1,R,J
    1,R,K,G
    2,R,J,G
   12,R
    1,G
-   2
-   1,G
-   4
-   1,D
-   1
-   1,D
-   4,J
+   3
+   1,J
    7
-  11,G
-  25,U,G
-  10,J,G
-   2,K
-   7,L
-Repeat,3
+   6,G
+   3,U,G
+   1,D,G
+   1,U,G
+   1,D,G
+   1,U,G
+   1,D,G
+  41,U,G
+   7,L,J
+  10,L
    1,L,J
-  14,L
-EndRepeat
-  15,L
-   2,L,D,J
-   1,J
-   6,L,J
-   2,R,J
-   1,R,K,G
-   1,J,G
+  28,L
    1,L,J
-   1,R,J
-   1,K,G
-   1,L,K
-   1,L,J,G
-   1,L,K,G
-   1,J
+   5,L
+   2,L,J
+   8,L
+  11,L,D,J
+   9,K
   40
 
 #lvl_btd-04 (1)
@@ -162,9 +162,6 @@ EndRepeat
    1,S
    1,D,J
   69,O
-#Spinner Cycle [btd-12 (0)]
-   1
-#####
    5,L
    1,L,J
   14,L
@@ -199,15 +196,16 @@ EndRepeat
    2,R,K
    5,R
    1,L
-   3,L,J,G
+   1,L,J,G
    2,R,J
+   3,L,J
    1,L,K,G
-   2,L,J,G
+   1,L,J,G
    1,K
   40
 
 #lvl_btd-05
-Read,../../../StrawberryJamTAS/2_Intermediate/in_filtration.tas,lvl_btd-05,lvl_btd-07
+Read,../../../StrawberryJamTAS/2_Intermediate/in_filtration,lvl_btd-05,lvl_btd-07
 
 #lvl_btd-07
    2,R
@@ -384,31 +382,29 @@ Read,../../../StrawberryJamTAS/2_Intermediate/in_filtration.tas,lvl_btd-05,lvl_b
    1,L,J
    2,L
    1,L,J
-#any%-start
   12,L,K,G
    9,L,J,G
    1,R,K
    7,R
    1,R,J
-  17,R
-   7,L,G
-   1,L
-#any%-end
-   2,D
-   4,G
-   1,J,G
-   1,K,G
-   1,J,G
-   6,R,U,X
-StunPause
-   6,R,U,X
-EndStunPause
-   2,R,U,X
-   1,J
-  10,L,J
-#any%-start
+  19,R
+   1
+   1,R,J
+   1,L,K,G
+  11,R,K
+   2,K
+   3
+  15,R,Z
+   1
+   1,G
+   5,J,G
+   1,L,J
    1,K
-   7,R,K
+   5,J
+   1,K
+   1,J
+   3,R,J
+   4,J
   40
 
 #lvl_btd-13
@@ -491,12 +487,33 @@ EndRepeat
    1,R,D,J
    4,R,D
    1,L,D
-  16,R,D
+  15,R,D
+   1,D
   40
 
 #lvl_btd-11 (1)
 #any%-start
-Read,../../../StrawberryJamTAS/2_Intermediate/in_filtration.tas,lvl_btd-11 (1),lvl_btd-10 (1)
+   2,R,D
+   1,G
+   3,L,D
+  16,R,D
+   2,R,J
+  18,R,D
+
+#+1f: i have absolutely no idea
+#   21,D
+#    5,R,D
+  19,D
+   3
+   5,R
+#-----
+
+  10,L,D,X
+   1,L,J
+   7,L
+   1,L,J
+   5,L
+  40
 
 #lvl_btd-10 (1)
    9,L
@@ -561,10 +578,12 @@ Read,../../../StrawberryJamTAS/2_Intermediate/in_filtration.tas,lvl_btd-11 (1),l
    9,L
    5
    1,R
+
 #Adjust for key cycle
-  36
 #  38
-#####
+  36
+#-----
+
    2,L
    4,R,J
    8,R
@@ -596,16 +615,18 @@ Read,../../../StrawberryJamTAS/2_Intermediate/in_filtration.tas,lvl_btd-11 (1),l
   12,D
    4,R
    4,R,D
+
 #be a little higher
+#   3,R
+#   1,R,D
+#   4,R
    4,R
    1,R,D
    1,R
    1,R,D
    1,R
-#   3,R
-#   1,R,D
-#   4,R
-#####
+#-----
+
    5,R,D
   36,R
    5,R,D
@@ -656,21 +677,21 @@ Read,../../../StrawberryJamTAS/2_Intermediate/in_filtration.tas,lvl_btd-21,lvl_b
    1,L,K,G
 #picks up gen earlier;
 #perfectly fine w/o slowdown
-   5,R
-   7
-   1,L
 #   5,R
 #   4
 #   4,L
-#####
+   5,R
+   7
+   1,L
+#-----
   15,L,X
   22,L
 #be lower
+#  26,G
   24,G
    1,D,G
    1,G
-#  26,G
-#####
+#-----
    1,D,G
    8,L,D
   27,R,D
@@ -870,4 +891,4 @@ Read,../../../StrawberryJamTAS/2_Intermediate/in_filtration.tas,lvl_btd-21,lvl_b
   43,D
   95,U,X
 
-ChapterTime: 2:29.702(8806)
+ChapterTime: 2:27.781(8693)

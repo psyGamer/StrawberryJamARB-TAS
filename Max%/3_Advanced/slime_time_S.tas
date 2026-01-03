@@ -1,4 +1,4 @@
-RecordCount: 10340
+RecordCount: 10341
 
 console load StrawberryJam2021/3-Advanced/galaksyz
    1
@@ -230,7 +230,7 @@ Read,../../StrawberryJamTAS/3_Advanced/slime_time.tas,lvl_a_03-Oppen_heimer,lvl_
   15,R,J
    3,R
 #Spinner Cycle [a_08-TiltTheStars]
-   1
+   2
 #-----
   15,U,X
   15,R,J

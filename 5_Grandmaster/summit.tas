@@ -430,15 +430,6 @@ EndRepeat
   13,L
   14,U,X
 #any%-start
-
-
-
-
-
-
-
-
-
   41
   28,R
   15,L,D,X
@@ -552,4 +543,4 @@ EndRepeat
 #lvl_3000M-00
 Read,../StrawberryJamTAS/5_Grandmaster/summit,lvl_3000M-00
 
-ChapterTime: 3:43.244(13132)
+ChapterTime: 3:42.717(13101)

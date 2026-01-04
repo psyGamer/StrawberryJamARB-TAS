@@ -1,4 +1,6 @@
-RecordCount: 4471
+#Note: Completely unique file. Gets berries 1, 2, and 3 while also getting the silver berry. Since berry 5 isn't collected in this run, dashes are used to collect these 3 berries. This is faster than getting these berries while getting the dashless berry. Berry 4 not included here as dashless Berry 4 is still faster than using dashes, mainly because of soup-6.
+
+RecordCount: 4472
 
 console load StrawberryJam2021/2-Intermediate/SpoopySoup
    1
@@ -97,7 +99,319 @@ console load StrawberryJam2021/2-Intermediate/SpoopySoup
   40
 
 #lvl_soup-3
-Read,../../StrawberryJamTAS/2_Intermediate/sea_of_soup,lvl_soup-3,lvl_soup-7
+   9,R
+   9,R,Z
+  13,R,J
+   9,R,Z
+  19,R,J
+   9,R,Z
+  18,R,J
+  43
+#any%-end
+#remove dash here (+21f), but use that dash for the red berry
+  30,R
+  10,R,J
+#any%-start
+   9,R,Z
+  19,R,J
+   9,R,Z
+  23,R,J
+  22,L,U,X
+  42,R,D
+#any%-end
+  78,R,X
+  13,U,Z
+   1,R,J
+#ARB-start
+#keep a dash for the end of the room
+  13,L,U,X
+  20,L,U,C
+  15,L,X
+   1
+   9,L
+   1,L,J,G
+   1,L,K,G
+  10,L
+   1,L,D,J
+   8,L
+   8,R
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+  14,R
+   1,R,J
+  18,R
+   5,R,D,J
+  16,R,D,X
+  14,R,D,C
+   8,L,D,X
+   1,R,J
+   7,R
+   1,R,J
+   3,R
+   1,R,J
+   5,R
+  16,R,J
+#ARB-end
+#any%-start
+  11,R,X
+  16,R,J
+   9,U,X
+  17,J
+  16,R,K
+  23,R,X
+  43
+
+#lvl_soup-4 (0)
+  30,R
+  15,R,X
+#any%-end
+   1,G
+   1,J,G
+   1,L,J
+   1,R,K,G
+   1,R,J,G
+   1,L,J
+   2,R,J
+   7,R
+   6,G
+   7,U,G
+  11,U,X
+  20,J
+  12,U,X
+   8,R,J
+  40
+
+#lvl_soup-4b
+   7,L
+   7,L,J,G
+   2,J
+   7
+#ARB-start
+   1,R,G
+   1,L,K,G
+   6,J,G
+   1,R,J
+  12,L,K,G
+   4,L
+  10
+   1,R
+   1,D
+   3
+   5,R
+   1,R,J
+  38,R,K
+   1,R,G
+   1,J
+   1,L,J
+  14,R,K,G
+   1,R,J,G
+  10,R,K,G
+   4
+   1,R
+   3,D
+   3,R
+   5,R,D
+   5,R,D,J
+  15,L,J
+   2,J
+   1,L,J
+   1,J
+  12,K,G
+#ARB-end
+   1,J,G
+   1,R,J
+  13,L,K,G
+  15,L,U,X
+  27,L
+  20,L,D
+   1,D
+   1,L,G
+   1
+   1,J
+   7,L,J
+   7,L
+   1,L,J
+   1,L
+   1,L,J
+   7,L
+   1,L,J,G
+   4,L,K,G
+   8,L
+   1,L,J
+  14,L
+   1,L,J
+  14,L
+   6,L,J
+  28,L,D
+  28,D
+  37,R,D
+  14,R,D,X
+   1,R,J
+   6,R
+   1,R,J
+  11,R,D
+   1,D
+   1,J
+   2,L
+  19,D
+  40
+
+#lvl_soup-4 (1)
+   5,D
+  19,L,D
+  43,R,X
+#ARB-end
+#any%-start
+  16,R,D,C
+  41
+   4,L
+   1,J
+   8,R
+   1
+   4,R
+  14,R,Z
+   3,R,J
+   3,R
+   1,R,J
+   5,R
+  40,R,J
+   1,R,K,G
+   1,R,J,G
+  12,R
+  17,R,J
+  35
+  15,R,U,C
+  14,R,U,X
+   1,J
+  14,R,Z
+   7,R,J
+  26,R
+  12,R,U,Z
+  10,U,C
+  12,R,U,X
+  18,R,C
+  40
+
+#lvl_soup-5 (0)
+   8,R
+  12,R,Z
+  20,R,J
+   9,R,Z
+  14,R,J
+   3,R
+   3,R,J
+   3,R
+   1,L
+   2,R
+   3
+  12,L
+   1
+   1,L
+  41,R
+  11,R,C
+   3,R,J,G
+   5,R
+   3,R,J
+   6,R
+   9,R,J,G
+  14,R,K,G
+  38
+#any%-end
+  15,R,X
+  29,R,D
+  37
+  18,R,X
+  15,R,Z
+  13,U,X
+   5,R,J
+   8,R
+   4,R,J
+  18,R,U,Z
+   1,L,J,G
+   1,L,K,G
+   1,L,J,G
+   1,L,K,G
+   1,J
+  40
+
+#lvl_soup-5b
+   1,J,G
+  10,L,J
+   1,R,J
+  12,K
+  15,U,X
+  14,U,Z
+  13,R,J
+  22,R,D,X
+  18,R,C
+  15,R,X
+  10,R,U,C
+   1,J
+   1,R,J
+  10,L,J
+   1,R,J
+  16,L,J
+  12,K,G
+   5,J,G
+   1,R,J
+  12,L,K,G
+   7,L
+   1,L,J
+  15,L,D
+   1,D
+   1,L,D
+   1,D
+   1,L,D
+   7,R,D
+   4,R
+   1,R,D
+   1,R,J
+   8,R
+   1,R,K,G
+   1,R,J,G
+   1,R
+   1
+   9,R,D
+  14,L,D
+   4,R,D
+  14,R
+   3,R,D
+   1,R
+  16,R,D
+  40
+
+#lvl_soup-5 (1)
+  13,R,D
+  14,R,D,X
+   5,R,J
+  15,R,D,X
+   4,R,J
+  40
+
+#lvl_soup-6
+   3,R
+   6,R,D,X
+   3,R,J,G
+   8,R
+   1,R,J
+   4,R
+  14,R,D,X
+   1,S
+   1,D,J
+  34
+  21,R,J
+#any%-start
+  41
+   2,R
+  13,R,Z
+   1,R,J
+   1,R
+   7,R,D,X
+   1,R,K
+  20,R,D
+  64,D
+  40
 
 #lvl_soup-7
   34,R,D
@@ -130,19 +444,19 @@ Read,../../StrawberryJamTAS/2_Intermediate/sea_of_soup,lvl_soup-3,lvl_soup-7
 #    5,R,D
 #   15,D
 ## 2 ---
-#    1,D
-#    1,R,D
-#    2,L,D
-#    2,D
-#    5,R,D
-#   14,D
-## 3 ---
-   2,D
+   1,D
    1,R,D
    2,L,D
-   4,D
+   2,D
    5,R,D
-  11,D
+  14,D
+## 3 ---
+#    2,D
+#    1,R,D
+#    2,L,D
+#    4,D
+#    5,R,D
+#   11,D
 ##
 ###
   50,R,U,X
@@ -180,4 +494,4 @@ EndRepeat
    6,F,190
  139,U,X
 
-ChapterTime: 0:53.397(3141)
+ChapterTime: 1:11.570(4210)

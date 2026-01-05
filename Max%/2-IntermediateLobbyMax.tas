@@ -142,15 +142,16 @@ Read,2_Intermediate/the_tower_S,Start
   32
 
 #Sea of Soup
+#Note: First run gets the last 2 berries. The final berry is a dashless berry that requires that the whole level is done without dashing once. Only the 4th berry is faster in the dashless mode. The second run gets the first 3, as well as the silver berry, as they happen to be faster without dashing. Technically which red berries go in which level doesn't matter, though switching the 2 would involve getting a dashless silver pick up, which I'm not doing.
 Read,../StrawberryJamTAS/2_Intermediate_Lobby/unused/int_14-12,Start
 Read,../StrawberryJamTAS/EnterLevel,Start
-Read,../2_Intermediate/sea_of_soup,Start
+Read,2_Intermediate/sea_of_soup_S0,Start
    1,O
   32
 
 Read,2_Intermediate_Lobby/int_12-12,Start
 Read,../StrawberryJamTAS/EnterLevel,Start
-Read,2_Intermediate/sea_of_soup_S,Start
+Read,2_Intermediate/sea_of_soup_S1,Start
    1,O
   32
 
@@ -264,4 +265,4 @@ Read,2_Intermediate/intermediate_heartside_G,Start
   61
    1,O
 
-FileTime: 1:04:47.781(228693)
+FileTime: 1:04:44.874(228522)

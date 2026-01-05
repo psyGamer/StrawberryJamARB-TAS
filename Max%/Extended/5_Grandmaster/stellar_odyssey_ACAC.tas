@@ -1,28 +1,26 @@
-RecordCount: 17209
+RecordCount: 17213
 
 console load StrawberryJam2021/5-Grandmaster/Ecl1psed
    1
 
 #Start
-Read,../../../StrawberryJamTAS/5_Grandmaster/stellar_odyssey.tas,Start,lvl_a-03 (1)
+Read,../../../StrawberryJamTAS/5_Grandmaster/stellar_odyssey,Start,lvl_a-03 (1)
 
 #lvl_a-03
-#+1f FileTime: SNQ for better
-#spinner grouping during  a-04 (1)
-#stun
+#+1f FileTime: SNQ for better spinner grouping during a-04 (1) stun
+#   1
+#  72,O
    1,S
    1,U
    1,F,
    1,U,J
 SaveAndQuitReenter
   36
-#   1
-#  72,O
-#####
+#-----
 
 #Spinner Cycle [a-04 (0)]
    0
-#####
+#-----
    6,R,Z
    1,R,J
    5,R
@@ -143,7 +141,7 @@ EndStunPause
   40
 
 #lvl_a-04b (0)
-Read,../../../5_Grandmaster/stellar_odyssey.tas,lvl_a-04b (0),lvl_a-04c
+Read,../../../5_Grandmaster/stellar_odyssey,lvl_a-04b (0),lvl_a-04c
 
 #lvl_a-04c
   11,L
@@ -253,7 +251,7 @@ EndRepeat
   40
 
 #lvl_a-04b (1)
-Read,../../../5_Grandmaster/stellar_odyssey.tas,lvl_a-04b (1),lvl_a-04 (1)
+Read,../../../5_Grandmaster/stellar_odyssey,lvl_a-04b (1),lvl_a-04 (1)
 
 #lvl_a-04 (1)
    1,D
@@ -262,9 +260,10 @@ Read,../../../5_Grandmaster/stellar_odyssey.tas,lvl_a-04b (1),lvl_a-04 (1)
   69,O
 #Spinner Cycle [a-04 (1)]
    2
-#####
+#-----
    9,L,Z
 #ARB-end
+#any%-start
    1,R,J
    3,R
    1,R,K
@@ -365,59 +364,6 @@ EndStunPause
   40
 
 #lvl_a-05
-Read,../../../StrawberryJamTAS/5_Grandmaster/stellar_odyssey.tas,lvl_a-05,lvl_a-06
+Read,../../../StrawberryJamTAS/5_Grandmaster/stellar_odyssey,lvl_a-05
 
-#lvl_a-06
-   4,R,D,X
-   1,S
-   1,D,J
-  34
-   3,R,D,J
-  12,R,D,X
-  13,R,G
-   1,R,J,G
-   5,R,G
-   2,R,J,G
-  18,R,G
-  12,R,J,G
-   5,R,G
-  10,R,J,G
-  16,R,G
-   1,R,D,G
-   2,D,G
-   1,R
-  15,R,U,X
-   1,J
-  15,R,K,G
-   1,K
-   1,R,J,G
-   7,R
-   4,R,Z
-   1,R,J
-   4,R
-   3,R,J
-   5,R
-   2
-  13,D,X
-  13,G
-   1,J,G
-  10,L,J,G
-   1,K,G
-   2,R,K,G
-   8,R,K
-   5,R
-   2
-#Spinner Cycle [a-07]
-   0
-#####
-   6,R,Z
-   1,R,J
-   7,R
-   1,R,J
-   8,R,D,X
-  40
-
-#lvl_a-07
-Read,../../../StrawberryJamTAS/5_Grandmaster/stellar_odyssey.tas,lvl_a-07
-
-ChapterTime: 1:50.313(6489)
+ChapterTime: 1:49.956(6468)

@@ -1,4 +1,4 @@
-RecordCount: 5528
+RecordCount: 5789
 
 console load StrawberryJam2021/3-Advanced/Tortoise
    1
@@ -21,13 +21,18 @@ console load StrawberryJam2021/3-Advanced/Tortoise
   16,U,X
   12,L,J,G
   11,K,G
-   2,R,K
-  16,R,J
-  11,K,G
-   2,L,K
-  15,R,J,G
-   3,R,K,G
-   4,J,G
+   1,R,K
+   1,J
+   1,K
+  15,R,K
+   1,J,G
+   3,R,J
+   5,J
+   1,R,J
+   1,L,J
+   1,R,J
+  13,R,K,G
+   9,J,G
    7,R
    6,R,J
    2,R
@@ -89,46 +94,46 @@ console load StrawberryJam2021/3-Advanced/Tortoise
    6,R,D,X
 #any%-start
    1,R,J
-   3,R
-   1,R,J
-   3,R
-   1,R,J
-  15,R,D,X
-   6,R
-  20,R,D
-   2,D
-   7
-   9,L,J
-   1,R,J
-  11,R,D,X
+   7,R
    2,R,J
-   2,K,G
-  10,R,Z
+  18,R
+  18,R,D
+   6,R
+   3,R,D
+  15,R,D,X
+   6,R,D
+   1,R,J
+   1,R
+  12,R,Z
 
 #lvl_1 (0)
-   3,R,Z
-  11,L,J
-   2,K,G
+   1,R,Z
+   9,L,J
+   1,L,K,G
+   1,R,K
+   1,L,K
+   2,K
    1,J
    2,K,G
-  16,R,K
+  10,R,K
+   6,R
   15,U,X
    5,R
-  16,L,J
-   2,R,J
-   8,K
-   1,R,K
-   1,R,J,G
-   2,R,K,G
-   5,R
-   2,R,J
+   4,J
+  10,L,J
+   1,J
+   1,L
+   1
+   9,J
+   1,R,J
    2,R
    1
+   4,R
 #any%-end
-  10,L,J
+   1,R,J
+  10,J
    1,K
-   4,R,K
-   1,K
+   5,R,K
    1,J
    4,R,K
   14,U,Z
@@ -164,79 +169,79 @@ console load StrawberryJam2021/3-Advanced/Tortoise
    1,S
    1,D,J
   69,O
+   4,J
+#any%-start
+  11,R,D,X
    1,R,J
-   3,R
-  14,D,X
+
+#warp a frame later
+#    2,R,K,G
+   3,R,K,G
+#-----
 
 #lvl_2 (0)
-   1,D,X
-#any%-start
-   4,L,K
-  14,R,U,X
+   3,R,K
+
+#a little higher
+#    2,R,J,G
+#    1,R
+   3,R,J,G
+#-----
+
+  12,U,X
+   4,L,J
+   3,J
+   1,L,J
    1,J
-   6,L,J
-   1,L,K,G
-   6,L,J,G
-   4,K,G
+  11,L
+   5,R,Z
+   1,L,J
    2
-   2,J,G
-   1,L,J
-   2,L
+   1,K
    5
-   6,R,Z
+   4,L,D
+  12,L,D,J
+   2,L
+   1,R
+   8,J,G
    1,L,J
-   1
-   2,J
-   3
    1,J
-   1
-   5,L,D
-  15,L,J
-   1,L,K
-  12,L,J
-   4,R,K
-   2,R
-   7,R,Z
+   1,K
+   2,R,K
+   4,K
+   2
+   6,R,Z
    1,R,J
    6,R
-   5,R,J
-   2
-   3,R
-   1,R,J
-   4,R
-   1,R,K
-  10,R,D
    4,R,J
-   3,R
-   1,R,J
-   9,R,K
+   5,R
+   2,R,K
+   1,R
+   1,R,K
+   9,R
+   2,R,D
+   1,R,D,J
+   5,R
+   1,R,K
+   1,J
+   1,K
+   8,R,K
   10,R,Z
    1,R,J
    5,R
-   1,R,G
+   1,G
   10,L,Z
    1,L,J
-   9,L,D
+   9,L
   15,R,D,X
-   8,D
-   2,R,D
-  15,L,D,C
-   7,D
+  10,D
+  18,L,D,X
+   4,D
    4,Z
+#any%-end
    4,R,J
    1,R
    3,R,J
-
-
-
-
-
-
-
-
-
-
-#any%-end
   15,L
    6,D
   10,L,D,X
@@ -318,35 +323,150 @@ console load StrawberryJam2021/3-Advanced/Tortoise
    1,L,J
    3,L
   12,L,D,X
-#any%-start
+#similar to any%, but different bc of course it is...
    2,R,J
    8,R,K,G
 
 #lvl_3 (0)
-#ARB-start
+   4,R,K
+   1,K
+   1,R,J,G
+   4,J
+   5,R,J
+   1,R
+   3,R,K,G
+   3,R
+   1,L
+   1,J,G
+   1
+   1,R
+   5
+#any%-start
+   1,G
+  12,R,D,X
+   3,R,J
+   5,J
+   1
+   1,R,J
+   1,R
+   1,J
+  14,U,X
+  15,L,J
+   1,L,K,G
+   5
+   2,L
+   4,Z
+   1,L,J
+   6,L
+   4,L,D,J
+   8,L,U,X
+   1,J,G
+   7
+   1,L
+   1,L,K
+   1,L
+   9,L,J
+   1,J
+   2,L,J
+   1,R
+   8,J,G
+  15,U,X
+   1,R,J,G
+   4
+   2,R
+   1,J
+   8,K,G
+   2,L,K
+  14,L
+   1,L,J
+   3,L
+  11,L,X
+   1,J
+   1,K
+  17,R
+   4,R,J
+  10,R
+  15,R,U,Z
+  10
+   5,L
+  12,L,D
+  13,D
+  15,R,Z
+   3,L
+   1
+   1,L
+   4
+   5,R
+   2,R,D,J
+   3,R
+   2,R,D,J
+   4,K
+   1
+   5,R,Z
+   1,R,J
+   4,R
+   1,R,G
+   4,L
+   4,Z
+   1,L,J
+   6
+   7,R
+   1
+   1,R
+   4,R,D
+   6,D
+   8,L,Z
+   5,R,J
+   4,R
+   4
+   3,R
+   1
+  15,L,D,X
+  14,L,D,C
+   2,L,J
+  14,L,D,X
+   1,R,J
+  12,K,G
+   6,J,G
+  18,D,X
+  10,R,Z
+   5,R,J
+  12,R,U,Z
 #any%-end
-Read,../../../3_Advanced/javas_crypt.tas,lvl_3 (0),lvl_3b
+#ARB-start
+   2,R,J,G
+   3,D
+  10,R,D
+   6,R,J,G
+   6,R
+#ARB-end
+   6,R,J
+   7,R
+  43
 
 #lvl_3b
-   8,R,U,X
-   9,R,J,G
-   3,R
-   5,L,D,X
+  11,R,U,X
+   1,R,J,G
+   1,L,J
+   1,L
+   6,R
+   4,R,Z
    1,R,J
-   7,R
-  24,R,J
+   6,R
+  23,R,J
   15,U,X
    3
-#ARB-end
-  12,L,G
-  29
-   8,L
+  13,L,G
+  26
+   1,D
+   1
+   5,L,D
+   3,L
    5,L,Z
-   3,R,J
+   2,R,J
    6,R
    1,R,J
-  27,R,D
-   1,D
+  28,R,D
   15,R,U,Z
    1,J
    3,R,K
@@ -405,73 +525,117 @@ Read,../../../3_Advanced/javas_crypt.tas,lvl_3 (0),lvl_3b
    1,S
    1,D,J
   34
-   4,R,Z
-   1,R,J
-   5,J
+   4,R,X
+   4,R,J
+   1,R
+   3
+   7
+   1,L,J
+  15,L,D
+#ARB-start
+  13,R,D,X
+   1,L,J
    1
-   6
-   2,L,J
-  17,L,D,X
+   7,L,Z
   40
 
 #lvl_3 (1)
-  15,L,U,X
-  10,L,G
-  18,D
-   4,L,Z
-   1,L,J
-   7,L
-   2,L,J
-   2,J
+   8,L
+   2,L,G
+   7,R,J
+  13,R,G
+  13,L,J
+  18,L,U,Z
+   1,R,J,G
+   1,R
    1,R,K,G
-   1,L,K
-   2,J,G
-   1
+   5,K
+   1,R
+   5,L,J
    7,L
-#ARB-start
-  10,U,C
-  15,R,J
-   5,J
-   1,K
-   4,L,K
-   4,L
+  11,L,J
+   6,L,Z
+   1,L,J
+   5,L
    1
-   2,L
+   8,J
+   1,L,J
+   3,J
+   1
+   1,R,J,G
+   1,R,K,G
+   9,K
+   5,R,X
+   2,R,J,G
    1,J
-   8,R
+   1,K,G
+   2,R,K
+   1,K
+   1,R,K
+   4,K
+   2,L,K
+
+#+6f: fall much slower, intentional for key cycle wait
+##
+#    8,L
+#    2,L,K
+#    9,L
+#    8,D
+#    7,R,D
+#    1,R
+##
+   5,L
+   5,L,K
+   9,L
+  14
+   7,R
+   1
+#-----
+
+   6,R,Z
+   5,R,J
+   5,R
+   6
+   5,R
+   2
    1,G
-   3,L
-   8,L,J
+   1,L,J
+   7,L,K
    7,L,Z
    1,L,J
-   6,L
-   1,J
-   3,L,J
-   9,J
-   1,R,K,G
-  12,R,J,G
-   5,R,X
-   9,R,K,G
-  99,R,G
+   5,L
    1
-   7,J
-   8,R
-   7,R,K
-   7,R,D
+   8,J
+   1,L,J
+   3,J
+   1
+   1,R,J,G
+   1,R,K,G
+   9,K
+   5,R,X
+   2,R,J,G
+   1,J
    7,R,J
-  14,R,Z
-#any%-start
-   5,R,J
-  15,R,D,X
-   4
+   9,R
+   2,R,J
+   4,R
+   7,R,J
+  10,R,Z
+   1,R,J
+   5,J
+  11,R,D,X
+   1,R,J
+   7,R,K,G
 
 #lvl_4 (0)
-   2,R,J
-   1,R,K,G
-   5,R
-   1,R,J
-   7,R
-   3
+   1,R,K
+   2,K
+   1,J,G
+   4,R,J
+   1
+   1,R
+   4
+   4,L
   15,U,Z
   15,L,J
    3,L
@@ -504,126 +668,168 @@ Read,../../../3_Advanced/javas_crypt.tas,lvl_3 (0),lvl_3b
   15,L,D,X
   15,D,C
   15,L,X
-  12,D,C
-   3,R,J
-   7,R,D,X
-   1,L,J
-   4,L
-   2,L,D,J
-   8,U,X
-   7,R,J
-  13,R
-#any%-end
-   9,L,D,X
-   1,R,J
-   6,L
-   1,L,J
+  13,D,C
+   1,J
+   1
+   6,D,X
+   4,R,K,G
+   1,K
+   1,J
+   2,R,D,K
+   1,R,J,G
+   7,U,X
+   6,R,J
    1,R
-   2,L
-   1,L,J
-  12,L,D
-   1,R,D
-   3,R
-   4,R,D
-  11,L,D
-   3,L,D,J
-   3,L
-  11,R,D
-   8,D
+  11,R,K
+   1,R
+   4,Z
    1,R,J
-  10,R
+  10
+#any%-end
+
+
+
+
+
+
+
   15,D,X
-   8
+   8,R
+   4,R,D
+  11,D
+   1,J
+  49
+   1,J
+   1
   43
 
 #lvl_4b
-   8,R,D
-  14,L,D,X
-   1,L,J,G
-  14,L
+  14,D
+   6,L,D
+   6,L,Z
+   1,L,J
+   1,L
+   1,L,J
+   3,L
+   1
+   1,L
+   1
    1,S
    1,D,J
   34
    4,R,Z
    1,R,J
-   1
    6,R
    4,R,J
   16,U,X
   46
 
 #lvl_4 (1)
-   4
-   7,R,J
+  11,R,J
   10,R,X
-   4,R,J
-   1,K
-   1,R,K
-   1,K
-   1,R,K
+   5,R,J
+   1,K,G
+   1,L,K
    2,K
    1,J
-   1,R,J
+   1,K
+   1,R,K
   14,R,Z
    9,R,J
    5,R
    1,R,J
-   9,R
-  17,R,Z
-#any%-start
-   2,J
-   6,L,K
-  12,U,X
-  10,R,J
-   3
-   1,K,G
-   9,L,J
-   6,K,G
+   4,R
    1
-  12,R,J
-   1,K,G
-   1
-   1,J
-   2,L,J
-  18,R,J
    1,R
-   1,R,K,G
-   9,R,J,G
+   3
+#any%-start
+  15,R,Z
+   1
+   1,R
+   2,J
+   1,K
+   2,L,K
+   2,L
+  13,U,X
+   2,R,J
+  10,J
+   1,K,G
+  11,L,K
+   4,J,G
+   1,R,J
+   1,L,J
+   2,K,G
+   6,R,K
+   4,K
+   1,J,G
+   1,L
+   1,K
+  12,J
    5,R
-  25,R,J
-  15,R,D
+   3,R,K
+   1,R
+   1,R,J,G
+   7,R,K,G
+   5,R
+  10,R,K
+  14,R
+  16,R,D
   15,L,D,X
-  12,L,D
-   5,R,D
+   5,D
+   1,L,D
    1,D
-   4,R,D
+   1,L,D
+   4,D
+   6,R,D
+   4,D
    5,U,X
    1,R,J
-  15,R,D
-  13,L,D
+  15,R
+   7
+   2,D
+   4,L,D
   75,O
    4,Z
    2,R,J
   13,R
-  38,L,K
-  16,L,G
-   3,L,J,G
+   1,K
+  11,L,K
+   5,L
+  10,L,K
+  11,L
+  12,G
+   1,U,G
+   1,G
+   1,U,G
+   2,L,J,G
   23,L
   14,R,X
-  10,R,J
-  11,U,Z
-  13,R,J
-  11,R,X
-   3,R,J
-   1,L,J
+   6,R,J
    2,J
-   6,L,J
-  15,U,X
-  15,L,J
-  18,L
-   5
-   3,R,J
+   2
    1,R
+   1
+  11,U,Z
+  11,R,J
+  10,R,X
+   3,R,J
+   1,R,K,G
+   5,L,K
+   1,K
+   1,L
+  15,U,X
+   1
+  14,L,J
+  10,L
+   1,L,K
+   1,L
+   1,L,K
+   1,L
+   1,L,K
+   3,L
+   5
+   3,R,D,J
+   1,J
   10,L,D,X
    7,L,J
   17,L,X
@@ -632,14 +838,18 @@ Read,../../../3_Advanced/javas_crypt.tas,lvl_3 (0),lvl_3b
    3,R
   15,R,X
   13,R
-   4,R,X
-   3,J
-   4,R,D
-  28,D
+   4,X
+   1,R,J
+   2,J
+   4,R
+  14
+  14,D
   12,L,D
    3,D
    4,Z
-  17,L,J
+  15,L,J
+   1,L
+   1,L,K
   14,U,X
    1,R,J
    2,R,K,G
@@ -647,29 +857,37 @@ Read,../../../3_Advanced/javas_crypt.tas,lvl_3 (0),lvl_3b
   11,R,D,X
    1,L,J
    2,L
-   1,L,K,G
+   4,L,K,G
 
 #lvl_5
-Read,../../../StrawberryJamTAS/3_Advanced/javas_crypt.tas,lvl_5,lvl_6
+Read,../../../StrawberryJamTAS/3_Advanced/javas_crypt,lvl_5,lvl_6
 
 #lvl_6 (0)
-  10,L
-   5,L,K
-   5,L
+   4,L
    1,L,K
+   5,L
+   4,L,J
    6,L
-  14,L,U,X
-   3,L,K,G
-   5,L
    1,L,K
-  15,L,D
-  10,R,D
-  11,L,D,X
-   1,L,J
    3,L
-  12,L,D,X
+   1,L,K
+  14,L,U,X
+   2,L,J,G
+  18,L
+   2,L,D
+   3,R,D
+   9,L,D
+   1,D
+   1,L,D
+   6,L,Z
    1,L,J
    7,L
+   1,L,J
+   7,L,D,X
+   1,L,J
+   3,L
+   1,L,K
+   3,L
    6,L,D,J
 #any%-end
   12,U,X
@@ -811,4 +1029,4 @@ Read,../../../StrawberryJamTAS/3_Advanced/javas_crypt.tas,lvl_5,lvl_6
   25,L,D,X
   56,L,J
 
-ChapterTime: 1:45.179(6187)
+ChapterTime: 1:43.989(6117)

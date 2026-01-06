@@ -9,7 +9,7 @@ EnforceMaingame
 
 #Start
 #Lost Woods
-Read,../StrawberryJamTAS/3_Advanced_Lobby/adv_0-14,Start
+Read,../StrawberryJamTAS/3_Advanced_Lobby/unused/adv_0-14,Start
 Read,../StrawberryJamTAS/EnterLevel,Start
 Read,../3_Advanced/lost_woods,Start
    1,O
@@ -100,7 +100,7 @@ Read,3_Advanced/attack_of_the_clone_S,Start
   32
 
 #The Tower (XVI)
-Read,../StrawberryJamTAS/3_Advanced_Lobby/adv_6-5,Start
+Read,../StrawberryJamTAS/3_Advanced_Lobby/unused/adv_6-5,Start
 Read,../StrawberryJamTAS/EnterLevel,Start
 Read,../StrawberryJamTAS/3_Advanced/the_tower_xvi,Start
    1,O
@@ -113,7 +113,7 @@ Read,3_Advanced/the_tower_xvi_S,Start
   32
 
 #Starlight Station
-Read,../StrawberryJamTAS/3_Advanced_Lobby/adv_5-3,Start
+Read,../StrawberryJamTAS/3_Advanced_Lobby/unused/adv_5-3,Start
 Read,../StrawberryJamTAS/EnterLevel,Start
 Read,../3_Advanced/starlight_station,Start
    1,O
@@ -126,14 +126,13 @@ Read,3_Advanced/starlight_station_S,Start
   32
 
 #Call of the Void
-Read,../StrawberryJamTAS/3_Advanced_Lobby/adv_3-2,Start
+Read,../StrawberryJamTAS/3_Advanced_Lobby/unused/adv_3-2,Start
 Read,../StrawberryJamTAS/EnterLevel,Start
 Read,../3_Advanced/call_of_the_void,Start
    1,O
   32
 
-#call of the void any%
-#inputs picks up silver
+#call of the void any% inputs picks up silver
 Read,3_Advanced_Lobby/adv_2-2,Start
 Read,../StrawberryJamTAS/EnterLevel,Start
 Read,../StrawberryJamTAS/3_Advanced/call_of_the_void,Start
@@ -141,7 +140,7 @@ Read,../StrawberryJamTAS/3_Advanced/call_of_the_void,Start
   32
 
 #Raindrops on Roses
-Read,../StrawberryJamTAS/3_Advanced_Lobby/adv_2-1,Start
+Read,../StrawberryJamTAS/3_Advanced_Lobby/unused/adv_2-1,Start
 Read,../StrawberryJamTAS/EnterLevel,Start
 Read,../3_Advanced/raindrops_on_roses,Start
    1,O
@@ -154,7 +153,7 @@ Read,3_Advanced/raindrops_on_roses_S,Start
   32
 
 #Starry Ruins
-Read,../StrawberryJamTAS/3_Advanced_Lobby/adv_1-4,Start
+Read,../StrawberryJamTAS/3_Advanced_Lobby/unused/adv_1-4,Start
 Read,../StrawberryJamTAS/EnterLevel,Start
 Read,../StrawberryJamTAS/3_Advanced/starry_ruins,Start
    1,O
@@ -167,7 +166,7 @@ Read,3_Advanced/starry_ruins_S,Start
   32
 
 #Synapse
-Read,../StrawberryJamTAS/3_Advanced_Lobby/adv_4-7,Start
+Read,../StrawberryJamTAS/3_Advanced_Lobby/unused/adv_4-7,Start
 Read,../StrawberryJamTAS/EnterLevel,Start
 Read,../3_Advanced/synapse,Start
    1,O
@@ -189,11 +188,12 @@ Read,../3_Advanced/golden_dawn,Start
 Read,3_Advanced_Lobby/adv_12-12,Start
 Read,../StrawberryJamTAS/EnterLevel,Start
 Read,3_Advanced/golden_dawn_S,Start
+***
    1,O
   32
 
 #Sands of Time
-Read,../StrawberryJamTAS/3_Advanced_Lobby/adv_12-15,Start
+Read,../StrawberryJamTAS/3_Advanced_Lobby/unused/adv_12-15,Start
 Read,../StrawberryJamTAS/EnterLevel,Start
 Read,../3_Advanced/sands_of_time,Start
    1,O
@@ -334,6 +334,7 @@ Read,../StrawberryJamTAS/EnterLevel,Start
 Read,3_Advanced/dusk_city_S,Start
    1,O
   32
+***
 
 #Getting Rainbow
 #Advanced Heartside (Mango Mesa)
@@ -346,5 +347,10 @@ Read,../StrawberryJamTAS/3_Advanced/advanced_heartside,Start
 Read,3_Advanced/advanced_heartside_G,Start
   61
    1,O
+***
 
-FileTime: 1:18:06.781(275693)
+
+FileTime: 1:18:05.965(275645)
+
+
+#FileTime: 1:18:06.781(275693)

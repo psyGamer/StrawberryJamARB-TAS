@@ -1,4 +1,4 @@
-RecordCount: 645
+RecordCount: 731
 
 console load StrawberryJam2021/2-Intermediate/Dooshii
    1
@@ -8,7 +8,7 @@ console load StrawberryJam2021/2-Intermediate/Dooshii
 
 #Spinner Cycle [a1]
    0
-#####
+#-----
 
 #lvl_a1
    6,L,Z
@@ -85,7 +85,7 @@ EndStunPause
   43
 
 #lvl_a2v2
-Read,../../../StrawberryJamTAS/2_Intermediate/frosted_fragments.tas,"lvl_a2v2,lvl_a3v2"
+Read,../../../StrawberryJamTAS/2_Intermediate/frosted_fragments,lvl_a2v2,lvl_a3v2
 
 #lvl_a3v2
    1
@@ -154,18 +154,20 @@ Read,../../../StrawberryJamTAS/2_Intermediate/frosted_fragments.tas,"lvl_a2v2,lv
   10,L,Z
    1,R,J
    3,D
-  21,R,D
-   1,D
-  16,R,D
+  19,R,D
+  18,D
+   1
    4,R
-   9,R,Z
-  26,R
+  15,R,Z
+   1,G
+   1,R,J,G
+  14,R
   15,R,X
   24,R,C
   14,U,X
 #Spinner Cycle [a4v2]
-   0
-#####
+   1
+#-----
   15,U,C
    1,R
   15,R,U,X
@@ -188,8 +190,8 @@ Read,../../../StrawberryJamTAS/2_Intermediate/frosted_fragments.tas,"lvl_a2v2,lv
    5,R,D,X
   40,J
 
-#lvl_a4v2
-Read,../../../StrawberryJamTAS/2_Intermediate/frosted_fragments.tas,"lvl_a4v2 (0),lvl_a6v2"
+#lvl_a4v2 (0)
+Read,../../../StrawberryJamTAS/2_Intermediate/frosted_fragments,lvl_a4v2 (0),lvl_a6v2
 
 #lvl_a6v2 (0)
   11
@@ -243,49 +245,46 @@ EndRepeat
    5,J,G
    4,L,J
    7,L
-  56,G
-   9,U,G
-   1,L
-   1,L,J,G
+   1,G
+   4,L
+   1,G
+   1
+  68,G
+  10,L,Z
+   1,L,J
    1,L,K,G
-   9,L,J,G
-  15,L,D,X
-   4,L,J
-   4,L,K,G
-   4,L,J,G
-   3,L,K,G
+   1,L,J,G
+  12,L,K,G
   14,L,U,X
-  39,L,J,G
-  11,L,D,X
+   9,L,J,G
+  19,L
+   1,L,J
+   3,L
   40
 
 #lvl_a_how
-   3,L,D,X
-   1,L,J
-   7,L
-  12,L,J
-  15,L,D,X
-   3,L
+  10,L
    1
+   2,L
+  15,L,D,X
    1,N
-  35
+  34
    1,O
 Repeat,3
    5
    1,O
    1,J
 EndRepeat
-   5
    1,O
   27
-   6,R,Z
+   4,R,Z
+   2,R,J
+   8,R
+   1,R,J
+   7,R,Z
    1,R,J
    7,R
    1,R,J
-   7,R,D,X
-   1,R,J
-   7,R
-   1,R,D,J
    3,R
    5,R,D,X
    1,R,J,G
@@ -353,6 +352,6 @@ EndRepeat
   40
 
 #lvl_pushupv2
-Read,"../../../StrawberryJamTAS/2_Intermediate/frosted_fragments.tas,lvl_pushupv2"
+Read,../../../StrawberryJamTAS/2_Intermediate/frosted_fragments,lvl_pushupv2
 
-ChapterTime: 1:55.277(6781)
+ChapterTime: 1:54.410(6730)

@@ -1,14 +1,139 @@
 #Note 1: Does thieves, AND beats the level via Break My Ivory Tower!
 
-#Note 2: Everything from Start to Ultimatum is any%. Ultimatum to the first deathwarp in BMIT 2 was done by Lunaris. BMIT 2 onwards was done by Jade5 (with some improvements by me).
+#Note 2: Everything from Start to Ultimatum is any%. Ultimatum to the first deathwarp in BMIT 2 was done by lunaris. BMIT 2 onwards was done by Jade5 (with some improvements by me).
 
-RecordCount: 13058
+RecordCount: 13153
 
 console load StrawberryJam2021/5-Grandmaster/Linj
    1
 
 #Start
-Read,../../../StrawberryJamTAS/5_Grandmaster/ivory,Start,lvl_Ultimatum
+ 110
+
+#lvl_A Limitless Horizon
+   1,S,N
+   1,D,O
+  18
+   4,Z
+   1,R,J
+   3,R,K
+   1,R,J,G
+   9,R
+   1,R,J
+   1,R,K
+  11,R,D,X
+   2,R,J,G
+   1,R
+   7,R,J
+   1,R
+   6,R,J
+   2,R
+   4,R,K,G
+  15,R,D,X
+   1,R,J
+   3,R,K,G
+   4,R
+   3
+  43
+
+#lvl_Crowley Scales
+   2
+   1,R,K
+   4,R
+  15,R,D,X
+  10,R,D,C
+   4,R,J,X
+  15,R,D,C
+   2,R
+   2,R,J
+  17,R,U,X
+  10,R,U,C
+  98,R
+  18,R,U,X
+   3,R
+  14,U,X
+   8,J
+  25,G
+  85
+  40
+
+#lvl_Conspiracy
+   6
+  42
+  14,R,Z
+   1,L,J
+  12,L,D,X
+   8,R,C
+   4,R,J
+   4,R,K
+   2,K
+  15,R,D,X
+   1,R,J
+  11,R,D,X
+   8,L,C
+   8,L,J
+   3,L,K
+   1,L,J,G
+  11,L,D,X
+   9,L,C
+   4,L,J
+   1,L
+   2,L,K
+   1,L
+  15,L,U,X
+   7,R
+   1,R,J
+   5,R,D,X
+   2,R,J,G
+   5,R
+   1,S,N
+  10,J
+   1,R,J
+   4,R
+  10,R,D,X
+   2,R,J,G
+   5,R
+   2,R,K
+   3,R
+   5,R,J
+  15,R,D,X
+  28,R
+   1,L,J
+   1
+  40
+
+#lvl_Hawthorne
+   5
+  15,R,D,X
+   8,R,D
+   2,L,D
+  10,D
+   7,L,D,X
+   2,R,D
+  10,R,J
+   2,J
+  15
+   8,R,X
+  40
+
+#lvl_Ascent
+  10,R
+   4,R,U,X
+   1,R
+  12,R,X
+   4,R,U,C
+   4,R,D,X
+   4,R,J
+  10,R,D,X
+   4,J,C,ARD,ML
+   5,L,K
+  75
+  21,D
+   5
+   1,D
+   1
+   1,D
+  40
 
 #lvl_Ultimatum
    1,D
@@ -206,177 +331,14 @@ Read,../../../StrawberryJamTAS/5_Grandmaster/ivory,Start,lvl_Ultimatum
    2,R,J
   15,R,D,X
    5,R,D,C
-  12,L,U,X
+  12,U,X
   40
 
 #lvl_Break My Ivory Tower 2 (0)
-#double death warp lmao
    1,S,N
    1,D,J
   72,O
-  18,R,X
-  10,L,C
-   1,S,N
-   1,D,J
-  72,O
-  15,R,X
-  34
-  12,R,Z
-  17,R,J,G
-   3,R
-   1,R,J
-   5,R
-   2,R,J
-   5,R
-   1,R,J
-   3,R
-  14,R,X
-  21,L
-  24
-  56,U,X
-  97
-
-
-
-
-
-
-
-  23,R
-  36
-#extra cycle wait time for a moment later
-   0
-#-----
-  12,R,Z
-   7,J,G
-   4,L,J
-  10,J
-   8,K,G
-   1
-   1,J
-   1,R
-   2,K,G
-   3,L
-   1
-   3,L
-   1,L,J
-  14,L
-   1,L,J
-  13,L
-   1,R
-   8,R,J
-  19,R
-  14,R,J
-   7,J
-  15,U,X
-   2,R
-   3,L
-   1,R
-   4
-   1,G
-  10,J,G
-   7
-   2,R
-1028
-   3,J
- 637
-   2,L
-  51
-  11,J
-   3,L,J
-   1,J
-   1,L,J
-   1,R,K,G
-   1,R,J,G
-   3,R,K,G
-  27,R
-  82
-   1,G
-   1,J
-  24,L,J
-  42,U,G
-  21,K,G
-  21,J,G
-  21,K,G
-  21,J,G
-   7,K,G
-   1,L,K
-   1
-   2,R
-   1,L,J
-  14,L
-   1,L,J
-  20,L
-  36
-  12,L,U,Z
-  19,R,J,G
-   1,K,G
-   1,L,K
-   1,R,J,G
-   4,R,K,G
-   1,R,J,G
-   8,R
-  37
-  14,U,X
-  94
-
-#lvl_Break My Ivory Tower 3 (0)
-  75
-   5,J
-   3,L,J
-   2,R,J
-   1,L,J
-   1,R,J
-   5,K,G
-   3
-   1,R,J,G
-   1,R,K,G
-  18,R,J,G
-   2,R
-   2,R,J
-   1,K
-   7,R,K
-  16,R,U,X
-  38,R,D
-   1,R,J
-  14,R
-  12,J
-   5,K,G
-   3,R,K
-   1,R,J,G
-  15,R,K,G
-   1,R,J,G
-   4,J
-   6,U
-  52,R,G
-  11
-  15,L
-  80
-  14,D,X
-   1
-  14,D,X
-   1
-  14,U,X
-   1
-  14,U,X
-   5,U
-   8
-   1,U
-  45,D
-  14,D,X
-  84
-   8,U
-  14,R,D,X
-  26,D
-   6,L,D
-  36,D
-  14,D,X
-  55,D
-  40
-
-#lvl_Break My Ivory Tower 2 (1)
-   9,D
-   7,R,Z
+   8,R,Z
  115,D
    1,R,D,J
    1,K
@@ -387,7 +349,7 @@ Read,../../../StrawberryJamTAS/5_Grandmaster/ivory,Start,lvl_Ultimatum
    6,J,G
   40
 
-#lvl_Break My Ivory Tower 3 (1)
+#lvl_Break My Ivory Tower 3
    7
    6,J
    6,K,G
@@ -517,7 +479,7 @@ Read,../../../StrawberryJamTAS/5_Grandmaster/ivory,Start,lvl_Ultimatum
    2,R,J,G
   40
 
-#lvl_Break My Ivory Tower 2 (2)
+#lvl_Break My Ivory Tower 2 (1)
    8,R,G
    1,R,J,G
    5,R,G
@@ -924,7 +886,7 @@ Read,../../../StrawberryJamTAS/5_Grandmaster/ivory,Start,lvl_Ultimatum
   16,L,J,G
   40
 
-#lvl_Break My Ivory Tower 5 (0)
+#lvl_Break My Ivory Tower 5
    3,L,J
   10,L,D
   15,L,X
@@ -959,27 +921,33 @@ Read,../../../StrawberryJamTAS/5_Grandmaster/ivory,Start,lvl_Ultimatum
   59,R,D,G
    1,D
    1
-Repeat,546
+Repeat,580
    1,R,J
    1,R,K
 EndRepeat
-   8,R,D
-   1,R,J
-  13,R,J,G
+  13,R,D,X
+  13,R,G
   40
 
-#lvl_Break My Ivory Tower 5 (1)
-   5,R,J,G
-  42,R,G
-  14,D,X
-   3,R
-   3,D
- 129,N
-Repeat,11
+#lvl_Break My Ivory Tower 2 (2)
+  24,R,J,G
+  13,R,G
+   1
+  15,L,D,X
+   1,L
+   7,L,D
+   1,L
+   3,L,D
+   5,L,Z
+   1,L,J
+   1,L,N
+   3,L
+ 131
+Repeat,10
    1,D
    1
 EndRepeat
-   1,L
+   2,L
   13,R,D,C
    1,L,J
    7,L
@@ -992,4 +960,4 @@ EndRepeat
    1,N
   66
 
-ChapterTime: 3:58.102(14006)
+ChapterTime: 2:57.021(10413)

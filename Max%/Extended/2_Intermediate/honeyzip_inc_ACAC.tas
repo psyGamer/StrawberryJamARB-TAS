@@ -1,23 +1,28 @@
-RecordCount: 6941
+RecordCount: 7016
 
 console load StrawberryJam2021/2-Intermediate/GlowWoomii
    1
 
 #Start
-Read,../../../StrawberryJamTAS/2_Intermediate/honeyzip_inc.tas,Start,lvl_r3
+Read,../../../StrawberryJamTAS/2_Intermediate/honeyzip_inc,Start,lvl_r3
 
 #lvl_r3
-  11,R
-  10,R,D,C
-   5,R,J
-   2,R
+   1,J
+   6
+   1,J
+   4
+   5,R,Z
+   1,R,J
+   6,R
+   2,R,J
+   1,R
    5,R,D,X
    1,R,K,G
   11,R
   11,R,J
-  10,R,G
-   8,R
-  11,R,U,X
+  11,R,G
+   6,R
+  10,R,U,X
 #any%-end
    4,R,J,G
    4,R
@@ -26,11 +31,12 @@ Read,../../../StrawberryJamTAS/2_Intermediate/honeyzip_inc.tas,Start,lvl_r3
 #lvl_rhub (0)
    8,R
    2,R,J
-   9,R
-  11,R,J
+   8,R
+   1,R,D,J
+  10,J
   15,U,X
-   1,L,J,G
-   3,J
+   2,L,J,G
+   1,J
    2
    1,R
    3,L
@@ -147,8 +153,8 @@ EndRepeat
    1,D,J
   69,O
 #Spinner Cycle [r6 (0)]
-   0
-#####
+   1
+#-----
    6,L,Z
    1,R,J
    5,R
@@ -226,7 +232,7 @@ EndStunPause
   69,O
 #Spinner Cycle [r8 (0)]
    0
-#####
+#-----
    8,R,Z
    1,L,J
    7,L
@@ -437,7 +443,9 @@ Read,../../../StrawberryJamTAS/2_Intermediate/honeyzip_inc.tas,lvl_r8,lvl_endroo
    1,R,J
   12
   15,D,X
-  81
+#key cycle
+  72
+#-----
    1,L
    1,L,J
    4,L,Z
@@ -479,4 +487,4 @@ Read,../../../StrawberryJamTAS/2_Intermediate/honeyzip_inc.tas,lvl_r8,lvl_endroo
    4,U,X
  135,U
 
-ChapterTime: 1:38.838(5814)
+ChapterTime: 1:37.291(5723)

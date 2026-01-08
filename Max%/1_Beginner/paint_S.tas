@@ -1,7 +1,4 @@
-#draft: psyGamer
-#improvement: EllaTAS
-
-RecordCount: 12509
+RecordCount: 12611
 
 console load StrawberryJam2021/1-Beginner/mosscairn
    1
@@ -211,8 +208,8 @@ console load StrawberryJam2021/1-Beginner/mosscairn
    1,R,D,J
   40
 
-#old any% inputs from here on out, unless stated otherwise with the any% start and end labels. they aren't accurate.
-#lvl_a-04b
+#lvl_a-04b (0)
+#any%-end here somewhere idk. old any% inputs for the next few rooms
   11,R,J
   10,U,X
   15,R,J
@@ -256,12 +253,12 @@ console load StrawberryJam2021/1-Beginner/mosscairn
    2,R,J
    1,R,K,G
    6,R,D,X
+#there would be a possible any% improvement here, but the cycle doesnt line up for that, and i dont know how id possibly save that, given that context.
    1,R,J
    3,R
    1,R,J
    2,R
    2,R,D
-#bit faster here could get a horizontal liftboost
    5,R,D,J
   17,R,D,X
    5,R
@@ -371,8 +368,6 @@ console load StrawberryJam2021/1-Beginner/mosscairn
    1,R,J,G
    9,R
    2,R,J
-#could potentially die to blue fireball if too fast here
-#very funny.  might be a universe where this becomes more relevant than cory
    4,R,K,G
   40
 
@@ -395,7 +390,7 @@ console load StrawberryJam2021/1-Beginner/mosscairn
   10,L,D,X
   10,L,J
    2,J
-#cory.  if we go faster this will be significant bottleneck, still a ways to go though
+#cory
    9,L,D,X
    5,R,J
    1,R,K,G
@@ -405,6 +400,7 @@ console load StrawberryJam2021/1-Beginner/mosscairn
    1,L,K
    6,R,J,G
    7,R
+#any%-start
    1,G
    8,R,Z
    1,R,J
@@ -428,21 +424,33 @@ console load StrawberryJam2021/1-Beginner/mosscairn
   14,R,U,Z
    6,J
    7,R
-   4,J
-   6,R,J
+   3,R,J
+   7,J
   14,R,U,X
    1,J
-   7
-  15,L
-  15,L,X
-   7
+  14
    5,L
-   5,L,D,X
+   1,J
+   5,L,X
+   1,L,J,G
+   4
+  14,L
+   4,Z
    1,L,J
    5,L
-  10,L,J
+
+#-1?f: less moving
+##   12,L,J
+##    3,L
+##
+  12,L,J
+   2,L
+#    3,L,J
+#    9,J
+#    3
+#-----
   14,U,X
-  11,J
+  10,J
   40
 
 #lvl_b-00
@@ -457,8 +465,18 @@ console load StrawberryJam2021/1-Beginner/mosscairn
    1,D,J
   34
   10,R
-#can add 3 dashes
-  48,L
+
+#don't dash. 2 kills maddy, 1 doesn't immediately but loses a frame later because of jumpthrough nonsense.
+##
+#   15,L,X
+#   15,L,C
+#   24
+##
+
+  12,L
+  36,L
+#-----
+
   13,U,X
   23,R,J
    1,R,K,G
@@ -466,6 +484,11 @@ console load StrawberryJam2021/1-Beginner/mosscairn
    1,S,N
    1,D,J
   34
+
+#+3f: wait
+   3
+#-----
+
    4,R,Z
    1,R,J
    6,R
@@ -479,32 +502,28 @@ console load StrawberryJam2021/1-Beginner/mosscairn
    1,R,J
    8,J
    3
-#ez
-#real talk this is really lucky lol, with the moving block cycle in a-10
-#this seems like a pretty big bottleneck
    4
    4,L
-  13,L,U,Z
+  13,L,U,X
    1,J,G
    7,L
-   4
-   8,L
-  15,U,X
-   1,L,J,G
-   6,L
-   1
-#waiting frame
-   1
-  10,L,X
-  10,L,J
+   5,L
+   3
+  14,U,X
+   6,R,J
+   1,R
+   2
    1,L
-   1,L,K,G
-   7,L,D,Z
+   6,L,D,X
    1,L,J
    7,L
-   5,L,J
-   2,L
-   5,L,Z
+   2,L,J
+  10,L,U,X
+   7,L,J,G
+   5,L
+   1,L,K
+   5,L
+   4,Z
    1,L,J
    6,L
    6,L,J
@@ -512,148 +531,65 @@ console load StrawberryJam2021/1-Beginner/mosscairn
   40
 
 #lvl_b-01
-  11,L
-  15,U,X
-   2,L,J
-   2,J
-   1,L,J
-   4,L
-   1,L,K,G
-   1,L,J,G
-  10,L
-  10,L,X
-   2,J,G
-   5
-   2,J
-   9
-   1,L
-  15,L,Z
-   9,L
-   1,L,J,G
-   1,L,K,G
-   5,L
-   2,L,J
-   8,L
-  15,L,Z
-   8,L
-   4,L,D,X
-   1,L,J
-   7,L
-   2,L,J
-  40
+Read,../../StrawberryJamTAS/1_Beginner/paint,lvl_b-01,lvl_b-05
 
-#lvl_b-02
-   4,L,J
-   2,L
-  18,L,D,X
-   5,L,D
-   1,L,J
-  15,L,D,X
-   4,L,D
-   1,L
-   1,L,D
-  13,L
-  15,L,U,X
-   1,L,K,G
-   1,L
-   2
-   4,L
-   4,Z
-   1,L,J
-   6,L
-   1,L,D,J
-  40
-
-#lvl_b-03
-   3,L,J
-   3,L
-  15,L,D,X
-   1,D
-   1,L,D
-   6,L,D,J
-   1,R,K,G
-   7,L,K
-   2
-  15,L,D,X
-  10,L,C
-   7,L,J
-   4,Z
-   1,L,J
-   6,L
-  43
-
-#lvl_b-04
-   1
-   3,R,J
-  10,L,X
-   5,J
-  15,U,X
-  14,L,C
-   1,L,J
-  12,L,X
-
-#change to grab block and hold block for one less frame
-##
-#   3,R,J
-#  16,U,X
-#   6,L,J,G
-#   7,G
-##
+#lvl_b-05 (0)
+   3,J
+   1,R,J
+   8,J
    1,R,J
    1,J
-   1,R,J
-  15,U,X
-   1,L
-   6,L,J,G
-   6,G
-#-----
-
-   2,L,J,G
-   7,R,U,X
-   1,L,J
-  10,L
-  14,U,Z
    1,R
-   1,R,J,G
-   7,L
-#+1f global cycle
-#  15,D,X
-  15,D,X
-   1
-#-----
-  14,R,Z
-   1,R,J
-   5,R,D,X
-   2,L
-  10
-  14,U,X
-  43
-
-#lvl_b-05
-  18,R,J
-   1,K
-   2,J,G
-   9,L,J
-   7,L,X
-   8,L
-  11,L,C
+  14,L,U,X
    1,L,J,G
-   6,L
+  15,L
+   7,L,X
+   2,L,J,G
+
+#bulb RNG, was able to find a strat that does 3 dashes while waiting, so it should tie
+##
+#    8,L
+#    1,L,K
+#    4,L
+#    2
+#    1,L
+#    6,R,Z
+#    2,L,J
+#    5,L
+#    1
+#    1,G
+#   15,L,X
+#    6,R,Z
+#    1,L,J
+#    6
+#    1,G
+#    1
+#    6,R,Z
+#    3,L,J
+#    8,L
+#    6,G
+#    1,U,G
+##
+   9,L
    1,L,J
+   3,L
+   2
    1,L
-   5
-   2,L
-   5,R,Z
-   3,L,J
-   7,L
+   6,R,Z
+   2,L,J
+   6,L
    1,G
-  15,L,X
-   5,R,Z
+  16,L,X
+   6,R,Z
    1,L,J
-   8,L,D
-  15,L,G
-   2,L,D,G
-   4,L,G
+   6
+   2,G
+   6,R,Z
+   1,L,J
+   4,L
+  12,G
+#-----
+
    8,L,Z
    1,L,J
    1,L,K,G
@@ -668,442 +604,12 @@ console load StrawberryJam2021/1-Beginner/mosscairn
   40
 
 #lvl_b-06
-   4
-   5,L,D
-   5,R,K
-  14,U,X
-   8,J
-  11,R
-  15,D,X
-   3
-   2,R,J
-  12,U,Z
-   2,J
-   9,R,J
-   7,R
-   1,R,J,G
-  22,R,K,G
-   4,Z
-   3,R,J
-   5,R
-   3,R,K
-  40
-
-#lvl_b-07
-   8,R
-  13,R,U,Z
-   1,R,J,G
-  13,R,D
-   2,L,D
-   5,R,D
-   1,R
-   1,R,D
-   1,R
-   1,R,D
-#global cycle
-   4,X
-   6,R,J
-   7,R
-   6,R,J
-   7,L,K
-   8,L,J,G
-   2,K
-  15,U,X
-  40
-
-#lvl_b-08
-  18,J
-  14,R,U,X
-   5,R,J,G
-   1,L,J
-   1,R,J
-   1,J
-   1,K
-   2,J,G
-   8,L,J
-  10,R,Z
-   8,L,J
-  15,L,U,X
-  12,L,J,G
-   1,L,K,G
-   1,R,K
-   1,L,K
-   1,K
-   1,J
-   2,K,G
-   8,R,K
-  10,L,Z
-   1,R,J
-   7,R
-   1
-   3,R
-  13,R,U,X
-   7
-  15,U,X
-  20,R
-  15,R
-  15,U,X
-  10,R
-   6,R,Z
-   1,R,J
-   7,R
-   1,R,J
-   5,R,D,X
-  40
-
-#lvl_b-09
-   9,R
-   1,R,J
-  14,R,D,X
-   1,R,J
-   3,K,G
-   2,L,K
-  14,U,X
-  20,L,J
-   6,L
-   2,L,J
-   5,L,Z
-   1,L,J
-   7,L
-   6,L,D,J
-  40
-
-#lvl_b-10
-   2,L,J
-   9,U,X
-   4,L,J
-   2,L
-   2,L,K,G
-   7,L
-  10,L,Z
-   2,L,J
-   3,L
-  14,L,D,X
-   3,L,J
-  14,L,Z
-   1,L,J
-  11,L,D,X
-  12,L,J
-  73
-  40
-
-#lvl_b-11
-  69
-   4,Z
-   1,R,J
-   1
-   6,R
-   2,R,D,J
-   6,R,K,G
-   1,K
-   3,R,K
-   1,R,J,G
-   3,R
-  12,R,D,X
-   2,R,J,G
-   2,R,K,G
-   2,R,J,G
-  14,R,U,X
-   1,R,J,G
-   7,R
-   9,R,J
-   1,R
-   5,R,Z
-   1,R,J
-   6
-   1,R,D,J
-   4,R,J
-  14,R,U,X
-   2,R,J,G
-   1,J
-  12,R
-   1,R,J
-   5,R,D,X
-   1,R,J
-   2,R,K,G
-   2,R,J,G
-   1,R,K,G
-  13,R
-   1,R,J
-  15,R,D,X
-  28
-
-#lvl_bus
-  34
-   1,S,N
-   1,D,J
-  34
-   4,Z
-   1,L,J
-   8,L
-   1,L,J
-  33,L
-
-#lvl_c-intro
-   4,Z
-   1,L,J
-   7,L
-   7,L,J
-   2,L
-  15,U,X
-  24,L,U,C
-   5,L,Z
-   1,L,J
-   1,L,K,G
-   8,L
-   5,L,D,X
-  40
-
-#lvl_c-00
-   1,L,D,X
-   1,L,J
-   3,L
-   1,L,J
-   3,L
-  11,L,J
-  15,L,U,X
-   8,L,U,Z
-   1,L,J,G
-   1,J
-   1,L,J
-   4,L
-   3
-   1,L
-   1
-   1,J
-   9,D
-   3
-  21,L
-  15,L,X
-  15,L,D,C
-   7,L,D
-   1,L
-   1,L,D
-   1,L
-   4,Z
-   1,L,J
-   6,L
-  10,L,J
-  10,U,X
-   8,L,J
-   7,L,X
-   1,L,J,G
-   4
-  16,L,D
-   4,Z
-   1,L,J
-   7,L
-   5,L,J
-   1,L
-   1,L,K,G
-   4
-   6,L
-   1,L,J
-   1,L
-   2,L,K,G
-   2,L,J,G
-   3,L,K,G
-  40
-
-#lvl_c-01
-  12,L,K
-  15,U,X
-  15,R,U,C
-   1
-   3,L,J
-   1,L
-  15,L,U,X
-  15,U,C
-  16,L
-  18,L,Z
-   7,U,X
-   7,L,J
-  89
-  40
+Read,../../StrawberryJamTAS/1_Beginner/paint,lvl_b-06,lvl_c-02
 
 #lvl_c-02
-  66
-   4,X
-  14,L,J
-  15,L,U,X
-   1,L,J,G
-   5,L,U,X
-  37,R
-   1
-   1,R
-   1
-  15,R,U,Z
-   7,R
-  15,L,U,X
-  15,R,C
-  17,R,D
-  15,R,X
-  15,R,V
-   5,R,Z
-   2,R,J
-   4,R
-   1,R,K,G
-   3,R
-   7,R,D,X
-  40
+#any%-end
+#ARB-start
+#any% cycle dies in this room (c-02), by a frame. very cool! fortunately, ARB has this same issue, so less work for me wooo
+Read,../../1_Beginner/paint,lvl_c-02
 
-#lvl_c-03
-   4,R
-   1,R,J
-  24,R,D
-   1,R
-  15,R,Z
-   1,R
-  13,R,Z
-   1,R,J
-   7,R
-   1,R,J
-   1,R
-  14,R,U,X
-   1,R,K,G
-  10,R
-   1,R,J
-   2,R,K,G
-   2,R,J,G
-   1,R,K,G
-   1,R
-  11,R,D,X
-   2,R,J
-   8,R,K,G
-  40
-
-#lvl_c-04
-   4,R,K
-   2,K
-  15,R,U,X
-  15,R,U,C
-   1,K,G
-   1,J
-   1,K,G
-   6
-   1,L
-   9,L,J
-   4,L
-  15,L,U,Z
-   2,L
-  15,R,U,X
-   2,R
-  40
-
-#lvl_c-05
-   1
-  11,K
-  14,U,X
-   4,J
-  15,R,X
-  15,L,U,C
-  10,R,X
-   1,R,J
-   4,R
-  15,R,U,X
-  11,R,Z
-   1,R,J,G
-   1,R
-   2,R,J,G
-   7,R
-   1,L,J
-   1,L
-  13,R,Z
-   1,J,G
-   7,R,J
-   4,L,J
-   1,J
-  15,U,Z
-  12,R,J
-   5,R
-   1,R,K,G
-   2,R,J,G
-   8,R
-   1,R,J
-  15,D,X
-#cycle slightly thrown off sync here after being fine since before the bus
-#idk lol
-   4,Z
-   1,R,J
-   6,R
-   5,R,J
-  15,R,U,X
-   9,R,U,C
-   1,J
-   7
-  15,R,U,Z
-   6,U,C
-  40
-
-#lvl_c-06
-  11,R
-  15,R,X
-   2
-   1,L,N
-   3,J
-   3,L,K
-   6,L
-  10,R,Z
-   1,L,K
-   2
-   2,L,K
-   1,K
-  15,U,X
-  15,R,Z
-  14,R,D
-  41
-   2,L
-  16,L,U,X
-  20,L,C
-  41
-   8,R
-  25,R,X
-  23,R,Z
-  37
-  15,L,U,X
-   2,L
-  15,L,U,C
-   2
-   9,L,U,X
-   2,J
-   4
-  15,L,Z
-   9,L
-  40
-  14,U,X
-   6,L,J
-   1,R,J
-  11,R,U,X
-   1,R,J,G
-   3
-   6,R
-   1,R,K
-   2,R
-   1,J
-  15,R,U,X
-   8,U,C
- 357
-
-#lvl_end
-  11,L
-   7,L,D,X
-   1,L,J
-   2
-   7,L,K,G
-   5,L,D,X
-   1,L,J,G
-   1,L
-   2,L,J,G
-   5,L
-   1,L,J
-   2,L
-  13,L,U,X
-   8,L,J,G
-   1,L
-   7,L,D,X
-   1,L,J,G
-  11,L
-  13,L,U,X
- 135
-
-ChapterTime: 2:02.774(7222)
+ChapterTime: 2:02.502(7206)

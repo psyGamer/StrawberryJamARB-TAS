@@ -1,4 +1,4 @@
-RecordCount: 16250
+RecordCount: 16624
 
 console load StrawberryJam2021/5-Grandmaster/Linj
    1
@@ -54,8 +54,7 @@ console load StrawberryJam2021/5-Grandmaster/Linj
   40
 
 #lvl_Conspiracy
-   6
-  42
+  48
   14,R,Z
    1,L,J
   12,L,D,X
@@ -444,12 +443,11 @@ console load StrawberryJam2021/5-Grandmaster/Linj
    1
    1,G
    1
-   1,K
-   2
+   2,K
    1,G
    1
    1,L
-   1,R,K
+   1,R
    1
    1,G
    1,L,J,G
@@ -468,14 +466,12 @@ console load StrawberryJam2021/5-Grandmaster/Linj
    1,L,J
   14,L
    1,L,J
-  14,L
-   1,L
+  15,L
   43
 
 #lvl_Break My lvory Tower 4
    3,L,J
-  18,L
-   4,L
+  22,L
   14,L,Z
    4,L,J
    2,L,K,G
@@ -565,34 +561,38 @@ console load StrawberryJam2021/5-Grandmaster/Linj
    4,J,G
    1,R,J,G
    1,K,G
-   1,K
-  10,L,K
-   1,L
    1,J,G
+   1,J
+   9,L,J
+   2,L
    1,K
    1,L,J,G
-   8,L,J
+   2,J
+   1,R,J
+   6,J
   21,L,J,G
-   1,R
-   1,L,K,G
-   3,K
-   1
+   1,R,J
+   5,L,K,G
    1,J
    2,K,G
   21,R,K
-   1,J
+   1,L,J,G
    1,L,K,G
-   1,K
-   2,R,K
+   3,R,K
    4,X
   11,R,D,X
-   2,R
-  33,R,J,G
-   1,L
-   1,R
-   3,R,D
    1,R,J
-   8,R
+   2
+   4,R
+   1
+  14,R,D,G
+   1,R,K,G
+  10,R,G
+   2,R,D,G
+   1,L
+   9,R,D
+   1,R,J
+   2
    4,L
    1
    1,J
@@ -612,14 +612,12 @@ console load StrawberryJam2021/5-Grandmaster/Linj
    1,L
    1
    7,L
-   1,L,J
-  22,L,G
-  10,L,J,G
-   2,L,G
-   1,R
-   1,L,J,G
-  15
-   4,G
+   4,L,J
+  11,L,K,G
+   6,L
+   2,L,K
+   1,J,G
+  17
    5,L,U,Z
    6,L
   12
@@ -692,8 +690,7 @@ console load StrawberryJam2021/5-Grandmaster/Linj
    1,L,J
    1
    2,K,G
-  16
-   2
+  18
    5,L,U,X
    6,L
   12
@@ -703,13 +700,13 @@ console load StrawberryJam2021/5-Grandmaster/Linj
   20,L,G
    9,R,G
   45,U,G
- 139,G
+ 138,G
+   1,D,G
   25,L,Z,G
    4,R,G
    1
-   1,D,G
    1,L,D,G
-   4,L,Z
+   4,L,Z,G
    1,L,J,G
    4,L,K,G
    1,L,J,G
@@ -777,9 +774,10 @@ console load StrawberryJam2021/5-Grandmaster/Linj
    1,J
    4,X
    1,R,D,X
-  56,R,D,G
-   9,D,G
-   2,D
+  59,R,D,G
+   4,D,G
+   1,D
+   3,R,D
 Repeat,580
    1,R,J
    1,R,K
@@ -794,10 +792,10 @@ EndRepeat
    1,L,K
   25,R,K
   15,D,X
-   4,R
-   1,R,N
    3,R
- 127
+   1,R,N
+   1,D
+ 128
 Repeat,10
    1,D
    1
@@ -817,4 +815,4 @@ EndRepeat
    1,N
   57
 
-ChapterTime: 1:54.223(6719)
+ChapterTime: 1:53.900(6700)

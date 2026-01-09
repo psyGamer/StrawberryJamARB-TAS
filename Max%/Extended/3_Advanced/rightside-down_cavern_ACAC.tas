@@ -1,104 +1,40 @@
-RecordCount: 11881
+RecordCount: 11923
 
 console load StrawberryJam2021/3-Advanced/Vamp
    1
 
 #Start
-Read,../../../StrawberryJamTAS/3_Advanced/rightside-down_cavern.tas,Start,lvl_Vamp_6
+  90
 
-#lvl_Vamp_6
-#not read, in case any% spinner
-#cycle for Vamp_6 is not 0
-   3,R
-  12,R,U,X
-   1,R,J
-   4,R,K,G
-   5,R
-   1,R,J
-   1,R
-   1,R,J
-  12,R
-  17,R,D,Z
-   1,J,G
-  25,R,U
-   4,R
-   1,R,U
-  14,R,X
-   1,R,J,G
-   8,L,U
-  16,R,U
-   1,J
-  10,R,J
-   1,R
-   2
-   4,J,G
-   2,R,J
-   5,R
-   4,R,J
-   5,K,G
-   5,R,K
-   1,R
-  15,R,D,X
-  16,R
-  10,R,X
-   2,L,J
-   1,L
-   1
-   1,L
-   3
-  12,R,Z
-   3,R,J
-  17,R,U,X
-   8,R,U,J
-   6,R,K,G
-  15,R,U,X
-   5,R,U
-  10,R,J
-   2,R,U,J
-   3,R,U
-  24,R,K
-   1,R
-   1,R,K
-   5,R
-  21,R,D,X
-   2,R,J,G
-   7
-   5,L,Z
-   1,R,J
-   6,R
-   3,R,J
-   8,R,U,X
-   2,R,J,G
-   5,R
-   1,R,J
-   3,R
-  40
+#lvl_intro_SJ
+Read,../../../StrawberryJamTAS/3_Advanced/rightside-down_cavern,lvl_intro_SJ,lvl_Vamp_7
 
 #lvl_Vamp_7
    8,R
    2,R,U,J
    5,R,K,G
-#any%-end
-#based off old stunless Vamp_8
-#inputs
-  12,R,J,G
+   1,R,J,G
+  11,R,K,G
+   6,R
+   2,R,K
    5,R
-   3,R,J
-   1,R,J
-  11
-   1,R,U
-  13,U
-  13,L,U,X
-   7,R,J
-   2,R
-  27,R,J
-  15,R,X
-   5,R
-  15,R,C
-   5,R
-   3,R
-   1
+   7
    1,R
+   1
+  15,U,X
+   3,R,U
+   2,U
+   1,R,U
+   9,R,Z
+#any%-end
+  12,R,J
+   1,R
+   3,R,J
+  22,R
+  15,R,X
+  14,R,C
+#based off older any% inputs
+   5,R
   13,R,U,Z
   37,R
   11,R,Z
@@ -117,24 +53,23 @@ Read,../../../StrawberryJamTAS/3_Advanced/rightside-down_cavern.tas,Start,lvl_Va
 
 #lvl_Vamp_8
    2,R
-  17,R,D,X
-   3,R
-   1,R,J
+  15,R,D,X
+   2,R,D
+   4,R
   15,L,D,X
    6,L,D
    1,R,D
    3,D
    2,R,D
-   8,L,D
+   7,L,D
    1,L,J
-   1,L
+   2,L
   15,L,D,X
    5,R,D
    1,R,N
  135
 
-#don't do a deathwarp after cat
-#+10f
+#+10f: don't do a deathwarp after
 #   1,J
 #   1,K
 #   1,J
@@ -200,7 +135,7 @@ Read,../../../StrawberryJamTAS/3_Advanced/rightside-down_cavern.tas,Start,lvl_Va
 #   1,R,U,J
 #any%-start
 #  13,R,U,X
-#####
+#-----
 
    1,S
    1,D,J
@@ -225,7 +160,11 @@ Read,../../../StrawberryJamTAS/3_Advanced/rightside-down_cavern.tas,Start,lvl_Va
    7,R
    4
   15,R,U,X
-  23,R,U
+  17,R,U
+   2,R
+   2,R,U
+   1,R
+   1,R,U
   11,R
    1
    1,J
@@ -243,8 +182,8 @@ Read,../../../StrawberryJamTAS/3_Advanced/rightside-down_cavern.tas,Start,lvl_Va
   10,L,Z
    5,R,J
   15,R,U,X
-   5,R,U
-   2,R
+   6,R,U
+   1,R
    3,U
    1,R,J
 #any%-start
@@ -258,6 +197,87 @@ Read,../../../StrawberryJamTAS/3_Advanced/rightside-down_cavern.tas,Start,lvl_Va
   40
 
 #lvl_Vamp_9
-Read,../../../StrawberryJamTAS/3_Advanced/rightside-down_cavern.tas,lvl_Vamp_9
+   1,J
+   8
+   1,J
+   1
+   1,R
+   1
+#any%-start
+  15,R,D,Z
+   6
+  17,R
+  15,R,D,Z
+   7,R
+  15,D,X
+  23,R,U
+   8,R,Z
+   1,R,J
+   7,R
+   8,R,J
+   5,R
+   2,R,J
+  11,R
+   2,R,J,G
+  14,R
+  10,L,U,X
+   7,R,J
+   3,R
+   5,R,J
+  13,R
+  15,R,X
+   8,R
+   5,L
+   1,R
+   1,U
+  11,R,J
+   7,R
+   7,R,Z
+   1,R,J
+   3,R
+   1,R,K
+   2,R
+   1,R,K
+   5,R,J
+  14,R,D,X
+   9,L,U
+  13,R,X
+  10,R,J,G
+  25,R
+   1,R,U
+  14,L,U,X
+   1,R,J
+   5,R,U,X
+   1,R,J,G
+   5,R
+   3,R,J
+   1,R
+   1,R,J
+  15,R,U,X
+   4,R
+   6,R,U,X
+   1,R,J,G
+   6,R
+   3,R,J
+  10,R
+   4,R,U
+   8,R,J
+   6,R,U,X
+  10,R,J,G
+   5,R
+   2,R,J
+   7,R
+   7,R,U,J
+  15,R,U,X
+   2,R,J
+   1,R
+   4,R,K,G
+   1,R
+   2,R,J,G
+   6,R,D,X
+  40
 
-ChapterTime: 1:03.325(3725)
+#lvl_Vamp_Final
+Read,../../../StrawberryJamTAS/3_Advanced/rightside-down_cavern,lvl_Vamp_Final
+
+ChapterTime: 1:02.254(3662)

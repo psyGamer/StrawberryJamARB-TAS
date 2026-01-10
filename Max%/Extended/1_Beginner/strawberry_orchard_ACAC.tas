@@ -16,7 +16,7 @@ Read,../../../StrawberryJamTAS/1_Beginner/strawberry_orchard.tas,Start,lvl_a-08z
    9,R,D,G
    1,R
    4,R,D
-##theo here
+#theo here
    9,R,G
    2,R,D
   15,R,D,X
@@ -105,4 +105,4 @@ Read,../../../StrawberryJamTAS/1_Beginner/strawberry_orchard.tas,Start,lvl_a-08z
 #lvl_a-11z
 Read,../../../StrawberryJamTAS/1_Beginner/strawberry_orchard.tas,lvl_a-11z
 
-ChapterTime: 1:11.944(4232)
+ChapterTime: 1:11.927(4231)

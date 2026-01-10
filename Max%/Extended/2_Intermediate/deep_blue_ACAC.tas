@@ -1,12 +1,185 @@
-RecordCount: 5634
+RecordCount: 5849
 #draft had 0
 
 console load StrawberryJam2021/2-Intermediate/Emik
    1
 
 #Start
- 190
+Read,../../../StrawberryJamTAS/2_Intermediate/deep_blue,Start,lvl_a_04
 
-#-----
+#lvl_a_04
+#spinner cycle at the start of any% file should work for this one too
+   5,L
+   7,L,J
+  13,L,D
+   2,D
+   1,L,D
+  17,R,D
+   4,R,U,G
+   1,R
+  13,G
+  15,R,U,G
+   2
+   1,J,G
+   2,K,G
+  12,L,U,X
+  14,L,G
+StunPause
+   8,L,G
+EndStunPause
+   9,L,G
+   1,R,J
+   1,L,K,G
+   2,R,K
+   1,L,K
+   1,L,J,G
+  18,L
+  20,D
+  15,L,Z
+   6,L,J
+  15,L,Z
+   2
+#any%-end
+#jelly smuggle for secret room
+   5,R,J
+   7,R
+   6,G
+   7,U,G
+  21,G
+   2,J,G
+   4,K,G
+  15,L,K,G
+   5,K,G
+   9,G
+   3,J,G
+   5,D,G
+  38,L,D,G
+  40
 
-#ChapterTime: 0:59.602(3506)
+#lvl_a_05 (0)
+  28,L,D,G
+   3,L,D
+  10,G
+   1
+   1,J
+   1,K
+   5,L,X
+  13,L,G
+  47,L
+   4,R,G
+  18,R,U,Z,G
+   4,R,J,G
+  23,R,D,G
+  12,J,G
+  11,D,J
+  10,U,X
+  28,L,G
+  40
+
+#lvl_how
+   1,R,J
+  11,L,J,G
+  14,L,U,X
+   1,L,J,G
+   7,L
+   4,L,X
+   2,L,J
+   6
+  28
+   1,O
+   5
+   1,O
+   1,J
+   1
+   1,O
+   5
+   1,O
+   2
+   1,O
+   5
+   1,O
+   2
+   1,O
+   1,J
+  27
+   7,R,J
+  15,R,D,X
+   3,R,D
+  16,D,X
+  40
+
+#lvl_a_05 (1)
+   7,R,D
+   8,L,D
+   1,R,D
+   5,L,D
+  10,L,D,X
+   1,L,J
+   8,L
+  26,D,X
+   5,L,D
+   2,L
+  10,R,D,X
+#any%-start
+   1,L,J
+   2,D
+   6,L,D
+   2,J
+   3
+   3,L
+   2,L,J
+   1,R,J
+   4,K,G
+  15,U,X
+   1,R,J,G
+   8,R,G
+   1,R,J,G
+   2,L,J
+   2,R,J
+   6
+   1,R
+   5,L,J
+   2,L,J,G
+  15,L,Z
+   1,R
+   3,L
+  10,L,J
+   7
+  15,D,X
+   7,L
+   4,Z
+   1,L,J
+  22,L,D
+  12,D
+   4
+   1,L
+   7,L,J
+   3,J
+  22,L,U,X
+   4,J
+   7,L,Z
+  10,L,J
+  16,L
+  17,L,K,G
+  48,L,D
+   1,L,D
+   4,L
+  14,L,Z
+   3,L,J,G
+   1,L
+   8,L,K,G
+   1,L
+   3,L,J,G
+   4,L
+  11,L,K,G
+   7,L
+   1,L,J
+   1,L
+  17,L,D,X
+   1,L,J
+  40
+
+#lvl_a_06
+Read,../../../StrawberryJamTAS/2_Intermediate/deep_blue,lvl_a_06
+
+ChapterTime: 1:07.320(3960)

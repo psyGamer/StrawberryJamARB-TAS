@@ -1,4 +1,4 @@
-RecordCount: 16893
+RecordCount: 16931
 
 console load StrawberryJam2021/3-Advanced/MousseMoose
    1
@@ -32,23 +32,53 @@ Read,../../../StrawberryJamTAS/3_Advanced/synapse,Start,ACAC
    4,R,K
 
 #lvl_a5
-   1,R,J
-  11,J
-   9
+#Spinner Cycle [a5]
+#all 3 work with the rounding error manip seen in the previous room.
+
+#+0f:
+##
+#    1,R,J
+#   11,J
+#    9
+#    1,J
+#    2
+##
+#---
+
+#+1f:
+##
+#    1,J
+#    8,R,J
+#    2,J
+#    1,R,J
+#    5
+#    2,J
+#    6
+##
+#---
+
+#+2f:
+##
    1,J
-   2
+   8,R,J
+   3,J
+   5
+   3,J
+   1
+   1,J
+   4
+##
+#---
+
   10,U,X
    1,J
    1,L,K,G
    7,R,K
-#+11f: pause for ok spinner cycle
-   1,S,N
-  10,O
-#-----
    1,R,J,G
    1,R
+   2,R,D
 StunPause
-   8,R,D
+   6,R,D
 EndStunPause
    1,S
    1,J
@@ -112,7 +142,7 @@ EndRepeat
   27
 #Cycle Wait [b1]
 #Note: label used for max% extended
-   7
+   4
 #-----
    6,R,Z
    1,R,J
@@ -268,7 +298,24 @@ Read,../../../StrawberryJamTAS/3_Advanced/synapse,lvl_b2,lvl_c1
    1,S,N
    1,D,J
   34
-   8,L,J
+
+#+1f: "wait" for cassette cycle (very goofy)
+##
+#    8,L,J
+#   15,U,Z
+#    1,R
+#   13,R,J
+#    4,J
+#    1
+#    2,L
+#    1,R,K,G
+#    3,L,K
+#    1,K
+#    1,R
+#   16,U,X
+##
+   7,L,J
+   1,L
   15,U,Z
    1,R
   13,R,J
@@ -276,10 +323,13 @@ Read,../../../StrawberryJamTAS/3_Advanced/synapse,lvl_b2,lvl_c1
    1
    2,L
    1,R,K,G
-   3,L,K
-   1,K
+   2,L,K
+   1,L
+   1
    1,R
-  16,U,X
+  17,U,X
+#-----
+
    7,J
    1,R,K,G
    1,R,J,G
@@ -493,4 +543,4 @@ EndRepeat
    1,R,J
   30,R
 
-ChapterTime: 1:34.112(5536)
+ChapterTime: 1:33.738(5514)

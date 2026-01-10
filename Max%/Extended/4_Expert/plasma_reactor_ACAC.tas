@@ -1,14 +1,11 @@
-RecordCount: 7749
+RecordCount: 7750
 
 console load StrawberryJam2021/4-Expert/hivemindsrule
    1
 
 #Start
-#based on ARB because there is
-#only one red berry and
-#A Bones View is connected to
-#berry room
-Read,../../../4_Expert/plasma_reactor.tas,Start,lvl_b1
+#based on ARB because there is only one red berry and A Bones View is connected to berry room
+Read,../../../4_Expert/plasma_reactor,Start,lvl_b1
 
 #lvl_b1 (0)
 #ARB-end
@@ -138,6 +135,7 @@ Read,../../../4_Expert/plasma_reactor.tas,Start,lvl_b1
   40
 
 #lvl_a8
-Read,../../../4_Expert/plasma_reactor.tas,lvl_a8 (1)
+Read,../../../4_Expert/plasma_reactor,lvl_a8 (1)
 
-ChapterTime: 0:57.375(3375)
+
+ChapterTime: 0:56.100(3300)

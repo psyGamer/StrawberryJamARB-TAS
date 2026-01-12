@@ -1,4 +1,4 @@
-RecordCount: 606
+RecordCount: 626
 
 console load StrawberryJam2021/5-Grandmaster/tobyaaa
    1
@@ -7,8 +7,8 @@ console load StrawberryJam2021/5-Grandmaster/tobyaaa
 Read,../StrawberryJamTAS/5_Grandmaster/lava_layer,Start,lvl_Phil
 
 #lvl_Phil (0)
-   2,L,J
-   9,L,K,G
+#any%-end
+  11,L,J
    4,L,Z
    1,L,J
    7,L
@@ -64,130 +64,182 @@ Read,../StrawberryJamTAS/5_Grandmaster/lava_layer,Start,lvl_Phil
    7,J
    1,L,J
    7,J
-# 9,R|3,R,D|1,R instead of 10,R|4,R,D
+
+#a little lower
+#   10,R
+#    3,R,D
    9,R
    3,R,D
    1,R
+#-----
+
    4,R,D,J
    5,R
    3,R,J
    3,R
    1,R,J
-   8,R
-  15,R,Z
    3,R
-  18,R
-  15,L,U,X
-  25,R
-   3,R,D
-   9,R,J
-  18,R
-  12,R,D
-   5,R,J
-   5,R
-  10,R,J
-   5,R
+  12,R,J
+   1,R
+  15,U,X
+  27,R
    3
-   1,D
-   5,J,G
+  42,R,J
+   5
+   3,D
+   1,R,D
+   7,R,J
+   1,R
+  11,R,J
+   2,J
+  13
+   4,J
+   7,K,G
+   4,R,K,G
+   1,R
    6,R,J
-  18,R
-   5,R,D
-  34,R
-  13,D
-  38,R
-   8
-   9,R,J
-  18,R
-  14,D
-   1,L,D
-  28,R
-  15,R,U,Z
+  17,R,D
+  29,R
+  18,D
+  45,R,D
+  10,R,J
    2,R
-   7
-  15,R,Z
-   3,R
-   2
+  15,R,U,X
+  36,R,U,C
+   1,R,J,G
+   4,R,K,G
+   1,R
+   5,R,J
+  22,R,D
+   4,R,Z
+   1,R,J
+  10,R,D
   43
 
 #lvl_Susan
-Repeat,12
-   1,L
-   1,R
-EndRepeat
-  23,J
-   4,R,J
-  11
+   5
    1,D
-   1
-  24,R,D
-  18,L,D
-  17,D
-  15,U,X
-  13,R
-  12,G
-   2,R,J,G
-  39,G
-   5,R
-  21,D
+  13,R,D
+   1,R
+   1,R,D
+   3,R
+   4,Z
+   1,R,J
+  16,R
    3
-   1,D
-  10,L,D,X
-   4,R,J
-   1,R
+   1,J
+   6,L,J
+  23,L
+  27,L,D
+   9,D
+   4,R
+  15,R,Z
+   6,R
+   9,D,X
+   1,J
+  19,R
+   1
    2,R,J
-  14,R
-   4,R,J
-   1,L,J
-  62,L
-  15,L,X
-   2,L
-  68,U,G
+   1,J
+   2
+   1,R
+   1
+  10,L,D,X
+  12,R,J
+   1,R
+   1,R,K
+   8,L,K
+   9,L
+   6,L,D
+   1,D
+   1,R,D
+  15,L,D,X
+   2,L,D
+   3,L
    1,J,G
+  21
+  16,R
+  12,R,J
+   4,R
+   1
+   8,K
+   2,L,K
+  24,L
+   4
+   2,D
+   1,G
+  12,L,J,G
+   1
+  72,G
+  11
    1,R
   14,D
-  22,L,D
-  11,G
-  10,J,G
-   2,R,J
-   1,L,K,G
-   1,R,K
-   6,K
-  18
-   9,D
-  12,R,D
-   9,L,J
-   2
-   1,L
-  18
-   1,J
-  11
-   1,R
-   1
-   1,R
-   1
-   1,J
-   1,L,K,G
+   3,L,D
+  12,D
+  13,R,D
+  15,R,U,Z
    9,R
-  15,D,X
-  70,L,D
-  50,R,D
+   6,R,J
+   1,R
+  15,R,Z
+   3,R
+  14
+   1,L
+   1
+   1,L
+   9
+  21,L
+   7,L,D
+   8,D
+   8,R,D
+   1,D
+   1,R,D
+   1,D
+   1,R,D
+   1,D
+   1,R,D
+   1,D
+   1,R,D
+   1,D
+   1,R,D
+   1,D
+   1,R,D
+   1,D
+   1,R,D
+   2,D
+   1,R,D
    6,D
-  64,R,D
-#any%-end
-   4,R,Z
-   1,R,J
-   2,R
+   1,L,D
+   1,R,D
+   1,L,D
+   1,R,D
+   1,L,D
+   1,R,D
+   1,L,D
+   1,R,D
+   2,L,D
+   1,D
+   1,L,D
+   1,D
+  32,L,D
+  84,R,D
+   5,R
+   1,D
+   5,R,Z
+  12,R,J
+   3,R
   43
 
 #lvl_Todd
-   7,R
-   3
-  17,U,X
-   5,L
+#any%-end
+   8,R,D
+   4,D
+   1,R,D
+  15,U,X
+   1
+   6,L
   40,R,D,X
    4,R,J
-  34,R,D,X
-  64,R,J
+  98,R,D,J,X
 
-ChapterTime: 1:01.812(3636)
+ChapterTime: 1:01.234(3602)

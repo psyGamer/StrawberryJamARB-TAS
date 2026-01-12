@@ -188,7 +188,6 @@ Read,../3_Advanced/golden_dawn,Start
 Read,3_Advanced_Lobby/adv_12-12,Start
 Read,../StrawberryJamTAS/EnterLevel,Start
 Read,3_Advanced/golden_dawn_S,Start
-***
    1,O
   32
 
@@ -334,7 +333,6 @@ Read,../StrawberryJamTAS/EnterLevel,Start
 Read,3_Advanced/dusk_city_S,Start
    1,O
   32
-***
 
 #Getting Rainbow
 #Advanced Heartside (Mango Mesa)
@@ -347,10 +345,5 @@ Read,../StrawberryJamTAS/3_Advanced/advanced_heartside,Start
 Read,3_Advanced/advanced_heartside_G,Start
   61
    1,O
-***
-
 
 FileTime: 1:18:05.965(275645)
-
-
-#FileTime: 1:18:06.781(275693)

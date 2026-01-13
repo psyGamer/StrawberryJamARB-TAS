@@ -1,14 +1,14 @@
-RecordCount: 516
+RecordCount: 539
 
 console load StrawberryJam2021/2-Intermediate/Dooshii
    1
 
 #Start
 #lvl_a1
-Read,frosted_fragments_ACAC.tas,Start,lvl_a2v2
+Read,frosted_fragments_ACAC,Start,lvl_a2v2
 
 #lvl_a2v2
-Read,../../../StrawberryJamTAS/2_Intermediate/frosted_fragments.tas,"lvl_a2v2,lvl_a3v2"
+Read,../../../StrawberryJamTAS/2_Intermediate/frosted_fragments,lvl_a2v2,lvl_a3v2
 
 #lvl_a3v2
    1
@@ -77,18 +77,20 @@ Read,../../../StrawberryJamTAS/2_Intermediate/frosted_fragments.tas,"lvl_a2v2,lv
   10,L,Z
    1,R,J
    3,D
-  21,R,D
-   1,D
-  16,R,D
+  19,R,D
+  18,D
+   1
    4,R
-   9,R,Z
-  26,R
+  15,R,Z
+   1,G
+   1,R,J,G
+  14,R
   15,R,X
   24,R,C
   14,U,X
 #Spinner Cycle [a4v2]
-   0
-#####
+   1
+#-----
   15,U,C
    1,R
   15,R,U,X
@@ -112,10 +114,10 @@ Read,../../../StrawberryJamTAS/2_Intermediate/frosted_fragments.tas,"lvl_a2v2,lv
   40,J
 
 #lvl_a4v2
-Read,../../../StrawberryJamTAS/2_Intermediate/frosted_fragments.tas,"lvl_a4v2 (0),lvl_a6v2"
+Read,../../../StrawberryJamTAS/2_Intermediate/frosted_fragments,lvl_a4v2 (0),lvl_a6v2
 
 #lvl_a6v2 (0)
-Read,frosted_fragments_ACAC.tas,lvl_a6v2 (0),lvl_a6v2 (1)
+Read,frosted_fragments_ACAC,lvl_a6v2 (0),lvl_a6v2 (1)
 
 #lvl_a6v2 (1)
    1,S
@@ -184,9 +186,9 @@ Read,frosted_fragments_ACAC.tas,lvl_a6v2 (0),lvl_a6v2 (1)
   40
 
 #lvl_r_00v2
-Read,"../../../2_Intermediate/frosted_fragments.tas,lvl_r_00v2,lvl_a_10v2 (0)"
+Read,../../../2_Intermediate/frosted_fragments,lvl_r_00v2,lvl_a_10v2 (0)
 
-#lvl_a_10v2
+#lvl_a_10v2 (0)
    1,R,J
   10,R
    4,Z
@@ -239,62 +241,49 @@ Read,"../../../2_Intermediate/frosted_fragments.tas,lvl_r_00v2,lvl_a_10v2 (0)"
   15,U,X
   15,J
    4
-#+2f (not incl. spinner cycle):
-#weird camera; change exact
-#vertical positioning for 6f
-#bhop subpx when using a
-#different spinner cycle
-   5,R
-   2
-#Spinner Cycle [a_10v2]
-   1
-#####
-   1,R,J
-   5,J
+   8,R
+  10,G
+#Spinner Cycle
+   2,G
+#-----
+#starts stun a bit earlier
+##
+#   15,D,X
+#StunPause
+#    6,D
+#   12,R,D
+#    3,D
+#SkipInput,3,1
+#    4,L,Z
+#    1,L,J
+#    6,L
+#    8,L,D,J
+#    3,L
+#EndStunPause
+#    2,L
+##
   15,D,X
-   3,D
 StunPause
    6,D
-   9,R,D
-   2,R
-   2
-   1,R,D
-   1
+  12,R,D
+   3,D
 SkipInput,3,1
    4,L,Z
    1,L,J
    6,L
    8,L,D,J
-   3,L
-EndStunPause
-#   8,R
-#   8,G
-#  15,D,X
-#StunPause
-#   6,D
-#  12,R,D
-#   3,D
-#SkipInput 3 1
-#   4,L,Z
-#   1,L,J
-#   6,L
-#   8,L,D,J
-#   3,L
-#EndStunPause
-#####
    2,L
+EndStunPause
+   3,L
    2,L,K
   15,L,U,X
   24,L,D
-#Spinner Cycle [r_01v2]
-   0
-#####
    4,L,Z
    1,L,J
    3,L
   40
 
 #lvl_r_01v2
-Read,"../../../2_Intermediate/frosted_fragments.tas,lvl_r_01v2"
+Read,../../../2_Intermediate/frosted_fragments,lvl_r_01v2
 
-ChapterTime: 2:20.862(8286)
+ChapterTime: 2:20.046(8238)

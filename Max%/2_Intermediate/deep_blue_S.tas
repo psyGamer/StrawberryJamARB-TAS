@@ -1,4 +1,4 @@
-RecordCount: 4740
+RecordCount: 4742
 
 console load StrawberryJam2021/2-Intermediate/Emik
    1
@@ -7,7 +7,7 @@ console load StrawberryJam2021/2-Intermediate/Emik
  190
 
 #Spinner Cycle [a-04]
-   0
+   2
 #-----
 
 #lvl_a_01
@@ -63,4 +63,4 @@ console load StrawberryJam2021/2-Intermediate/Emik
 #lvl_a_03
 Read,../../StrawberryJamTAS/2_Intermediate/deep_blue.tas,lvl_a_03
 
-ChapterTime: 0:59.908(3524)
+ChapterTime: 0:58.412(3436)

@@ -1,10 +1,10 @@
-RecordCount: 901
+RecordCount: 939
 
 console load StrawberryJam2021/3-Advanced/Worldwaker2
    1
 
 #Start
-Read,../../../StrawberryJamTAS/3_Advanced/raindrops_on_roses.tas,Start,lvl_7
+Read,../../../StrawberryJamTAS/3_Advanced/raindrops_on_roses,Start,lvl_7
 
 #lvl_7
    8,R,U,X
@@ -588,15 +588,15 @@ EndStunPause
   40
 
 #lvl_9
-  12,R,J
-   2,L,K
-  12,U,X
-   8,R,J
-# slight detour to see flag
-   5,R,K,G
-  17,R
+  11,L,J
+  13,U,X
+   4,R,J
+   5,R
+   1,R,J,G
+   7,R
+   4
    1,N
- 152
+ 129
    3,L
    1,L,J
   33,L,D
@@ -622,4 +622,4 @@ EndStunPause
    1,L,K,G
   45,R,K,G
 
-ChapterTime: 2:28.240(8720)
+ChapterTime: 2:27.458(8674)

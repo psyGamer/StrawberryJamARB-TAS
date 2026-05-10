@@ -1,4 +1,4 @@
-RecordCount: 10504
+RecordCount: 10526
 
 console load StrawberryJam2021/4-Expert/fonda1515
    1
@@ -558,7 +558,7 @@ Read,../StrawberryJamTAS/4_Expert/clockwork,lvl_a-06,lvl_a-07
   40
 
 #lvl_a-08
-Read,../StrawberryJamTAS/4_Expert/clockwork.tas,lvl_a-08,lvl_a-09
+Read,../StrawberryJamTAS/4_Expert/clockwork,lvl_a-08,lvl_a-09
 
 #lvl_a-09 (0)
   69
@@ -654,16 +654,16 @@ Read,../StrawberryJamTAS/4_Expert/clockwork.tas,lvl_a-08,lvl_a-09
    2,R
   15,D,C
   15,D,X
-  62,R,D
-  19,R,X
+  63,R,D
+  18,R,X
   15,R,C
-   9,R,U,Z
-  28,R
+  10,R,U,Z
+  27,R
   12,U,X
   30,R
-  13,U,Z
-  23,R
-  15,R,U,X
+  14,U,Z
+  22,R
+  14,R,U,X
   45
   15,U,X
   31
@@ -708,7 +708,7 @@ Read,../StrawberryJamTAS/4_Expert/clockwork.tas,lvl_a-08,lvl_a-09
    2,J,G
    7,R
 #Spinner Cycle [a-09b] 1
-   1
+   0
 #-----
    4,R,Z
    2,R,J
@@ -803,16 +803,28 @@ EndStunPause
    8,R,X
   10,R,J
    5,R
-   3,R,J
+#If both spinner cycles add up to 2 or less
+   3,R
 StunPause
-   1,R,J
-   1,R
-   1,R,J
    2,R
+   3,R,J
 EndStunPause
 StunPause
    7,R
 EndStunPause
+#-----
+#if both spinner cycles add up to 3 or more
+#    3,R,J
+#StunPause
+#    1,R,J
+#    1,R
+#    1,R,J
+#    2,R
+#EndStunPause
+#StunPause
+#    7,R
+#EndStunPause
+#-----
   15,R,Z
   39
   15,R,D,X
@@ -846,4 +858,6 @@ EndStunPause
    1,R,J
   57,R
 
-ChapterTime: 4:07.860(14580)
+ChapterTime: 4:07.809(14577)
+
+#ChapterTime: 4:07.860(14580)

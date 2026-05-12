@@ -1,4 +1,4 @@
-RecordCount: 15642
+RecordCount: 15643
 
 console load StrawberryJam2021/5-Grandmaster/xlibiza
    1
@@ -235,7 +235,7 @@ EndStunPause
   15,R,D,C
    2,R,D
 #Spinner cycle
-   1
+   2
 #-----
   20,R,X
   15,R,D,C

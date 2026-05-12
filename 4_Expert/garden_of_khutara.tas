@@ -1,28 +1,29 @@
-RecordCount: 8578
+RecordCount: 8582
 
 console load StrawberryJam2021/4-Expert/DanTKO
    1
 
 #Start
 #lvl_DanTKO_Intro
-Read,../StrawberryJamTAS/4_Expert/garden_of_khutara.tas,Start,lvl_DanTKO_06b
+Read,../StrawberryJamTAS/4_Expert/garden_of_khutara,Start,lvl_DanTKO_06b
 
 #lvl_DanTKO_06b (0)
-   6,R
+   2,R
+   2,R,J
+   7,R,D,X
    1,R,J
-   6,R,D,X
-   1,R,J
-   5,R
-   6,R,J
    1,R
-  10,R,D,X
-   2,R,J,G
-  13,R
+   2,R,J
+   4,R
+   3,R,D,J
+   8,R,D,X
+   1,R,J,G
+  11,R
    1,R,J
-  14,R,D,X
+  12,R,D,X
 #any%-end
    1,R,J
-   5,R
+   4
   15,D,X
    7,D,C
   43
@@ -30,7 +31,8 @@ Read,../StrawberryJamTAS/4_Expert/garden_of_khutara.tas,Start,lvl_DanTKO_06b
 #lvl_DanTKO_Berry01
    8,D,C
   15,D,X
-  20,R,D,C
+  15,R,D,C
+   5,D
    4,Z
    1,R,J
    4,R
@@ -391,4 +393,4 @@ Read,../StrawberryJamTAS/4_Expert/garden_of_khutara,lvl_DanTKO_08,lvl_DanTKO_09
 #lvl_DanTKO_Outro
 Read,../StrawberryJamTAS/4_Expert/garden_of_khutara,lvl_DanTKO_Outro
 
-ChapterTime: 1:44.295(6135)
+ChapterTime: 1:44.159(6127)

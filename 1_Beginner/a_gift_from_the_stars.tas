@@ -1,4 +1,4 @@
-RecordCount: 3919
+RecordCount: 3920
 
 console load StrawberryJam2021/1-Beginner/HankyMueller
    1
@@ -353,8 +353,8 @@ Read,../StrawberryJamTAS/1_Beginner/a_gift_from_the_stars,lvl_Double Vision,lvl_
    1,D,J
   69,O
 #spinner cycle (Staircase)
-   2
-#
+   0
+#-----
    4,Z
    1,R,J
   40
@@ -435,4 +435,4 @@ EndStunPause
 #lvl_End
 Read,../StrawberryJamTAS/1_Beginner/a_gift_from_the_stars,lvl_End
 
-ChapterTime: 1:41.830(5990)
+ChapterTime: 1:41.779(5987)

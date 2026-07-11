@@ -14,7 +14,6 @@ Read,../StrawberryJamTAS/3_Advanced/attack_of_the_clone,Start,lvl_BR-Outro
    7,R,J
   15,R,D,X
 #any%-end
-
   10,R,J
    1,J
   15,R,U,X
@@ -64,4 +63,4 @@ Repeat,5
 EndRepeat
   45,R
 
-ChapterTime: 1:08.476(4028)
+ChapterTime: 1:08.272(4016)

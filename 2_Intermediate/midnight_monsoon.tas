@@ -1,4 +1,4 @@
-RecordCount: 2061
+RecordCount: 2111
 
 console load StrawberryJam2021/2-Intermediate/Luma
    1
@@ -59,24 +59,28 @@ Read,../StrawberryJamTAS/2_Intermediate/midnight_monsoon,Start,lvl_2
   25,R,J
   15,R,U,X
    7,R
-   1,J,G
-   1,L,J,G
-   2,R,K,G
-   4,R,J,G
-   1,R
+   1,R,J,G
+   3,L,J
+   1,J
    1,R,K,G
    1,R,J,G
-  13,R
+   2,R,K,G
+  12,R
 #any%-end
-   1,R,D,J
-  14,R
+   1,R,J
+   4,R
+   1
+   2,R,K
+   1,R
+   2,R,K
+   6,R
    5
    1,R
    1,L,J
    1,L,K,G
    1,L,J,G
   17,L,K,G
-  12,U,X
+  11,U,X
   47,L,J
    7,L,K
   18,L
@@ -199,56 +203,13 @@ Read,../StrawberryJamTAS/2_Intermediate/midnight_monsoon,Start,lvl_2
 #any%-start
    5,R,Z
    1,R,J
-   6,R
+   4,R
+   1,R,K
+   1,R
   40
 
 #lvl_3
-Read,../StrawberryJamTAS/2_Intermediate/midnight_monsoon,lvl_3,spinner cycle
-#Spinner Cycle [lvl_3]
-   0
-#-----
-  43,R,X
-  15,U,C
-  13,D
-  18,R,D
-   1,R
-   1,R,D
-  26,R
-StunPause
-   8,R
-SkipInput,3,1
-  15,R,Z
-   3,R
-SkipInput,3,1
-   8,L,D,X
-   2,R,J
-EndStunPause
-  36,R,J
-   2,J
-   2,R,J,G
-   3,J
-   1,K
-   9,R,K
-   5,R
-   5,R,K
-   5,R
-   1,R,J,G
-   1,R,K,G
-   3
-   1,R
-   2
-   3,R
-   1,R,J
-   2
-   1,R,K,G
-   1,R,J,G
-  13,R
-   3,R,J
-   1,R
-  40
-
-#lvl_4
-Read,../StrawberryJamTAS/2_Intermediate/midnight_monsoon,lvl_4,lvl_5
+Read,../StrawberryJamTAS/2_Intermediate/midnight_monsoon,lvl_3,lvl_5
 
 #lvl_5 (0)
    7,R
@@ -579,4 +540,4 @@ Read,../StrawberryJamTAS/2_Intermediate/midnight_monsoon,lvl_6,lvl_outro
   16,R,J,G
   53,R
 
-ChapterTime: 2:05.511(7383)
+ChapterTime: 2:01.686(7158)

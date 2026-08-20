@@ -1,4 +1,4 @@
-RecordCount: 1436
+RecordCount: 1460
 
 console load StrawberryJam2021/1-Beginner/coffe
    1
@@ -121,7 +121,33 @@ Read,../StrawberryJamTAS/1_Beginner/loopy_lagoon,Start,lvl_c-08
   40
 
 #lvl_c-09
-Read,../StrawberryJamTAS/1_Beginner/loopy_lagoon,lvl_c-09,lvl_c-11
+Read,../StrawberryJamTAS/1_Beginner/loopy_lagoon,lvl_c-09,lvl_c-10
+
+#lvl_c-10
+  12
+  19,U,X
+  18,L,C
+  36,R
+  15,R,X
+  15,R,U,C
+  15,U,X
+  18,L,C
+  22,R
+   9,U,X
+  12,R,J
+  19,L,X
+#any%-end
+  12,R
+  20,R,D,X
+   3,R,J
+   2,R
+   6,R,D,X
+   1,R,J,G
+  13,R
+   1,R,J
+   1,R
+   7,R,U,X
+  40
 
 #lvl_c-11
    8,R,U
@@ -129,7 +155,6 @@ Read,../StrawberryJamTAS/1_Beginner/loopy_lagoon,lvl_c-09,lvl_c-11
   10,R,V
    1,R,J
    4,R
-#any%-end
   30,R,J
    1,G
    1,J,G
@@ -150,7 +175,7 @@ Read,../StrawberryJamTAS/1_Beginner/loopy_lagoon,lvl_c-09,lvl_c-11
   10,R
    9,J
    6
-   1,S
+   1,S,N
    1,D,J
   34
    7,D
@@ -281,8 +306,7 @@ Read,../StrawberryJamTAS/1_Beginner/loopy_lagoon,lvl_c-09,lvl_c-11
   16,L,X
   40,R,D
    3,R
-   1,D
-   1,D
+   2,D
    1
   14,R,U,X
    7,R,J
@@ -363,4 +387,4 @@ Read,../StrawberryJamTAS/1_Beginner/loopy_lagoon,lvl_c-09,lvl_c-11
 #lvl_c-15
 Read,../StrawberryJamTAS/1_Beginner/loopy_lagoon,lvl_c-15
 
-ChapterTime: 1:44.431(6143)
+ChapterTime: 1:43.547(6091)

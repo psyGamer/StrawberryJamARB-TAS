@@ -1,4 +1,4 @@
-RecordCount: 687
+RecordCount: 688
 
 console load StrawberryJam2021/1-Beginner/skeleton
    1
@@ -6,9 +6,8 @@ console load StrawberryJam2021/1-Beginner/skeleton
 #Start
   91
 
-#Spinner Cycle [skeleton-05]
-   0
-#-----
+#Spinner cycle [skeleton-05]
+   2
 
 #lvl_skeleton_00
 Read,../StrawberryJamTAS/1_Beginner/treehive,lvl_skeleton_00,lvl_skeleton_02
@@ -101,7 +100,6 @@ Read,../StrawberryJamTAS/1_Beginner/treehive,lvl_skeleton_00,lvl_skeleton_02
    6
    1,R,D
    4,D
-
    1,R,J
    5,R,U,Z
    4,L,K,G
@@ -276,4 +274,4 @@ Read,../StrawberryJamTAS/1_Beginner/treehive,lvl_skeleton_00,lvl_skeleton_02
 #lvl_skeleton_05
 Read,../StrawberryJamTAS/1_Beginner/treehive,lvl_skeleton_05
 
-ChapterTime: 1:17.435(4555)
+ChapterTime: 1:17.384(4552)

@@ -1,4 +1,4 @@
-RecordCount: 266
+RecordCount: 268
 
 console load StrawberryJam2021/2-Intermediate/pixelator
    1
@@ -7,10 +7,10 @@ console load StrawberryJam2021/2-Intermediate/pixelator
  190
 
 #Spinner cycle [lvl05]
-   0
+   1
 
 #lvl_lvl00
-Read,../StrawberryJamTAS/2_Intermediate/the_tower,spinner cycle (lvl05),lvl_lvl01
+Read,../StrawberryJamTAS/2_Intermediate/the_tower,lvl_lvl00,lvl_lvl01
 
 #lvl_lvl01
    8,L
@@ -77,8 +77,8 @@ Read,../StrawberryJamTAS/2_Intermediate/the_tower,spinner cycle (lvl05),lvl_lvl0
   12,U,X
   40
 
-#any%-start
 #lvl_lvl02
+#any%-start
    8,R
    8,L,J
   10,J
@@ -193,4 +193,4 @@ Read,../StrawberryJamTAS/2_Intermediate/the_tower,lvl_lvl03,lvl_lvl04
 #lvl_lvl05
 Read,../StrawberryJamTAS/2_Intermediate/the_tower,lvl_lvl05
 
-ChapterTime: 0:53.057(3121)
+ChapterTime: 0:53.006(3118)

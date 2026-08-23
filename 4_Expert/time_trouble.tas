@@ -1,4 +1,4 @@
-RecordCount: 1023
+RecordCount: 1045
 
 console load StrawberryJam2021/4-Expert/Moladan
    1
@@ -7,17 +7,16 @@ console load StrawberryJam2021/4-Expert/Moladan
 Read,../StrawberryJamTAS/4_Expert/time_trouble,Start,lvl_a-06
 
 #lvl_a-06
-   2,R,J
+   2,R,K
    5,R
-   4,R,J
+   4,R,K
    9,U,X
-   4,J
-   9,L,J
+   5,L,J
+   8,J
   18,U,X
   14,L,D,C
-  28,L,J
-   2,J
-   1,L,J
+  30,L,J
+   1,J
   14,R,D,X
   10,R,J
   15,R,D,X
@@ -61,26 +60,20 @@ Read,../StrawberryJamTAS/4_Expert/time_trouble,Start,lvl_a-06
    2,D
    3,L,D
    9,D
-#any%-start
   14,R,D,X
+#any%-start
    1,L,J
-   6,D,X
+   1,L
+   7,R,D,X
    1,R,J,G
-   6
+   8,R
+   2
    2,R
-   3
-
-#Adjust position to the left
-#   2,R
-   1
-   1,R
-#-----
-
-   8,R,Z
-   1,R,K
-  10,R,J
-   9,R
+   7,R,Z
    1,R,J
+  10,R,K
+   9,R
+   1,R,K
    3,R
   34,L,D
    3,R,D
@@ -89,8 +82,8 @@ Read,../StrawberryJamTAS/4_Expert/time_trouble,Start,lvl_a-06
   15,D,X
    2,R
 #any%-end
-#Spinner Cycle [a-06]
-   1
+#Lightning cycle [a-07 (1)]
+   2
 #-----
    6,R,Z
    1,R,J
@@ -213,15 +206,17 @@ Read,../StrawberryJamTAS/4_Expert/time_trouble,Start,lvl_a-06
    3
    1,L
   23,U,X
-  17,U,C
 #any%-start
-  10,R,J
-  12,R
-   2,R,J
-   8,R,D
-  22,D
-  16,R,D
-   3,D
+  15,U,C
+  12,R,J
+  25,R,D
+  21,D
+   7,R,D
+   1,D
+   1,R,D
+   1,D
+   5,R,D
+   1,D
   10,R,D,X
    6,R,J
    8,R
@@ -236,42 +231,30 @@ Read,../StrawberryJamTAS/4_Expert/time_trouble,Start,lvl_a-06
    1,L,D
   27,J,G
   15
-  10,K,G
-  23
+   4,K,G
+  19
   11,J,G
    1,R,J
    2,R
   18
   18,R,X
+   9
   15,U,C
    6,L
   15,U,X
    7,L
   18,J
   17,L,U,X
-  12,J,G
-   7,K,G
-  12,L,D,X
+  11,J,G
+  11,L,Z
    4,R,J
-
-#+11f: extra pause to sync stun properly, otherwise it won't work
-##
-#   15,R,D,X
-#    1,R
-#StunPause
-#    4,R
-#    9,R,J
-#EndStunPause
-#   18,R,J
-##
   15,R,D,X
+#+11f: extra pause to sync stun properly, otherwise it won't work
 StunPause
    5,R
-  10,R,J
+  11,R,J
 EndStunPause
-  17,R,J
-#-----
-
+  16,R,J
    9,R
    4,R,D
    2,R
@@ -296,14 +279,4 @@ EndStunPause
   27,R,U,X
  122,D
 
-
-
-
-ChapterTime: 1:27.839(5167)
-
-
-
-#ChapterTime: 1:28.672(5216)
-
-
-# 216-173
+ChapterTime: 1:27.465(5145)

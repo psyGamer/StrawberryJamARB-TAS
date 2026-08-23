@@ -1,4 +1,4 @@
-RecordCount: 4425
+RecordCount: 4449
 
 console load StrawberryJam2021/5-Grandmaster/Ecl1psed
    1
@@ -62,7 +62,7 @@ console load StrawberryJam2021/5-Grandmaster/Ecl1psed
 #-----
   40
 
-#lvl_a-01
+#lvl_a-01 (0)
    1
    6,D
    2,R,D
@@ -83,7 +83,7 @@ console load StrawberryJam2021/5-Grandmaster/Ecl1psed
    2,R
   40
 
-#lvl_a-02
+#lvl_a-02 (0)
    3,R
   15,R,U,X
    6,R
@@ -145,7 +145,6 @@ console load StrawberryJam2021/5-Grandmaster/Ecl1psed
 Read,../StrawberryJamTAS/5_Grandmaster/stellar_odyssey,Start,lvl_a-03 (0)
 
 #lvl_a-03
-#any%-end
    1,R,D,J
    7,R
    4
@@ -156,44 +155,61 @@ Read,../StrawberryJamTAS/5_Grandmaster/stellar_odyssey,Start,lvl_a-03 (0)
   10,R,D,C
   12,L,J
   14,U,X
-  14,R,J
-  26,R,D
-  22,G
-  12,R,X
-  25,R,J
-  15,U,X
-  21,L,J
-  15,L,X
-   4,L
-  15,D,X
-  23
-   1,R
-   1
-   1,R,K
-   2,K
-   1,R,K
-   1
-  12,R
-  16,L,Z
-   9,L,D,J
-  10,L
-   7,L,J
-  19,U,X
-  15,U,C
-  17,R,U,X
-  21,L
-   1
-  15,L,U,X
-   1
-   2,R
-   7,L,U,X
-  17,R
-  19,U,C
-   3,R
-  15,U,X
+  10,L,J
+   1,J
+   5,L,J
    1,L
-  10,G
-   2,J
+  14,R,U,X
+  16,L
+  11,L,Z
+   1,R,J
+   3,R
+  15,R,D,X
+  10,R
+  12,R,J
+   5,R
+   3,R,K
+   1,R
+   1,R,K
+   2,R
+  15,L,U,X
+  13,U,C
+  18,L,J
+   2,L
+  15,L,U,X
+  18,L
+  11,L,D,X
+   1,R,J
+   2
+   1,R,K,G
+  13,R,X
+   1,L,J
+   5
+   6,L
+  10,L,D,J
+  10,L
+   1,L,K
+   1,L
+   2,L,K
+   1,K
+   1,L,K
+  18,U,X
+  15,U,C
+   1,R
+  15,R,U,X
+   1,R
+  20,L
+  15,L,U,X
+   3,L
+   1,R
+   6,L,U,X
+  17,R
+  15,U,X
+   8,R
+  15,U,X
+  10
+   1,L,G
+   2,J,G
    5,L,D,X
    1,J
    8,R,K
@@ -213,10 +229,12 @@ Read,../StrawberryJamTAS/5_Grandmaster/stellar_odyssey,Start,lvl_a-03 (0)
    3,J
    4,R,J
    9,L,U,X
-   5,J
+   1,J
+   4,L,J
    5,L
    3,L,J
    3,L
+#any%-end
    3,L,J
    6,J
   14,U,X
@@ -232,7 +250,7 @@ Read,../StrawberryJamTAS/5_Grandmaster/stellar_odyssey,Start,lvl_a-03 (0)
    1,R,Z
   10,L,D,X
 #Spinner Cycle [a-03b]
-   0,L,D,X
+   1,L,D,X
 #-----
    4,R,J
 StunPause
@@ -241,7 +259,7 @@ StunPause
 SkipInput,3,1
   13,R,U,Z
 EndStunPause
-   2,R
+   2,R,U,Z
   12,L,K,G
   12,L,J,G
   12,L,K,G
@@ -358,7 +376,7 @@ EndStunPause
 
 #lvl_a-04b (0)
    4,L
-   1,S
+   1,S,N
    1,D,J
   34
    4,L
@@ -513,7 +531,7 @@ EndStunPause
 
 #lvl_a-04 (1)
    1,D
-   1,S
+   1,S,N
    1,D,J
   69,O
 #Spinner Cycle [a-04 (1)]
@@ -753,7 +771,7 @@ EndStunPause
 
 #lvl_a-06
    4,R,D,X
-   1,S
+   1,S,N
    1,D,J
   34
    3,R,D,J
@@ -941,7 +959,7 @@ EndStunPause
    1,R,J
    7,R
   18,R
-   1,S
+   1,S,N
    1,D,J
   72,O
 #Spinner Cycle [a-07]
@@ -974,20 +992,9 @@ EndStunPause
    1,R
    6,R,Z
 #any%-start
-
-
-
-
-
-
-
-
-
-
    1,R,J
    2,J
    3
-
 #6f bhop manip
 ##
 #    1,K
@@ -998,7 +1005,6 @@ EndStunPause
    2,K
    5,R
 #-----
-
   14,L,Z
    1,R,J
    6,R
@@ -1084,7 +1090,7 @@ EndStunPause
    7,R,G
    1,R
   15,L,X
-  53
+  52
    1,S,N
    1,D,J
   72,O
@@ -1092,4 +1098,4 @@ EndStunPause
   16,U,X
  135
 
-FileTime: 2:17.768(8104)
+FileTime: 2:17.649(8097)

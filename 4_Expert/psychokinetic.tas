@@ -1,4 +1,4 @@
-RecordCount: 2061
+RecordCount: 2063
 
 console load StrawberryJam2021/4-Expert/Cabob
    1
@@ -257,7 +257,7 @@ Read,../StrawberryJamTAS/4_Expert/psychokinetic,lvl_a-03,lvl_a-07
    3,R,J,G
    7,R
 #Spinner cycle [a-08x]
-   2
+   0
 #-----
   14,R,D,X
    6,R,J
@@ -483,4 +483,4 @@ Repeat,13
    1,J
 EndRepeat
 
-ChapterTime: 1:11.145(4185)
+ChapterTime: 1:11.060(4180)

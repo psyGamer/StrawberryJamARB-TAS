@@ -1,31 +1,34 @@
-RecordCount: 2048
+RecordCount: 2232
 
 console load StrawberryJam2021/1-Beginner/Bing_Over_Google
    1
 
 #Start
-#lvl_00- intro
-#Spinner Cycle [03- Uberjump]
-   2
-###
-   5,L,Z
-   3,L,J
-   5,L,K,G
-   9,L
-   1,L,J
-  14,L,D,X
-   1,L,J
+#Spinner cycle [03- Uberjump]
+   0
+
+#lvl_00- intro (0)
+   6,L,Z
+   2,L,J
+   2,L,K,G
    7,L
    1,L,J
-  14,L,D,X
+   3,L
    1,L,J
+   1,L,K,G
+   9,L
+   5,L,J
+   4,L
+  15,L,D,X
+   1,L,J
+   6,L,D,X
   40
 
-#lvl_01- Crusher
-  13,L,D,X
-   1,L,J
-   8
-  14,R,Z
+#lvl_01- Crusher (0)
+   9,L,D,X
+   3,L
+   4,L,J
+  14,R,D,X
    1,L,J
    1,J
    5,R
@@ -125,7 +128,7 @@ console load StrawberryJam2021/1-Beginner/Bing_Over_Google
    7,L,D,X
   40
 
-#lvl_03- Uberjump
+#lvl_03- Uberjump (0)
    2,L,D
    1,L,D,J
    3,J
@@ -139,136 +142,166 @@ EndStunPause
   10,L,D,X
   40
 
-#lvl_04- Head Trauma
-   3,L,D,X
+#lvl_04- Head Trauma (0)
+   5,L,D,X
    1,L,J
-   4,L
-   1,L,J
-   1,J
-  20,D
-  15,R,X
-  17,R,D
-#Spinner cycle
-   1,D
-###
-  15,R,Z
-   1,L,J
-   2
-   3,L
-   1,L,K
-   1,L
-   3,L,J
-   2,L
-  15,L,U,X
-  15,L,U,C
-   4,L,J,G
-  21,L
-  14,R,D,X
-   1,L,J
-   6,L,D,X
-   1,L,J,G
-   1,L,K,G
-   1,L,J,G
-   6,L
-   1,L,J
-   2,L
-  28,L,J
-  40
-
-#lvl_05- Boing
   12,L
-   2,L,D
-StunPause
-   1,L,D
-SkipInput,3,1
-   8,L,U,Z
-SkipInput,3
-   6,L,U,Z
-EndStunPause
-   4,L,U,Z
-  15,L,D,X
-  13,L,D
-  14,L,Z
-   1,L,J
-   4,L
-  11,L,U,X
-   1,L,J,G
-   5,L
-  40
+   7
+   4,D
+  15,R,D,X
+   6,R,D
+## +37f
+#   16,R,Z
+#Spinner cycle [05- Boing] (2/3 stun)
+#    1,R,Z
+#
+#    1,L,J
+#    6,L
+#    3,L,J
+#    2,L
+#   15,L,U,X
+#   15,L,U,C
+#    1,L,J,G
+#    1,L
+#    2,L,K,G
+#   21,L
+#   14,R,D,X
+#    1,L,J
+#    6,L,D,X
+#    1,L,J,G
+#    1,L,K,G
+#    1,L,J,G
+#    6,L
+#    1,L,J
+#    2,L
+#   28,L,J
+#   40
 
-#lvl_06- Bubbles
-   3,L
-   4
-   1,L,J
-  11,L,D,X
-   1,L,J
-   7,L
-  18,L,J
-  13,L,D,X
-  15,U,C
-  15,L,X
-  26,L,D
-   2,L
-   1
-  11,R,Z
-   1,L,J
-   1,L,K,G
-  10,L,J,G
-   9,L
-  10,L,Z
-  15,L,U,X
-  34,L
-   1,L,D
-   1,L
-   1,L,D
-   1,L
-   1,L,D
-   1,L
-   1,L,D
-   1,L
-   5,L,D
-  14,L,Z
-   1,L,J
-   6,L
-   1,L,J
-   8,L,D,X
-  40
+#   12,L
+#    2,L,D
+#StunPause
+#    1,L,D
+#SkipInput,3,1
+#    8,L,U,Z
+#SkipInput,3
+#    6,L,U,Z
+#EndStunPause
+#    4,L,U,Z
+#   15,L,D,X
+#   13,L,D
+#   14,L,Z
+#    1,L,J
+#    4,L
+#   11,L,U,X
+#    1,L,J,G
+#    5,L
+#   40
+
+#    3,L
+#    4
+#    1,L,J
+#   11,L,D,X
+#    1,L,J
+#    7,L
+#   18,L,J
+#   13,L,D,X
+#   15,U,C
+#   15,L,X
+#   26,L,D
+#    2,L
+#    1
+#   11,R,Z
+#    1,L,J
+#    1,L,K,G
+#   10,L,J,G
+#    9,L
+#   10,L,Z
+#   15,L,U,X
+#   34,L
+#    1,L,D
+#    1,L
+#    1,L,D
+#    1,L
+#    1,L,D
+#    1,L
+#    1,L,D
+#    1,L
+#    5,L,D
+#   14,L,Z
+#    1,L,J
+#    6,L
+#    1,L,J
+#    8,L,D,X
+#   40
+
+#    1,L,J
+#    7,L
+#    1,L,J
+#   10,L,U,X
+#   15,L,C
+#    2,L
+#    9,U,X
+#    2,L,J
+#   18,L
+#   12,D
+#   25,L,D
+#   11,L,Z
+#   15,U,X
+#   15,L,C
+#   24,L
+#    9,R
+#   10,L,X
+#    3,L,J
+#   10,L
+#   14,R
+#    7,L,D
+#   10,L,X
+#   15,L,U,C
+#    1,R
+#   15,U,X
+#    5,L,G
+#    3,L,J,G
+#    6,L,K,G
+#    1,R,K,G
+#    1,J,G
+#   10,R,J
+#    3,L,J
+#    7,R,K
+#    1,L,J
+#   40
+##
+   4,Z
+   1,R,J
+  31,R
+   1,Q
+   1,J
+  31
+
+#lvl_00- intro (1)
+#any%-start
+Read,../StrawberryJamTAS/1_Beginner/if_my_driveway,Start,lvl_07- Falling Cannon
 
 #lvl_07- Falling Cannon (0)
+   2,L,J
+#any%-end
+   2,J
+   6,L,J
+StunPause
    1,L,J
+   3,L
+EndStunPause
+   2,L
+   1,K
+  15,L,U,X
+   9
+   1,R
+   2,L,J,G
+   1,R,J
+   2
    7,L
    1,L,J
-  10,L,U,X
-  15,L,C
-   2,L
-   9,U,X
-   2,L,J
-  18,L
-  12,D
-  25,L,D
-  11,L,Z
-  15,U,X
-  15,L,C
-  24,L
-   9,R
-  10,L,X
-   3,L,J
-  10,L
-  14,R
-   7,L,D
-  10,L,X
-  15,L,U,C
-   1,R
-  15,U,X
-   5,L,G
-   3,L,J,G
-   6,L,K,G
-   1,R,K,G
-   1,J,G
-  10,R,J
-   3,L,J
-   7,R,K
-   1,L,J
+  15,U,Z
+   1,J
   40
 
 #lvl_07B- OwO whats this??
@@ -315,8 +348,7 @@ EndStunPause
   40
 
 #lvl_07- Falling Cannon (1)
-   8,L,D,X
-  21,L,D
+  29,L,D
    7,L,Z
    1,L,J
    4,L
@@ -419,6 +451,30 @@ EndStunPause
   40
 
 #lvl_09- Fin
-Read,../StrawberryJamTAS/1_Beginner/if_my_driveway,lvl_09- Fin
+  11,L
+#any%-start
+   6,L,Z
+   2,L,J
+   5,L,K,G
+   5,L,J,G
+   6,L
+   2,L,K
+   2,L
+  12,L,J
+   5,L
+   6,L,K
+  15,U,X
+   5,J,G
+   7,L
+   1,L,J
+  32,L,X
+   3
+   3,L,D
+   8
+   1,L
+   3
+   1,G
+   1,L,J,G
+  91,L
 
-ChapterTime: 0:50.796(2988)
+FileTime: 0:49.895(2935)

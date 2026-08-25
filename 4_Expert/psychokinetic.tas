@@ -1,19 +1,12 @@
-RecordCount: 2063
+RecordCount: 3389
 
 console load StrawberryJam2021/4-Expert/Cabob
    1
 
 #Start
- 190
+Read,../StrawberryJamTAS/4_Expert/psychokinetic,Start,lvl_a-02
 
-#Spinner Cycle
-   0
-#-----
-
-#lvl_a-start
-Read,../StrawberryJamTAS/4_Expert/psychokinetic,lvl_a-start,lvl_a-02
-
-#lvl_a-02 (0)
+#lvl_a-02
    9,R,U,X
    4,L,J
   15,R,D,X
@@ -46,54 +39,54 @@ Read,../StrawberryJamTAS/4_Expert/psychokinetic,lvl_a-start,lvl_a-02
    1
    1,L
    1
-#any%-end
-   9,R,Z
-  12,R,J
-   2,R
-   1,R,K
-  12,R
-  10,R,D
-   3
-   4,R,Z
+   7,R,Z
    1,R,J
-   1,R,K
-   1,R,J
-   5,R
-   1,R,J
+  15,R
+   7,R,D
    1,R
+#any%-end
+   4,Z
+   2,R,J
+   5,R
+   1,R,K
+   7,R
+   4,Z
    1,R,J
-   1,J
+   1,R,K
+   1,R,J
+   8,R
   40
 
 #lvl_a-03 (0)
-   1,R
-   1,R,K
-   1,R
-  18,R,D,J
-   1,L,K,G
-  10,R,K
+   3,R,K
+  12,R,D,J
    5,R
-   4,R,J
-  17,U,X
-   2,L,J
+   1,L,K,G
+  11,R,K
+   5,R
+  15,U,X
+   3,R
+   1,L,J
    7,L,K,G
-   7,L
-   6,L,J
-   4,L
+   6,L
+   1,L,K
+   1,L
+   3,L,K
+   5,L
    4,Z
-   5,L,J
-   1,J
-  25,R
-  28,R,D
-  12,L,D
+   3,L,J
+  16,L
+   4,L
+   9,R
+  14,R,D
+   1,R
+  16,R,D
+   6,D
   40
 
 #lvl_a-03x
-   3,L,D
-  12,D
-  12,L,D
-   4,D
-   1,L,D
+   9,D
+  23,L,D
   10,L,D,X
    1,R,J
    1,R,K
@@ -134,48 +127,123 @@ Read,../StrawberryJamTAS/4_Expert/psychokinetic,lvl_a-start,lvl_a-02
   28,R
   14,R,U,X
   96
+#Spinner cycle [a-06] (2/3 stun)
+   0
+#
+  12,J
+  15,U,X
+   2,L
+  11,L,J
    4,R,J
-   7,J
-  15,U,X
-   3
-  16,J
-  15,U,X
+   1,K
+   4,R,K
+  13,U,X
   40
 
 #lvl_a-03 (1)
-#Go left for easier any% resync, may not be needed
-   9,R,J
-   1,K
-   1,J
-   5,L,J
-   1,L,K,G
-  12,L,J,G
-   2,L,K,G
-   5,L,Z
-   1,L,J
-   6,L
+   6,J
+   3,R,J
+   6,L,J
+   1,L
+  12,L,K,G
+  11,L,Z
+   4,R,J
+  15,R,D,X
+   2,R,D,J
+   5,R,D,X
+   5,R,J,G
+   6,R,K,G
+   5,R
+   1,R,K
+   6,R
+   7
+  20,R,U,X
+   5,R
+  13,R,X
+   4,R,J
+   9,R,K
+   6,R
+  22,R,X
+   4,R,J
+  12,R,Z
+   4,R,J
+   7,R,K
+   7,R
+  19,R,Z
+   4,R,J
+  11,R,K
+  15,R,D,X
+   1,R,D,J
+   5,R
   40
 
-#lvl_a-02 (1)
-   1,L,J
-   2,L
-#any%-start
-  11,L,D,X
-#Spinner Cycle [a-06]
-   1,L,D,X
-#-----
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   2,R
+#lvl_a-04
+   1,R
    1
+  19,R,U,X
+   4,R,J
+   1,R,K
+  15,R,D,X
+   3,R
   40
 
-#lvl_a-03 (2)
-Read,../StrawberryJamTAS/4_Expert/psychokinetic,lvl_a-03,lvl_a-07
+#lvl_a-05
+   6,R
+  15,R,D,X
+  10,R
+   1,R,J
+  10,R
+## can almost cut the stun here
+#Set Player.Position.Y -17.25
+#   14,R,U,X
+#    3,R,J,G
+#   40
+
+#    1,R,J
+#    2,J
+#Invoke Player.MoveV -0.3
+#   14,R,D,X
+#    4,R
+#    5,R,D
+##
+  14,R,U,Z
+   3,R,J,G
+  40
+
+#lvl_a-06
+   2,R,J
+StunPause
+   1,R,J
+EndStunPause
+  14,R,D,X
+   1,R
+   8,R,D
+   6,R,U,Z
+   1,L,J,G
+  17,R,J
+   2,K,G
+   1,L,K
+   1,R,J,G
+   1,R,K,G
+   2,K
+   1,R,J,G
+   4,R
+   1
+   2,R
+#any%-start
+   5,R,Z
+   1,R,J
+   9,R
+   1,R,J
+   4,R,K,G
+  15,R,D,X
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   2,R,J
+   5,R
+  40
 
 #lvl_a-07
    1,R,K
@@ -191,8 +259,7 @@ Read,../StrawberryJamTAS/4_Expert/psychokinetic,lvl_a-03,lvl_a-07
    1,R,J
   14,R,U,X
    8,R,J
-  10,R,K
-   1,K
+  11,R,K
   26,R,U,X
    4
    5,L,J
@@ -203,17 +270,14 @@ Read,../StrawberryJamTAS/4_Expert/psychokinetic,lvl_a-03,lvl_a-07
    4,R,J
    1,R,K
   17,L,U,X
-#any%-end
-#very very similar to any% for the rest of a-07, but some speed/position manip was needed to sync with a-08 properly.
    4,R,J
    3,L,J
    1,R,K
   11,L,D,X
    4,L,J
-   4,R,J
-   1,L,K
-   1,R,K
-   1,L,K
+   2,R,J
+   2,J
+   3,L,K
   18
   18,D
    6
@@ -224,79 +288,73 @@ Read,../StrawberryJamTAS/4_Expert/psychokinetic,lvl_a-03,lvl_a-07
   40
 
 #lvl_a-08 (0)
-  10
+   5
+   1,K
+   4
    5,D
-   6,L,J
-   2,R,J
-  19,R,U,X
+   3,L,J
+   6,R,J
+  18,R,U,X
    4,R,J
    4,R,K
    4,R
   18,R,D,X
-#this is where the route actually fully diverges from any%
+#any%-end
    4,R,D
    1,R,J
-  16,R,U,Z
+  15,R,U,Z
    4,R,J
-   7,R
-   1,R,K
+   5,R
+   3,R,K
   14,R
   37,U,X
   40
 
 #lvl_a-08x
-  11,R
-  10,L,Z
-   5,R,J
-  15,R,D,X
-   1,R,D,J
-   9,R,U,X
-   9,R,K,G
-   5,R,J,G
-   4,R,K,G
-   3,R,J,G
-   7,R
-#Spinner cycle [a-08x]
-   0
-#-----
-  14,R,D,X
-   6,R,J
-  15,R,K
-   5,R,J
-  14,R,X
-  10,R,K,G
-  17,R,D,X
-   4,R,K
-   1,R,J
-  12,R,U,X
-   4,R,K
-  13,R,J
-  11,R,X
-   4,R,K
-   2,R,J
-   4,R,K
-  19,R,U,X
-   4,R,K
-   8,R,J
-StunPause
-   2,R,J
-EndStunPause
-  11,R,J
-  29,R,K
-   8,R,D
-  15,R,U,X
-  15,R
-   5,R,Z
-   1,R,J
+   3
    8,R
-   1,R,J
-  15,R,D,X
-  10,F,179.99
-  96
   10,L,Z
+   5,R,J
+  15,R,D,X
+   2,R,D,J
+   2,R,K,G
+   2
+   1,R,J,G
+   4,J
+   1,R,J
+  14,R,U,X
+   6,R,J,G
+   7,R
+   3,R,J
+   4,R
+  14,R,X
+   5,R,J,G
+  18,R,X
+   4,R,J
+   1,R,K
+  19,R,U,X
+   4,R,J
+   1,R,K
+  16,R,U,X
+   4,R,J
+  12,R,K
+   5,R
+  10,R,K
+   1,R
+  15,R,D,X
+   8,R,D
+   8,D
+  15,D,X
+  14,R,D,C
+   1,R,J
+   2,R,U
+  77
+   4,Z
    1,L,J
-  21,L,D
-  44,D,X
+   3,L,D
+  10,L
+  12,L,D
+  38,D,X
   40
 
 #lvl_a-08 (1)
@@ -478,9 +536,6 @@ EndStunPause
    1,R,K,G
   13,R,J,G
    5,J
-Repeat,13
-   1,K
-   1,J
-EndRepeat
+  26
 
-ChapterTime: 1:11.060(4180)
+ChapterTime: 1:07.932(3996)

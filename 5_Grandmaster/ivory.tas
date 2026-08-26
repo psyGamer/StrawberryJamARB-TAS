@@ -1,4 +1,4 @@
-RecordCount: 1288
+RecordCount: 2106
 
 console load StrawberryJam2021/5-Grandmaster/Linj
    1
@@ -7,65 +7,61 @@ console load StrawberryJam2021/5-Grandmaster/Linj
 Read,../StrawberryJamTAS/5_Grandmaster/ivory,Start,lvl_Conspiracy
 
 #lvl_Conspiracy
-  48
-  10,R,X
-   1,J
-   4
-  14,R,D,X
+   6
+  42
+  14,R,Z
    1,L,J
-   6,L,D,X
-  13,L,G
-   1,L,D,J
-  15,L,D,X
-   5,R,C
-   8,R,J
-   3,R,K
-  15,R,D,X
-  11,R,D,C
-  13,R,X
-   6,R,J
-  15,R,D,X
-   1,R,D
-   5,R,D,X
-#max speed 1648.7
-   6,R,D,X
-   6,L,C
-   8,L,J
-   5,L,K
-   4,L,J,G
-  11,L,X
-   4,L,J
-   4,J
-   5,L,X
-  13,L,G
-   1,L
-   1
-   2,L
-   6,L,X
-   4,L,J
-   5,L,K
-   1,R,K
-  13,R,X
+  12,L,D,X
+   8,R,C
    4,R,J
-   1,R,K
-  12,R,U,X
-   4,R,J,G
-   5,R
-   2,R,J
-   2,R
-   2,R,J
+   4,R,K
+   2,K
   15,R,D,X
-  26,R
-   2,J
+   1,R,J
+  11,R,D,X
+   8,L,C
+   8,L,J
+   3,L,K
+   1,L,J,G
+  11,L,D,X
+   9,L,C
+   4,L,J
+   1,L
+   2,L,K
+   1,L
+  15,L,U,X
+   7,R
+   1,R,J
+   5,R,D,X
+   2,R,J,G
+   5,R
+   1,S,N
+  10,J
+   1,R,J
+   4,R
+  10,R,D,X
+   2,R,J,G
+   5,R
+   2,R,K
+   3,R
+   5,R,J
+  15,R,D,X
+#any%-end
+   2
+  19,R
+   8
+   1,R,J
   40
 
 #lvl_Hawthorne
-   3,J
-   1
+   2,R
+   3
   15,R,D,X
-   3,R,D
-  15,L,D
-  38,R,D
+   8,R,D
+   2,L,D
+  17,L,D,X
+   2,D
+  37,R,D
   40
 
 #lvl_Ascent (0)
@@ -75,128 +71,58 @@ Read,../StrawberryJamTAS/5_Grandmaster/ivory,Start,lvl_Conspiracy
 #lvl_Chordless
    2,R,U,X
    1,R,J,G
-   1,R,K
-   4,K
-  21,R,K
-   1,R
-   1
-   5,R
-   4,R,J,G
-   9,R,K,G
-
-   2,R,K
-   4,J,G
-   7
-   1,G
-   4,R,J,G
-   1,R
+   5,R,K
+  12,R,J
+  15
+   6,L,J
+  15,D,X
+   4,Z
+   1,L,J
+   5,L
   77
    2,L,J
-   8,L,Z
-   1,L,J
-   1,L
+   1,L,K,G
+   4,L,J,G
+   3,L
+   4,R,Z
 
 #lvl_Ascent (1)
-   5,L
-  14,L,D,X
+   1,R,Z
    1,L,J
-  14,L,U,X
-   9,R
-  15,R,X
-   5,R,C
-   9,R,U,X
-   4,R
+   7,L
+   2,J
+  10,L,U,X
+  10
+   1,R
+  10,R,X
+   4,R,U,C
+  10,R,U,X
+   1,R
    1,R,J
-  13,R,X
-   5,R,C
-   9,R,U,X
-   2,R
+  14,R,X
+   6,R,C
+   8,R,U,X
+   1,R,J
+   2,J
+  10,R,X
+   7,R,C
+   4,J
   15,R,D,X
    5,R,C
-   6,R,X
-   4,R,J
-  17,R,D,X
-   6,R,D,C
-   7,R,X
-   4,R,J
-  24,R,K
-  15,R,D,X
-   4,R,D
+   8,R,X
+   4,L,J
    4
-   5,R
+   1,L,K
+  41
+  57,D
+#any%-start
+   5
+   1,D
    1
-  15,R
-   3
-  22,D
+   1,D
   40
 
 #lvl_Ultimatum
-   7,D
-  96,R,D
-  40
+Read,../StrawberryJamTAS/5_Grandmaster/ivory,lvl_Ultimatum
 
-#lvl_Weaver
-  10,R,D
-   7,R
-  11,R,D,X
-   8,R,J
-   1,R
-   4
-   5,J
-  12
-   2,R,J
-  15,L,D,X
-#max speed -4884.9
-# *currently a bit higher, but compensated with slowdown later
-   3,L,D,X
-   5,R,C
-   4,R,J
-   5,J
-   1,R,J
-   1,R,K
-  15,R,U,X
-   2,L
-  15,L,U,X
-   1,R
-   1,R,J
-  20,R
-   1
-   9,R,U,Z
-  40
-
-#lvl_Whale Stitcher
-   4,R,U,Z
-   2,R,J,G
-  15,R,D,X
-   7,R,D
-   2,R
-  40
-
-#lvl_Afterthought
-   3,R
-  12,R,U,Z
-   4,R,J
-   8,R,K
-   3,R
-   1,R,K
-  25,R
-   8
-  14,R,Z
-   4,R,J
-  40
-
-#lvl_Parasol
-   1,R
-  11,R,U,X
-   1,R,J,G
-   1,R
-   1,R,J,G
-   8,R
-   4,Z
-   1,R,J
-   7,R
-   3,R,J
-   9,U,X
- 135
-
-ChapterTime: 0:32.793(1929)
+ChapterTime: 0:30.022(1766)
